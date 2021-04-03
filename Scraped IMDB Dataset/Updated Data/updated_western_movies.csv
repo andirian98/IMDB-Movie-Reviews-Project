@@ -1,0 +1,44 @@
+title,year,certificate,duration,genre,rating,metascore,director,actor1,actor2,actor3,actor4,votes,gross
+    Django Unchained  ,2012,R,165," Drama, Western            ",8.4,81,    Quentin Tarantino  ,      Jamie Foxx,   Christoph Waltz,   Leonardo DiCaprio,   Kerry Washington  ,1370463,162810000
+    The Revenant  ,2015,R,156," Action, Adventure, Drama            ",8.0,76,    Alejandro G. Irritu  ,      Leonardo DiCaprio,   Tom Hardy,   Will Poulter,   Domhnall Gleeson  ,712248,183640000
+    The Hateful Eight  ,2015,R,168," Crime, Drama, Mystery            ",7.8,68,    Quentin Tarantino  ,      Samuel L. Jackson,   Kurt Russell,   Jennifer Jason Leigh,   Walton Goggins  ,522776,54120000
+    3:10 to Yuma  ,2007,R,122," Action, Crime, Drama            ",7.7,76,    James Mangold  ,      Russell Crowe,   Christian Bale,   Ben Foster,   Logan Lerman  ,290627,53610000
+    Hell or High Water  ,2016,R,102," Action, Crime, Drama            ",7.6,88,    David Mackenzie  ,      Chris Pine,   Ben Foster,   Jeff Bridges,   Gil Birmingham  ,205924,26860000
+    True Grit  ,2010,PG-13,110," Drama, Western            ",7.6,80,    Ethan Coen   ,       Jeff Bridges,   Matt Damon,   Hailee Steinfeld,   Josh Brolin    ,313969,171240000
+    The Assassination of Jesse James  y the Coward Ro ert Ford  ,2007,R,160," Biography, Crime, Drama            ",7.5,68,    Andrew Dominik  ,      Brad Pitt,   Casey Affleck,   Sam Shepard,   Mary-Louise Parker  ,170370,3900000
+    Yahsi Bati - The Ottoman Cow oys  ,2009,0,112," Adventure, Comedy, Fantasy            ",7.4,0,    mer Faruk Sorak  ,      Cem Yilmaz,   Ozan Gven,   Demet Evgar,   Zafer Algz  ,32406,0
+    The Three Burials of Melquiades Estrada  ,2005,R,121," Adventure, Crime, Drama            ",7.4,77,    Tommy Lee Jones  ,      Tommy Lee Jones,   Barry Pepper,   Dwight Yoakam,   January Jones  ,38986,5020000
+    Open Range  ,2003,R,139," Action, Drama, Romance            ",7.4,67,    Kevin Costner  ,      Kevin Costner,   Ro ert Duvall,   Diego Luna,   A raham Benru i  ,67126,58330000
+    The Ballad of Buster Scruggs  ,2018,R,133," Comedy, Drama, Musical            ",7.3,79,    Ethan Coen   ,       Tim Blake Nelson,   Willie Watson,   Clancy Brown,   Danny McCarthy    ,124690,0
+    The Good the Bad the Weird  ,2008,R,130," Action, Adventure, Comedy            ",7.3,69,    Jee-woon Kim  ,      Kang-ho Song,   Lee Byung-Hun,   Jung Woo-sung,   Je-mun Yun  ,33585,130000
+    The Proposition  ,2005,R,104," Crime, Drama, Western            ",7.3,73,    John Hillcoat  ,      Ray Winstone,   Guy Pearce,   Emily Watson,   Richard Wilson  ,50470,1900000
+    Hostiles  ,2017,R,134," Drama, Western            ",7.2,65,    Scott Cooper  ,      Scott Shepherd,   Rosamund Pike,   Ava Cooper,   Stella Cooper  ,72909,29820000
+    Rango  ,2011,PG,107," Animation, Adventure, Comedy            ",7.2,75,    Gore Ver inski  ,      Johnny Depp,   Isla Fisher,   Timothy Olyphant,   A igail Breslin  ,238846,123480000
+    Spirit: Stallion of the Cimarron  ,2002,G,83," Animation, Adventure, Drama            ",7.2,0,    Kelly As ury   ,       Matt Damon,   James Cromwell,   Daniel Studi,   Chopper Bernet    ,66246,73280000
+    Bone Tomahawk  ,2015,Not Rated,132," Drama, Horror, Western            ",7.1,72,    S. Craig Zahler  ,      Kurt Russell,   Patrick Wilson,   Matthew Fox,   Richard Jenkins  ,87758,0
+    Brimstone  ,2016,R,148," Drama, Mystery, Thriller            ",7.1,0,    Martin Koolhoven  ,      Guy Pearce,   Dakota Fanning,   Emilia Jones,   Carice van Houten  ,36950,0
+    The Sisters Brothers  ,2018,R,122," Crime, Drama, Western            ",7.0,78,    Jacques Audiard  ,      John C. Reilly,   Joaquin Phoenix,   Jake Gyllenhaal,   Riz Ahmed  ,55329,3140000
+    Bu  a Ho-Tep  ,2002,R,92," Comedy, Fantasy, Horror            ",7.0,0,    Don Coscarelli  ,      Bruce Camp ell,   Ossie Davis,   Bo  Ivy,   Ella Joyce  ,45892,2000000
+    Slow West  ,2015,R,84," Action, Adventure, Drama            ",6.9,72,    John Maclean  ,      Kodi Smit-McPhee,   Caren Pistorius,   Aorere Paki,   Jeffrey Thomas  ,43034,230000
+    The Magnificent Seven  ,2016,PG-13,132," Action, Adventure, Western            ",6.9,0,    Antoine Fuqua  ,         Denzel Washington,     Chris Pratt,     Ethan Hawke,  Vincent D    Onofrio ,186427,93430000
+    Free State of Jones  ,2016,R,139," Action, Biography, Drama            ",6.9,0,    Gary Ross  ,      Matthew McConaughey,   Gugu M atha-Raw,   Mahershala Ali,   Keri Russell  ,53176,20760000
+    News of the World  ,2020,PG-13,118," Action, Adventure, Drama            ",6.8,73,    Paul Greengrass  ,      Tom Hanks,   Helena Zengel,   Tom Astor,   Travis Johnson  ,46870,0
+    The Salvation  ,2014,R,92," Action, Drama, Thriller            ",6.7,64,    Kristian Levring  ,      Mads Mikkelsen,   Eva Green,   Jeffrey Dean Morgan,   Eric Cantona  ,36442,10000
+    Appaloosa  ,2008,R,115," Action, Crime, Drama            ",6.7,64,    Ed Harris  ,      Ed Harris,   Viggo Mortensen,   Rene Zellweger,   Jeremy Irons  ,58573,20210000
+    Seraphim Falls  ,2006,R,115," Action, Drama, Thriller            ",6.7,62,    David Von Ancken  ,      Pierce Brosnan,   Liam Neeson,   Anjelica Huston,   Michael Wincott  ,29840,420000
+    Hidalgo  ,2004,PG-13,136," Action, Adventure, Biography            ",6.7,0,    Joe Johnston  ,      Viggo Mortensen,   Omar Sharif,   Zuleikha Ro inson,   Louise Lom ard  ,77581,67290000
+    The Homesman  ,2014,R,122," Drama, Western            ",6.6,68,    Tommy Lee Jones  ,      Tommy Lee Jones,   Hilary Swank,   Grace Gummer,   Miranda Otto  ,30913,2430000
+    Australia  ,2008,PG-13,165," Adventure, Comedy, Drama            ",6.6,0,    Baz Luhrmann  ,      Nicole Kidman,   Hugh Jackman,   Shea Adams,   Eddie Baroo  ,119631,49550000
+    Shanghai Noon  ,2000,PG-13,110," Action, Adventure, Comedy            ",6.6,77,    Tom Dey  ,      Jackie Chan,   Owen Wilson,   Lucy Liu,   Brandon Merrill  ,119874,56940000
+    The Missing  ,2003,R,137," Adventure, Thriller, Western            ",6.5,0,    Ron Howard  ,      Tommy Lee Jones,   Cate Blanchett,   Evan Rachel Wood,   Jenna Boyd  ,33432,26900000
+    Ned Kelly  ,2003,R,110," Action, Adventure, Biography            ",6.5,0,    Gregor Jordan  ,      Heath Ledger,   Orlando Bloom,   Geoffrey Rush,   Naomi Watts  ,26000,70000
+    The Lone Ranger  ,2013,PG-13,150," Action, Adventure, Western            ",6.4,0,    Gore Ver inski  ,      Johnny Depp,   Armie Hammer,   William Fichtner,   Tom Wilkinson  ,222547,89300000
+    The Warrior' s Way  ,2010,R,100," Action, Fantasy, Western            ",6.3,0,    Sngmoo Lee  ,      Jang Dong-Gun,   Kate Bosworth,   Geoffrey Rush,   Danny Huston  ,25399,5660000
+    A Million Ways to Die in the West  ,2014,R,116," Comedy, Western            ",6.1,0,    Seth MacFarlane  ,      Seth MacFarlane,   Charlize Theron,   Liam Neeson,   Amanda Seyfried  ,178205,43140000
+    Cow oys & Aliens  ,2011,PG-13,119," Action, Sci-Fi, Thriller            ",6.0,0,    Jon Favreau  ,      Daniel Craig,   Harrison Ford,   Olivia Wilde,   A igail Spencer  ,208553,100240000
+    The Legend of Zorro  ,2005,PG,129," Action, Adventure, Romance            ",6.0,0,    Martin Camp ell  ,      Antonio Banderas,   Catherine Zeta-Jones,   Rufus Sewell,   Al erto Reyes  ,93653,46460000
+    Around the World in 80 Days  ,2004,PG,120," Action, Adventure, Comedy            ",5.9,0,    Frank Coraci  ,      Jackie Chan,   Steve Coogan,   Jim Broad ent,   Kathy Bates  ,85537,24010000
+    Bandidas  ,2006,PG-13,93," Action, Comedy, Crime            ",5.7,0,    Joachim Rnning   ,       Penlope Cruz,   Salma Hayek,   Steve Zahn,   Dwight Yoakam    ,34244,0
+    The Dark Tower  ,2017,PG-13,95," Action, Adventure, Fantasy            ",5.6,0,    Nikolaj Arcel  ,      Idris El a,   Matthew McConaughey,   Tom Taylor,   Dennis Hays ert  ,129149,50700000
+    The Ridiculous 6  ,2015,TV-14,119," Action, Adventure, Comedy            ",4.8,0,    Frank Coraci  ,      Adam Sandler,   Terry Crews,   Jorge Garcia,   Taylor Lautner  ,44876,0
+    Jonah Hex  ,2010,PG-13,81," Action, Drama, Fantasy            ",4.7,0,    Jimmy Hayward  ,      Josh Brolin,   Megan Fox,   John Malkovich,   Michael Fass ender  ,55662,10540000

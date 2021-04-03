@@ -1,0 +1,71 @@
+title,year,certificate,duration,genre,rating,metascore,director,actor1,actor2,actor3,actor4,votes,gross
+    Hamilton  ,2020,PG-13,160," Biography, Drama, History            ",8.5,90,    Thomas Kail  ,      Lin-Manuel Miranda,   Phillipa Soo,   Leslie Odom Jr.,   Rene Elise Golds erry  ,59630,0
+    PK  ,2014,Not Rated,153," Comedy, Drama, Musical            ",8.1,0,    Rajkumar Hirani  ,      Aamir Khan,   Anushka Sharma,   Sanjay Dutt,   Boman Irani  ,164402,10620000
+    Lagaan: Once Upon a Time in India  ,2001,PG,224," Drama, Musical, Sport            ",8.1,84,    Ashutosh Gowariker  ,      Aamir Khan,   Raghuvir Yadav,   Gracy Singh,   Rachel Shelley  ,105651,70000
+    La La Land  ,2016,PG-13,128," Comedy, Drama, Music            ",8.0,94,    Damien Chazelle  ,      Ryan Gosling,   Emma Stone,   Rosemarie DeWitt,   J.K. Simmons  ,511752,151100000
+    Baahu ali: The Beginning  ,2015,Not Rated,159," Action, Adventure, Drama            ",8.0,0,    S.S. Rajamouli  ,      Pra has,   Rana Daggu ati,   Ramya Krishnan,   Sathyaraj  ,103724,6740000
+    Dancer in the Dark  ,2000,R,140," Crime, Drama, Musical            ",8.0,61,    Lars von Trier  ,      Bjrk,   Catherine Deneuve,   David Morse,   Peter Stormare  ,102931,4180000
+    Kal Ho Naa Ho  ,2003,Not Rated,186," Comedy, Drama, Musical            ",7.9,0,    Nikkhil Advani  ,      Preity Zinta,   Shah Rukh Khan,   Saif Ali Khan,   Jaya Bachchan  ,63784,1790000
+    Veer-Zaara  ,2004,Not Rated,192," Drama, Family, Musical            ",7.8,67,    Yash Chopra  ,      Shah Rukh Khan,   Preity Zinta,   Rani Mukerji,   Kirron Kher  ,49363,2920000
+    Rockstar  ,2011,Not Rated,159," Drama, Music, Musical            ",7.7,0,    Imtiaz Ali  ,      Ran ir Kapoor,   Nargis Fakhri,   Shammi Kapoor,   Kumud Mishra  ,39773,990000
+    Tangled  ,2010,PG,100," Animation, Adventure, Comedy            ",7.7,71,    Nathan Greno   ,       Mandy Moore,   Zachary Levi,   Donna Murphy,   Ron Perlman    ,408692,200820000
+    Hedwig and the Angry Inch  ,2001,R,95," Comedy, Drama, Music            ",7.7,85,    John Cameron Mitchell  ,      John Cameron Mitchell,   Miriam Shor,   Stephen Trask,   Theodore Liscinski  ,32093,3030000
+    Moana  ,2016,PG,107," Animation, Adventure, Comedy            ",7.6,81,    Ron Clements   ,         Chris Williams    ,   Auli    i Cravalho,     Dwayne Johnson,,276545,248760000
+    Les Misra les  ,2012,PG-13,158," Drama, History, Musical            ",7.6,63,    Tom Hooper  ,      Hugh Jackman,   Russell Crowe,   Anne Hathaway,   Amanda Seyfried  ,310607,148810000
+    The Greatest Showman  ,2017,PG,105," Biography, Drama, Musical            ",7.6,0,    Michael Gracey  ,      Hugh Jackman,   Michelle Williams,   Zac Efron,   Zendaya  ,242602,174340000
+    Devdas  ,2002,Not Rated,185," Drama, Musical, Romance            ",7.6,0,    Sanjay Leela Bhansali  ,      Shah Rukh Khan,   Aishwarya Rai Bachchan,   Madhuri Dixit,   Jackie Shroff  ,38663,3500000
+    Moulin Rouge!  ,2001,PG-13,127," Drama, Musical, Romance            ",7.6,66,    Baz Luhrmann  ,      Nicole Kidman,   Ewan McGregor,   John Leguizamo,   Jim Broad ent  ,268036,57390000
+    Frozen  ,2013,PG,102," Animation, Adventure, Comedy            ",7.4,75,    Chris Buck   ,       Kristen Bell,   Idina Menzel,   Jonathan Groff,   Josh Gad    ,575884,400740000
+    Ka hi Khushi Ka hie Gham...  ,2001,Not Rated,210," Drama, Musical, Romance            ",7.4,0,    Karan Johar  ,      Shah Rukh Khan,   Kajol,   Amita h Bachchan,   Hrithik Roshan  ,45281,2900000
+    The Ballad of Buster Scruggs  ,2018,R,133," Comedy, Drama, Musical            ",7.3,79,    Ethan Coen   ,       Tim Blake Nelson,   Willie Watson,   Clancy Brown,   Danny McCarthy    ,124690,0
+    The Book of Life  ,2014,PG,95," Animation, Adventure, Comedy            ",7.3,67,    Jorge R. Gutirrez  ,      Diego Luna,   Zoe Saldana,   Channing Tatum,   Ron Perlman  ,65211,50150000
+    Rocketman  ,2019,R,121," Biography, Drama, Music            ",7.3,69,    Dexter Fletcher  ,      Taron Egerton,   Jamie Bell,   Richard Madden,   Bryce Dallas Howard  ,141600,96370000
+    Across the Universe  ,2007,PG-13,133," Drama, Fantasy, History            ",7.3,0,    Julie Taymor  ,      Evan Rachel Wood,   Jim Sturgess,   Joe Anderson,   Dana Fuchs  ,106375,24340000
+    Sweeney Todd: The Demon Bar er of Fleet Street  ,2007,R,116," Drama, Horror, Musical            ",7.3,83,    Tim Burton  ,      Johnny Depp,   Helena Bonham Carter,   Alan Rickman,   Timothy Spall  ,345979,52900000
+    Corpse Bride  ,2005,PG,77," Animation, Drama, Family            ",7.3,83,    Tim Burton   ,       Johnny Depp,   Helena Bonham Carter,   Emily Watson,   Tracey Ullman    ,246893,53360000
+    Chicago  ,2002,PG-13,113," Comedy, Crime, Musical            ",7.2,81,    Ro  Marshall  ,      Rene Zellweger,   Catherine Zeta-Jones,   Richard Gere,   Taye Diggs  ,217082,170690000
+    The Phantom of the Opera  ,2004,PG-13,143," Drama, Musical, Romance            ",7.2,0,    Joel Schumacher  ,      Gerard Butler,   Emmy Rossum,   Patrick Wilson,   Miranda Richardson  ,116715,51270000
+    Sing  ,2016,PG,108," Animation, Comedy, Family            ",7.1,0,    Garth Jennings   ,       Matthew McConaughey,   Reese Witherspoon,   Seth MacFarlane,   Scarlett Johansson    ,135373,270400000
+    Beauty and the Beast  ,2017,PG,129," Family, Fantasy, Musical            ",7.1,65,    Bill Condon  ,      Emma Watson,   Dan Stevens,   Luke Evans,   Josh Gad  ,276922,504010000
+    Yeh Jawaani Hai Deewani  ,2013,Not Rated,160," Drama, Musical, Romance            ",7.1,0,    Ayan Mukherjee  ,      Ran ir Kapoor,   Deepika Padukone,   Aditya Roy Kapoor,   Kalki Koechlin  ,38647,3830000
+    The Muppets  ,2011,PG,103," Adventure, Comedy, Family            ",7.1,75,    James Bo in  ,      Amy Adams,   Jason Segel,   Chris Cooper,   Rashida Jones  ,87886,88630000
+    The Princess and the Frog  ,2009,G,97," Animation, Adventure, Comedy            ",7.1,73,    Ron Clements   ,       Anika Noni Rose,   Keith David,   Oprah Winfrey,   Bruno Campos    ,125691,104400000
+    8 Women  ,2002,R,111," Comedy, Crime, Musical            ",7.1,64,    Franois Ozon  ,      Fanny Ardant,   Emmanuelle Bart,   Danielle Darrieux,   Catherine Deneuve  ,29452,3080000
+    Moha  atein  ,2000,Not Rated,216," Musical, Drama, Romance            ",7.1,0,    Aditya Chopra  ,      Amita h Bachchan,   Shah Rukh Khan,   Uday Chopra,   Jugal Hansraj  ,27464,0
+    Aashiqui 2  ,2013,Not Rated,132," Drama, Music, Musical            ",7.0,0,    Mohit Suri  ,      Aditya Roy Kapoor,   Shraddha Kapoor,   Shaad Randhawa,   Salil Acharya  ,26806,0
+    Enchanted  ,2007,PG,107," Animation, Comedy, Family            ",7.0,75,    Kevin Lima  ,      Amy Adams,   Susan Sarandon,   James Marsden,   Patrick Dempsey  ,177713,127810000
+    Main Hoon Na  ,2004,Not Rated,182," Action, Comedy, Drama            ",7.0,0,    Farah Khan  ,      Shah Rukh Khan,   Sushmita Sen,   Sunil Shetty,   Zayed Khan  ,32469,1720000
+    Aladdin  ,2019,PG,128," Adventure, Family, Fantasy            ",6.9,0,    Guy Ritchie  ,      Will Smith,   Mena Massoud,   Naomi Scott,   Marwan Kenzari  ,230853,355560000
+    The Lion King  ,2019,PG,118," Animation, Adventure, Drama            ",6.9,0,    Jon Favreau  ,      Donald Glover,   Beyonc,   Seth Rogen,   Chiwetel Ejiofor  ,215026,543640000
+    Frozen II  ,2019,PG,103," Animation, Adventure, Comedy            ",6.9,64,    Chris Buck   ,       Kristen Bell,   Idina Menzel,   Josh Gad,   Jonathan Groff    ,140013,477370000
+    Rio  ,2011,G,96," Animation, Adventure, Comedy            ",6.9,63,    Carlos Saldanha  ,      Jesse Eisen erg,   Anne Hathaway,   George Lopez,   Karen Disher  ,207746,143620000
+    Rent  ,2005,PG-13,135," Drama, Musical, Romance            ",6.9,0,    Chris Colum us  ,      Taye Diggs,   Wilson Jermaine Heredia,   Rosario Dawson,   Anthony Rapp  ,48899,29080000
+    The Road to El Dorado  ,2000,PG,89," Animation, Adventure, Comedy            ",6.9,0,    Bi o Bergeron   ,    Kevin Kline,   Kenneth Branagh,   Rosie Perez,     ,85278,50860000
+    Tenacious D in the Pick of Destiny  ,2006,R,93," Adventure, Comedy, Music            ",6.8,0,    Liam Lynch  ,      Jack Black,   Kyle Gass,   JR Reed,   Ronnie James Dio  ,102337,8320000
+    Mary Poppins Returns  ,2018,PG,130," Comedy, Family, Fantasy            ",6.7,66,    Ro  Marshall  ,      Emily Blunt,   Lin-Manuel Miranda,   Ben Whishaw,   Emily Mortimer  ,78066,171960000
+    Om Shanti Om  ,2007,Not Rated,162," Action, Comedy, Drama            ",6.7,0,    Farah Khan  ,      Shah Rukh Khan,   Deepika Padukone,   Arjun Rampal,   Kirron Kher  ,39215,3600000
+    Mamma Mia! Here We Go Again  ,2018,PG-13,114," Comedy, Musical, Romance            ",6.6,0,    Ol Parker  ,      Lily James,   Amanda Seyfried,   Meryl Streep,   Cher  ,81486,120630000
+    Smallfoot  ,2018,PG,96," Animation, Adventure, Comedy            ",6.6,0,    Karey Kirkpatrick   ,       Channing Tatum,   James Corden,   Zendaya,   Common    ,34640,83240000
+    The Lego Movie 2: The Second Part  ,2019,PG,107," Animation, Action, Adventure            ",6.6,65,    Mike Mitchell  ,      Chris Pratt,   Eliza eth Banks,   Will Arnett,   Tiffany Haddish  ,55898,105810000
+    Hairspray  ,2007,PG,117," Comedy, Drama, Musical            ",6.6,81,    Adam Shankman  ,      John Travolta,   Queen Latifah,   Nikki Blonsky,   Michelle Pfeiffer  ,120313,118870000
+    Charlie and the Chocolate Factory  ,2005,PG,115," Adventure, Comedy, Family            ",6.6,72,    Tim Burton  ,      Johnny Depp,   Freddie Highmore,   David Kelly,   Helena Bonham Carter  ,431952,206460000
+    The Polar Express  ,2004,G,100," Animation, Adventure, Comedy            ",6.6,61,    Ro ert Zemeckis  ,      Tom Hanks,   Chris Coppola,   Michael Jeter,   Leslie Zemeckis  ,181624,183370000
+    Trolls  ,2016,PG,92," Animation, Adventure, Comedy            ",6.5,0,    Mike Mitchell   ,       Anna Kendrick,   Justin Tim erlake,   Zooey Deschanel,   Christopher Mintz-Plasse    ,73039,153710000
+    Dreamgirls  ,2006,PG-13,130," Drama, Music, Musical            ",6.5,76,    Bill Condon  ,      Beyonc,   Jamie Foxx,   Eddie Murphy,   Danny Glover  ,69368,103370000
+    Muppets Most Wanted  ,2014,PG,107," Adventure, Comedy, Crime            ",6.4,61,    James Bo in  ,      Ricky Gervais,   Ty Burrell,   Tina Fey,   Steve Whitmire  ,31967,51180000
+    The Lorax  ,2012,PG,86," Animation, Adventure, Comedy            ",6.4,0,    Chris Renaud   ,       Zac Efron,   Taylor Swift,   Danny DeVito,   Ed Helms    ,99622,214030000
+    Burlesque  ,2010,PG-13,119," Drama, Music, Musical            ",6.4,0,    Steve Antin  ,      Cher,   Christina Aguilera,   Alan Cumming,   Eric Dane  ,79314,39440000
+    Mamma Mia!  ,2008,PG-13,108," Comedy, Musical, Romance            ",6.4,0,    Phyllida Lloyd  ,      Meryl Streep,   Pierce Brosnan,   Amanda Seyfried,   Stellan Skarsgrd  ,217870,144130000
+    Hoodwinked  ,2005,PG,80," Animation, Comedy, Crime            ",6.4,0,    Cory Edwards   ,    Anne Hathaway,   Glenn Close,   Patrick War urton,     ,56801,51390000
+    Happy Feet  ,2006,PG,108," Animation, Adventure, Comedy            ",6.4,77,    George Miller   ,    Elijah Wood,   Brittany Murphy,   Hugh Jackman,     ,171051,198000000
+    Rio 2  ,2014,G,101," Animation, Adventure, Comedy            ",6.3,0,    Carlos Saldanha  ,      Jesse Eisen erg,   Anne Hathaway,   Jemaine Clement,   Andy Garcia  ,80984,131540000
+    The Producers  ,2005,PG-13,134," Comedy, Crime, Musical            ",6.3,0,    Susan Stroman  ,      Nathan Lane,   Matthew Broderick,   Uma Thurman,   Will Ferrell  ,41119,19380000
+    Isn' t It Romantic  ,2019,PG-13,89," Comedy, Fantasy, Musical            ",5.9,0,    Todd Strauss-Schulson  ,      Re el Wilson,   Liam Hemsworth,   Adam Devine,   Priyanka Chopra  ,63726,48790000
+    Into the Woods  ,2014,PG,125," Adventure, Comedy, Drama            ",5.9,69,    Ro  Marshall  ,      Anna Kendrick,   Meryl Streep,   Chris Pine,   Emily Blunt  ,133355,128000000
+    Happy Feet Two  ,2011,PG,100," Animation, Adventure, Comedy            ",5.9,0,    George Miller   ,    Elijah Wood,   Ro in Williams,   Pink,     ,42063,64010000
+    Rock of Ages  ,2012,PG-13,123," Comedy, Drama, Musical            ",5.9,0,    Adam Shankman  ,      Julianne Hough,   Diego Boneta,   Tom Cruise,   Alec Baldwin  ,74192,38520000
+    Raise Your Voice  ,2004,PG,103," Family, Music, Musical            ",5.9,0,    Sean McNamara  ,      Hilary Duff,   John Cor ett,   Re ecca De Mornay,   Oliver James  ,26899,10410000
+    Nine  ,2009,PG-13,118," Drama, Musical, Romance            ",5.8,0,    Ro  Marshall  ,      Daniel Day-Lewis,   Marion Cotillard,   Penlope Cruz,   Sandro Dori  ,42509,24000000
+    Annie  ,2014,PG,118," Comedy, Drama, Family            ",5.3,0,    Will Gluck  ,      Quvenzhan Wallis,   Cameron Diaz,   Jamie Foxx,   Rose Byrne  ,34425,85910000
+    High School Musical 3: Senior Year  ,2008,G,112," Comedy, Drama, Family            ",4.8,0,    Kenny Ortega  ,      Zac Efron,   Vanessa Hudgens,   Ashley Tisdale,   Lucas Gra eel  ,58458,90560000
+    Cats  ,2019,PG,110," Comedy, Drama, Family            ",2.7,0,    Tom Hooper  ,      James Corden,   Judi Dench,   Jason Derulo,   Idris El a  ,43178,0

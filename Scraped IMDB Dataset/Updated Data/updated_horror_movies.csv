@@ -1,0 +1,478 @@
+title,year,certificate,duration,genre,rating,metascore,director,actor1,actor2,actor3,actor4,votes,gross
+    Tum  ad  ,2018,Not Rated,104," Drama, Fantasy, Horror            ",8.3,0,    Rahi Anil Barve   ,    Sohum Shah,   Jyoti Malshe,   Anita Date,     ,28617,0
+    The Blue Elephant  ,2014,Not Rated,170," Drama, Horror, Mystery            ",8.1,0,    Marwan Hamed  ,      Karim A del Aziz,   Khaled El-Sawi,   Nelly Karim,   Muhammad Mamdooh  ,26770,0
+    Let the Right One In  ,2008,R,114," Crime, Drama, Fantasy            ",7.9,82,    Tomas Alfredson  ,      Kre Hede rant,   Lina Leandersson,   Per Ragnar,   Henrik Dahl  ,206369,2120000
+    Shaun of the Dead  ,2004,R,99," Comedy, Horror            ",7.9,76,    Edgar Wright  ,      Simon Pegg,   Nick Frost,   Kate Ashfield,   Lucy Davis  ,515020,13540000
+    I Saw the Devil  ,2010,Not Rated,144," Action, Crime, Drama            ",7.8,67,    Jee-woon Kim  ,      Lee Byung-Hun,   Choi Min-sik,   Jeon Gook-Hwan,   Ho-jin Chun  ,112665,130000
+    Get Out  ,2017,R,104," Horror, Mystery, Thriller            ",7.7,85,    Jordan Peele  ,      Daniel Kaluuya,   Allison Williams,   Bradley Whitford,   Catherine Keener  ,498949,176040000
+    What We Do in the Shadows  ,2014,R,86," Comedy, Horror            ",7.7,76,    Jemaine Clement   ,       Jemaine Clement,   Taika Waititi,   Cori Gonzalez-Macuer,   Jonny Brugh    ,159116,3330000
+    Vampire Hunter D: Bloodlust  ,2000,R,103," Animation, Action, Fantasy            ",7.7,62,    Yoshiaki Kawajiri  ,      Andrew Philpot,   John Rafter Lee,   Pamela Adlon,   Wendee Lee  ,29399,150000
+    Stree  ,2018,Not Rated,128," Comedy, Horror            ",7.6,0,    Amar Kaushik  ,      Rajkummar Rao,   Shraddha Kapoor,   Pankaj Tripathi,   Aparshakti Khurana  ,28490,0
+    Train to Busan  ,2016,Not Rated,118," Action, Horror, Thriller            ",7.6,72,    Sang-ho Yeon  ,      Gong Yoo,   Jung Yu-mi,   Ma Dong-seok,   Su-an Kim  ,169436,2130000
+    The Skin I Live In  ,2011,R,120," Drama, Horror, Thriller            ",7.6,70,    Pedro Almodvar  ,      Antonio Banderas,   Elena Anaya,   Jan Cornet,   Marisa Paredes  ,140130,3190000
+    Zom ieland  ,2009,R,88," Adventure, Comedy, Fantasy            ",7.6,73,    Ru en Fleischer  ,      Jesse Eisen erg,   Emma Stone,   Woody Harrelson,   A igail Breslin  ,522559,75590000
+    Saw  ,2004,R,103," Horror, Mystery, Thriller            ",7.6,0,    James Wan  ,      Cary Elwes,   Leigh Whannell,   Danny Glover,   Ken Leung  ,381097,56000000
+    28 Days Later...  ,2002,R,113," Drama, Horror, Sci-Fi            ",7.6,73,    Danny Boyle  ,      Cillian Murphy,   Naomie Harris,   Christopher Eccleston,   Alex Palmer  ,378745,45060000
+    The Others  ,2001,PG-13,104," Horror, Mystery, Thriller            ",7.6,74,    Alejandro Amen ar  ,      Nicole Kidman,   Christopher Eccleston,   Fionnula Flanagan,   Alakina Mann  ,339701,96520000
+    The Lighthouse  ,2019,R,109," Drama, Fantasy, Horror            ",7.5,83,    Ro ert Eggers  ,      Ro ert Pattinson,   Willem Dafoe,   Valeriia Karaman,   Logan Hawkes  ,147732,430000
+    A Quiet Place  ,2018,PG-13,90," Drama, Horror, Sci-Fi            ",7.5,82,    John Krasinski  ,      Emily Blunt,   John Krasinski,   Millicent Simmonds,   Noah Jupe  ,412228,188020000
+    The Wailing  ,2016,TV-MA,156," Horror, Mystery, Thriller            ",7.5,81,    Hong-jin Na  ,      Jun Kunimura,   Hwang Jung-min,   Do-won Kwak,   Woo-hee Chun  ,52991,0
+    Tucker and Dale vs Evil  ,2010,R,89," Comedy, Horror            ",7.5,65,    Eli Craig  ,      Tyler La ine,   Alan Tudyk,   Katrina Bowden,   Jesse Moss  ,166065,220000
+    The Conjuring  ,2013,R,112," Horror, Mystery, Thriller            ",7.5,68,    James Wan  ,      Patrick Wilson,   Vera Farmiga,   Ron Livingston,   Lili Taylor  ,445373,137400000
+    Grindhouse  ,2007,R,191," Action, Horror, Thriller            ",7.5,77,    Ro ert Rodriguez   ,      Edgar Wright,   Ro  Zom ie  ,    Kurt Russell,,178400,25030000
+    Take Shelter  ,2011,R,120," Drama, Horror, Sci-Fi            ",7.4,85,    Jeff Nichols  ,      Michael Shannon,   Jessica Chastain,   Shea Whigham,   Tova Stewart  ,91983,1730000
+    REC  ,2007,R,78," Action, Adventure, Fantasy            ",7.4,69,    Jaume Balaguer   ,       Manuela Velasco,   Ferran Terraza,   Jorge-Yamam Serrano,   Pa lo Rosso    ,166406,0
+    The Orphanage  ,2007,R,105," Drama, Fantasy, Horror            ",7.4,74,    J.A. Bayona  ,      Beln Rueda,   Fernando Cayo,   Roger Prncep,   Ma el Rivera  ,147480,7160000
+    Wallace & Gromit: The Curse of the Were-Ra  it  ,2005,G,85," Animation, Adventure, Comedy            ",7.4,87,    Steve Box   ,       Peter Sallis,   Helena Bonham Carter,   Ralph Fiennes,   Peter Kay    ,126276,56110000
+    Irreversi le  ,2002,Not Rated,97," Crime, Drama, Horror            ",7.4,0,    Gaspar No  ,      Monica Bellucci,   Vincent Cassel,   Al ert Dupontel,   Jo Prestia  ,121471,750000
+    The Devil' s Back one  ,2001,R,106," Drama, Horror            ",7.4,78,    Guillermo del Toro  ,      Marisa Paredes,   Eduardo Noriega,   Federico Luppi,   Fernando Tielve  ,62092,750000
+    Hereditary  ,2018,R,127," Drama, Horror, Mystery            ",7.3,87,    Ari Aster  ,      Toni Collette,   Milly Shapiro,   Ga riel Byrne,   Alex Wolff  ,245402,44070000
+    Doctor Sleep  ,2019,R,152," Drama, Fantasy, Horror            ",7.3,0,    Mike Flanagan  ,      Ewan McGregor,   Re ecca Ferguson,   Kyliegh Curran,   Cliff Curtis  ,147399,0
+    Split  ,2016,PG-13,117," Horror, Thriller            ",7.3,62,    M. Night Shyamalan  ,      James McAvoy,   Anya Taylor-Joy,   Haley Lu Richardson,   Jessica Sula  ,430921,138290000
+    The Conjuring 2  ,2016,R,134," Horror, Mystery, Thriller            ",7.3,65,    James Wan  ,         Vera Farmiga,     Patrick Wilson,     Madison Wolfe,  Frances O    Connor ,227721,102470000
+    Only Lovers Left Alive  ,2013,R,123," Comedy, Drama, Fantasy            ",7.3,79,    Jim Jarmusch  ,      Tilda Swinton,   Tom Hiddleston,   Mia Wasikowska,   John Hurt  ,91743,1880000
+    It  ,2017,R,135, Horror            ,7.3,69,    Andy Muschietti  ,      Bill Skarsgrd,   Jaeden Martell,   Finn Wolfhard,   Sophia Lillis  ,463447,327480000
+    An American Crime  ,2007,R,98," Biography, Crime, Drama            ",7.3,0,    Tommy O  Haver  ,      Elliot Page,   Hayley McFarland,   Nick Searcy,   Romy Rosemont  ,32644,0
+    Sweeney Todd: The Demon Bar er of Fleet Street  ,2007,R,116," Drama, Horror, Musical            ",7.3,83,    Tim Burton  ,      Johnny Depp,   Helena Bonham Carter,   Alan Rickman,   Timothy Spall  ,345979,52900000
+    Dawn of the Dead  ,2004,R,101," Action, Horror            ",7.3,0,    Zack Snyder  ,      Sarah Polley,   Ving Rhames,   Mekhi Phifer,   Jake We er  ,235214,59020000
+    Coherence  ,2013,Not Rated,89," Drama, Horror, Mystery            ",7.2,65,    James Ward Byrkit  ,      Emily Baldoni,   Maury Sterling,   Nicholas Brendon,   Eliza eth Gracen  ,110741,70000
+    10 Cloverfield Lane  ,2016,PG-13,103," Action, Drama, Horror            ",7.2,76,    Dan Trachten erg  ,      John Goodman,   Mary Eliza eth Winstead,   John Gallagher Jr.,   Douglas M. Griffin  ,292984,72080000
+    Timecrimes  ,2007,R,92," Horror, Mystery, Sci-Fi            ",7.2,68,    Nacho Vigalondo  ,      Karra Elejalde,   Candela Fernndez,   Br ara Goenaga,   Nacho Vigalondo  ,58891,40000
+    The Descent  ,2005,R,99," Adventure, Horror, Thriller            ",7.2,71,    Neil Marshall  ,      Shauna Macdonald,   Natalie Mendoza,   Alex Reid,   Saskia Mulder  ,202754,26020000
+    A Tale of Two Sisters  ,2003,R,114," Drama, Horror, Mystery            ",7.2,65,    Jee-woon Kim  ,      Lim Soo-jung,   Jung-ah Yum,   Kim Kap-su,   Moon Geun-young  ,57118,0
+    Midsommar  ,2019,R,148," Drama, Horror, Mystery            ",7.1,72,    Ari Aster  ,      Florence Pugh,   Jack Reynor,   Vilhelm Blomgren,   William Jackson Harper  ,207483,27330000
+    Don' t Breathe  ,2016,R,88," Crime, Horror, Thriller            ",7.1,71,    Fede Alvarez  ,      Stephen Lang,   Jane Levy,   Dylan Minnette,   Daniel Zovatto  ,224633,89220000
+    Bone Tomahawk  ,2015,Not Rated,132," Drama, Horror, Western            ",7.1,72,    S. Craig Zahler  ,      Kurt Russell,   Patrick Wilson,   Matthew Fox,   Richard Jenkins  ,87758,0
+    Let Me In  ,2010,R,116," Drama, Fantasy, Horror            ",7.1,79,    Matt Reeves  ,      Kodi Smit-McPhee,   Chlo Grace Moretz,   Richard Jenkins,   Cara Buono  ,114038,12130000
+    The Invisi le Man  ,2020,R,124," Drama, Horror, Mystery            ",7.1,72,    Leigh Whannell  ,      Elisa eth Moss,   Oliver Jackson-Cohen,   Harriet Dyer,   Aldis Hodge  ,172671,64910000
+    Martyrs  ,2008,R,99, Horror            ,7.1,0,    Pascal Laugier  ,      Morjana Alaoui,   Mylne Jampano,   Catherine Bgin,   Ro ert Toupin  ,84154,0
+    The Mist  ,2007,R,126," Horror, Sci-Fi, Thriller            ",7.1,0,    Frank Dara ont  ,      Thomas Jane,   Marcia Gay Harden,   Laurie Holden,   Andre Braugher  ,282601,25590000
+    Thirst  ,2009,R,134," Drama, Fantasy, Horror            ",7.1,73,    Chan-wook Park  ,      Kang-ho Song,   Kim Ok- in,   Hee-jin Choi,   Dong-soo Seo  ,42976,300000
+    The Host  ,2006,R,120," Action, Drama, Horror            ",7.1,85,    Bong Joon Ho  ,      Kang-ho Song,   Byun Hee-Bong,   Park Hae-il,   Bae Doona  ,108640,2200000
+    Shutter  ,2004,Not Rated,97," Horror, Mystery, Thriller            ",7.1,0,    Banjong Pisanthanakun   ,       Ananda Everingham,   Natthaweeranuch Thongmee,   Achita Sikamana,   Unnop Chanpai ool    ,41541,0
+    The Ring  ,2002,PG-13,115," Horror, Mystery            ",7.1,0,    Gore Ver inski  ,      Naomi Watts,   Martin Henderson,   Brian Cox,   David Dorfman  ,322819,129130000
+    Pitch Black  ,2000,R,109," Action, Horror, Sci-Fi            ",7.1,0,    David Twohy  ,      Radha Mitchell,   Cole Hauser,   Vin Diesel,   Keith David  ,226096,39240000
+    Climax  ,2018,R,97," Drama, Horror, Music            ",7.0,67,    Gaspar No  ,      Sofia Boutella,   Romain Guillermic,   Souheila Yacou ,   Kiddy Smile  ,54077,800000
+    The Platform  ,2019,TV-MA,94," Horror, Sci-Fi, Thriller            ",7.0,73,    Galder Gaztelu-Urrutia  ,      Ivan Massagu,   Zorion Eguileor,   Antonia San Juan,   Emilio Buale  ,169510,0
+    Thelma  ,2017,Not Rated,116," Drama, Fantasy, Horror            ",7.0,74,    Joachim Trier  ,      Eili Har oe,   Kaya Wilkins,   Henrik Rafaelsen,   Ellen Dorrit Petersen  ,27080,150000
+    The Killing of a Sacred Deer  ,2017,R,121," Drama, Horror, Mystery            ",7.0,73,    Yorgos Lanthimos  ,      Barry G. Bernson,   Her  Caillouet,   Bill Camp,   Raffey Cassidy  ,126676,2290000
+    Raw  ,2016,R,99," Drama, Fantasy, Horror            ",7.0,81,    Julia Ducournau  ,      Garance Marillier,   Ella Rumpf,   Ra ah Nait Oufella,   Laurent Lucas  ,61167,510000
+    Green Room  ,2015,R,95," Horror, Thriller            ",7.0,79,    Jeremy Saulnier  ,      Anton Yelchin,   Imogen Poots,   Alia Shawkat,   Patrick Stewart  ,108879,3220000
+    A Girl Walks Home Alone at Night  ,2014,Not Rated,101," Drama, Horror, Romance            ",7.0,81,    Ana Lily Amirpour  ,      Sheila Vand,   Arash Marandi,   Marshall Manesh,   Mozhan Marn  ,31696,0
+    Trollhunter  ,2010,PG-13,103," Drama, Fantasy, Horror            ",7.0,61,    Andr vredal  ,      Otto Jespersen,   Ro ert Stolten erg,   Knut Nrum,   Glenn Erland Tosterud  ,69177,250000
+    The Ca in in the Woods  ,2011,R,95, Horror            ,7.0,72,    Drew Goddard  ,      Kristen Connolly,   Chris Hemsworth,   Anna Hutchison,   Fran Kranz  ,378843,42070000
+    Orphan  ,2009,R,123," Horror, Mystery, Thriller            ",7.0,0,    Jaume Collet-Serra  ,      Vera Farmiga,   Peter Sarsgaard,   Isa elle Fuhrman,   CCH Pounder  ,192877,41600000
+    Planet Terror  ,2007,R,105," Action, Adventure, Comedy            ",7.0,0,    Ro ert Rodriguez  ,      Rose McGowan,   Freddy Rodrguez,   Josh Brolin,   Marley Shelton  ,200675,0
+    Cloverfield  ,2008,PG-13,85," Action, Horror, Sci-Fi            ",7.0,64,    Matt Reeves  ,      Mike Vogel,   Jessica Lucas,   Lizzy Caplan,   T.J. Miller  ,374519,80050000
+    World War Z  ,2013,PG-13,116," Action, Adventure, Horror            ",7.0,63,    Marc Forster  ,      Brad Pitt,   Mireille Enos,   Daniella Kertesz,   James Badge Dale  ,605107,202360000
+    28 Weeks Later  ,2007,R,100," Drama, Horror, Sci-Fi            ",7.0,78,    Juan Carlos Fresnadillo  ,      Jeremy Renner,   Rose Byrne,   Ro ert Carlyle,   Harold Perrineau  ,259674,28640000
+    Hell oy II: The Golden Army  ,2008,PG-13,120," Action, Adventure, Fantasy            ",7.0,78,    Guillermo del Toro  ,      Ron Perlman,   Selma Blair,   Doug Jones,   John Alexander  ,256516,75750000
+    Constantine  ,2005,R,121," Action, Fantasy, Horror            ",7.0,0,    Francis Lawrence  ,      Keanu Reeves,   Rachel Weisz,   Djimon Hounsou,   Shia LaBeouf  ,309127,75980000
+    Koroshiya 1  ,2001,R,129," Action, Comedy, Crime            ",7.0,0,    Takashi Miike  ,         Tadano u Asano,     Nao Ohmori,  Shin    ya Tsukamoto,     Paulyn Sun    ,52533,20000
+    Bu  a Ho-Tep  ,2002,R,92," Comedy, Fantasy, Horror            ",7.0,0,    Don Coscarelli  ,      Bruce Camp ell,   Ossie Davis,   Bo  Ivy,   Ella Joyce  ,45892,2000000
+    Brotherhood of the Wolf  ,2001,R,142," Action, Adventure, Drama            ",7.0,0,    Christophe Gans  ,      Samuel Le Bihan,   Mark Dacascos,   Jrmie Renier,   Vincent Cassel  ,63135,11260000
+    The Witch  ,2015,R,92," Drama, Horror, Mystery            ",6.9,83,    Ro ert Eggers  ,      Anya Taylor-Joy,   Ralph Ineson,   Kate Dickie,   Julian Richings  ,207424,25140000
+    Frankenweenie  ,2012,PG,87," Animation, Comedy, Family            ",6.9,74,    Tim Burton  ,         Winona Ryder,  Catherine O    Hara,     Martin Short,     Martin Landau    ,98978,35290000
+    The Crimson Rivers  ,2000,R,106," Crime, Horror, Mystery            ",6.9,0,    Mathieu Kassovitz  ,      Jean Reno,   Vincent Cassel,   Nadia Fars,   Dominique Sanda  ,58217,630000
+    Shadow of the Vampire  ,2000,R,92," Drama, Horror            ",6.9,71,    E. Elias Merhige  ,      John Malkovich,   Willem Dafoe,   Udo Kier,   Cary Elwes  ,40163,8290000
+    Ready or Not  ,2019,R,95," Action, Comedy, Horror            ",6.8,64,    Matt Bettinelli-Olpin   ,          Samara Weaving,     Adam Brody,  Mark O    Brien,     Henry Czerny       ,112657,26740000
+    Us  ,2019,R,116," Horror, Mystery, Thriller            ",6.8,81,    Jordan Peele  ,      Lupita Nyong    o,     Winston Duke,     Elisa eth Moss,     Tim Heidecker    ,232926,175080000
+    I See You  ,2019,R,98," Crime, Drama, Horror            ",6.8,65,    Adam Randall  ,      Helen Hunt,   Jon Tenney,   Owen Teague,   Judah Lewis  ,31683,0
+    The House That Jack Built  ,2018,R,152," Crime, Drama, Horror            ",6.8,0,    Lars von Trier  ,      Matt Dillon,   Bruno Ganz,   Uma Thurman,   Sio han Fallon Hogan  ,60471,90000
+    House ound  ,2014,Not Rated,107," Comedy, Horror, Mystery            ",6.8,76,    Gerard Johnstone  ,      Morgana O    Reilly,     Rima Te Wiata,     Glen-Paul Waru,     Ross Harper    ,32178,0
+    The Autopsy of Jane Doe  ,2016,R,86," Horror, Mystery, Thriller            ",6.8,65,    Andr vredal  ,      Brian Cox,   Emile Hirsch,   Ophelia Lovi ond,   Michael McElhatton  ,100547,0
+    It Follows  ,2014,R,100," Horror, Mystery, Thriller            ",6.8,83,    David Ro ert Mitchell  ,      Maika Monroe,   Keir Gilchrist,   Olivia Luccardi,   Lili Sepe  ,212188,14670000
+    Annihilation  ,2018,R,115," Adventure, Drama, Horror            ",6.8,79,    Alex Garland  ,      Natalie Portman,   Jennifer Jason Leigh,   Tessa Thompson,   Benedict Wong  ,283634,32730000
+    The Ba adook  ,2014,Not Rated,94," Drama, Horror, Mystery            ",6.8,86,    Jennifer Kent  ,      Essie Davis,   Noah Wiseman,   Daniel Henshall,   Hayley McElhinney  ,198610,920000
+    Sinister  ,2012,R,110," Horror, Mystery, Thriller            ",6.8,0,    Scott Derrickson  ,      Ethan Hawke,   Juliet Rylance,   James Ransone,   Fred Thompson  ,223423,48090000
+    Stonehearst Asylum  ,2014,PG-13,112," Drama, Horror, Thriller            ",6.8,0,    Brad Anderson  ,      Kate Beckinsale,   Jim Sturgess,   David Thewlis,   Brendan Gleeson  ,52158,0
+    Odd Thomas  ,2013,PG-13,97," Comedy, Fantasy, Horror            ",6.8,0,    Stephen Sommers  ,      Anton Yelchin,   Ashley Sommers,   Leonor Varela,   Matthew Page  ,48217,0
+    Insidious  ,2010,PG-13,103," Horror, Mystery, Thriller            ",6.8,0,    James Wan  ,      Patrick Wilson,   Rose Byrne,   Ty Simpkins,   Lin Shaye  ,280381,54010000
+    Warm Bodies  ,2013,PG-13,98," Comedy, Horror, Romance            ",6.8,0,    Jonathan Levine  ,      Nicholas Hoult,   Teresa Palmer,   John Malkovich,   Analeigh Tipton  ,219950,66380000
+    Suspiria  ,2018,R,152," Fantasy, Horror, Mystery            ",6.8,64,    Luca Guadagnino  ,      Chlo Grace Moretz,   Tilda Swinton,   Doris Hick,   Malgorzata Bela  ,63146,2470000
+    Eden Lake  ,2008,R,91," Horror, Thriller            ",6.8,65,    James Watkins  ,         Kelly Reilly,     Michael Fass ender,     Tara Ellis,  Jack O    Connell ,77427,10000
+    Trick ' r Treat  ,2007,R,82," Comedy, Horror            ",6.8,0,    Michael Dougherty  ,      Anna Paquin,   Brian Cox,   Dylan Baker,   Rochelle Aytes  ,81442,0
+    Inside  ,2007,R,82, Horror            ,6.8,0,    Alexandre Bustillo   ,       Alysson Paradis,   Jean-Baptiste Ta ourin,   Claude Lul,   Dominique Frot    ,37683,0
+1408,2007,PG-13,104," Fantasy, Horror, Mystery            ",6.8,64,    Mikael Hfstrm  ,      John Cusack,   Samuel L. Jackson,   Mary McCormack,   Tony Shalhou   ,256382,71990000
+    The Devil' s Rejects  ,2005,R,107, Horror            ,6.8,0,    Ro  Zom ie  ,      Sid Haig,   Sheri Moon Zom ie,   Bill Moseley,   William Forsythe  ,93667,17040000
+    High Tension  ,2003,R,91, Horror            ,6.8,0,    Alexandre Aja  ,      Ccile de France,   Mawenn,   Philippe Nahon,   Franck Khalfoun  ,67975,3680000
+    Dog Soldiers  ,2002,R,105," Action, Horror, Thriller            ",6.8,0,    Neil Marshall  ,      Sean Pertwee,   Kevin McKidd,   Emma Cleas y,   Liam Cunningham  ,55822,0
+    Ginger Snaps  ,2000,Not Rated,108," Drama, Fantasy, Horror            ",6.8,70,    John Fawcett  ,      Emily Perkins,   Katharine Isa elle,   Kris Lemche,   Mimi Rogers  ,42374,0
+    Hell oy  ,2004,PG-13,122," Action, Fantasy, Horror            ",6.8,72,    Guillermo del Toro  ,      Ron Perlman,   Doug Jones,   Selma Blair,   John Hurt  ,307421,59620000
+    From Hell  ,2001,R,122," Horror, Mystery, Thriller            ",6.8,0,    Al ert Hughes   ,       Johnny Depp,   Heather Graham,   Ian Holm,   Ro  ie Coltrane    ,147596,31600000
+    Run  ,2020,PG-13,90," Horror, Mystery, Thriller            ",6.7,67,    Aneesh Chaganty  ,      Sarah Paulson,   Kiera Allen,   Sara Sohn,   Pat Healy  ,30114,0
+    Marrow one  ,2017,R,110," Drama, Horror, Mystery            ",6.7,63,    Sergio G. Snchez  ,      George MacKay,   Anya Taylor-Joy,   Charlie Heaton,   Mia Goth  ,26001,0
+    Summer of 84  ,2018,Not Rated,105," Drama, Horror, Mystery            ",6.7,0,    Franois Simard   ,    Graham Verchere,   Judah Lewis,   Cale  Emery,     ,34335,90000
+    Tur o Kid  ,2015,Not Rated,93," Action, Adventure, Comedy            ",6.7,0,    Franois Simard   ,    Munro Cham ers,   Laurence Le oeuf,   Michael Ironside,     ,26458,50000
+    Goodnight Mommy  ,2014,R,99," Horror, Mystery, Thriller            ",6.7,81,    Severin Fiala   ,       Lukas Schwarz,   Elias Schwarz,   Susanne Wuest,   Hans Escher    ,44987,1170000
+    The Call  ,2013,R,94," Crime, Drama, Horror            ",6.7,0,    Brad Anderson  ,      Halle Berry,   Evie Thompson,   A igail Breslin,   Morris Chestnut  ,113513,51870000
+    Zom ieland: Dou le Tap  ,2019,R,99," Action, Adventure, Comedy            ",6.7,0,    Ru en Fleischer  ,      Woody Harrelson,   Jesse Eisen erg,   Emma Stone,   A igail Breslin  ,142677,26800000
+    Los ojos de Julia  ,2010,Not Rated,118," Horror, Mystery, Thriller            ",6.7,0,    Guillem Morales  ,      Beln Rueda,   Llus Homar,   Pa lo Derqui,   Francesc Orella  ,32996,0
+    Rare Exports  ,2010,R,84," Adventure, Fantasy, Horror            ",6.7,71,    Jalmari Helander  ,      Jorma Tommila,   Onni Tommila,   Peeter Jako i,   Tommi Korpela  ,27029,260000
+    The Loved Ones  ,2009,R,84," Crime, Drama, Horror            ",6.7,73,    Sean Byrne  ,      Xavier Samuel,   Ro in McLeavy,   John Brumpton,   Richard Wilson  ,37676,0
+    Pandorum  ,2009,R,108," Action, Horror, Mystery            ",6.7,0,    Christian Alvart  ,      Dennis Quaid,   Ben Foster,   Cam Gigandet,   Antje Traue  ,144102,10330000
+    Fido  ,2006,R,93," Comedy, Drama, Horror            ",6.7,70,    Andrew Currie  ,      Kesun Loder,   Billy Connolly,   Carrie-Anne Moss,   David Kaye  ,28219,300000
+    The Exorcism of Emily Rose  ,2005,PG-13,119," Drama, Horror, Thriller            ",6.7,0,    Scott Derrickson  ,      Laura Linney,   Tom Wilkinson,   Shohreh Aghdashloo,   Camp ell Scott  ,120369,75070000
+    Ju-on: The Grudge  ,2002,R,92, Horror            ,6.7,0,    Takashi Shimizu  ,      Megumi Okina,   Misaki It,   Misa Uehara,   Yui Ichikawa  ,41503,330000
+    The Eye  ,2002,R,99," Drama, Fantasy, Horror            ",6.7,66,    Danny Pang   ,       Angelica Lee,   Chutcha Rujinanon,   Lawrence Chou,   Jinda Duangtoy    ,27997,500000
+    Dark Water  ,2002,PG-13,101," Drama, Horror, Mystery            ",6.7,0,    Hideo Nakata  ,      Hitomi Kuroki,   Rio Kanno,   Mirei Oguchi,   Asami Mizukawa  ,30309,0
+    Final Destination  ,2000,R,98," Horror, Thriller            ",6.7,0,    James Wong  ,      Devon Sawa,   Ali Larter,   Kerr Smith,   Kristen Cloke  ,230970,53330000
+    Blade II  ,2002,R,117," Action, Fantasy, Horror            ",6.7,0,    Guillermo del Toro  ,      Wesley Snipes,   Kris Kristofferson,   Ron Perlman,   Leonor Varela  ,201048,82350000
+    Resident Evil  ,2002,R,100," Action, Horror, Sci-Fi            ",6.7,0,    Paul W.S. Anderson  ,      Milla Jovovich,   Michelle Rodriguez,   Ryan McCluskey,   Oscar Pearce  ,248913,40120000
+    Life  ,2017,R,104," Horror, Sci-Fi, Thriller            ",6.6,0,    Daniel Espinosa  ,      Jake Gyllenhaal,   Re ecca Ferguson,   Ryan Reynolds,   Hiroyuki Sanada  ,208815,30230000
+    Happy Death Day  ,2017,PG-13,96," Comedy, Horror, Mystery            ",6.6,0,    Christopher Landon  ,      Jessica Rothe,   Israel Broussard,   Ru y Modine,   Charles Aitken  ,118422,55680000
+    Mother!  ,2017,R,121," Drama, Horror, Mystery            ",6.6,75,    Darren Aronofsky  ,      Jennifer Lawrence,   Javier Bardem,   Ed Harris,   Michelle Pfeiffer  ,193349,17800000
+    Hush  ,2016,R,82," Horror, Thriller            ",6.6,67,    Mike Flanagan  ,      John Gallagher Jr.,   Kate Siegel,   Michael Trucco,   Samantha Sloyan  ,105785,0
+    The Girl with All the Gifts  ,2016,R,111," Action, Adventure, Drama            ",6.6,67,    Colm McCarthy  ,      Sennia Nanua,   Fisayo Akinade,   Dominique Tipper,   Paddy Considine  ,55308,0
+    Overlord  ,2018,R,110," Action, Adventure, Horror            ",6.6,0,    Julius Avery  ,      Jovan Adepo,   Wyatt Russell,   Mathilde Ollivier,   Pilou As k  ,87276,21700000
+    Bird Box  ,2018,R,124," Horror, Sci-Fi            ",6.6,0,    Susanne Bier  ,      Sandra Bullock,   Trevante Rhodes,   John Malkovich,   Sarah Paulson  ,283137,0
+    Insidious: Chapter 2  ,2013,PG-13,106," Horror, Mystery, Thriller            ",6.6,0,    James Wan  ,      Patrick Wilson,   Rose Byrne,   Bar ara Hershey,   Lin Shaye  ,156336,83590000
+    The Final Girls  ,2015,PG-13,91," Comedy, Drama, Fantasy            ",6.6,0,    Todd Strauss-Schulson  ,      Taissa Farmiga,   Malin Akerman,   Adam Devine,   Thomas Middleditch  ,35317,0
+    You' re Next  ,2011,R,95," Action, Crime, Horror            ",6.6,66,    Adam Wingard  ,      Sharni Vinson,   Joe Swan erg,   AJ Bowen,   Nicholas Tucci  ,89240,18470000
+    Pontypool  ,2008,Not Rated,93," Fantasy, Horror, Thriller            ",6.6,0,    Bruce McDonald  ,      Stephen McHattie,   Lisa Houle,   Georgina Reilly,   Hrant Alianak  ,29497,0
+    Antichrist  ,2009,Not Rated,108," Drama, Horror, Thriller            ",6.6,0,    Lars von Trier  ,      Willem Dafoe,   Charlotte Gains ourg,   Storm Acheche Sahlstrm  ,,117368,400000
+    Funny Games  ,2007,R,111," Crime, Drama, Horror            ",6.6,0,    Michael Haneke  ,      Naomi Watts,   Tim Roth,   Michael Pitt,   Brady Cor et  ,91222,1290000
+    Saw II  ,2005,R,93," Horror, Mystery            ",6.6,0,    Darren Lynn Bousman  ,      Donnie Wahl erg,   Beverley Mitchell,   Franky G,   Emmanuelle Vaugier  ,233879,87040000
+    30 Days of Night  ,2007,R,113," Action, Horror, Thriller            ",6.6,0,    David Slade  ,      Josh Hartnett,   Melissa George,   Danny Huston,   Ben Foster  ,165579,39570000
+    Dead End  ,2003,R,85," Adventure, Horror, Mystery            ",6.6,0,    Jean-Baptiste Andrea   ,       Ray Wise,   Lin Shaye,   Mick Cain,   Alexandra Holden    ,26522,0
+    May  ,2002,R,93," Comedy, Drama, Horror            ",6.6,0,    Lucky McKee  ,      Angela Bettis,   Jeremy Sisto,   Anna Faris,   James Duval  ,33316,150000
+    The Gift  ,2000,R,111," Drama, Fantasy, Horror            ",6.6,62,    Sam Raimi  ,      Cate Blanchett,   Katie Holmes,   Keanu Reeves,   Giovanni Ri isi  ,64029,12010000
+    What Lies Beneath  ,2000,PG-13,130," Drama, Horror, Mystery            ",6.6,0,    Ro ert Zemeckis  ,      Harrison Ford,   Michelle Pfeiffer,   Katharine Towne,   Miranda Otto  ,118377,155460000
+    His House  ,2020,TV-14,93," Drama, Horror, Thriller            ",6.5,72,    Remi Weekes  ,      Sope Dirisu,   Wunmi Mosaku,   Malaika Wakoli-A iga a,   Matt Smith  ,25936,0
+    The Hunt  ,2020,R,90," Action, Horror, Thriller            ",6.5,0,    Craig Zo el  ,      Betty Gilpin,   Hilary Swank,   Ike Barinholtz,   Wayne Duvall  ,71688,0
+    It Chapter Two  ,2019,R,169," Drama, Fantasy, Horror            ",6.5,0,    Andy Muschietti  ,      Jessica Chastain,   James McAvoy,   Bill Hader,   Isaiah Mustafa  ,210737,211590000
+    Anna elle: Creation  ,2017,R,109," Horror, Mystery, Thriller            ",6.5,62,    David F. Sand erg  ,      Anthony LaPaglia,   Samara Lee,   Miranda Otto,   Brad Greenquist  ,113742,102090000
+    Better Watch Out  ,2016,R,89," Comedy, Horror, Thriller            ",6.5,67,    Chris Peckover  ,      Olivia DeJonge,   Levi Miller,   Ed Oxen ould,   Aleks Mikic  ,32391,20000
+    The Endless  ,2017,Not Rated,111," Drama, Fantasy, Horror            ",6.5,80,    Justin Benson   ,       Aaron Moorhead,   Justin Benson,   Callie Hernandez,   Tate Ellington    ,34934,270000
+    Gerald' s Game  ,2017,TV-MA,103," Drama, Horror, Thriller            ",6.5,77,    Mike Flanagan  ,      Carla Gugino,   Bruce Greenwood,   Chiara Aurelia,   Carel Struycken  ,91276,0
+    Time Lapse  ,2014,Not Rated,104," Horror, Sci-Fi, Thriller            ",6.5,0,    Bradley King  ,         Danielle Pana aker,  Matt O    Leary,     George Finn,     John Rhys-Davies    ,42070,0
+    Crimson Peak  ,2015,R,119," Drama, Fantasy, Horror            ",6.5,66,    Guillermo del Toro  ,      Mia Wasikowska,   Jessica Chastain,   Tom Hiddleston,   Charlie Hunnam  ,131193,31090000
+    Oculus  ,2013,R,104," Horror, Mystery            ",6.5,61,    Mike Flanagan  ,      Karen Gillan,   Brenton Thwaites,   Katee Sackhoff,   Rory Cochrane  ,118020,27700000
+    Sightseers  ,2012,Not Rated,88," Adventure, Comedy, Crime            ",6.5,69,    Ben Wheatley  ,      Alice Lowe,   Kenneth Hadley,   Steve Oram,   Eileen Davies  ,26987,40000
+    The Awakening  ,2011,R,102," Horror, Thriller            ",6.5,0,    Nick Murphy  ,      Re ecca Hall,   Dominic West,   Imelda Staunton,   Lucy Cohu  ,63488,0
+    Byzantium  ,2012,R,118," Drama, Fantasy, Horror            ",6.5,66,    Neil Jordan  ,      Saoirse Ronan,   Gemma Arterton,   Sam Riley,   Cale  Landry Jones  ,41420,80000
+    Halloween  ,2018,R,106," Crime, Horror, Thriller            ",6.5,67,    David Gordon Green  ,      Jamie Lee Curtis,   Judy Greer,   Andi Matichak,   James Jude Courtney  ,122253,159340000
+    Stake Land  ,2010,R,98," Drama, Horror, Sci-Fi            ",6.5,66,    Jim Mickle  ,      Connor Paolo,   Nick Damici,   Kelly McGillis,   Gregory Jones  ,40718,20000
+    Evil Dead  ,2013,R,91," Action, Adventure, Fantasy            ",6.5,0,    Fede Alvarez  ,      Jane Levy,   Shiloh Fernandez,   Jessica Lucas,   Lou Taylor Pucci  ,157220,54240000
+    [Rec]  ,2009,R,85," Action, Adventure, Fantasy            ",6.5,0,    Jaume Balaguer   ,       Jonathan D. Mellor,   Manuela Velasco,   scar Zafra,   Ariel Casas    ,69032,30000
+    Resident Evil: Degeneration  ,2008,R,98," Animation, Action, Horror            ",6.5,0,    Makoto Kamiya  ,      Paul Mercier,   Alyson Court,   Laura Bailey,   Roger Craig Smith  ,28933,0
+    Drag Me to Hell  ,2009,PG-13,99, Horror            ,6.5,83,    Sam Raimi  ,      Alison Lohman,   Justin Long,   Ruth Livier,   Lorna Raver  ,188730,42100000
+    The Last House on the Left  ,2009,R,110," Horror, Thriller            ",6.5,0,    Dennis Iliadis  ,      Garret Dillahunt,   Monica Potter,   Tony Goldwyn,   Michael Bowen  ,86372,32750000
+    Severance  ,2006,R,96," Comedy, Horror, Thriller            ",6.5,62,    Christopher Smith  ,      Danny Dyer,   Laura Harris,   Tim McInnerny,   To y Stephens  ,36728,140000
+    The Crazies  ,2010,R,101," Adventure, Fantasy, Horror            ",6.5,0,    Breck Eisner  ,      Radha Mitchell,   Timothy Olyphant,   Danielle Pana aker,   Joe Anderson  ,112084,39120000
+    Slither  ,2006,R,95," Comedy, Horror, Sci-Fi            ",6.5,69,    James Gunn  ,      Nathan Fillion,   Eliza eth Banks,   Michael Rooker,   Don Thompson  ,74959,7770000
+    Tideland  ,2005,R,120," Drama, Fantasy, Horror            ",6.5,0,    Terry Gilliam  ,      Jeff Bridges,   Jennifer Tilly,   Jodelle Ferland,   Janet McTeer  ,32018,70000
+    Day Watch  ,2006,R,132," Action, Fantasy, Horror            ",6.5,0,    Timur Bekmam etov  ,      Konstantin Kha enskiy,   Mariya Poroshina,   Vladimir Menshov,   Galina Tyunina  ,33394,450000
+    The Skeleton Key  ,2005,PG-13,104," Drama, Horror, Mystery            ",6.5,0,    Iain Softley  ,      Kate Hudson,   Peter Sarsgaard,   Joy Bryant,   Gena Rowlands  ,106747,47810000
+    Silent Hill  ,2006,R,125," Action, Adventure, Fantasy            ",6.5,0,    Christophe Gans  ,      Radha Mitchell,   Laurie Holden,   Sean Bean,   De orah Kara Unger  ,214569,46980000
+    Unsane  ,2018,R,98," Drama, Horror, Mystery            ",6.4,63,    Steven Soder ergh  ,      Claire Foy,   Joshua Leonard,   Jay Pharoah,   Juno Temple  ,41157,7730000
+    Revenge  ,2017,R,108," Action, Horror, Thriller            ",6.4,81,    Coralie Fargeat  ,      Matilda Anna Ingrid Lutz,   Kevin Janssens,   Vincent Colom e,   Guillaume Bouchde  ,36935,100000
+    Incident in a Ghostland  ,2018,Not Rated,91," Drama, Horror, Mystery            ",6.4,0,    Pascal Laugier  ,      Crystal Reed,   Mylne Farmer,   Anastasia Phillips,   Emilia Jones  ,25156,0
+    Escape Room  ,2019,PG-13,99," Action, Adventure, Horror            ",6.4,0,    Adam Ro itel  ,      Taylor Russell,   Logan Miller,   Jay Ellis,   Tyler La ine  ,89693,57010000
+    Ghost Stories  ,2017,Not Rated,98," Drama, Horror            ",6.4,68,    Jeremy Dyson   ,       Andy Nyman,   Martin Freeman,   Paul Whitehouse,   Alex Lawther    ,31677,140000
+    A Cure for Wellness  ,2016,R,146," Drama, Fantasy, Horror            ",6.4,0,    Gore Ver inski  ,      Dane DeHaan,   Jason Isaacs,   Mia Goth,   Ivo Nandi  ,87918,8110000
+    Tale of Tales  ,2015,R,134," Drama, Fantasy, Horror            ",6.4,72,    Matteo Garrone  ,      Salma Hayek,   Vincent Cassel,   To y Jones,   John C. Reilly  ,26622,80000
+    The Purge: Anarchy  ,2014,R,103," Action, Horror, Sci-Fi            ",6.4,0,    James DeMonaco  ,      Frank Grillo,   Carmen Ejogo,   Zach Gilford,   Kiele Sanchez  ,139321,71960000
+    Alien: Covenant  ,2017,R,122," Horror, Sci-Fi, Thriller            ",6.4,65,    Ridley Scott  ,      Michael Fass ender,   Katherine Waterston,   Billy Crudup,   Danny McBride  ,256063,74260000
+    Kill List  ,2011,Not Rated,95," Action, Crime, Horror            ",6.4,67,    Ben Wheatley  ,      Neil Maskell,   MyAnna Buring,   Harry Simpson,   Michael Smiley  ,36957,30000
+    John Dies at the End  ,2012,R,99," Comedy, Fantasy, Horror            ",6.4,0,    Don Coscarelli  ,      Chase Williamson,   Ro  Mayes,   Paul Giamatti,   Clancy Brown  ,36318,140000
+    The Woman in Black  ,2012,PG-13,95," Drama, Fantasy, Horror            ",6.4,62,    James Watkins  ,      Daniel Radcliffe,   Janet McTeer,   Ciarn Hinds,   Emma Shorey  ,174803,54330000
+    The Voices  ,2014,R,103," Comedy, Crime, Fantasy            ",6.4,0,    Marjane Satrapi  ,      Ryan Reynolds,   Gemma Arterton,   Anna Kendrick,   Jacki Weaver  ,53648,0
+    Underworld: Awakening  ,2012,R,88," Action, Fantasy, Horror            ",6.4,0,    Mns Mrlind   ,       Kate Beckinsale,   Michael Ealy,   India Eisley,   Stephen Rea    ,146501,62320000
+    Fright Night  ,2011,R,106," Comedy, Horror            ",6.4,64,    Craig Gillespie  ,      Anton Yelchin,   Colin Farrell,   David Tennant,   Toni Collette  ,99982,18300000
+    Black Death  ,2010,R,102," Action, Drama, History            ",6.4,71,    Christopher Smith  ,      Eddie Redmayne,   Sean Bean,   Carice van Houten,   Kim erley Nixon  ,44758,20000
+    The House of the Devil  ,2009,R,95," Horror, Mystery            ",6.4,73,    Ti West  ,      Jocelin Donahue,   Tom Noonan,   Mary Woronov,   Greta Gerwig  ,41328,100000
+    The Collector  ,2009,R,90," Action, Crime, Horror            ",6.4,0,    Marcus Dunstan  ,      Josh Stewart,   Andrea Roth,   Juan Fernndez,   William Prael  ,59037,7710000
+    Them  ,2006,R,77," Horror, Thriller            ",6.4,0,    David Moreau   ,       Olivia Bonamy,   Michal Cohen,   Adriana Mocca,   Maria Roman    ,29156,0
+    The Hills Have Eyes  ,2006,R,107," Action, Adventure, Horror            ",6.4,0,    Alexandre Aja  ,      Ted Levine,   Kathleen Quinlan,   Dan Byrd,   Emilie de Ravin  ,159351,41780000
+    Day reakers  ,2009,R,98," Action, Adventure, Fantasy            ",6.4,0,    Michael Spierig   ,       Ethan Hawke,   Willem Dafoe,   Sam Neill,   Harriet Minto-Day    ,122525,30100000
+    Night Watch  ,2004,R,114," Action, Fantasy, Horror            ",6.4,0,    Timur Bekmam etov  ,      Konstantin Kha enskiy,   Vladimir Menshov,   Mariya Poroshina,   Valeriy Zolotukhin  ,52419,1490000
+    Mindhunters  ,2004,R,106," Crime, Horror, Thriller            ",6.4,0,    Renny Harlin  ,      Val Kilmer,   LL Cool J,   Christian Slater,   Eion Bailey  ,58170,4480000
+    The Mothman Prophecies  ,2002,PG-13,119," Drama, Horror, Mystery            ",6.4,0,    Mark Pellington  ,      Richard Gere,   Laura Linney,   David Eigen erg,   Bo  Tracey  ,76417,35750000
+    Session 9  ,2001,R,97," Horror, Mystery            ",6.4,0,    Brad Anderson  ,      David Caruso,   Stephen Gevedon,   Paul Guilfoyle,   Josh Lucas  ,55204,380000
+    The Cell  ,2000,R,107," Horror, Sci-Fi, Thriller            ",6.4,0,    Tarsem Singh  ,         Jennifer Lopez,     Vince Vaughn,  Vincent D    Onofrio,     Colton James    ,95828,61330000
+    Apostle  ,2018,TV-MA,130," Drama, Fantasy, Horror            ",6.3,62,    Gareth Evans  ,      Dan Stevens,   Richard Elfyn,   Paul Higgins,   Bill Milner  ,44406,0
+1922,2017,TV-MA,102," Crime, Drama, Horror            ",6.3,70,    Zak Hilditch  ,      Thomas Jane,   Molly Parker,   Dylan Schmid,   Kaitlyn Bernard  ,54100,0
+    The Ritual  ,2017,TV-MA,94," Horror, Mystery, Thriller            ",6.3,0,    David Bruckner  ,      Rafe Spall,   Arsher Ali,   Ro ert James-Collier,   Sam Troughton  ,79098,0
+    Lights Out  ,2016,PG-13,81," Drama, Horror, Mystery            ",6.3,0,    David F. Sand erg  ,      Teresa Palmer,   Ga riel Bateman,   Maria Bello,   Billy Burke  ,115939,67270000
+    The Ba ysitter  ,2017,TV-MA,85," Comedy, Horror            ",6.3,0,    McG  ,      Judah Lewis,   Samara Weaving,   Ro  ie Amell,   Hana Mae Lee  ,74616,0
+    The Shallows  ,2016,PG-13,86," Action, Drama, Horror            ",6.3,0,    Jaume Collet-Serra  ,      Blake Lively,   scar Jaenada,   Angelo Josue Lozano Corzo,   Joseph Salas  ,121033,55120000
+    Cargo  ,2017,TV-MA,105," Drama, Horror, Sci-Fi            ",6.3,65,    Ben Howling   ,       Simone Landers,   Martin Freeman,   Marlee Jane McPherson-Do  ins,   Lily Anne McPherson-Do  ins    ,37930,0
+    Creep  ,2014,R,77," Horror, Thriller            ",6.3,74,    Patrick Brice  ,      Patrick Brice,   Mark Duplass  ,,,43368,0
+    Dark Skies  ,2013,PG-13,97," Horror, Sci-Fi, Thriller            ",6.3,0,    Scott Stewart  ,      Keri Russell,   Jake Brennan,   Josh Hamilton,   Dakota Goyo  ,71391,17410000
+    13 Sins  ,2014,R,93," Horror, Thriller            ",6.3,0,    Daniel Stamm  ,      Mark We  er,   Devon Graye,   Tom Bower,   Rutina Wesley  ,33960,10000
+    Scouts Guide to the Zom ie Apocalypse  ,2015,R,93," Action, Comedy, Horror            ",6.3,0,    Christopher Landon  ,      Tye Sheridan,   Logan Miller,   Joey Morgan,   Sarah Dumont  ,45747,3640000
+    Under the Skin  ,2013,R,108," Drama, Horror, Sci-Fi            ",6.3,80,    Jonathan Glazer  ,      Scarlett Johansson,   Jeremy McWilliams,   Lynsey Taylor Mackay,   Dougie McConnell  ,130828,2610000
+    Dead Snow  ,2009,Not Rated,91," Comedy, Fantasy, Horror            ",6.3,61,    Tommy Wirkola  ,      Jeppe Beck Laursen,   Charlotte Frogner,   Jenny Skavlan,   Vegar Hoel  ,64318,40000
+    I Spit on Your Grave  ,2010,R,108," Horror, Thriller            ",6.3,0,    Steven R. Monroe  ,      Sarah Butler,   Jeff Branson,   Andrew Howard,   Daniel Franzese  ,76903,90000
+    Paranormal Activity  ,2007,R,86," Horror, Mystery            ",6.3,68,    Oren Peli  ,      Katie Featherston,   Micah Sloat,   Mark Fredrichs,   Am er Armstrong  ,221510,107920000
+    Freaky  ,2020,R,102," Comedy, Horror, Thriller            ",6.3,66,    Christopher Landon  ,         Vince Vaughn,     Kathryn Newton,  Celeste O    Connor,     Misha Osherovich    ,26610,0
+    Goose umps  ,2015,PG,103," Adventure, Comedy, Family            ",6.3,0,    Ro  Letterman  ,      Jack Black,   Dylan Minnette,   Odeya Rush,   Ryan Lee  ,81436,80080000
+    Dracula Untold  ,2014,PG-13,92," Action, Drama, Fantasy            ",6.3,0,    Gary Shore  ,      Luke Evans,   Dominic Cooper,   Sarah Gadon,   Art Parkinson  ,181048,56280000
+    The Uninvited  ,2009,PG-13,87," Drama, Fantasy, Horror            ",6.3,0,    Charles Guard   ,       Emily Browning,   Arielle Ke  el,   Eliza eth Banks,   David Strathairn    ,76655,28570000
+    Resident Evil: Extinction  ,2007,R,94," Action, Horror, Sci-Fi            ",6.3,0,    Russell Mulcahy  ,      Milla Jovovich,   Ali Larter,   Oded Fehr,   Iain Glen  ,184234,50650000
+    Feast  ,2005,R,95," Action, Comedy, Horror            ",6.3,0,    John Gulager  ,      Navi Rawat,   Krista Allen,   Balthazar Getty,   Judah Friedlander  ,29797,50000
+    Happy Death Day 2U  ,2019,PG-13,100," Comedy, Horror, Mystery            ",6.2,0,    Christopher Landon  ,      Jessica Rothe,   Israel Broussard,   Phi Vu,   Suraj Sharma  ,59809,28050000
+    Vernica  ,2017,TV-MA,105, Horror            ,6.2,0,    Paco Plaza  ,      Sandra Escacena,   Bruna Gonzlez,   Claudia Placer,   Ivn Chavero  ,36396,0
+    Color Out of Space  ,2019,Unrated,111," Horror, Mystery, Sci-Fi            ",6.2,70,    Richard Stanley  ,      Nicolas Cage,   Joely Richardson,   Madeleine Arthur,   Elliot Knight  ,34739,0
+    It Comes at Night  ,2017,R,91," Horror, Mystery, Sci-Fi            ",6.2,78,    Trey Edward Shults  ,      Joel Edgerton,   Christopher A  ott,   Carmen Ejogo,   Riley Keough  ,84851,13990000
+    Krampus  ,2015,PG-13,98," Comedy, Drama, Fantasy            ",6.2,0,    Michael Dougherty  ,      Adam Scott,   Toni Collette,   David Koechner,   Allison Tolman  ,64795,42590000
+    The Visit  ,2015,PG-13,94," Horror, Mystery, Thriller            ",6.2,0,    M. Night Shyamalan  ,      Olivia DeJonge,   Ed Oxen ould,   Deanna Dunagan,   Peter McRo  ie  ,114866,65210000
+    Scary Stories to Tell in the Dark  ,2019,PG-13,108," Adventure, Horror, Mystery            ",6.2,61,    Andr vredal  ,      Zoe Margaret Colletti,   Michael Garza,   Ga riel Rush,   Austin A rams  ,62108,62740000
+    Before I Wake  ,2016,PG-13,97," Drama, Fantasy, Horror            ",6.2,68,    Mike Flanagan  ,      Kate Bosworth,   Oleksandr Reshetilov,   Thomas Jane,   Jaco  Trem lay  ,40524,0
+"    As A ove, So Below  ",2014,R,93," Horror, Mystery, Thriller            ",6.2,0,    John Erick Dowdle  ,      Perdita Weeks,   Ben Feldman,   Edwin Hodge,   Franois Civil  ,79073,21200000
+    Deliver Us from Evil  ,2014,R,118," Action, Biography, Crime            ",6.2,0,    Scott Derrickson  ,      Eric Bana,   Edgar Ramrez,   Olivia Munn,   Chris Coy  ,71859,30580000
+    Open Grave  ,2013,Unrated,102," Horror, Mystery, Thriller            ",6.2,0,    Gonzalo Lpez-Gallego  ,      Sharlto Copley,   Thomas Kretschmann,   Josie Ho,   Joseph Morgan  ,28344,0
+    Mama  ,2013,PG-13,100," Fantasy, Horror, Thriller            ",6.2,0,    Andy Muschietti  ,      Jessica Chastain,   Nikolaj Coster-Waldau,   Megan Charpentier,   Isa elle Nlisse  ,169369,71630000
+    The Neon Demon  ,2016,R,117," Horror, Thriller            ",6.2,0,    Nicolas Winding Refn  ,      Elle Fanning,   Christina Hendricks,   Keanu Reeves,   Karl Glusman  ,85163,1330000
+    Devil  ,2010,PG-13,80," Horror, Mystery, Thriller            ",6.2,0,    John Erick Dowdle  ,      Chris Messina,   Caroline Dhavernas,   Bokeem Wood ine,   Logan Marshall-Green  ,134977,33580000
+    Dark Shadows  ,2012,PG-13,113," Comedy, Fantasy, Horror            ",6.2,0,    Tim Burton  ,      Johnny Depp,   Michelle Pfeiffer,   Eva Green,   Helena Bonham Carter  ,248849,79730000
+    #Alive  ,2020,TV-MA,98," Action, Drama, Horror            ",6.2,0,    Il Cho  ,      Yoo Ah-In,   Park Shin-Hye,   Bae-soo Jeon,   Hyun-Wook Lee  ,26374,0
+    The Thing  ,2011,R,103," Horror, Mystery, Sci-Fi            ",6.2,0,    Matthijs van Heijningen Jr.  ,      Mary Eliza eth Winstead,   Joel Edgerton,   Ulrich Thomsen,   Eric Christian Olsen  ,122889,16930000
+    Red State  ,2011,R,88," Action, Crime, Horror            ",6.2,0,    Kevin Smith  ,      Michael Parks,   Melissa Leo,   John Goodman,   Michael Angarano  ,62247,1100000
+    Frontier(s)  ,2007,Unrated,108, Horror            ,6.2,0,    Xavier Gens  ,      Karina Testa,   Aurlien Wiik,   Patrick Ligardes,   Samuel Le Bihan  ,25316,0
+    Case 39  ,2009,R,109," Horror, Mystery, Thriller            ",6.2,0,    Christian Alvart  ,      Rene Zellweger,   Ian McShane,   Jodelle Ferland,   Bradley Cooper  ,79699,13250000
+    Mirrors  ,2008,R,110," Horror, Mystery            ",6.2,0,    Alexandre Aja  ,      Kiefer Sutherland,   Paula Patton,   Amy Smart,   Cameron Boyce  ,102585,30690000
+    Saw III  ,2006,R,108," Crime, Horror, Mystery            ",6.2,0,    Darren Lynn Bousman  ,      To in Bell,   Shawnee Smith,   Angus Macfadyen,   Bahar Soomekh  ,179190,80240000
+    The Strangers  ,2008,R,86," Horror, Thriller            ",6.2,0,    Bryan Bertino  ,      Scott Speedman,   Liv Tyler,   Gemma Ward,   Alex Fisher  ,118591,52600000
+    Rogue  ,2007,R,99," Action, Adventure, Drama            ",6.2,0,    Greg McLean  ,      Michael Vartan,   Radha Mitchell,   Sam Worthington,   Caroline Brazier  ,28164,10000
+    Dead Silence  ,2007,R,89," Horror, Mystery, Thriller            ",6.2,0,    James Wan  ,      Ryan Kwanten,   Am er Valletta,   Donnie Wahl erg,   Michael Fairman  ,86292,16810000
+    Vacancy  ,2007,R,85," Horror, Thriller            ",6.2,0,    Nimrd Antal  ,      Kate Beckinsale,   Luke Wilson,   Frank Whaley,   Ethan Em ry  ,94816,19360000
+    Land of the Dead  ,2005,R,93," Horror, Sci-Fi, Thriller            ",6.2,71,    George A. Romero  ,      John Leguizamo,   Asia Argento,   Simon Baker,   Dennis Hopper  ,92080,20700000
+    Wolf Creek  ,2005,R,99," Crime, Horror, Thriller            ",6.2,0,    Greg McLean  ,      Nathan Phillips,   Cassandra Magrath,   Kestie Morassi,   John Jarratt  ,68089,16190000
+    Hanni al Rising  ,2007,R,121," Action, Adventure, Crime            ",6.2,0,    Peter We  er  ,      Gaspard Ulliel,   Rhys Ifans,   Li Gong,   Aaran Thomas  ,104373,27670000
+    The Texas Chainsaw Massacre  ,2003,R,98," Crime, Horror            ",6.2,0,    Marcus Nispel  ,      Jessica Biel,   Jonathan Tucker,   Andrew Bryniarski,   Erica Leerhsen  ,130801,80570000
+    Resident Evil: Apocalypse  ,2004,R,94," Action, Horror, Sci-Fi            ",6.2,0,    Alexander Witt  ,      Milla Jovovich,   Sienna Guillory,   Eric Ma ius,   Oded Fehr  ,187023,51200000
+    Final Destination 2  ,2003,R,90," Horror, Thriller            ",6.2,0,    David R. Ellis  ,      A.J. Cook,   Ali Larter,   Tony Todd,   Michael Landes  ,153099,46960000
+    Jeepers Creepers  ,2001,R,90," Horror, Mystery            ",6.2,0,    Victor Salva  ,      Gina Philips,   Justin Long,   Jonathan Breck,   Patricia Belcher  ,112018,37900000
+    Crawl  ,2019,R,87," Action, Horror, Thriller            ",6.1,0,    Alexandre Aja  ,      Kaya Scodelario,   Barry Pepper,   Morfydd Clark,   Ross Anderson  ,69432,39010000
+    The Perfection  ,2018,TV-MA,90," Drama, Horror, Music            ",6.1,0,    Richard Shepard  ,      Steven We er,   Allison Williams,   Alaina Huffman,   Logan Browning  ,36418,0
+    Bright urn  ,2019,R,90," Drama, Horror, Mystery            ",6.1,0,    David Yarovesky  ,      Eliza eth Banks,   David Denman,   Jackson A. Dunn,   A raham Clinkscales  ,80551,17300000
+    The Lodge  ,2019,R,108," Drama, Horror, Thriller            ",6.1,64,    Severin Fiala   ,       Riley Keough,   Jaeden Martell,   Lia McHugh,   Richard Armitage    ,33537,0
+    Personal Shopper  ,2016,R,105," Drama, Fantasy, Horror            ",6.1,77,    Olivier Assayas  ,      Kristen Stewart,   Lars Eidinger,   Sigrid Bouaziz,   Anders Danielsen Lie  ,36723,1310000
+    Ouija: Origin of Evil  ,2016,PG-13,99," Drama, Horror, Mystery            ",6.1,65,    Mike Flanagan  ,      Eliza eth Reaser,   Lulu Wilson,   Annalise Basso,   Henry Thomas  ,54449,34900000
+    Insidious: Chapter 3  ,2015,PG-13,97," Horror, Mystery, Thriller            ",6.1,0,    Leigh Whannell  ,      Dermot Mulroney,   Stefanie Scott,   Angus Sampson,   Leigh Whannell  ,94541,52220000
+    Maniac  ,2012,Not Rated,89," Horror, Thriller            ",6.1,0,    Franck Khalfoun  ,      Elijah Wood,   Nora Arnezeder,   America Olivo,   Megan Duffy  ,35304,20000
+    The Collection  ,2012,R,82," Action, Adventure, Crime            ",6.1,0,    Marcus Dunstan  ,      Josh Stewart,   Emma Fitzpatrick,   Christopher McDonald,   Randall Archer  ,45907,12840000
+    Grave Encounters  ,2011,Not Rated,92," Horror, Mystery, Thriller            ",6.1,0,    Colin Minihan   ,    Ben Wilkinson,   Sean Rogerson,   Ashleigh Gryzko,     ,53166,0
+    Ho o with a Shotgun  ,2011,Not Rated,86," Action, Comedy, Horror            ",6.1,0,    Jason Eisener  ,      Rutger Hauer,   Pasha E rahimi,   Ro   Wells,   Brian Downey  ,44117,700000
+    Hansel & Gretel: Witch Hunters  ,2013,R,88," Action, Fantasy, Horror            ",6.1,0,    Tommy Wirkola  ,      Jeremy Renner,   Gemma Arterton,   Peter Stormare,   Famke Janssen  ,195520,55700000
+    Scream 4  ,2011,R,111," Horror, Mystery            ",6.1,0,    Wes Craven  ,      Neve Camp ell,   Courteney Cox,   David Arquette,   Lucy Hale  ,128637,38180000
+    6 Souls  ,2010,R,112," Horror, Mystery, Thriller            ",6.1,0,    Mns Mrlind   ,       Julianne Moore,   Jonathan Rhys Meyers,   Jeffrey DeMunn,   Frances Conroy    ,32586,0
+    The Belko Experiment  ,2016,R,89," Horror, Thriller            ",6.1,0,    Greg McLean  ,      John Gallagher Jr.,   Tony Goldwyn,   Adria Arjona,   John C. McGinley  ,44776,10160000
+    Splinter  ,2008,R,82," Horror, Sci-Fi, Thriller            ",6.1,0,    To y Wilkins  ,      Shea Whigham,   Jill Wagner,   Paulo Costanzo,   Charles Baker  ,33637,0
+    Solomon Kane  ,2009,R,104," Action, Adventure, Fantasy            ",6.1,0,    M.J. Bassett  ,      James Purefoy,   Max von Sydow,   Rachel Hurd-Wood,   Pete Postlethwaite  ,69586,0
+    Bug  ,2006,R,102," Drama, Horror, Thriller            ",6.1,62,    William Friedkin  ,      Ashley Judd,   Michael Shannon,   Harry Connick Jr.,   Lynn Collins  ,33172,7010000
+    Halloween  ,2007,R,109, Horror            ,6.1,0,    Ro  Zom ie  ,      Scout Taylor-Compton,   Malcolm McDowell,   Tyler Mane,   Brad Dourif  ,109562,58270000
+    Wrong Turn  ,2003,R,84," Horror, Thriller            ",6.1,0,    Ro  Schmidt  ,      Eliza Dushku,   Jeremy Sisto,   Emmanuelle Chriqui,   Desmond Harrington  ,110442,15420000
+    House of 1000 Corpses  ,2003,R,89, Horror            ,6.1,0,    Ro  Zom ie  ,      Sid Haig,   Karen Black,   Bill Moseley,   Sheri Moon Zom ie  ,78680,12630000
+    Captive State  ,2019,PG-13,109," Action, Horror, Sci-Fi            ",6.0,0,    Rupert Wyatt  ,      John Goodman,   Ashton Sanders,   Jonathan Majors,   Vera Farmiga  ,49446,5960000
+    The Purge: Election Year  ,2016,R,108," Action, Horror, Sci-Fi            ",6.0,0,    James DeMonaco  ,      Frank Grillo,   Eliza eth Mitchell,   Mykelti Williamson,   Joseph Julian Soria  ,90668,79210000
+    The Boy  ,2016,PG-13,97," Horror, Mystery, Thriller            ",6.0,0,    William Brent Bell  ,      Lauren Cohan,   Rupert Evans,   James Russell,   Jim Norton  ,81174,35820000
+    The Taking of De orah Logan  ,2014,R,90," Horror, Mystery, Thriller            ",6.0,0,    Adam Ro itel  ,      Jill Larson,   Anne Ramsay,   Michelle Ang,   Brett Gentile  ,26666,0
+    Circle  ,2015,Not Rated,87," Drama, Horror, Mystery            ",6.0,0,    Aaron Hann   ,       Allegra Masters,   Aimee McKay,   Ashley Key,   Autumn Federici    ,45751,0
+    V/H/S/2  ,2013,R,96," Horror, Thriller            ",6.0,0,    Simon Barrett   ,      Gregg Hale,   Eduardo Snchez,   Timo Tjahjanto,   Adam Wingard  ,36273,20000
+    Victor Frankenstein  ,2015,PG-13,110," Drama, Horror, Sci-Fi            ",6.0,0,    Paul McGuigan  ,      Daniel Radcliffe,   James McAvoy,   Jessica Brown Findlay,   Andrew Scott  ,52770,5780000
+    Saw VI  ,2009,R,90," Horror, Mystery, Thriller            ",6.0,0,    Kevin Greutert  ,      To in Bell,   Costas Mandylor,   Mark Rolston,   Betsy Russell  ,102476,27690000
+    The Rite  ,2011,PG-13,114," Drama, Horror, Mystery            ",6.0,0,    Mikael Hfstrm  ,      Colin O    Donoghue,     Anthony Hopkins,     Ciarn Hinds,     Alice Braga    ,91453,33050000
+    The Midnight Meat Train  ,2008,R,100," Horror, Mystery, Thriller            ",6.0,0,    Ryhei Kitamura  ,      Vinnie Jones,   Bradley Cooper,   Leslie Bi  ,   Brooke Shields  ,60455,80000
+    The Amityville Horror  ,2005,R,90, Horror            ,6.0,0,    Andrew Douglas  ,      Ryan Reynolds,   Melissa George,   Jimmy Bennett,   Jesse James  ,105687,65230000
+    Hide and Seek  ,2005,R,101," Drama, Horror, Mystery            ",6.0,0,    John Polson  ,      Ro ert De Niro,   Dakota Fanning,   Famke Janssen,   Elisa eth Shue  ,81933,51100000
+    Cam  ,2018,TV-MA,94," Drama, Horror, Mystery            ",5.9,71,    Daniel Goldha er  ,      Madeline Brewer,   Patch Darragh,   Melora Walters,   Devin Druid  ,27306,0
+    Anna elle Comes Home  ,2019,R,106," Horror, Mystery, Thriller            ",5.9,0,    Gary Dau erman  ,      Vera Farmiga,   Patrick Wilson,   Mckenna Grace,   Madison Iseman  ,59056,74150000
+    Unfriended: Dark We   ,2018,R,92," Horror, Mystery, Thriller            ",5.9,0,    Stephen Susco  ,      Colin Woodell,   Stephanie Nogueras,   Betty Ga riel,   Re ecca Rittenhouse  ,27639,8780000
+    The Void  ,2016,Not Rated,90," Horror, Mystery, Sci-Fi            ",5.9,62,    Jeremy Gillespie   ,       Aaron Poole,   Kenneth Welsh,   Daniel Fathers,   Kathleen Munroe    ,31598,150000
+    Carrie  ,2013,R,100," Drama, Horror            ",5.9,0,    Kim erly Peirce  ,      Chlo Grace Moretz,   Julianne Moore,   Ga riella Wilde,   Portia Dou leday  ,133893,35270000
+    The Tall Man  ,2012,R,106," Crime, Drama, Horror            ",5.9,0,    Pascal Laugier  ,      Jessica Biel,   Jodelle Ferland,   William B. Davis,   Stephen McHattie  ,39121,0
+    A raham Lincoln: Vampire Hunter  ,2012,R,105," Action, Fantasy, Horror            ",5.9,0,    Timur Bekmam etov  ,      Benjamin Walker,   Rufus Sewell,   Dominic Cooper,   Anthony Mackie  ,149272,37520000
+    The Mortal Instruments: City of Bones  ,2013,PG-13,130," Action, Adventure, Fantasy            ",5.9,0,    Harald Zwart  ,      Lily Collins,   Jamie Camp ell Bower,   Ro ert Sheehan,   Jemima West  ,128258,31170000
+    The Fourth Kind  ,2009,PG-13,98," Horror, Mystery, Sci-Fi            ",5.9,0,    Olatunde Osunsanmi  ,      Milla Jovovich,   Elias Koteas,   Will Patton,   Hakeem Kae-Kazim  ,74046,25460000
+    Quarantine  ,2008,R,89," Horror, Thriller            ",5.9,0,    John Erick Dowdle  ,      Jennifer Carpenter,   Steve Harris,   Colum us Short,   Jay Hernandez  ,70473,31690000
+    The Ruins  ,2008,R,90," Adventure, Fantasy, Horror            ",5.9,0,    Carter Smith  ,      Shawn Ashmore,   Jena Malone,   Jonathan Tucker,   Laura Ramsey  ,70762,17430000
+    Saw IV  ,2007,R,93," Crime, Horror, Mystery            ",5.9,0,    Darren Lynn Bousman  ,      To in Bell,   Scott Patterson,   Louis Ferreira,   Costas Mandylor  ,140855,63300000
+    P2  ,2007,R,98," Crime, Horror, Thriller            ",5.9,0,    Franck Khalfoun  ,      Rachel Nichols,   Wes Bentley,   Simon Reynolds,   Philip Akin  ,32054,3990000
+    The Haunting in Connecticut  ,2009,PG-13,92," Drama, Horror, Mystery            ",5.9,0,    Peter Cornwell  ,      Virginia Madsen,   Martin Donovan,   Elias Koteas,   Kyle Gallner  ,59396,55390000
+    Hostel  ,2005,R,94, Horror            ,5.9,0,    Eli Roth  ,      Jay Hernandez,   Derek Richardson,   Eythor Gudjonsson,   Bar ara Nedeljakova  ,170465,47330000
+    The X Files: I Want to Believe  ,2008,PG-13,104," Crime, Drama, Horror            ",5.9,0,    Chris Carter  ,      David Duchovny,   Gillian Anderson,   Billy Connolly,   Amanda Peet  ,88842,20980000
+    The Possession  ,2012,PG-13,92," Horror, Mystery, Thriller            ",5.9,0,    Ole Bornedal  ,      Natasha Calis,   Jeffrey Dean Morgan,   Kyra Sedgwick,   Madison Davenport  ,57222,49130000
+    The Grudge  ,2004,PG-13,91," Horror, Mystery, Thriller            ",5.9,0,    Takashi Shimizu  ,      Sarah Michelle Gellar,   Jason Behr,   Clea DuVall,   William Mapother  ,139177,110360000
+    Blade: Trinity  ,2004,R,113," Action, Adventure, Fantasy            ",5.9,0,    David S. Goyer  ,      Wesley Snipes,   Kris Kristofferson,   Parker Posey,   Ryan Reynolds  ,166772,52410000
+    The Brothers Grimm  ,2005,PG-13,118," Action, Adventure, Comedy            ",5.9,0,    Terry Gilliam  ,      Matt Damon,   Heath Ledger,   Monica Bellucci,   Petr Ratimec  ,116495,37920000
+    Child' s Play  ,2019,R,90," Drama, Horror, Sci-Fi            ",5.8,0,    Lars Klev erg  ,      Tim Matheson,   Ben Daon,   Zahra Anderson,   Serge Jaswal  ,44858,29210000
+    Vivarium  ,2019,R,97," Comedy, Horror, Mystery            ",5.8,64,    Lorcan Finnegan  ,      Imogen Poots,   Danielle Ryan,   Molly McCann,   Jesse Eisen erg  ,40615,0
+    Underwater  ,2020,PG-13,95," Action, Horror, Sci-Fi            ",5.8,0,    William Eu ank  ,      Kristen Stewart,   Vincent Cassel,   Mamoudou Athie,   T.J. Miller  ,64914,0
+    High Life  ,2018,R,113," Adventure, Drama, Horror            ",5.8,77,    Claire Denis  ,      Ro ert Pattinson,   Juliette Binoche,   Andr 3000,   Mia Goth  ,29574,1230000
+    Morgan  ,2016,R,92," Action, Horror, Sci-Fi            ",5.8,0,    Luke Scott  ,      Kate Mara,   Anya Taylor-Joy,   Rose Leslie,   Michael Yare  ,40043,3910000
+    Underworld: Blood Wars  ,2016,R,91," Action, Adventure, Fantasy            ",5.8,0,    Anna Foerster  ,      Kate Beckinsale,   Theo James,   To ias Menzies,   Lara Pulver  ,70349,30350000
+    Jigsaw  ,2017,R,92," Crime, Horror, Mystery            ",5.8,0,    Michael Spierig   ,       Matt Passmore,   To in Bell,   Callum Keith Rennie,   Hannah Emily Anderson    ,69322,38050000
+    V/H/S  ,2012,R,116," Horror, Sci-Fi, Thriller            ",5.8,0,    Matt Bettinelli-Olpin   ,      Justin Martinez,   Glenn McQuaid,   Radio Silence,   Joe Swan erg,57352,100000
+    Paranormal Activity 3  ,2011,R,83," Horror, Mystery            ",5.8,0,    Henry Joost   ,       Chloe Csengery,   Jessica Tyler Brown,   Christopher Nicholas Smith,   Lauren Bittner    ,90611,104010000
+    Final Destination 5  ,2011,R,92," Action, Fantasy, Horror            ",5.8,0,    Steven Quale  ,      Nicholas D    Agosto,     Emma Bell,     Arlen Escarpeta,     Miles Fisher    ,107392,42590000
+    The Addams Family  ,2019,PG,86," Animation, Comedy, Family            ",5.8,0,    Greg Tiernan   ,       Oscar Isaac,   Charlize Theron,   Chlo Grace Moretz,   Finn Wolfhard    ,29300,100040000
+    Ru  er  ,2010,R,82," Comedy, Fantasy, Horror            ",5.8,0,    Quentin Dupieux  ,      Stephen Spinella,   Roxane Mesquida,   Wings Hauser,   Jack Plotnick  ,34494,100000
+    The Divide  ,2011,R,112," Drama, Horror, Sci-Fi            ",5.8,0,    Xavier Gens  ,      Lauren German,   Michael Biehn,   Milo Ventimiglia,   Courtney B. Vance  ,35516,20000
+    Pride and Prejudice and Zom ies  ,2016,PG-13,108," Action, Comedy, Fantasy            ",5.8,0,    Burr Steers  ,      Lily James,   Sam Riley,   Jack Huston,   Bella Heathcote  ,52046,10910000
+    Resident Evil: Afterlife  ,2010,R,96," Action, Adventure, Horror            ",5.8,0,    Paul W.S. Anderson  ,      Milla Jovovich,   Ali Larter,   Wentworth Miller,   Kim Coates  ,162615,60130000
+    Saw V  ,2008,R,92," Crime, Horror, Mystery            ",5.8,0,    David Hackl  ,      Scott Patterson,   Costas Mandylor,   To in Bell,   Betsy Russell  ,115805,56750000
+    The Ba ysitter: Killer Queen  ,2020,TV-MA,101," Comedy, Horror            ",5.8,0,    McG  ,      Judah Lewis,   Samara Weaving,   Jenna Ortega,   Emily Alyn Lind  ,27596,0
+    The Descent: Part 2  ,2009,R,94," Action, Adventure, Drama            ",5.8,0,    Jon Harris  ,      Michael J. Reynolds,   Shauna Macdonald,   Jessika Williams,   Douglas Hodge  ,44245,0
+    The Wolfman  ,2010,R,103," Drama, Fantasy, Horror            ",5.8,0,    Joe Johnston  ,      Benicio Del Toro,   Anthony Hopkins,   Emily Blunt,   Simon Merrells  ,102928,61980000
+    Black Sheep  ,2006,Not Rated,87," Comedy, Horror, Sci-Fi            ",5.8,62,    Jonathan King  ,      Oliver Driver,   Nathan Meister,   Tammy Davis,   Matthew Cham erlain  ,39166,80000
+    The Texas Chainsaw Massacre: The Beginning  ,2006,R,91," Horror, Thriller            ",5.8,0,    Jonathan Lie esman  ,      Jordana Brewster,   Matt Bomer,   Diora Baird,   Taylor Handley  ,68024,39520000
+    Final Destination 3  ,2006,R,93," Action, Crime, Horror            ",5.8,0,    James Wong  ,      Mary Eliza eth Winstead,   Ryan Merriman,   Kris Lemche,   Alexz Johnson  ,131575,54100000
+    Cry Wolf  ,2005,PG-13,90," Drama, Horror, Mystery            ",5.8,0,    Jeff Wadlow  ,      Julian Morris,   Lindy Booth,   Jared Padalecki,   Erica Yates  ,26055,10050000
+    Gothika  ,2003,R,98," Horror, Mystery, Thriller            ",5.8,0,    Mathieu Kassovitz  ,      Halle Berry,   Penlope Cruz,   Ro ert Downey Jr.,   Charles S. Dutton  ,106886,59690000
+    Hollow Man  ,2000,R,112," Action, Horror, Sci-Fi            ",5.8,0,    Paul Verhoeven  ,      Kevin Bacon,   Elisa eth Shue,   Josh Brolin,   Kim Dickens  ,124149,73210000
+    Velvet Buzzsaw  ,2019,R,113," Horror, Mystery, Thriller            ",5.7,61,    Dan Gilroy  ,      Jake Gyllenhaal,   Rene Russo,   Zawe Ashton,   Tom Sturridge  ,54828,0
+    Insidious: The Last Key  ,2018,PG-13,103," Horror, Mystery, Thriller            ",5.7,0,    Adam Ro itel  ,      Lin Shaye,   Leigh Whannell,   Angus Sampson,   Kirk Acevedo  ,53127,67750000
+    Eli  ,2019,R,98," Drama, Horror, Mystery            ",5.7,0,    Ciarn Foy  ,      Charlie Shotwell,   Kelly Reilly,   Max Martini,   Lili Taylor  ,29724,0
+    47 Meters Down  ,2017,PG-13,89," Adventure, Drama, Horror            ",5.7,0,    Johannes Ro erts  ,      Mandy Moore,   Claire Holt,   Matthew Modine,   Chris Johnson  ,49446,44310000
+    I Spit on Your Grave 2  ,2013,R,106," Action, Crime, Horror            ",5.7,0,    Steven R. Monroe  ,      Jemma Dallender,   Joe A solom,   Yavor Baharov,   George Zlatarev  ,27421,0
+    The Purge  ,2013,R,85," Horror, Sci-Fi, Thriller            ",5.7,0,    James DeMonaco  ,      Ethan Hawke,   Lena Headey,   Max Burkholder,   Adelaide Kane  ,203775,64470000
+    Would You Rather  ,2012,Not Rated,93," Horror, Thriller            ",5.7,0,    David Guy Levy  ,      Brittany Snow,   June Squi  ,   Jeffrey Com s,   Jonny Coyne  ,38103,0
+    Splice  ,2009,R,104," Drama, Horror, Sci-Fi            ",5.7,66,    Vincenzo Natali  ,      Adrien Brody,   Sarah Polley,   Delphine Chanac,   Brandon McGi  on  ,93987,17000000
+    Pet Sematary  ,2019,R,101," Horror, Mystery, Thriller            ",5.7,0,    Kevin Klsch   ,       Jason Clarke,   Amy Seimetz,   John Lithgow,   Jet Laurence    ,82777,54720000
+    Priest  ,2011,PG-13,87," Action, Adventure, Fantasy            ",5.7,0,    Scott Stewart  ,      Paul Bettany,   Cam Gigandet,   Maggie Q,   Karl Ur an  ,115632,29140000
+    Hatchet  ,2006,R,93," Comedy, Horror, Thriller            ",5.7,0,    Adam Green  ,      Kane Hodder,   Joel David Moore,   Deon Richmond,   Amara Zaragoza  ,29127,160000
+    Open Water  ,2003,R,79," Adventure, Drama, Horror            ",5.7,63,    Chris Kentis  ,      Blanchard Ryan,   Daniel Travis,   Saul Stein,   Michael E. Williamson  ,51208,30610000
+    Clu  Dread  ,2004,R,104," Comedy, Horror, Mystery            ",5.7,0,    Jay Chandrasekhar  ,      Jay Chandrasekhar,   Bill Paxton,   Kevin Heffernan,   Elena Lyons  ,28457,4990000
+    Freddy vs. Jason  ,2003,R,97," Action, Horror            ",5.7,0,    Ronny Yu  ,      Ro ert Englund,   Ken Kirzinger,   Kelly Rowland,   Monica Keena  ,111374,82620000
+    Ca in Fever  ,2002,R,93," Drama, Horror            ",5.7,0,    Eli Roth  ,      Jordan Ladd,   Rider Strong,   James DeBello,   Cerina Vincent  ,74297,21160000
+    Ma  ,2019,R,99," Horror, Mystery, Thriller            ",5.6,0,    Tate Taylor  ,      Octavia Spencer,   Diana Silvers,   Juliette Lewis,   McKaley Miller  ,41268,45370000
+    The Meg  ,2018,PG-13,113," Action, Horror, Sci-Fi            ",5.6,0,    Jon Turteltau   ,      Jason Statham,   Bing ing Li,   Rainn Wilson,   Cliff Curtis  ,152482,143010000
+    Curse of Chucky  ,2013,R,97," Horror, Thriller            ",5.6,0,    Don Mancini  ,      Chantal Quesnelle,   Fiona Dourif,   Jordan Gavaris,   Danielle Bisutti  ,34856,0
+    Maggie  ,2015,PG-13,95," Drama, Horror, Sci-Fi            ",5.6,0,    Henry Ho son  ,      Arnold Schwarzenegger,   A igail Breslin,   Joely Richardson,   Laura Cayouette  ,42194,190000
+    The Bay  ,2012,R,84," Horror, Sci-Fi, Thriller            ",5.6,65,    Barry Levinson  ,      Will Rogers,   Kristen Connolly,   Kether Donohue,   Frank Deal  ,25738,30000
+    The Dark Tower  ,2017,PG-13,95," Action, Adventure, Fantasy            ",5.6,0,    Nikolaj Arcel  ,      Idris El a,   Matthew McConaughey,   Tom Taylor,   Dennis Hays ert  ,129149,50700000
+    House at the End of the Street  ,2012,PG-13,101," Drama, Horror, Thriller            ",5.6,0,    Mark Tonderai  ,      Jennifer Lawrence,   Elisa eth Shue,   Max Thieriot,   Gil Bellows  ,73176,31610000
+    Paranormal Activity 2  ,2010,R,91," Horror, Mystery            ",5.6,0,    Tod Williams  ,      Katie Featherston,   Micah Sloat,   Molly Ephraim,   David Bierend  ,99032,84750000
+    Saw: The Final Chapter  ,2010,R,90," Crime, Horror, Mystery            ",5.6,0,    Kevin Greutert  ,      To in Bell,   Costas Mandylor,   Betsy Russell,   Cary Elwes  ,91021,45710000
+    The Ward  ,2010,R,89," Horror, Mystery, Thriller            ",5.6,0,    John Carpenter  ,      Am er Heard,   Mamie Gummer,   Danielle Pana aker,   Laura-Leigh  ,40521,0
+    The Last Exorcism  ,2010,PG-13,87," Horror, Mystery, Thriller            ",5.6,63,    Daniel Stamm  ,      Patrick Fa ian,   Ashley Bell,   Iris Bahr,   Louis Herthum  ,48062,41030000
+    Don' t Be Afraid of the Dark  ,2010,R,99," Adventure, Fantasy, Horror            ",5.6,0,    Troy Nixey  ,      Katie Holmes,   Guy Pearce,   Bailee Madison,   Bruce Gleeson  ,47091,24040000
+    Diary of the Dead  ,2007,R,95," Fantasy, Horror, Sci-Fi            ",5.6,66,    George A. Romero  ,      Michelle Morgan,   Joshua Close,   Shawn Ro erts,   Todd Schroeder  ,45949,960000
+    The Reaping  ,2007,R,99," Horror, Thriller            ",5.6,0,    Stephen Hopkins  ,      Hilary Swank,   David Morrissey,   AnnaSophia Ro  ,   Idris El a  ,41985,25120000
+    Dark Water  ,2005,PG-13,105," Drama, Horror, Mystery            ",5.6,0,    Walter Salles  ,      Jennifer Connelly,   Ariel Gade,   John C. Reilly,   Tim Roth  ,59860,25470000
+    Creep  ,2004,R,85," Horror, Mystery, Thriller            ",5.6,0,    Christopher Smith  ,      Franka Potente,   Sean Harris,   Vas Blackwood,   Ken Camp ell  ,28303,0
+    Alien vs. Predator  ,2004,PG-13,101," Action, Adventure, Horror            ",5.6,0,    Paul W.S. Anderson  ,      Sanaa Lathan,   Lance Henriksen,   Raoul Bova,   Ewen Bremner  ,185776,80280000
+    Jeepers Creepers 2  ,2003,R,104, Horror            ,5.6,0,    Victor Salva  ,      Jonathan Breck,   Ray Wise,   Nicki Aycox,   Garikayi Mutam irwa  ,58770,35670000
+    Thir13en Ghosts  ,2001,R,91," Fantasy, Horror            ",5.6,0,    Steve Beck  ,      Tony Shalhou ,   Shannon Eliza eth,   Em eth Davidtz,   Matthew Lillard  ,80208,41870000
+    Scream 3  ,2000,R,116," Horror, Mystery            ",5.6,0,    Wes Craven  ,      David Arquette,   Neve Camp ell,   Courteney Cox,   Liev Schrei er  ,124574,89140000
+    The Dead Don' t Die  ,2019,R,104," Comedy, Fantasy, Horror            ",5.5,0,    Jim Jarmusch  ,      Bill Murray,   Adam Driver,   Tom Waits,   Chlo Sevigny  ,54934,6560000
+    Unfriended  ,2014,R,83," Horror, Mystery, Thriller            ",5.5,0,    Levan Ga riadze  ,      Heather Sossaman,   Matthew Bohrer,   Courtney Halverson,   Shelley Hennig  ,69117,32480000
+    Resident Evil: The Final Chapter  ,2016,R,107," Action, Horror, Sci-Fi            ",5.5,0,    Paul W.S. Anderson  ,      Milla Jovovich,   Iain Glen,   Ali Larter,   Shawn Ro erts  ,84815,26830000
+    The Cloverfield Paradox  ,2018,PG-13,102," Action, Horror, Sci-Fi            ",5.5,0,    Julius Onah  ,      Gugu M atha-Raw,   David Oyelowo,   Daniel Brhl,   John Ortiz  ,96273,0
+    The Last Days on Mars  ,2013,R,98," Adventure, Horror, Sci-Fi            ",5.5,0,    Ruairi Ro inson  ,      Liev Schrei er,   Elias Koteas,   Romola Garai,   Olivia Williams  ,35542,20000
+    Vampire Academy  ,2014,PG-13,104," Action, Comedy, Drama            ",5.5,0,    Mark Waters  ,      Zoey Deutch,   Lucy Fry,   Danila Kozlovskiy,   Ga riel Byrne  ,52069,7790000
+    The Innkeepers  ,2011,R,101," Drama, Horror, Mystery            ",5.5,64,    Ti West  ,      Sara Paxton,   Pat Healy,   Kelly McGillis,   Alison Bartlett  ,33056,80000
+    Red Riding Hood  ,2011,PG-13,100," Fantasy, Horror, Mystery            ",5.5,0,    Catherine Hardwicke  ,      Amanda Seyfried,   Lukas Haas,   Gary Oldman,   Billy Burke  ,108387,37660000
+    Winchester  ,2018,PG-13,99," Biography, Drama, Fantasy            ",5.5,0,    Michael Spierig   ,          Helen Mirren,     Sarah Snook,  Finn Scicluna-O    Prey,     Jason Clarke       ,30865,25090000
+    Friday the 13th  ,2009,R,97," Horror, Mystery, Thriller            ",5.5,0,    Marcus Nispel  ,      Jared Padalecki,   Amanda Righetti,   Derek Mears,   Danielle Pana aker  ,98621,65000000
+    Hostel: Part II  ,2007,R,94," Horror, Thriller            ",5.5,0,    Eli Roth  ,      Lauren German,   Heather Matarazzo,   Bijou Phillips,   Roger Bart  ,85786,17610000
+    All the Boys Love Mandy Lane  ,2006,R,90," Horror, Mystery, Thriller            ",5.5,0,    Jonathan Levine  ,      Am er Heard,   Anson Mount,   Whitney A le,   Michael Welch  ,31525,0
+    The Omen  ,2006,R,110," Action, Adventure, Fantasy            ",5.5,0,    John Moore  ,      Liev Schrei er,   Julia Stiles,   Seamus Davey-Fitzpatrick,   David Thewlis  ,56445,54610000
+    White Noise  ,2005,PG-13,101," Drama, Horror, Mystery            ",5.5,0,    Geoffrey Sax  ,      Michael Keaton,   De orah Kara Unger,   Ian McNeice,   Chandra West  ,47266,56390000
+    Ghost Ship  ,2002,R,91, Horror            ,5.5,0,    Steve Beck  ,      Julianna Margulies,   Ga riel Byrne,   Ron Eldard,   Desmond Harrington  ,94386,30110000
+    Dreamcatcher  ,2003,R,134," Drama, Horror, Sci-Fi            ",5.5,0,    Lawrence Kasdan  ,      Morgan Freeman,   Thomas Jane,   Jason Lee,   Damian Lewis  ,89064,33720000
+    Gretel & Hansel  ,2020,PG-13,87," Fantasy, Horror, Mystery            ",5.4,64,    Oz Perkins  ,      Sophia Lillis,   Samuel Leakey,   Alice Krige,   Jessica De Gouw  ,25018,0
+    In the Tall Grass  ,2019,TV-MA,101," Horror, Mystery, Sci-Fi            ",5.4,0,    Vincenzo Natali  ,      Laysla De Oliveira,   Avery Whitted,   Patrick Wilson,   Will Buie Jr.  ,47482,0
+    Anna elle  ,2014,R,99," Horror, Mystery, Thriller            ",5.4,0,    John R. Leonetti  ,      Ward Horton,   Anna elle Wallis,   Alfre Woodard,   Tony Amendola  ,142200,84270000
+    Resident Evil: Retri ution  ,2012,R,95," Action, Horror, Sci-Fi            ",5.4,0,    Paul W.S. Anderson  ,      Milla Jovovich,   Sienna Guillory,   Michelle Rodriguez,   Aryana Engineer  ,133580,42350000
+    My Bloody Valentine  ,2009,R,101," Horror, Mystery, Thriller            ",5.4,0,    Patrick Lussier  ,      Jensen Ackles,   Jaime King,   Kerr Smith,   Betsy Rue  ,54004,51550000
+    Teeth  ,2007,R,94," Comedy, Fantasy, Horror            ",5.4,0,    Mitchell Lichtenstein  ,      Jess Weixler,   John Hensley,   Josh Pais,   Hale Appleman  ,41698,350000
+    Piranha 3D  ,2010,R,88," Comedy, Fantasy, Horror            ",5.4,0,    Alexandre Aja  ,         Elisa eth Shue,  Jerry O    Connell,     Richard Dreyfuss,     Ving Rhames    ,86161,25000000
+    Turistas  ,2006,R,93," Horror, Mystery, Thriller            ",5.4,0,    John Stockwell  ,      Josh Duhamel,   Melissa George,   Olivia Wilde,   Desmond Askew  ,36539,7030000
+    The Messengers  ,2007,PG-13,90," Drama, Horror, Thriller            ",5.4,0,    Danny Pang   ,       Dylan McDermott,   Penelope Ann Miller,   Kristen Stewart,   John Cor ett    ,38418,35370000
+    The Eye  ,2008,PG-13,98," Drama, Horror, Mystery            ",5.4,0,    David Moreau   ,       Jessica Al a,   Alessandro Nivola,   Parker Posey,   Rade Ser edzija    ,51743,31420000
+    House of Wax  ,2005,R,113," Horror, Thriller            ",5.4,0,    Jaume Collet-Serra  ,      Chad Michael Murray,   Paris Hilton,   Elisha Cuth ert,   Brian Van Holt  ,116128,32060000
+    The Ring Two  ,2005,PG-13,110," Horror, Mystery            ",5.4,0,    Hideo Nakata  ,      Naomi Watts,   David Dorfman,   Sissy Spacek,   Simon Baker  ,91696,76230000
+    Eight Legged Freaks  ,2002,PG-13,99," Action, Adventure, Comedy            ",5.4,0,    Ellory Elkayem  ,      David Arquette,   Kari Wuhrer,   Scott Terra,   Scarlett Johansson  ,52853,17320000
+    The Silence  ,2019,PG-13,90," Drama, Horror, Sci-Fi            ",5.3,0,    John R. Leonetti  ,      Stanley Tucci,   Kiernan Shipka,   Miranda Otto,   Kate Trotter  ,38427,0
+    The Nun  ,2018,R,96," Horror, Mystery, Thriller            ",5.3,0,    Corin Hardy  ,      Demin Bichir,   Taissa Farmiga,   Jonas Bloquet,   Bonnie Aarons  ,119992,117450000
+    The Curse of la Llorona  ,2019,R,93," Horror, Mystery, Thriller            ",5.3,0,    Michael Chaves  ,      Linda Cardellini,   Raymond Cruz,   Patricia Velasquez,   Marisol Ramirez  ,39005,54730000
+    The New Mutants  ,2020,PG-13,94," Action, Horror, Sci-Fi            ",5.3,0,    Josh Boone  ,      Maisie Williams,   Anya Taylor-Joy,   Charlie Heaton,   Alice Braga  ,46635,0
+    The Bad Batch  ,2016,R,118," Action, Horror, Mystery            ",5.3,62,    Ana Lily Amirpour  ,      Suki Waterhouse,   Jason Momoa,   Jayda Fink,   Keanu Reeves  ,26979,180000
+    Tusk  ,2014,R,102," Comedy, Drama, Horror            ",5.3,0,    Kevin Smith  ,      Justin Long,   Michael Parks,   Haley Joel Osment,   Genesis Rodriguez  ,47126,1820000
+    Sinister 2  ,2015,R,97," Horror, Mystery, Thriller            ",5.3,0,    Ciarn Foy  ,      James Ransone,   Shannyn Sossamon,   Ro ert Daniel Sloan,   Dartanian Sloan  ,49002,27740000
+    The Green Inferno  ,2013,R,100," Adventure, Horror            ",5.3,0,    Eli Roth  ,      Lorenza Izzo,   Ariel Levy,   Aaron Burns,   Kir y Bliss Blanton  ,39354,7190000
+    The Resident  ,2011,R,91," Drama, Horror, Mystery            ",5.3,0,    Antti Jokinen  ,      Hilary Swank,   Jeffrey Dean Morgan,   Lee Pace,   Christopher Lee  ,26540,0
+    Legion  ,2010,R,100," Action, Fantasy, Horror            ",5.3,0,    Scott Stewart  ,      Paul Bettany,   Dennis Quaid,   Charles S. Dutton,   Lucas Black  ,100095,40170000
+    The Witches  ,2020,PG,106," Adventure, Comedy, Family            ",5.3,0,    Ro ert Zemeckis  ,      Anne Hathaway,   Octavia Spencer,   Stanley Tucci,   Chris Rock  ,25147,0
+    Shutter  ,2008,PG-13,85," Horror, Mystery, Thriller            ",5.3,0,    Masayuki Ochiai  ,      Joshua Jackson,   Rachael Taylor,   James Kyson,   Megumi Okina  ,32555,25930000
+    The Covenant  ,2006,PG-13,97," Action, Adventure, Fantasy            ",5.3,0,    Renny Harlin  ,      Steven Strait,   Se astian Stan,   To y Hemingway,   Taylor Kitsch  ,47032,23290000
+    The Stepford Wives  ,2004,PG-13,93," Comedy, Horror, Sci-Fi            ",5.3,0,    Frank Oz  ,      Nicole Kidman,   Bette Midler,   Matthew Broderick,   Glenn Close  ,61387,59480000
+    Queen of the Damned  ,2002,R,101," Drama, Fantasy, Horror            ",5.3,0,    Michael Rymer  ,      Aaliyah,   Stuart Townsend,   Marguerite Moreau,   Vincent Perez  ,52533,30340000
+    Truth or Dare  ,2018,PG-13,100," Horror, Thriller            ",5.2,0,    Jeff Wadlow  ,      Lucy Hale,   Tyler Posey,   Violett Beane,   Hayden Szeto  ,48718,41410000
+    The First Purge  ,2018,R,97," Action, Horror, Sci-Fi            ",5.2,0,    Gerard McMurray  ,      Y    lan Noel,     Lex Scott Davis,     Joivan Wade,     Steve Harris    ,55726,69490000
+    The Lazarus Effect  ,2015,PG-13,83," Horror, Mystery, Sci-Fi            ",5.2,0,    David Gel   ,      Olivia Wilde,   Mark Duplass,   Evan Peters,   Sarah Bolger  ,41238,25800000
+    Hell oy  ,2019,R,120," Action, Adventure, Fantasy            ",5.2,0,    Neil Marshall  ,      David Har our,   Milla Jovovich,   Ian McShane,   Sasha Lane  ,79331,21900000
+    Flatliners  ,2017,PG-13,109," Drama, Horror, Mystery            ",5.2,0,    Niels Arden Oplev  ,      Elliot Page,   Diego Luna,   Nina Do rev,   James Norton  ,43067,16870000
+    Apollo 18  ,2011,PG-13,86," Horror, Mystery, Sci-Fi            ",5.2,0,    Gonzalo Lpez-Gallego  ,      Warren Christie,   Lloyd Owen,   Ryan Ro  ins,   Michael Kopsa  ,54053,17690000
+    The Strangers: Prey at Night  ,2018,R,85, Horror            ,5.2,0,    Johannes Ro erts  ,      Christina Hendricks,   Martin Henderson,   Bailee Madison,   Lewis Pullman  ,27353,24430000
+    A Nightmare on Elm Street  ,2010,R,95," Crime, Drama, Horror            ",5.2,0,    Samuel Bayer  ,      Jackie Earle Haley,   Rooney Mara,   Kyle Gallner,   Katie Cassidy  ,93437,63080000
+    The Final Destination  ,2009,R,82," Action, Fantasy, Horror            ",5.2,0,    David R. Ellis  ,      Nick Zano,   Krista Allen,   Andrew Fiscella,   Bo  y Campo  ,97670,66480000
+    Jennifer' s Body  ,2009,R,102," Comedy, Horror            ",5.2,0,    Karyn Kusama  ,      Megan Fox,   Amanda Seyfried,   Adam Brody,   Johnny Simmons  ,117091,16200000
+    The Mummy: Tom  of the Dragon Emperor  ,2008,PG-13,112," Action, Adventure, Fantasy            ",5.2,0,    Ro  Cohen  ,      Brendan Fraser,   Jet Li,   Maria Bello,   Michelle Yeoh  ,151636,102490000
+    Doom  ,2005,R,105," Action, Horror, Sci-Fi            ",5.2,0,    Andrzej Bartkowiak  ,      Karl Ur an,   Rosamund Pike,   Dwayne Johnson,   Deo ia Oparei  ,108147,28210000
+    Exorcist: The Beginning  ,2004,R,114," Horror, Mystery, Thriller            ",5.2,0,    Renny Harlin  ,         Stellan Skarsgrd,     Iza ella Scorupco,  James D    Arcy,     Remy Sweeney    ,33605,41820000
+    The Lords of Salem  ,2012,R,101," Horror, Thriller            ",5.1,0,    Ro  Zom ie  ,      Sheri Moon Zom ie,   Meg Foster,   Bruce Davison,   Jeff Daniel Phillips  ,28018,1160000
+    Sorority Row  ,2009,R,101," Horror, Mystery            ",5.1,0,    Stewart Hendler  ,      Briana Evigan,   Rumer Willis,   Carrie Fisher,   Teri Andrez  ,28807,11960000
+    The Hills Have Eyes 2  ,2007,R,89," Action, Adventure, Horror            ",5.1,0,    Martin Weisz  ,      Daniella Alonso,   Jaco  Vargas,   Michael Bailey Smith,   Ccile Breccia  ,61008,20800000
+    When a Stranger Calls  ,2006,PG-13,87," Horror, Thriller            ",5.1,0,    Simon West  ,      Camilla Belle,   Tommy Flanagan,   Katie Cassidy,   Tessa Thompson  ,43408,47860000
+    Stay Alive  ,2006,PG-13,85," Fantasy, Horror, Mystery            ",5.1,0,    William Brent Bell  ,      Jon Foster,   Samaire Armstrong,   Frankie Muniz,   Jimmi Simpson  ,30546,23090000
+    See No Evil  ,2006,R,84," Action, Horror, Thriller            ",5.1,0,    Gregory Dark  ,      Glenn Jaco s,   Christina Vidal,   Michael J. Pagan,   Samantha No le  ,26017,15030000
+    The Grudge 2  ,2006,PG-13,102," Horror, Thriller            ",5.1,0,    Takashi Shimizu  ,      Am er Tam lyn,   Edison Chen,   Arielle Ke  el,   Sarah Michelle Gellar  ,47393,39140000
+    The Cave  ,2005,PG-13,97," Action, Adventure, Horror            ",5.1,0,    Bruce Hunt  ,      Piper Pera o,   Morris Chestnut,   Cole Hauser,   Eddie Ci rian  ,35687,15010000
+    Scoo y-Doo 2: Monsters Unleashed  ,2004,PG,93," Adventure, Comedy, Family            ",5.1,0,    Raja Gosnell  ,      Freddie Prinze Jr.,   Sarah Michelle Gellar,   Matthew Lillard,   Linda Cardellini  ,50616,84220000
+    Paranormal Activity: The Marked Ones  ,2014,R,84," Horror, Mystery            ",5.0,0,    Christopher Landon  ,      Andrew Jaco s,   Jorge Diaz,   Ga rielle Walsh,   Gloria Sandoval  ,40087,32460000
+    Cherno yl Diaries  ,2012,R,86," Horror, Mystery, Thriller            ",5.0,0,    Bradley Parker  ,      Jesse McCartney,   Jonathan Sadowski,   Olivia Taylor Dudley,   Nathan Phillips  ,64063,18120000
+    [REC] 3: Genesis  ,2012,R,80," Action, Adventure, Fantasy            ",5.0,0,    Paco Plaza  ,      Leticia Dolera,   Diego Martn,   Ismael Martnez,   lex Monner  ,33362,10000
+    Blair Witch  ,2016,R,89," Horror, Mystery, Thriller            ",5.0,0,    Adam Wingard  ,      James Allen McCune,   Callie Hernandez,   Cor in Reid,   Brandon Scott  ,41762,20780000
+    A Ser ian Film  ,2010,NC-17,104," Horror, Mystery, Thriller            ",5.0,0,    Srdjan Spasojevic  ,      Srdjan     Zika     Todorovic,     Sergej Trifunovic,     Jelena Gavrilovic,     Slo odan Bestic    ,58125,0
+    Silent Hill: Revelation  ,2012,R,95," Action, Adventure, Fantasy            ",5.0,0,    M.J. Bassett  ,      Adelaide Clemens,   Kit Harington,   Sean Bean,   Carrie-Anne Moss  ,60578,17530000
+    The Haunted Mansion  ,2003,PG,88," Comedy, Family, Fantasy            ",5.0,0,    Ro  Minkoff  ,      Eddie Murphy,   Marsha Thomason,   Jennifer Tilly,   Terence Stamp  ,43342,75850000
+    Darkness Falls  ,2003,PG-13,86," Fantasy, Horror, Mystery            ",5.0,0,    Jonathan Lie esman  ,      Chaney Kley,   Emma Caulfield Ford,   Antony Burrows,   Lee Cormie  ,30284,32550000
+    Cursed  ,2005,PG-13,97," Comedy, Horror            ",5.0,0,    Wes Craven  ,      Christina Ricci,   Jesse Eisen erg,   Portia de Rossi,   Mya  ,30657,19300000
+    Vanishing on 7th Street  ,2010,R,92," Horror, Mystery, Thriller            ",4.9,0,    Brad Anderson  ,      Hayden Christensen,   Thandie Newton,   John Leguizamo,   Jaco  Latimore  ,25070,20000
+    The Darkest Hour  ,2011,PG-13,89," Action, Adventure, Horror            ",4.9,0,    Chris Gorak  ,      Emile Hirsch,   Olivia Thirl y,   Max Minghella,   Rachael Taylor  ,58033,21430000
+    Poltergeist  ,2015,PG-13,93," Horror, Thriller            ",4.9,0,    Gil Kenan  ,      Sam Rockwell,   Rosemarie DeWitt,   Kennedi Clements,   Saxon Shar ino  ,55159,47430000
+    Fantasy Island  ,2020,PG-13,109," Action, Adventure, Fantasy            ",4.9,0,    Jeff Wadlow  ,      Michael Pea,   Maggie Q,   Lucy Hale,   Austin Stowell  ,38039,0
+    Valentine  ,2001,R,96," Horror, Mystery, Thriller            ",4.9,0,    Jamie Blanks  ,      Denise Richards,   David Boreanaz,   Marley Shelton,   Jessica Capshaw  ,25765,20380000
+    Ghosts of Mars  ,2001,R,98," Action, Horror, Sci-Fi            ",4.9,0,    John Carpenter  ,      Natasha Henstridge,   Ice Cu e,   Pam Grier,   Jason Statham  ,51333,8430000
+    Dracula 2000  ,2000,R,99," Action, Fantasy, Horror            ",4.9,0,    Patrick Lussier  ,      Gerard Butler,   Justine Waddell,   Jonny Lee Miller,   Christopher Plummer  ,32227,33020000
+    Meet the Blacks  ,2016,R,94," Comedy, Horror            ",4.8,0,    Deon Taylor  ,      Mike Epps,   Zulay Henao,   Alex Henderson,   Bresha We    ,35604,9090000
+    The Forest  ,2016,PG-13,93," Horror, Mystery, Thriller            ",4.8,0,    Jason Zada  ,      Natalie Dormer,   Eoin Macken,   Stephanie Vogt,   Osamu Tanpopo  ,40256,26580000
+    The Woman in Black 2: Angel of Death  ,2014,PG-13,98," Drama, Horror, Thriller            ",4.8,0,    Tom Harper  ,      Helen McCrory,   Jeremy Irvine,   Phoe e Fox,   Leanne Best  ,26738,26500000
+    Texas Chainsaw  ,2013,R,92," Horror, Thriller            ",4.8,0,    John Luessenhop  ,      Alexandra Daddario,   Tania Raymonde,   Scott Eastwood,   Trey Songz  ,46020,34340000
+    Halloween II  ,2009,R,105, Horror            ,4.8,0,    Ro  Zom ie  ,      Scout Taylor-Compton,   Tyler Mane,   Malcolm McDowell,   Sheri Moon Zom ie  ,48904,33390000
+    The Un orn  ,2009,PG-13,88," Drama, Horror, Mystery            ",4.8,0,    David S. Goyer  ,      Odette Anna le,   Gary Oldman,   Cam Gigandet,   Meagan Good  ,49580,42670000
+    Pulse  ,2006,PG-13,90," Horror, Sci-Fi, Thriller            ",4.8,0,    Jim Sonzero  ,      Kristen Bell,   Rick Gonzalez,   Christina Milian,   Ian Somerhalder  ,28087,20260000
+    Seed of Chucky  ,2004,R,87," Comedy, Fantasy, Horror            ",4.8,0,    Don Mancini  ,      Jennifer Tilly,   Brad Dourif,   John Waters,   Billy Boyd  ,39135,17080000
+    Aliens vs. Predator: Requiem  ,2007,R,94," Action, Adventure, Fantasy            ",4.7,0,    Colin Strause   ,       Reiko Aylesworth,   Steven Pasquale,   Shareeka Epps,   John Ortiz    ,116806,41800000
+    Anacondas: The Hunt for the Blood Orchid  ,2004,PG-13,97," Action, Adventure, Horror            ",4.7,0,    Dwight H. Little  ,      Morris Chestnut,   KaDee Strickland,   Eugene Byrd,   Johnny Messner  ,29340,32240000
+    Paranormal Activity: The Ghost Dimension  ,2015,R,88," Horror, Mystery            ",4.6,0,    Gregory Plotkin  ,      Chris J. Murray,   Brit Shaw,   Ivy George,   Dan Gill  ,25264,18300000
+    Paranormal Activity 4  ,2012,R,88," Horror, Mystery            ",4.6,0,    Henry Joost   ,       Stephen Dunham,   Katie Featherston,   Matt Shively,   Brendon Eggertsen    ,62558,53920000
+    Black Christmas  ,2006,R,95, Horror            ,4.6,0,    Glen Morgan  ,      Michelle Trachten erg,   Mary Eliza eth Winstead,   Lacey Cha ert,   Katie Cassidy  ,25150,16240000
+    Death Note  ,2017,TV-MA,101," Action, Crime, Drama            ",4.5,0,    Adam Wingard  ,      Nat Wolff,   LaKeith Stanfield,   Margaret Qualley,   Shea Whigham  ,76969,0
+    Ouija  ,2014,PG-13,89," Horror, Mystery, Thriller            ",4.5,0,    Stiles White  ,      Olivia Cooke,   Ana Coto,   Daren Kagasoff,   Bianca A. Santos  ,48829,50860000
+    Rings  ,2017,PG-13,102," Drama, Horror, Mystery            ",4.5,0,    F. Javier Gutirrez  ,         Matilda Anna Ingrid Lutz,     Alex Roe,     Johnny Galecki,  Vincent D    Onofrio ,38003,27780000
+    The Human Centipede (First Sequence)  ,2009,R,92, Horror            ,4.4,0,    Tom Six  ,      Dieter Laser,   Ashley C. Williams,   Ashlynn Yennie,   Akihiro Kitamura  ,73657,180000
+    Cell  ,2016,R,98," Action, Adventure, Horror            ",4.4,0,    Tod Williams  ,      John Cusack,   Samuel L. Jackson,   Isa elle Fuhrman,   Clark Sarullo  ,25744,0
+    Jason X  ,2001,R,92," Action, Horror, Sci-Fi            ",4.4,0,    James Isaac  ,      Kane Hodder,   Lexa Doig,   Jeff Geddis,   David Cronen erg  ,51129,13120000
+    The Devil Inside  ,2012,R,83, Horror            ,4.2,0,    William Brent Bell  ,      Fernanda Andrade,   Simon Quarterman,   Evan Helmuth,   Ionut Grama  ,34885,53260000
+    Boogeyman  ,2005,PG-13,89," Drama, Horror, Mystery            ",4.2,0,    Stephen Kay  ,      Barry Watson,   Emily Deschanel,   Lucy Lawless,   Skye McCole Bartusiak  ,29836,46750000
+    One Missed Call  ,2008,PG-13,87," Horror, Mystery            ",4.0,0,    Eric Valette  ,      Edward Burns,   Shannyn Sossamon,   Ana Claudia Talancn,   Ray Wise  ,30979,26880000
+    Book of Shadows: Blair Witch 2  ,2000,R,90," Adventure, Fantasy, Horror            ",4.0,0,    Joe Berlinger  ,      Jeffrey Donovan,   Stephen Barker Turner,   Erica Leerhsen,   Kurt Loder  ,35978,26440000
+    Halloween: Resurrection  ,2002,R,94," Horror, Thriller            ",4.0,0,    Rick Rosenthal  ,      Jamie Lee Curtis,   Busta Rhymes,   Brad Loree,   Bianca Kajlich  ,38079,30350000
+    Prom Night  ,2008,PG-13,88," Horror, Mystery            ",3.9,0,    Nelson McCormick  ,      Brittany Snow,   Scott Porter,   Jessica Stroup,   Dana Davis  ,34216,43870000
+    The Human Centipede II (Full Sequence)  ,2011,Not Rated,91, Horror            ,3.8,0,    Tom Six  ,      Laurence R. Harvey,   Ashlynn Yennie,   Maddi Black,   Kandace Caine  ,36035,120000
+    Piranha 3DD  ,2012,R,83," Comedy, Horror            ",3.7,0,    John Gulager  ,      Danielle Pana aker,   Ving Rhames,   David Hasselhoff,   Matt Bush  ,40148,380000
+    The Wicker Man  ,2006,PG-13,102," Horror, Mystery, Thriller            ",3.7,0,    Neil LaBute  ,      Nicolas Cage,   Ellen Burstyn,   Leelee So ieski,   Kate Beahan  ,64498,23640000
+    The Fog  ,2005,PG-13,100," Horror, Mystery            ",3.7,0,    Rupert Wainwright  ,      Tom Welling,   Maggie Grace,   Selma Blair,   DeRay Davis  ,35169,29510000
+    Vampires Suck  ,2010,PG-13,82," Comedy, Family, Horror            ",3.4,0,    Jason Fried erg   ,       Jenn Proske,   Matt Lanter,   Diedrich Bader,   Chris Riggi    ,46724,36660000
+    The Open House  ,2018,TV-MA,94," Horror, Thriller            ",3.2,0,    Matt Angel   ,       Dylan Minnette,   Piercey Dalton,   Patricia Bethune,   Sharif Atkins    ,31472,0
+    Slender Man  ,2018,PG-13,93," Horror, Mystery, Thriller            ",3.2,0,    Sylvain White  ,      Joey King,   Julia Goldani Telles,   Jaz Sinclair,   Annalise Basso  ,29186,30570000
+    BloodRayne  ,2005,R,95," Action, Fantasy, Horror            ",2.9,0,    Uwe Boll  ,      Kristanna Loken,   Ben Kingsley,   Michelle Rodriguez,   Michael Madsen  ,34230,2410000
+    Alone in the Dark  ,2005,R,96," Action, Horror, Sci-Fi            ",2.4,0,    Uwe Boll  ,      Christian Slater,   Tara Reid,   Stephen Dorff,   Frank C. Turner  ,41772,5180000
+    Laxmii  ,2020,TV-MA,141," Action, Comedy, Horror            ",2.3,0,    Lawrence Raghavendra   ,       Akshay Kumar,   Kiara Advani,   Sharad Kelkar,   Ashwini Kalsekar    ,46794,0
+    House of the Dead  ,2003,R,90," Action, Adventure, Horror            ",2.0,0,    Uwe Boll  ,      Jonathan Cherry,   Tyron Leitso,   Clint Howard,   Ona Grauer  ,35943,10250000

@@ -1,0 +1,768 @@
+title,year,certificate,duration,genre,rating,metascore,director,actor1,actor2,actor3,actor4,votes,gross
+    Your Name.  ,2016,PG,106," Animation, Drama, Fantasy            ",8.4,79,    Makoto Shinkai  ,      Rynosuke Kamiki,   Mone Kamishiraishi,   Ry Narita,   Aoi Yki  ,200314,5020000
+    WALLE  ,2008,G,98," Animation, Adventure, Family            ",8.4,95,    Andrew Stanton  ,      Ben Burtt,   Elissa Knight,   Jeff Garlin,   Fred Willard  ,1007565,223810000
+    Eternal Sunshine of the Spotless Mind  ,2004,R,108," Drama, Romance, Sci-Fi            ",8.3,89,    Michel Gondry  ,      Jim Carrey,   Kate Winslet,   Tom Wilkinson,   Gerry Ro ert Byrne  ,917947,34400000
+    Amlie  ,2001,R,122," Comedy, Romance            ",8.3,69,    Jean-Pierre Jeunet  ,      Audrey Tautou,   Mathieu Kassovitz,   Rufus,   Lorella Cravotta  ,707853,33230000
+    The Secret in Their Eyes  ,2009,R,129," Drama, Mystery, Romance            ",8.2,80,    Juan Jos Campanella  ,      Ricardo Darn,   Soledad Villamil,   Pa lo Rago,   Carla Quevedo  ,194765,6390000
+    Portrait of a Lady on Fire  ,2019,R,122," Drama, Romance            ",8.1,95,    Cline Sciamma  ,      Nomie Merlant,   Adle Haenel,   Luna Bajrami,   Valeria Golino  ,66663,3760000
+    A Silent Voice: The Movie  ,2016,Not Rated,130," Animation, Drama, Family            ",8.1,78,    Naoko Yamada  ,      Miyu Irino,   Saori Hayami,   Aoi Yki,   Kensh Ono  ,50395,0
+    The Handmaiden  ,2016,Not Rated,145," Drama, Romance, Thriller            ",8.1,84,    Chan-wook Park  ,      Kim Min-hee,   Jung-woo Ha,   Cho Jin-woong,   So-ri Moon  ,116482,2010000
+    Barfi!  ,2012,Not Rated,151," Comedy, Drama, Romance            ",8.1,0,    Anurag Basu  ,         Ran ir Kapoor,     Priyanka Chopra,  Ileana D    Cruz,     Saura h Shukla    ,76132,2800000
+    Lage Raho Munna Bhai  ,2006,Not Rated,144," Comedy, Drama, Romance            ",8.1,0,    Rajkumar Hirani  ,      Sanjay Dutt,   Arshad Warsi,   Vidya Balan,   Boman Irani  ,43350,2220000
+    Before Sunset  ,2004,R,80," Drama, Romance            ",8.1,90,    Richard Linklater  ,      Ethan Hawke,   Julie Delpy,   Vernon Do tcheff,   Louise Lemoine Torrs  ,238536,5820000
+    Dil Chahta Hai  ,2001,Not Rated,183," Comedy, Drama, Romance            ",8.1,0,    Farhan Akhtar  ,      Aamir Khan,   Saif Ali Khan,   Akshaye Khanna,   Preity Zinta  ,67117,300000
+    In the Mood for Love  ,2000,PG,98," Drama, Romance            ",8.1,85,    Kar-Wai Wong  ,         Tony Chiu-Wai Leung,     Maggie Cheung,     Ping Lam Siu,  Tung Cho     Joe     Cheung ,126192,2730000
+    La La Land  ,2016,PG-13,128," Comedy, Drama, Music            ",8.0,94,    Damien Chazelle  ,      Ryan Gosling,   Emma Stone,   Rosemarie DeWitt,   J.K. Simmons  ,511752,151100000
+    Gully Boy  ,2019,Not Rated,154," Drama, Music, Romance            ",8.0,65,    Zoya Akhtar  ,      Vijay Varma,   Nakul Roshan Sahdev,   Ranveer Singh,   Vijay Raaz  ,32351,5570000
+    Her  ,2013,R,126," Drama, Romance, Sci-Fi            ",8.0,90,    Spike Jonze  ,      Joaquin Phoenix,   Amy Adams,   Scarlett Johansson,   Rooney Mara  ,545881,25570000
+    The Perks of Being a Wallflower  ,2012,PG-13,103," Drama, Romance            ",8.0,67,    Stephen Ch osky  ,      Logan Lerman,   Emma Watson,   Ezra Miller,   Paul Rudd  ,465686,17740000
+    Dev.D  ,2009,Not Rated,144," Drama, Romance            ",8.0,0,    Anurag Kashyap  ,      A hay Deol,   Mahie Gill,   Kalki Koechlin,   Di yendu Bhattacharya  ,28875,10000
+    Slumdog Millionaire  ,2008,R,120," Drama, Romance            ",8.0,84,    Danny Boyle   ,       Dev Patel,   Freida Pinto,   Saura h Shukla,   Anil Kapoor    ,802552,141320000
+    3-Iron  ,2004,R,88," Crime, Drama, Romance            ",8.0,72,    Kim Ki-duk  ,      Seung-Yun Lee,   Hee Jae,   Hyuk-ho Kwon,   Jin-mo Joo  ,51026,240000
+"    Spring, Summer, Fall, Winter... and Spring  ",2003,R,103," Drama, Romance            ",8.0,85,    Kim Ki-duk  ,      Kim Ki-duk,   Yeong-su Oh,   Jong-ho Kim,   Kim Young-Min  ,77958,2380000
+    Cinderella Man  ,2005,PG-13,144," Biography, Drama, History            ",8.0,69,    Ron Howard  ,      Russell Crowe,   Rene Zellweger,   Craig Bierko,   Paul Giamatti  ,177056,61650000
+    Big Fish  ,2003,PG-13,125," Adventure, Drama, Fantasy            ",8.0,0,    Tim Burton  ,      Ewan McGregor,   Al ert Finney,   Billy Crudup,   Jessica Lange  ,417219,66260000
+    My Sassy Girl  ,2001,Not Rated,137," Comedy, Drama, Romance            ",8.0,0,    Jae-young Kwak  ,      Tae-Hyun Cha,   Jun Ji-Hyun,   In-mun Kim,   Song Wok-suk  ,45574,0
+    Marriage Story  ,2019,R,137," Comedy, Drama, Romance            ",7.9,94,    Noah Baum ach  ,      Adam Driver,   Scarlett Johansson,   Julia Greer,   Azhy Ro ertson  ,251997,2000000
+    Call Me  y Your Name  ,2017,R,132," Drama, Romance            ",7.9,93,    Luca Guadagnino  ,      Armie Hammer,   Timothe Chalamet,   Michael Stuhl arg,   Amira Casar  ,217334,18100000
+    Sing Street  ,2016,PG-13,106," Comedy, Drama, Music            ",7.9,79,    John Carney  ,      Ferdia Walsh-Peelo,   Aidan Gillen,   Maria Doyle Kennedy,   Jack Reynor  ,85859,3240000
+    Before Midnight  ,2013,R,109," Drama, Romance            ",7.9,94,    Richard Linklater  ,      Ethan Hawke,   Julie Delpy,   Seamus Davey-Fitzpatrick,   Ariane La ed  ,142837,8110000
+    The Artist  ,2011,PG-13,100," Comedy, Drama, Romance            ",7.9,89,    Michel Hazanavicius  ,      Jean Dujardin,   Brnice Bejo,   John Goodman,   James Cromwell  ,231656,44670000
+    Amour  ,2012,PG-13,127," Drama, Romance            ",7.9,94,    Michael Haneke  ,      Jean-Louis Trintignant,   Emmanuelle Riva,   Isa elle Huppert,   Alexandre Tharaud  ,93734,6740000
+    Let the Right One In  ,2008,R,114," Crime, Drama, Fantasy            ",7.9,82,    Tomas Alfredson  ,      Kre Hede rant,   Lina Leandersson,   Per Ragnar,   Henrik Dahl  ,206369,2120000
+    Ja  We Met  ,2007,Not Rated,138," Comedy, Drama, Romance            ",7.9,0,    Imtiaz Ali  ,      Shahid Kapoor,   Kareena Kapoor,   Tarun Arora,   Dara Singh  ,48003,410000
+    Kal Ho Naa Ho  ,2003,Not Rated,186," Comedy, Drama, Musical            ",7.9,0,    Nikkhil Advani  ,      Preity Zinta,   Shah Rukh Khan,   Saif Ali Khan,   Jaya Bachchan  ,63784,1790000
+    Head-On  ,2004,R,121," Drama, Romance            ",7.9,78,    Fatih Akin  ,      Birol nel,   Si el Kekilli,   Gven Kira,   Zarah Jane McKenzie  ,51554,0
+    Talk to Her  ,2002,R,112," Drama, Mystery, Romance            ",7.9,86,    Pedro Almodvar  ,      Rosario Flores,   Javier Cmara,   Daro Grandinetti,   Leonor Watling  ,105142,9280000
+    Little Women  ,2019,PG,135," Drama, Romance            ",7.8,91,    Greta Gerwig  ,      Saoirse Ronan,   Emma Watson,   Florence Pugh,   Eliza Scanlen  ,147949,108100000
+    Pride  ,2014,R,119," Biography, Comedy, Drama            ",7.8,79,    Matthew Warchus  ,      Bill Nighy,   Imelda Staunton,   Dominic West,   Paddy Considine  ,52333,0
+    The Lunch ox  ,2013,PG,104," Drama, Romance            ",7.8,76,    Ritesh Batra  ,      Irrfan Khan,   Nimrat Kaur,   Nawazuddin Siddiqui,   Lillete Du ey  ,50946,4230000
+    Vicky Donor  ,2012,Not Rated,126," Comedy, Romance            ",7.8,0,    Shoojit Sircar  ,      Ayushmann Khurrana,   Yami Gautam,   Annu Kapoor,   Dolly Ahluwalia  ,39888,170000
+    A out Time  ,2013,R,123," Comedy, Drama, Fantasy            ",7.8,0,    Richard Curtis  ,      Domhnall Gleeson,   Rachel McAdams,   Bill Nighy,   Lydia Wilson  ,307335,15320000
+    The Wind Rises  ,2013,PG-13,126," Animation, Biography, Drama            ",7.8,83,    Hayao Miyazaki  ,      Hideaki Anno,   Hidetoshi Nishijima,   Miori Takimoto,   Masahiko Nishimura  ,74713,5210000
+    The Best Offer  ,2013,R,131," Crime, Drama, Mystery            ",7.8,0,    Giuseppe Tornatore  ,      Geoffrey Rush,   Jim Sturgess,   Sylvia Hoeks,   Donald Sutherland  ,109390,90000
+    Moonrise Kingdom  ,2012,PG-13,94," Comedy, Drama, Romance            ",7.8,84,    Wes Anderson  ,      Jared Gilman,   Kara Hayward,   Bruce Willis,   Bill Murray  ,321263,45510000
+    Once  ,2007,R,86," Drama, Music, Romance            ",7.8,88,    John Carney  ,      Glen Hansard,   Markta Irglov,   Hugh Walsh,   Gerard Hendrick  ,111150,9440000
+    Atonement  ,2007,R,123," Drama, Mystery, Romance            ",7.8,85,    Joe Wright  ,      Keira Knightley,   James McAvoy,   Brenda Blethyn,   Saoirse Ronan  ,253640,50930000
+    Mr. No ody  ,2009,R,141," Drama, Fantasy, Romance            ",7.8,63,    Jaco Van Dormael  ,      Jared Leto,   Sarah Polley,   Diane Kruger,   Linh Dan Pham  ,217856,0
+    The Curious Case of Benjamin Button  ,2008,PG-13,166," Drama, Fantasy, Romance            ",7.8,70,    David Fincher  ,      Brad Pitt,   Cate Blanchett,   Tilda Swinton,   Julia Ormond  ,593581,127510000
+    Veer-Zaara  ,2004,Not Rated,192," Drama, Family, Musical            ",7.8,67,    Yash Chopra  ,      Shah Rukh Khan,   Preity Zinta,   Rani Mukerji,   Kirron Kher  ,49363,2920000
+    Pride & Prejudice  ,2005,PG,129," Drama, Romance            ",7.8,82,    Joe Wright  ,      Keira Knightley,   Matthew Macfadyen,   Brenda Blethyn,   Donald Sutherland  ,261908,38410000
+    Walk the Line  ,2005,PG-13,136," Biography, Drama, Music            ",7.8,72,    James Mangold  ,      Joaquin Phoenix,   Reese Witherspoon,   Ginnifer Goodwin,   Ro ert Patrick  ,235538,119520000
+    The Note ook  ,2004,PG-13,123," Drama, Romance            ",7.8,0,    Nick Cassavetes  ,      Gena Rowlands,   James Garner,   Rachel McAdams,   Ryan Gosling  ,524454,81000000
+"    Crouching Tiger, Hidden Dragon  ",2000,PG-13,120," Action, Adventure, Fantasy            ",7.8,94,    Ang Lee  ,      Yun-Fat Chow,   Michelle Yeoh,   Ziyi Zhang,   Chen Chang  ,254526,128080000
+    Cast Away  ,2000,PG-13,143," Adventure, Drama, Romance            ",7.8,73,    Ro ert Zemeckis  ,      Tom Hanks,   Helen Hunt,   Paul Sanchez,   Lari White  ,528567,233630000
+    God' s Own Country  ,2017,Not Rated,104," Drama, Romance            ",7.7,85,    Francis Lee  ,      Josh O    Connor,     Alec Secareanu,     Gemma Jones,     Ian Hart    ,25708,340000
+    A Man Called Ove  ,2015,PG-13,116," Comedy, Drama, Romance            ",7.7,70,    Hannes Holm  ,      Rolf Lassgrd,   Bahar Pars,   Filip Berg,   Ida Engvoll  ,48092,3360000
+    The Theory of Everything  ,2014,PG-13,123," Biography, Drama, Romance            ",7.7,72,    James Marsh  ,      Eddie Redmayne,   Felicity Jones,   Tom Prior,   Sophie Perry  ,407896,35890000
+    The Fault in Our Stars  ,2014,PG-13,126," Drama, Romance            ",7.7,69,    Josh Boone  ,      Shailene Woodley,   Ansel Elgort,   Nat Wolff,   Laura Dern  ,346459,124870000
+    Blue Is the Warmest Colour  ,2013,NC-17,180," Drama, Romance            ",7.7,89,    A dellatif Kechiche  ,      La Seydoux,   Adle Exarchopoulos,   Salim Kechiouche,   Aurlien Recoing  ,139757,2200000
+    The Broken Circle Breakdown  ,2012,Not Rated,111," Drama, Music, Romance            ",7.7,70,    Felix van Groeningen  ,      Veerle Baetens,   Johan Helden ergh,   Nell Cattrysse,   Geert Van Rampel erg  ,39580,180000
+    Rockstar  ,2011,Not Rated,159," Drama, Music, Musical            ",7.7,0,    Imtiaz Ali  ,      Ran ir Kapoor,   Nargis Fakhri,   Shammi Kapoor,   Kumud Mishra  ,39773,990000
+    Midnight in Paris  ,2011,PG-13,94," Comedy, Fantasy, Romance            ",7.7,81,    Woody Allen  ,      Owen Wilson,   Rachel McAdams,   Kathy Bates,   Kurt Fuller  ,390680,56820000
+    Silver Linings Play ook  ,2012,R,122," Comedy, Drama, Romance            ",7.7,81,    David O. Russell  ,      Bradley Cooper,   Jennifer Lawrence,   Ro ert De Niro,   Jacki Weaver  ,665463,132090000
+    500 Days of Summer  ,2009,PG-13,95," Comedy, Drama, Romance            ",7.7,76,    Marc We    ,      Zooey Deschanel,   Joseph Gordon-Levitt,   Geoffrey Arend,   Chlo Grace Moretz  ,474830,32390000
+    Flipped  ,2010,PG,90," Comedy, Drama, Romance            ",7.7,0,    Ro  Reiner  ,      Madeline Carroll,   Callan McAuliffe,   Re ecca De Mornay,   Anthony Edwards  ,81937,1750000
+    The Girl Who Leapt Through Time  ,2006,TV-PG,98," Animation, Adventure, Comedy            ",7.7,0,    Mamoru Hosoda  ,      Riisa Naka,   Takuya Ishida,   Mitsutaka Itakura,   Ayami Kakiuchi  ,60864,0
+    Joyeux Noel  ,2005,PG-13,116," Drama, History, Music            ",7.7,70,    Christian Carion  ,      Diane Kruger,   Benno Frmann,   Guillaume Canet,   Natalie Dessay  ,28104,1050000
+    Tangled  ,2010,PG,100," Animation, Adventure, Comedy            ",7.7,71,    Nathan Greno   ,       Mandy Moore,   Zachary Levi,   Donna Murphy,   Ron Perlman    ,408692,200820000
+    Broke ack Mountain  ,2005,R,134," Drama, Romance            ",7.7,87,    Ang Lee  ,      Jake Gyllenhaal,   Heath Ledger,   Michelle Williams,   Randy Quaid  ,325212,83040000
+    Good Bye Lenin!  ,2003,R,121," Comedy, Drama, Romance            ",7.7,68,    Wolfgang Becker  ,      Daniel Brhl,   Katrin Sa,   Chulpan Khamatova,   Florian Lukas  ,138606,4060000
+    I Lost My Body  ,2019,TV-MA,81," Animation, Drama, Fantasy            ",7.6,81,    Jrmy Clapin  ,         Hakim Faris,     Victoire Du Bois,  Patrick d    Assumao,     Alfonso Arfi    ,27211,0
+    Cold War  ,2018,R,89," Drama, History, Music            ",7.6,90,    Pawel Pawlikowski  ,      Joanna Kulig,   Tomasz Kot,   Borys Szyc,   Agata Kulesza  ,49827,4570000
+    Dear Zindagi  ,2016,Not Rated,151," Drama, Romance            ",7.6,0,    Gauri Shinde  ,      Alia Bhatt,   Shah Rukh Khan,   Kunal Kapoor,   Priyanka Moodley  ,36284,1400000
+"    Love, Simon  ",2018,PG-13,110," Comedy, Drama, Romance            ",7.6,72,    Greg Berlanti  ,      Nick Ro inson,   Jennifer Garner,   Josh Duhamel,   Katherine Langford  ,99706,40830000
+    Victoria  ,2015,Not Rated,138," Crime, Drama, Romance            ",7.6,77,    Se astian Schipper  ,      Laia Costa,   Frederick Lau,   Franz Rogowski,   Burak Yigit  ,53474,0
+    Highway  ,2014,Not Rated,133," Crime, Drama, Romance            ",7.6,0,    Imtiaz Ali  ,      Alia Bhatt,   Randeep Hooda,   Durgesh Kumar,   Pradeep Nagar  ,26644,530000
+    Raanjhanaa  ,2013,Not Rated,140," Drama, Romance            ",7.6,0,    Aanand L. Rai  ,      Dhanush,   Sonam Kapoor,   Mohd. Zeeshan Ayyu ,   Swara Bhaskar  ,29669,880000
+    Tanu Weds Manu Returns  ,2015,Not Rated,128," Comedy, Drama, Romance            ",7.6,0,    Aanand L. Rai  ,      Kangana Ranaut,   Madhavan,   Jimmy Sheirgill,   Deepak Do riyal  ,26404,0
+    Weekend  ,2011,Not Rated,97," Drama, Romance            ",7.6,81,    Andrew Haigh  ,      Tom Cullen,   Chris New,   Jonathan Race,   Laura Freeman  ,28279,460000
+    Les Misra les  ,2012,PG-13,158," Drama, History, Musical            ",7.6,63,    Tom Hooper  ,      Hugh Jackman,   Russell Crowe,   Anne Hathaway,   Amanda Seyfried  ,310607,148810000
+    A Star Is Born  ,2018,R,136," Drama, Music, Romance            ",7.6,88,    Bradley Cooper  ,      Lady Gaga,   Bradley Cooper,   Sam Elliott,   Greg Grun erg  ,339143,215290000
+    The Art of Racing in the Rain  ,2019,PG,109," Comedy, Drama, Romance            ",7.6,0,    Simon Curtis  ,      Kevin Costner,   Milo Ventimiglia,   Jackie Minns,   Marcus Hondro  ,25500,25500000
+    The Flowers of War  ,2011,R,146," Drama, History, Romance            ",7.6,0,    Yimou Zhang  ,      Christian Bale,   Ni Ni,   Xinyi Zhang,   Tianyuan Huang  ,49942,10000
+    In a Better World  ,2010,R,118," Drama, Romance            ",7.6,65,    Susanne Bier  ,      Mikael Pers randt,   Trine Dyrholm,   Markus Rygaard,   Wil Johnson  ,38609,1010000
+    Wake Up Sid  ,2009,PG,138," Comedy, Drama, Romance            ",7.6,0,    Ayan Mukherjee  ,      Ran ir Kapoor,   Konkona Sen Sharma,   Supriya Pathak,   Anupam Kher  ,28484,720000
+    A Single Man  ,2009,R,99," Drama, Romance            ",7.6,77,    Tom Ford  ,      Colin Firth,   Julianne Moore,   Matthew Goode,   Nicholas Hoult  ,106549,9170000
+    50/50  ,2011,R,100," Comedy, Drama, Romance            ",7.6,72,    Jonathan Levine  ,      Joseph Gordon-Levitt,   Seth Rogen,   Anna Kendrick,   Bryce Dallas Howard  ,316421,35010000
+    5 Centimeters Per Second  ,2007,TV-PG,63," Animation, Drama, Family            ",7.6,0,    Makoto Shinkai  ,      Kenji Mizuhashi,   Yoshimi Kondou,   Satomi Hanamura,   Ayaka Onoue  ,51778,0
+    The Reader  ,2008,R,124," Drama, Romance            ",7.6,0,    Stephen Daldry  ,      Kate Winslet,   Ralph Fiennes,   Bruno Ganz,   Jeanette Hain  ,231286,34190000
+    Stardust  ,2007,PG-13,127," Adventure, Family, Fantasy            ",7.6,66,    Matthew Vaughn  ,      Charlie Cox,   Claire Danes,   Sienna Miller,   Ian McKellen  ,256302,38630000
+    La Vie En Rose  ,2007,PG-13,140," Biography, Drama, Music            ",7.6,66,    Olivier Dahan  ,      Marion Cotillard,   Sylvie Testud,   Pascal Greggory,   Emmanuelle Seigner  ,83162,10300000
+    Jodhaa Ak ar  ,2008,Not Rated,213," Action, Drama, History            ",7.6,69,    Ashutosh Gowariker  ,      Hrithik Roshan,   Aishwarya Rai Bachchan,   Sonu Sood,   Poonam Sinha  ,30094,3440000
+    The Illusionist  ,2006,PG-13,110," Drama, Fantasy, Mystery            ",7.6,68,    Neil Burger  ,      Edward Norton,   Jessica Biel,   Paul Giamatti,   Rufus Sewell  ,355968,39870000
+    Match Point  ,2005,R,124," Drama, Romance, Thriller            ",7.6,72,    Woody Allen  ,      Scarlett Johansson,   Jonathan Rhys Meyers,   Emily Mortimer,   Matthew Goode  ,207226,23090000
+    Love Me If You Dare  ,2003,R,93," Comedy, Drama, Romance            ",7.6,0,    Yann Samuell  ,      Guillaume Canet,   Marion Cotillard,   Thi ault Verhaeghe,   Josphine Le as-Joly  ,67611,550000
+    A Very Long Engagement  ,2004,R,133," Drama, Mystery, Romance            ",7.6,76,    Jean-Pierre Jeunet  ,      Audrey Tautou,   Gaspard Ulliel,   Jodie Foster,   Dominique Pinon  ,71128,6170000
+    The Bar arian Invasions  ,2003,R,99," Comedy, Crime, Drama            ",7.6,70,    Denys Arcand  ,      Rmy Girard,   Dorothe Berryman,   Stphane Rousseau,   Marie-Jose Croze  ,28356,3430000
+    Love Actually  ,2003,R,135," Comedy, Drama, Romance            ",7.6,0,    Richard Curtis  ,      Hugh Grant,   Martine McCutcheon,   Liam Neeson,   Laura Linney  ,438943,59700000
+    Devdas  ,2002,Not Rated,185," Drama, Musical, Romance            ",7.6,0,    Sanjay Leela Bhansali  ,      Shah Rukh Khan,   Aishwarya Rai Bachchan,   Madhuri Dixit,   Jackie Shroff  ,38663,3500000
+    Moulin Rouge!  ,2001,PG-13,127," Drama, Musical, Romance            ",7.6,66,    Baz Luhrmann  ,      Nicole Kidman,   Ewan McGregor,   John Leguizamo,   Jim Broad ent  ,268036,57390000
+    Phantom Thread  ,2017,R,130," Drama, Romance            ",7.5,90,    Paul Thomas Anderson  ,      Vicky Krieps,   Daniel Day-Lewis,   Lesley Manville,   Julie Vollono  ,114020,21020000
+    The Big Sick  ,2017,R,120," Comedy, Drama, Romance            ",7.5,86,    Michael Showalter  ,      Kumail Nanjiani,   Zoe Kazan,   Holly Hunter,   Ray Romano  ,122361,42870000
+    The Garden of Words  ,2013,TV-14,46," Animation, Drama, Romance            ",7.5,0,    Makoto Shinkai  ,      Miyu Irino,   Kana Hanazawa,   Fumi Hirano,   Gou Maeda  ,35669,0
+    Brooklyn  ,2015,PG-13,117," Drama, Romance            ",7.5,88,    John Crowley  ,      Saoirse Ronan,   Emory Cohen,   Domhnall Gleeson,   Jim Broad ent  ,132301,38320000
+    Frances Ha  ,2012,R,86," Comedy, Drama, Romance            ",7.5,82,    Noah Baum ach  ,      Greta Gerwig,   Mickey Sumner,   Adam Driver,   Michael Zegen  ,75611,4060000
+    Fruitvale Station  ,2013,R,85," Biography, Crime, Drama            ",7.5,85,    Ryan Coogler  ,      Michael B. Jordan,   Melonie Diaz,   Octavia Spencer,   Kevin Durand  ,76361,16100000
+    Rust and Bone  ,2012,R,120," Drama, Romance            ",7.5,73,    Jacques Audiard  ,      Marion Cotillard,   Matthias Schoenaerts,   Armand Verdure,   Cline Sallette  ,64185,2060000
+    Summer Wars  ,2009,PG,114," Animation, Action, Adventure            ",7.5,63,    Mamoru Hosoda  ,      Rynosuke Kamiki,   Nanami Sakura a,   Mitsuki Tanimura,   Takahiro Yokokawa  ,26460,80000
+    I Killed My Mother  ,2009,Not Rated,96," Drama, Romance            ",7.5,77,    Xavier Dolan  ,      Anne Dorval,   Xavier Dolan,   Franois Arnaud,   Suzanne Clment  ,27978,0
+    A Royal Affair  ,2012,R,137," Biography, Drama, History            ",7.5,73,    Nikolaj Arcel  ,      Alicia Vikander,   Mads Mikkelsen,   Mikkel Boe Flsgaard,   Trine Dyrholm  ,44550,1550000
+    Biutiful  ,2010,R,148," Drama, Romance            ",7.5,0,    Alejandro G. Irritu  ,      Javier Bardem,   Maricel lvarez,   Hanaa Bouchai ,   Guillermo Estrella  ,86616,5100000
+"    Lust, Caution  ",2007,NC-17,157," Drama, History, Romance            ",7.5,61,    Ang Lee  ,      Tony Chiu-Wai Leung,   Tang Wei,   Joan Chen,   Leehom Wang  ,37641,4600000
+    Jaane Tu  ,2008,0,155," Comedy, Drama, Romance            ",7.5,0,    A  as Tyrewala  ,         Imran Khan,  Genelia D    Souza,     Manjari Fadnnis,     Ayaz Khan    ,25519,600000
+    The Painted Veil  ,2006,PG-13,125," Drama, Romance            ",7.5,69,    John Curran  ,      Naomi Watts,   Edward Norton,   Liev Schrei er,   Catherine An  ,89320,8060000
+    Scott Pilgrim vs. the World  ,2010,PG-13,112," Action, Comedy, Fantasy            ",7.5,69,    Edgar Wright  ,      Michael Cera,   Mary Eliza eth Winstead,   Kieran Culkin,   Anna Kendrick  ,382450,31490000
+    The Great De aters  ,2007,PG-13,126," Biography, Drama, Romance            ",7.5,65,    Denzel Washington  ,      Denzel Washington,   Forest Whitaker,   Kim erly Elise,   Nate Parker  ,56206,30230000
+    Stranger Than Fiction  ,2006,PG-13,113," Comedy, Drama, Fantasy            ",7.5,67,    Marc Forster  ,      Will Ferrell,   Emma Thompson,   Dustin Hoffman,   Queen Latifah  ,219928,40140000
+    The Edukators  ,2004,R,127," Drama, Romance            ",7.5,68,    Hans Weingartner  ,      Daniel Brhl,   Julia Jentsch,   Stipe Erceg,   Burghart Klauner  ,30774,180000
+    Little Children  ,2006,R,137," Drama, Romance            ",7.5,75,    Todd Field  ,      Kate Winslet,   Jennifer Connelly,   Patrick Wilson,   Jackie Earle Haley  ,105899,5460000
+    House of Flying Daggers  ,2004,PG-13,119," Action, Adventure, Drama            ",7.5,89,    Yimou Zhang  ,      Ziyi Zhang,   Takeshi Kaneshiro,   Andy Lau,   Dandan Song  ,108211,11050000
+    Sideways  ,2004,R,127," Comedy, Drama, Romance            ",7.5,94,    Alexander Payne  ,      Paul Giamatti,   Thomas Haden Church,   Virginia Madsen,   Sandra Oh  ,180261,71500000
+    Tell No One  ,2006,Not Rated,131," Crime, Drama, Mystery            ",7.5,82,    Guillaume Canet  ,      Franois Cluzet,   Marie-Jose Croze,   Andr Dussollier,   Kristin Scott Thomas  ,51178,6180000
+    The Hours  ,2002,PG-13,110," Drama, Romance            ",7.5,80,    Stephen Daldry  ,      Meryl Streep,   Nicole Kidman,   Julianne Moore,   Stephen Dillane  ,125105,41680000
+    Malena  ,2000,R,108," Comedy, Drama, Romance            ",7.5,0,    Giuseppe Tornatore  ,      Monica Bellucci,   Giuseppe Sulfaro,   Luciano Federico,   Matilde Piana  ,91335,3430000
+    High Fidelity  ,2000,R,113," Comedy, Drama, Music            ",7.5,79,    Stephen Frears  ,      John Cusack,   I en Hjejle,   Todd Louiso,   Jack Black  ,169284,27280000
+    Palm Springs  ,2020,R,90," Comedy, Fantasy, Mystery            ",7.4,83,    Max Bar akow  ,      Andy Sam erg,   Cristin Milioti,   J.K. Simmons,   Peter Gallagher  ,89119,0
+    Mirage  ,2018,TV-MA,128," Drama, Fantasy, Mystery            ",7.4,0,    Oriol Paulo  ,      Adriana Ugarte,   Chino Darn,   Javier Gutirrez,   lvaro Morte  ,43186,0
+    Downton A  ey  ,2019,PG,122," Drama, Romance            ",7.4,64,    Michael Engler  ,      Stephen Camp ell Moore,   Michael Fox,   Lesley Nicol,   Sophie McShera  ,40729,96850000
+    Paterson  ,2016,R,118," Comedy, Drama, Romance            ",7.4,90,    Jim Jarmusch  ,      Adam Driver,   Golshifteh Farahani,   Nellie,   Rizwan Manji  ,71418,2140000
+    Coming Soon  ,2014,0,134," Comedy, Drama, Romance            ",7.4,0,    Cem Yilmaz  ,      Cem Yilmaz,   Tlin zen,   Zafer Algz,   zkan Ugur  ,32001,0
+    I Origins  ,2014,R,106," Drama, Mystery, Romance            ",7.4,0,    Mike Cahill  ,      Michael Pitt,   Steven Yeun,   Astrid Bergs-Fris ey,   Brit Marling  ,116563,330000
+    Me Before You  ,2016,PG-13,106," Drama, Romance            ",7.4,0,    Thea Sharrock  ,      Emilia Clarke,   Sam Claflin,   Janet McTeer,   Charles Dance  ,211683,56250000
+    Begin Again  ,2013,R,104," Comedy, Drama, Music            ",7.4,62,    John Carney  ,      Keira Knightley,   Mark Ruffalo,   Adam Levine,   Hailee Steinfeld  ,144419,16170000
+    From Up on Poppy Hill  ,2011,PG,91," Animation, Drama, Family            ",7.4,71,    Gor Miyazaki  ,      Sarah Bolger,   Chris Noth,   Anton Yelchin,   Christina Hendricks  ,36340,1000000
+"    Crazy, Stupid, Love.  ",2011,PG-13,118," Comedy, Drama, Romance            ",7.4,68,    Glenn Ficarra   ,       Steve Carell,   Ryan Gosling,   Julianne Moore,   Emma Stone    ,476478,84350000
+    The Guernsey Literary and Potato Peel Pie Society  ,2018,TV-14,124," Drama, Romance, War            ",7.4,65,    Mike Newell  ,      Jessica Brown Findlay,   Tom Courtenay,   Michiel Huisman,   Katherine Parkinson  ,36450,0
+    Up in the Air  ,2009,R,109," Comedy, Drama, Romance            ",7.4,83,    Jason Reitman  ,      George Clooney,   Vera Farmiga,   Anna Kendrick,   Jason Bateman  ,319853,83820000
+    Blue Valentine  ,2010,R,112," Drama, Romance            ",7.4,81,    Derek Cianfrance  ,      Ryan Gosling,   Michelle Williams,   John Doman,   Faith Wladyka  ,185678,9740000
+    Notes on a Scandal  ,2006,R,92," Crime, Drama, Romance            ",7.4,73,    Richard Eyre  ,      Cate Blanchett,   Judi Dench,   Andrew Simpson,   Tom Georgeson  ,74903,17510000
+    Keith  ,2008,PG-13,95," Drama, Romance            ",7.4,0,    Todd Kessler  ,      Elisa eth Harnois,   Jesse McCartney,   Margo Harshman,   Ignacio Serricchio  ,35317,0
+    Memoirs of a Geisha  ,2005,PG-13,145," Drama, Romance            ",7.4,0,    Ro  Marshall  ,      Ziyi Zhang,   Ken Watana e,   Michelle Yeoh,   Suzuka Ohgo  ,138585,57490000
+    The Constant Gardener  ,2005,R,129," Drama, Mystery, Romance            ",7.4,82,    Fernando Meirelles  ,      Ralph Fiennes,   Rachel Weisz,   Danny Huston,   Hu ert Kound  ,133435,33580000
+    The Terminal  ,2004,PG-13,128," Comedy, Drama, Romance            ",7.4,0,    Steven Spiel erg  ,      Tom Hanks,   Catherine Zeta-Jones,   Chi McBride,   Stanley Tucci  ,410220,77870000
+    Garden State  ,2004,R,102," Comedy, Drama, Romance            ",7.4,67,    Zach Braff  ,      Zach Braff,   Peter Sarsgaard,   Natalie Portman,   Ian Holm  ,207095,26780000
+    Open Range  ,2003,R,139," Action, Drama, Romance            ",7.4,67,    Kevin Costner  ,      Kevin Costner,   Ro ert Duvall,   Diego Luna,   A raham Benru i  ,67126,58330000
+    A Walk to Remem er  ,2002,PG,101," Drama, Romance            ",7.4,0,    Adam Shankman  ,      Mandy Moore,   Shane West,   Peter Coyote,   Daryl Hannah  ,200344,41230000
+    Ka hi Khushi Ka hie Gham...  ,2001,Not Rated,210," Drama, Musical, Romance            ",7.4,0,    Karan Johar  ,      Shah Rukh Khan,   Kajol,   Amita h Bachchan,   Hrithik Roshan  ,45281,2900000
+2046,2004,R,129," Drama, Romance, Sci-Fi            ",7.4,78,    Kar-Wai Wong  ,      Tony Chiu-Wai Leung,   Ziyi Zhang,   Faye Wong,   Li Gong  ,51279,1440000
+    Frida  ,2002,R,123," Biography, Drama, Romance            ",7.4,61,    Julie Taymor  ,      Salma Hayek,   Alfred Molina,   Geoffrey Rush,   Ma Maestro  ,81870,25890000
+    The Ballad of Buster Scruggs  ,2018,R,133," Comedy, Drama, Musical            ",7.3,79,    Ethan Coen   ,       Tim Blake Nelson,   Willie Watson,   Clancy Brown,   Danny McCarthy    ,124690,0
+    The Shape of Water  ,2017,R,123," Adventure, Drama, Fantasy            ",7.3,87,    Guillermo del Toro  ,      Sally Hawkins,   Octavia Spencer,   Michael Shannon,   Doug Jones  ,375609,63860000
+    Youth  ,2015,R,124," Comedy, Drama, Music            ",7.3,64,    Paolo Sorrentino  ,      Michael Caine,   Harvey Keitel,   Rachel Weisz,   Jane Fonda  ,72470,2700000
+    Belle  ,2013,PG,100," Biography, Drama, Romance            ",7.3,64,    Amma Asante  ,      Gugu M atha-Raw,   Matthew Goode,   Emily Watson,   Miranda Richardson  ,28429,10730000
+    Anomalisa  ,2015,R,90," Animation, Comedy, Drama            ",7.3,88,    Duke Johnson   ,       David Thewlis,   Jennifer Jason Leigh,   Tom Noonan  ,,66814,3760000
+    The Book of Life  ,2014,PG,95," Animation, Adventure, Comedy            ",7.3,67,    Jorge R. Gutirrez  ,      Diego Luna,   Zoe Saldana,   Channing Tatum,   Ron Perlman  ,65211,50150000
+    Only Lovers Left Alive  ,2013,R,123," Comedy, Drama, Fantasy            ",7.3,79,    Jim Jarmusch  ,      Tilda Swinton,   Tom Hiddleston,   Mia Wasikowska,   John Hurt  ,91743,1880000
+    The Next Three Days  ,2010,PG-13,133," Action, Crime, Drama            ",7.3,0,    Paul Haggis  ,      Russell Crowe,   Eliza eth Banks,   Liam Neeson,   Michael Buie  ,185823,21150000
+    Su marine  ,2010,R,97," Comedy, Drama, Romance            ",7.3,76,    Richard Ayoade  ,      Craig Ro erts,   Sally Hawkins,   Paddy Considine,   Noah Taylor  ,86027,470000
+    The Best Exotic Marigold Hotel  ,2011,PG-13,124," Comedy, Drama, Romance            ",7.3,62,    John Madden  ,      Judi Dench,   Bill Nighy,   Maggie Smith,   Tom Wilkinson  ,90683,46410000
+    Jane Eyre  ,2011,PG-13,120," Drama, Romance            ",7.3,76,    Cary Joji Fukunaga  ,      Mia Wasikowska,   Michael Fass ender,   Jamie Bell,   Su Elliot  ,82109,11240000
+    The Young Victoria  ,2009,PG,105," Biography, Drama, History            ",7.3,64,    Jean-Marc Valle  ,      Emily Blunt,   Rupert Friend,   Paul Bettany,   Miranda Richardson  ,58225,11000000
+    Revolutionary Road  ,2008,R,119," Drama, Romance            ",7.3,69,    Sam Mendes  ,      Leonardo DiCaprio,   Kate Winslet,   Christopher Fitzgerald,   Jonathan Roumie  ,198605,22910000
+    Lars and the Real Girl  ,2007,PG-13,106," Comedy, Drama, Romance            ",7.3,70,    Craig Gillespie  ,      Ryan Gosling,   Emily Mortimer,   Paul Schneider,   R.D. Reid  ,138944,5970000
+    Wristcutters: A Love Story  ,2006,R,88," Comedy, Drama, Fantasy            ",7.3,62,    Goran Dukic  ,      Patrick Fugit,   Shea Whigham,   Tom Waits,   Will Arnett  ,53954,320000
+    Across the Universe  ,2007,PG-13,133," Drama, Fantasy, History            ",7.3,0,    Julie Taymor  ,      Evan Rachel Wood,   Jim Sturgess,   Joe Anderson,   Dana Fuchs  ,106375,24340000
+    Peaceful Warrior  ,2006,PG-13,120," Drama, Romance, Sport            ",7.3,0,    Victor Salva  ,      Scott Mechlowicz,   Nick Nolte,   Amy Smart,   Tim DeKay  ,26803,3960000
+    The Life Aquatic with Steve Zissou  ,2004,R,119," Action, Adventure, Comedy            ",7.3,62,    Wes Anderson  ,      Bill Murray,   Owen Wilson,   Anjelica Huston,   Cate Blanchett  ,181419,24010000
+    The Secret Life of Walter Mitty  ,2013,PG,114," Adventure, Comedy, Drama            ",7.3,0,    Ben Stiller  ,      Ben Stiller,   Kristen Wiig,   Jon Daly,   Kathryn Hahn  ,295119,58240000
+    The Science of Sleep  ,2006,R,105," Comedy, Drama, Fantasy            ",7.3,70,    Michel Gondry  ,      Gael Garca Bernal,   Charlotte Gains ourg,   Miou-Miou,   Alain Cha at  ,67759,4660000
+    Far from Heaven  ,2002,PG-13,107," Drama, Romance            ",7.3,84,    Todd Haynes  ,      Julianne Moore,   Dennis Quaid,   Dennis Hays ert,   Patricia Clarkson  ,44133,15850000
+    L' au erge espagnole  ,2002,R,122," Comedy, Drama, Romance            ",7.3,65,    Cdric Klapisch  ,      Romain Duris,   Judith Godrche,   Kelly Reilly,   Audrey Tautou  ,39630,3900000
+    Punch-Drunk Love  ,2002,R,95," Comedy, Drama, Romance            ",7.3,78,    Paul Thomas Anderson  ,      Adam Sandler,   Emily Watson,   Philip Seymour Hoffman,   Jason Andrews  ,148886,17840000
+    Corpse Bride  ,2005,PG,77," Animation, Drama, Family            ",7.3,83,    Tim Burton   ,       Johnny Depp,   Helena Bonham Carter,   Emily Watson,   Tracey Ullman    ,246893,53360000
+    The King  ,2019,R,140," Biography, Drama, History            ",7.2,62,    David Michd  ,      Tom Glynn-Carney,   G or Czap,   Tom Fisher,   Edward Ashley  ,91420,0
+    Five Feet Apart  ,2019,PG-13,116," Drama, Romance            ",7.2,0,    Justin Baldoni  ,      Haley Lu Richardson,   Cole Sprouse,   Moises Arias,   Kim erly He ert Gregory  ,45653,45730000
+    Anthropoid  ,2016,R,120," Action, Biography, Drama            ",7.2,0,    Sean Ellis  ,      Jamie Dornan,   Cillian Murphy,   Brian Caspe,   Karel Hermnek Jr.  ,44330,2960000
+    Bajirao Mastani  ,2015,Not Rated,158," Action, Drama, History            ",7.2,0,    Sanjay Leela Bhansali  ,      Ranveer Singh,   Deepika Padukone,   Priyanka Chopra,   Tanvi Azmi  ,31534,6560000
+    The Lo ster  ,2015,R,119," Comedy, Drama, Romance            ",7.2,82,    Yorgos Lanthimos  ,      Colin Farrell,   Rachel Weisz,   Jessica Barden,   Olivia Colman  ,222427,8700000
+    The Light Between Oceans  ,2016,PG-13,133," Drama, Romance            ",7.2,0,    Derek Cianfrance  ,      Michael Fass ender,   Alicia Vikander,   Rachel Weisz,   Florence Clery  ,52611,12550000
+    Carol  ,2015,R,118," Drama, Romance            ",7.2,94,    Todd Haynes  ,      Cate Blanchett,   Rooney Mara,   Sarah Paulson,   Kyle Chandler  ,117161,12710000
+    Stuck in Love.  ,2012,R,97," Comedy, Drama, Romance            ",7.2,0,    Josh Boone  ,      Greg Kinnear,   Jennifer Connelly,   Lily Collins,   Nat Wolff  ,84197,80000
+    The Sessions  ,2012,R,95," Biography, Comedy, Drama            ",7.2,79,    Ben Lewin  ,      John Hawkes,   Helen Hunt,   William H. Macy,   Moon Bloodgood  ,41262,6000000
+    Ru y Sparks  ,2012,R,104," Comedy, Drama, Fantasy            ",7.2,67,    Jonathan Dayton   ,       Paul Dano,   Zoe Kazan,   Annette Bening,   Antonio Banderas    ,96133,2540000
+    The Age of Adaline  ,2015,PG-13,112," Drama, Fantasy, Romance            ",7.2,0,    Lee Toland Krieger  ,      Blake Lively,   Michiel Huisman,   Harrison Ford,   Kathy Baker  ,156212,42480000
+"    Love, Rosie  ",2014,R,102," Comedy, Romance            ",7.2,0,    Christian Ditter  ,      Lily Collins,   Sam Claflin,   Christian Cooke,   Jaime Winstone  ,123613,20000
+    Beginners  ,2010,R,105," Comedy, Drama, Romance            ",7.2,81,    Mike Mills  ,      Ewan McGregor,   Christopher Plummer,   Mlanie Laurent,   Goran Visnjic  ,88424,5790000
+    The Great Gats y  ,2013,PG-13,143," Drama, Romance            ",7.2,0,    Baz Luhrmann  ,      Leonardo DiCaprio,   Carey Mulligan,   Joel Edgerton,   To ey Maguire  ,483376,144840000
+    Crazy Heart  ,2009,R,112," Drama, Music, Romance            ",7.2,83,    Scott Cooper  ,      Jeff Bridges,   Maggie Gyllenhaal,   Colin Farrell,   James Keane  ,84563,39460000
+    Agora  ,2009,R,127," Adventure, Biography, Drama            ",7.2,0,    Alejandro Amen ar  ,      Rachel Weisz,   Max Minghella,   Oscar Isaac,   Ashraf Barhom  ,66315,620000
+    Adam  ,2009,PG-13,99," Comedy, Drama, Romance            ",7.2,0,    Max Mayer  ,      Hugh Dancy,   Rose Byrne,   Peter Gallagher,   Amy Irving  ,33585,2280000
+    Ra  Ne Bana Di Jodi  ,2008,Not Rated,167," Comedy, Drama, Music            ",7.2,0,    Aditya Chopra  ,      Shah Rukh Khan,   Anushka Sharma,   Vinay Pathak,   M.K. Raina  ,44092,2070000
+    Broken Em races  ,2009,R,127," Drama, Romance, Thriller            ",7.2,76,    Pedro Almodvar  ,      Penlope Cruz,   Llus Homar,   Blanca Portillo,   Jos Luis Gmez  ,38723,5010000
+    Cash ack  ,2006,R,102," Comedy, Drama, Romance            ",7.2,0,    Sean Ellis  ,      Sean Biggerstaff,   Emilia Fox,   Michelle Ryan,   Erica Ellis  ,83098,20000
+    Fanaa  ,2006,Not Rated,168," Drama, Romance            ",7.2,0,    Kunal Kohli  ,      Aamir Khan,   Kajol,   Rishi Kapoor,   Ta u  ,31037,2100000
+    Candy  ,2006,R,108," Drama, Romance            ",7.2,0,    Neil Armfield  ,      Heath Ledger,   A  ie Cornish,   Geoffrey Rush,   Tom Budge  ,43648,40000
+    The Fountain  ,2006,PG-13,97," Drama, Mystery, Romance            ",7.2,0,    Darren Aronofsky  ,      Hugh Jackman,   Rachel Weisz,   Sean Patrick Thomas,   Ellen Burstyn  ,229221,10140000
+    Broken Flowers  ,2005,R,106," Comedy, Drama, Mystery            ",7.2,79,    Jim Jarmusch  ,      Bill Murray,   Jessica Lange,   Sharon Stone,   Julie Delpy  ,98702,13740000
+"    Paris, je t' aime  ",2006,R,120," Comedy, Drama, Romance            ",7.2,66,    Olivier Assayas   ,      Gurinder Chadha,   Sylvain Chomet,   Ethan Coen,   Joel Coen,70669,4860000
+    Closer  ,2004,R,104," Drama, Romance            ",7.2,65,    Mike Nichols  ,      Natalie Portman,   Jude Law,   Clive Owen,   Julia Ro erts  ,204352,33990000
+    King Kong  ,2005,PG-13,187," Action, Adventure, Drama            ",7.2,81,    Peter Jackson  ,      Naomi Watts,   Jack Black,   Adrien Brody,   Thomas Kretschmann  ,393789,218080000
+    The Cat Returns  ,2002,G,75," Animation, Adventure, Comedy            ",7.2,70,    Hiroyuki Morita  ,      Chizuru Ikewaki,   Yoshihiko Hakamada,   Aki Maeda,   Takayuki Yamada  ,49832,0
+    The Dreamers  ,2003,NC-17,115," Drama, Romance            ",7.2,62,    Bernardo Bertolucci  ,      Michael Pitt,   Louis Garrel,   Eva Green,   Anna Chancellor  ,111773,2530000
+    Shrek 2  ,2004,PG,93," Animation, Adventure, Comedy            ",7.2,75,    Andrew Adamson   ,    Mike Myers,   Eddie Murphy,   Cameron Diaz,     ,422239,436470000
+    The Phantom of the Opera  ,2004,PG-13,143," Drama, Musical, Romance            ",7.2,0,    Joel Schumacher  ,      Gerard Butler,   Emmy Rossum,   Patrick Wilson,   Miranda Richardson  ,116715,51270000
+    Chocolat  ,2000,PG-13,121," Drama, Romance            ",7.2,64,    Lasse Hallstrm  ,      Juliette Binoche,   Judi Dench,   Alfred Molina,   Carrie-Anne Moss  ,178592,71510000
+    Cold Mountain  ,2003,R,154," Adventure, Drama, History            ",7.2,73,    Anthony Minghella  ,      Jude Law,   Nicole Kidman,   Rene Zellweger,   Eileen Atkins  ,140530,95640000
+    Ka ir Singh  ,2019,Not Rated,173," Drama, Romance            ",7.1,0,    Sandeep Reddy Vanga  ,      Shahid Kapoor,   Kiara Advani,   Nikita Dutta,   Soham Majumdar  ,26631,0
+    Queen & Slim  ,2019,R,132," Crime, Drama, Romance            ",7.1,74,    Melina Matsoukas  ,      Daniel Kaluuya,   Jodie Turner-Smith,   Bokeem Wood ine,   Chlo Sevigny  ,25144,0
+    If Beale Street Could Talk  ,2018,R,119," Drama, Romance            ",7.1,87,    Barry Jenkins  ,      KiKi Layne,   Stephan James,   Regina King,   Teyonah Parris  ,43168,14920000
+    Julieta  ,2016,R,99," Drama, Mystery, Romance            ",7.1,73,    Pedro Almodvar  ,      Emma Surez,   Adriana Ugarte,   Daniel Grao,   Inma Cuesta  ,29211,1490000
+    Colonia  ,2015,R,110," Biography, Drama, History            ",7.1,0,    Florian Gallen erger  ,      Emma Watson,   Daniel Brhl,   Michael Nyqvist,   Richenda Carey  ,48301,0
+    To All the Boys I' ve Loved Before  ,2018,TV-14,99," Comedy, Drama, Romance            ",7.1,64,    Susan Johnson  ,      Lana Condor,   Noah Centineo,   Janel Parrish,   Anna Cathcart  ,90406,0
+    Allied  ,2016,R,124," Action, Drama, Romance            ",7.1,0,    Ro ert Zemeckis  ,      Brad Pitt,   Marion Cotillard,   Jared Harris,   Vincent E rahim  ,142870,40100000
+    45 Years  ,2015,R,91," Drama, Romance            ",7.1,94,    Andrew Haigh  ,      Charlotte Rampling,   Tom Courtenay,   Geraldine James,   Dolly Wells  ,31240,4250000
+    A Brilliant Young Mind  ,2014,PG-13,111," Drama, Romance            ",7.1,65,    Morgan Matthews  ,      Asa Butterfield,   Rafe Spall,   Sally Hawkins,   Eddie Marsan  ,27591,140000
+    Far from the Madding Crowd  ,2015,PG-13,119," Drama, Romance            ",7.1,71,    Thomas Vinter erg  ,      Carey Mulligan,   Matthias Schoenaerts,   Michael Sheen,   Tom Sturridge  ,45681,12230000
+    The Little Death  ,2014,Not Rated,96," Comedy, Drama, Romance            ",7.1,0,    Josh Lawson  ,      Bojana Novakovic,   Josh Lawson,   Damon Herriman,   Kate Mulvany  ,25263,20000
+    Beauty and the Beast  ,2017,PG,129," Family, Fantasy, Musical            ",7.1,65,    Bill Condon  ,      Emma Watson,   Dan Stevens,   Luke Evans,   Josh Gad  ,276922,504010000
+    The One I Love  ,2014,R,91," Comedy, Drama, Romance            ",7.1,66,    Charlie McDowell  ,      Mark Duplass,   Elisa eth Moss,   Ted Danson,   Kiana Cason  ,36145,510000
+    The Longest Ride  ,2015,PG-13,123," Drama, Romance            ",7.1,0,    George Tillman Jr.  ,      Scott Eastwood,   Britt Ro ertson,   Alan Alda,   Jack Huston  ,77224,37450000
+    Yeh Jawaani Hai Deewani  ,2013,Not Rated,160," Drama, Musical, Romance            ",7.1,0,    Ayan Mukherjee  ,      Ran ir Kapoor,   Deepika Padukone,   Aditya Roy Kapoor,   Kalki Koechlin  ,38647,3830000
+    The Railway Man  ,2013,R,116," Biography, Drama, Romance            ",7.1,0,    Jonathan Teplitzky  ,      Colin Firth,   Nicole Kidman,   Stellan Skarsgrd,   Jeremy Irvine  ,37624,4440000
+    Pitch Perfect  ,2012,PG-13,112," Comedy, Music, Romance            ",7.1,66,    Jason Moore  ,      Anna Kendrick,   Brittany Snow,   Re el Wilson,   Anna Camp  ,278316,65000000
+    Now Is Good  ,2012,PG-13,103," Drama, Romance            ",7.1,0,    Ol Parker  ,      Dakota Fanning,   Josef Altin,   Jeremy Irvine,   Paddy Considine  ,33234,0
+    The Spectacular Now  ,2013,R,95," Comedy, Drama, Romance            ",7.1,82,    James Ponsoldt  ,      Miles Teller,   Shailene Woodley,   Kyle Chandler,   Jennifer Jason Leigh  ,145054,6850000
+    Heart eats  ,2010,Not Rated,101," Drama, Romance            ",7.1,70,    Xavier Dolan  ,      Xavier Dolan,   Monia Chokri,   Niels Schneider,   Anne Dorval  ,27613,60000
+    Perfect Sense  ,2011,R,92," Drama, Romance, Sci-Fi            ",7.1,0,    David Mackenzie  ,      Ewan McGregor,   Eva Green,   Lauren Tempany,   Connie Nielsen  ,56854,0
+    Remem er Me  ,2010,PG-13,113," Drama, Romance            ",7.1,0,    Allen Coulter  ,      Ro ert Pattinson,   Emilie de Ravin,   Caitlyn Rund,   Moiss Acevedo  ,138975,19070000
+    Never Let Me Go  ,2010,R,103," Drama, Romance, Sci-Fi            ",7.1,69,    Mark Romanek  ,      Keira Knightley,   Carey Mulligan,   Andrew Garfield,   Izzy Meikle-Small  ,137805,2430000
+    Nowhere Boy  ,2009,R,98," Biography, Drama, Music            ",7.1,67,    Sam Taylor-Johnson  ,      Aaron Taylor-Johnson,   Kristin Scott Thomas,   Anne-Marie Duff,   David Threlfall  ,35257,1450000
+    Whatever Works  ,2009,PG-13,93," Comedy, Romance            ",7.1,0,    Woody Allen  ,      Evan Rachel Wood,   Larry David,   Henry Cavill,   Adam Brooks  ,71346,5310000
+    Welcome to the Sticks  ,2008,Not Rated,106," Comedy, Romance            ",7.1,0,    Dany Boon  ,      Kad Merad,   Dany Boon,   Zo Flix,   Lorenzo Ausilia-Foret  ,39727,1480000
+    Miss Pettigrew Lives for a Day  ,2008,PG-13,92," Comedy, Romance            ",7.1,63,    Bharat Nalluri  ,      Frances McDormand,   Amy Adams,   Ciarn Hinds,   David Alexander  ,26582,12290000
+"    Definitely, May e  ",2008,PG-13,112," Comedy, Drama, Romance            ",7.1,0,    Adam Brooks  ,      Ryan Reynolds,   Rachel Weisz,   A igail Breslin,   An Nguyen  ,156279,31970000
+    The Danish Girl  ,2015,R,119," Biography, Drama, Romance            ",7.1,66,    Tom Hooper  ,      Eddie Redmayne,   Alicia Vikander,   Am er Heard,   Ben Whishaw  ,165635,11110000
+    It' s Kind of a Funny Story  ,2010,PG-13,101," Comedy, Drama, Romance            ",7.1,63,    Anna Boden   ,       Keir Gilchrist,   Zach Galifianakis,   Emma Ro erts,   Dana DeVestern    ,136525,6350000
+    Forgetting Sarah Marshall  ,2008,R,111," Comedy, Drama, Romance            ",7.1,67,    Nicholas Stoller  ,      Kristen Bell,   Jason Segel,   Paul Rudd,   Mila Kunis  ,265675,63170000
+    The Messenger  ,2009,R,113," Drama, Romance, War            ",7.1,77,    Oren Moverman  ,      Ben Foster,   Samantha Morton,   Woody Harrelson,   Jena Malone  ,33992,70000
+    The Princess and the Frog  ,2009,G,97," Animation, Adventure, Comedy            ",7.1,73,    Ron Clements   ,       Anika Noni Rose,   Keith David,   Oprah Winfrey,   Bruno Campos    ,125691,104400000
+    Thirst  ,2009,R,134," Drama, Fantasy, Horror            ",7.1,73,    Chan-wook Park  ,      Kang-ho Song,   Kim Ok- in,   Hee-jin Choi,   Dong-soo Seo  ,42976,300000
+    Vicky Cristina Barcelona  ,2008,PG-13,96," Comedy, Drama, Romance            ",7.1,70,    Woody Allen  ,      Re ecca Hall,   Scarlett Johansson,   Javier Bardem,   Christopher Evan Welch  ,243522,23220000
+    Angel-A  ,2005,R,91," Comedy, Drama, Fantasy            ",7.1,0,    Luc Besson  ,      Rie Rasmussen,   Jamel De  ouze,   Gil ert Melki,   Serge Ria oukine  ,32195,200000
+    The Time Traveler' s Wife  ,2009,PG-13,107," Drama, Fantasy, Romance            ",7.1,0,    Ro ert Schwentke  ,      Eric Bana,   Rachel McAdams,   Ron Livingston,   Michelle Nolden  ,141150,63410000
+    The 40-Year-Old Virgin  ,2005,R,116," Comedy, Romance            ",7.1,73,    Judd Apatow  ,      Steve Carell,   Catherine Keener,   Paul Rudd,   Romany Malco  ,398345,109450000
+    If Only  ,2004,PG-13,92," Comedy, Drama, Fantasy            ",7.1,0,    Gil Junger  ,      Jennifer Love Hewitt,   Paul Nicholls,   Tom Wilkinson,   Diana Hardcastle  ,31511,0
+    8 Women  ,2002,R,111," Comedy, Crime, Musical            ",7.1,64,    Franois Ozon  ,      Fanny Ardant,   Emmanuelle Bart,   Danielle Darrieux,   Catherine Deneuve  ,29452,3080000
+    Sex and Luca  ,2001,R,128," Drama, Romance            ",7.1,65,    Julio Medem  ,      Paz Vega,   Tristn Ulloa,   Najwa Nimri,   Elena Anaya  ,35299,1490000
+    Moha  atein  ,2000,Not Rated,216," Musical, Drama, Romance            ",7.1,0,    Aditya Chopra  ,      Amita h Bachchan,   Shah Rukh Khan,   Uday Chopra,   Jugal Hansraj  ,27464,0
+    Thelma  ,2017,Not Rated,116," Drama, Fantasy, Horror            ",7.0,74,    Joachim Trier  ,      Eili Har oe,   Kaya Wilkins,   Henrik Rafaelsen,   Ellen Dorrit Petersen  ,27080,150000
+    Padmaavat  ,2018,Not Rated,164," Drama, History, Romance            ",7.0,63,    Sanjay Leela Bhansali  ,      Deepika Padukone,   Ranveer Singh,   Shahid Kapoor,   Aditi Rao Hydari  ,27826,11850000
+    Border  ,2018,R,110," Crime, Drama, Fantasy            ",7.0,75,    Ali A  asi  ,      Eva Melander,   Eero Milonoff,   Jrgen Thorsson,   Ann Petrn  ,25110,770000
+    Loving  ,2016,PG-13,123," Biography, Drama, Romance            ",7.0,79,    Jeff Nichols  ,      Ruth Negga,   Joel Edgerton,   Will Dalton,   Dean Mumford  ,32139,7700000
+    Swiss Army Man  ,2016,R,97," Comedy, Drama, Fantasy            ",7.0,64,    Dan Kwan   ,       Paul Dano,   Daniel Radcliffe,   Mary Eliza eth Winstead,   Antonia Ri ero    ,106999,4210000
+    American Honey  ,2016,R,163," Adventure, Drama, Romance            ",7.0,80,    Andrea Arnold  ,      Sasha Lane,   Shia LaBeouf,   Riley Keough,   McCaul Lom ardi  ,38941,660000
+    Enough Said  ,2013,PG-13,93," Comedy, Drama, Romance            ",7.0,78,    Nicole Holofcener  ,      Julia Louis-Dreyfus,   James Gandolfini,   Catherine Keener,   Toni Collette  ,59110,17540000
+    A Girl Walks Home Alone at Night  ,2014,Not Rated,101," Drama, Horror, Romance            ",7.0,81,    Ana Lily Amirpour  ,      Sheila Vand,   Arash Marandi,   Marshall Manesh,   Mozhan Marn  ,31696,0
+    Aashiqui 2  ,2013,Not Rated,132," Drama, Music, Musical            ",7.0,0,    Mohit Suri  ,      Aditya Roy Kapoor,   Shraddha Kapoor,   Shaad Randhawa,   Salil Acharya  ,26806,0
+    In Your Eyes  ,2014,Not Rated,106," Fantasy, Romance            ",7.0,0,    Brin Hill  ,      Michael Stahl-David,   Zoe Kazan,   Mark Feuerstein,   David Gallagher  ,30272,0
+    Safety Not Guaranteed  ,2012,R,86," Comedy, Drama, Romance            ",7.0,72,    Colin Trevorrow  ,      Au rey Plaza,   Mark Duplass,   Jake Johnson,   Karan Soni  ,120679,4010000
+    The Words  ,2012,PG-13,102," Drama, Mystery, Romance            ",7.0,0,    Brian Klugman   ,       Bradley Cooper,   Dennis Quaid,   Olivia Wilde,   Zoe Saldana    ,74961,11490000
+    Maleficent  ,2014,PG,97," Action, Adventure, Family            ",7.0,0,    Ro ert Strom erg  ,      Angelina Jolie,   Elle Fanning,   Sharlto Copley,   Lesley Manville  ,346378,241410000
+    One Day  ,2011,PG-13,107," Drama, Romance            ",7.0,0,    Lone Scherfig  ,      Anne Hathaway,   Jim Sturgess,   Patricia Clarkson,   Tom Mison  ,140196,13840000
+    Another Earth  ,2011,PG-13,92," Drama, Romance, Sci-Fi            ",7.0,66,    Mike Cahill  ,      Brit Marling,   William Mapother,   Matthew-Lee Erl ach,   DJ Flava  ,91416,1320000
+    The Adjustment Bureau  ,2011,PG-13,106," Romance, Sci-Fi, Thriller            ",7.0,0,    George Nolfi  ,      Matt Damon,   Emily Blunt,   Lisa Thoreson,   Florence Kastriner  ,245182,62500000
+    Passengers  ,2016,PG-13,116," Drama, Romance, Sci-Fi            ",7.0,0,    Morten Tyldum  ,      Jennifer Lawrence,   Chris Pratt,   Michael Sheen,   Laurence Fish urne  ,353088,100010000
+    Behind The Candela ra  ,2013,TV-MA,118," Biography, Drama, Music            ",7.0,0,    Steven Soder ergh  ,      Michael Douglas,   Matt Damon,   Scott Bakula,   Eric Zuckerman  ,40958,0
+    Easy A  ,2010,PG-13,92," Comedy, Drama, Romance            ",7.0,72,    Will Gluck  ,      Emma Stone,   Amanda Bynes,   Penn Badgley,   Dan Byrd  ,361733,58400000
+    Away We Go  ,2009,R,98," Adventure, Comedy, Drama            ",7.0,0,    Sam Mendes  ,      John Krasinski,   Maya Rudolph,   Allison Janney,   Carmen Ejogo  ,51996,9450000
+"    I Love You, Man  ",2009,R,105," Comedy, Romance            ",7.0,70,    John Ham urg  ,      Paul Rudd,   Jason Segel,   Rashida Jones,   Sarah Burns  ,194609,71440000
+    Julie & Julia  ,2009,PG-13,123," Biography, Drama, Romance            ",7.0,66,    Nora Ephron  ,      Amy Adams,   Meryl Streep,   Chris Messina,   Stanley Tucci  ,109094,94130000
+    Big Eyes  ,2014,PG-13,106," Biography, Crime, Drama            ",7.0,62,    Tim Burton  ,      Amy Adams,   Christoph Waltz,   Danny Huston,   Krysten Ritter  ,86556,14480000
+    Two Lovers  ,2008,R,110," Drama, Romance            ",7.0,74,    James Gray  ,      Joaquin Phoenix,   Gwyneth Paltrow,   Vinessa Shaw,   Anne Joyce  ,38048,3150000
+    The Wackness  ,2008,R,99," Comedy, Drama, Romance            ",7.0,61,    Jonathan Levine  ,      Josh Peck,   Ben Kingsley,   Olivia Thirl y,   Famke Janssen  ,29878,2080000
+    Happy-Go-Lucky  ,2008,R,118," Comedy, Drama, Romance            ",7.0,84,    Mike Leigh  ,      Sally Hawkins,   Alexis Zegerman,   Samuel Roukin,   Elliot Cowan  ,37940,3490000
+    The Warlords  ,2007,R,126," Action, Adventure, Drama            ",7.0,70,    Peter Ho-Sun Chan   ,       Jet Li,   Andy Lau,   Takeshi Kaneshiro,   Jinglei Xu    ,25823,130000
+    The Kids Are All Right  ,2010,R,106," Comedy, Drama, Romance            ",7.0,86,    Lisa Cholodenko  ,      Annette Bening,   Julianne Moore,   Mark Ruffalo,   Mia Wasikowska  ,126105,20810000
+    Priceless  ,2006,PG-13,106," Comedy, Romance            ",7.0,72,    Pierre Salvadori  ,      Audrey Tautou,   Gad Elmaleh,   Marie-Christine Adam,   Vernon Do tcheff  ,30931,1500000
+    Curse of the Golden Flower  ,2006,R,114," Action, Drama, History            ",7.0,70,    Yimou Zhang  ,      Yun-Fat Chow,   Li Gong,   Jay Chou,   Ye Liu  ,42404,6570000
+    Waitress  ,2007,PG-13,108," Comedy, Drama, Romance            ",7.0,75,    Adrienne Shelly  ,      Keri Russell,   Nathan Fillion,   Jeremy Sisto,   Cheryl Hines  ,43813,19070000
+    Enchanted  ,2007,PG,107," Animation, Comedy, Family            ",7.0,75,    Kevin Lima  ,      Amy Adams,   Susan Sarandon,   James Marsden,   Patrick Dempsey  ,177713,127810000
+    P.S. I Love You  ,2007,PG-13,126," Comedy, Drama, Romance            ",7.0,0,    Richard LaGravenese  ,      Hilary Swank,   Gerard Butler,   Harry Connick Jr.,   Lisa Kudrow  ,200795,53700000
+    Charlie Bartlett  ,2007,R,97," Comedy, Drama, Romance            ",7.0,0,    Jon Poll  ,      Anton Yelchin,   Ro ert Downey Jr.,   Hope Davis,   Kat Dennings  ,63183,3950000
+    Becoming Jane  ,2007,PG,120," Biography, Drama, Romance            ",7.0,0,    Julian Jarrold  ,      Anne Hathaway,   James McAvoy,   Julie Walters,   James Cromwell  ,58557,18670000
+    A Good Year  ,2006,PG-13,117," Comedy, Drama, Romance            ",7.0,0,    Ridley Scott  ,      Russell Crowe,   A  ie Cornish,   Al ert Finney,   Marion Cotillard  ,89141,7460000
+    The Merchant of Venice  ,2004,R,131," Drama, Romance            ",7.0,63,    Michael Radford  ,      Al Pacino,   Joseph Fiennes,   Lynn Collins,   Jeremy Irons  ,35150,3770000
+    Kinsey  ,2004,R,118," Biography, Drama, Romance            ",7.0,79,    Bill Condon  ,         Liam Neeson,     Laura Linney,  Chris O    Donnell,     Peter Sarsgaard    ,47596,10210000
+    An Unfinished Life  ,2005,PG-13,108," Drama, Family, Romance            ",7.0,0,    Lasse Hallstrm  ,      Jennifer Lopez,   Ro ert Redford,   Morgan Freeman,   Josh Lucas  ,29082,8590000
+    Main Hoon Na  ,2004,Not Rated,182," Action, Comedy, Drama            ",7.0,0,    Farah Khan  ,      Shah Rukh Khan,   Sushmita Sen,   Sunil Shetty,   Zayed Khan  ,32469,1720000
+    Wicker Park  ,2004,PG-13,114," Drama, Mystery, Romance            ",7.0,0,    Paul McGuigan  ,      Josh Hartnett,   Diane Kruger,   Matthew Lillard,   Rose Byrne  ,52997,12830000
+    Elf  ,2003,PG,97," Adventure, Comedy, Family            ",7.0,64,    Jon Favreau  ,      Will Ferrell,   James Caan,   Bo  Newhart,   Zooey Deschanel  ,232501,173400000
+    Monster' s Ball  ,2001,R,111," Drama, Romance            ",7.0,69,    Marc Forster  ,      Billy Bo  Thornton,   Halle Berry,   Taylor Simpson,   Ga rielle Witcher  ,82961,31250000
+    A out a Boy  ,2002,PG-13,101," Comedy, Drama, Romance            ",7.0,75,    Chris Weitz   ,       Hugh Grant,   Nicholas Hoult,   Toni Collette,   Sharon Small    ,173639,41390000
+    Secretary  ,2002,R,107," Comedy, Drama, Romance            ",7.0,63,    Steven Shain erg  ,      James Spader,   Maggie Gyllenhaal,   Jeremy Davies,   Lesley Ann Warren  ,83999,4060000
+    Confessions of a Dangerous Mind  ,2002,R,113," Biography, Comedy, Crime            ",7.0,67,    George Clooney  ,      Sam Rockwell,   Drew Barrymore,   George Clooney,   Julia Ro erts  ,84097,16000000
+    The Quiet American  ,2002,R,101," Drama, Romance, Thriller            ",7.0,84,    Phillip Noyce  ,      Michael Caine,   Brendan Fraser,   Thi Hai Yen Do,   Rade Ser edzija  ,27268,12990000
+    Meet the Parents  ,2000,PG-13,108," Comedy, Romance            ",7.0,73,    Jay Roach  ,      Ben Stiller,   Ro ert De Niro,   Teri Polo,   Blythe Danner  ,312556,166240000
+    The Half of It  ,2020,PG-13,104," Comedy, Drama, Romance            ",6.9,74,    Alice Wu  ,      Leah Lewis,   Daniel Diemer,   Alexxis Lemire,   Wolfgang Novogratz  ,28952,0
+    A Ghost Story  ,2017,R,92," Drama, Fantasy, Romance            ",6.9,84,    David Lowery  ,      Casey Affleck,   Rooney Mara,   McColm Cephas Jr.,   Kenneisha Thompson  ,61787,1600000
+    Aladdin  ,2019,PG,128," Adventure, Family, Fantasy            ",6.9,0,    Guy Ritchie  ,      Will Smith,   Mena Massoud,   Naomi Scott,   Marwan Kenzari  ,230853,355560000
+    Slow West  ,2015,R,84," Action, Adventure, Drama            ",6.9,72,    John Maclean  ,      Kodi Smit-McPhee,   Caren Pistorius,   Aorere Paki,   Jeffrey Thomas  ,43034,230000
+    The Diary of a Teenage Girl  ,2015,R,102," Comedy, Drama, Romance            ",6.9,87,    Marielle Heller  ,      Bel Powley,   Alexander Skarsgrd,   Kristen Wiig,   Christopher Meloni  ,29932,1480000
+    Crazy Rich Asians  ,2018,PG-13,120," Comedy, Drama, Romance            ",6.9,74,    Jon M. Chu  ,      Constance Wu,   Henry Golding,   Michelle Yeoh,   Gemma Chan  ,144294,174530000
+    La or Day  ,2013,PG-13,111," Drama, Romance, Thriller            ",6.9,0,    Jason Reitman  ,      Kate Winslet,   Josh Brolin,   Gattlin Griffith,   Clark Gregg  ,43103,13360000
+    Cinderella  ,2015,PG,105," Drama, Family, Fantasy            ",6.9,67,    Kenneth Branagh  ,      Lily James,   Cate Blanchett,   Richard Madden,   Helena Bonham Carter  ,162194,201150000
+    Water for Elephants  ,2011,PG-13,120," Drama, Romance            ",6.9,0,    Francis Lawrence  ,      Ro ert Pattinson,   Reese Witherspoon,   Christoph Waltz,   Paul Schneider  ,111677,58710000
+    The Duchess  ,2008,PG-13,110," Biography, Drama, History            ",6.9,62,    Saul Di    ,      Keira Knightley,   Ralph Fiennes,   Dominic Cooper,   Charlotte Rampling  ,78769,13820000
+    Bright Star  ,2009,PG,119," Biography, Drama, Romance            ",6.9,81,    Jane Campion  ,      A  ie Cornish,   Ben Whishaw,   Paul Schneider,   Kerry Fox  ,25329,4440000
+    Miss Potter  ,2006,PG,88," Biography, Drama, Romance            ",6.9,0,    Chris Noonan  ,      Rene Zellweger,   Ewan McGregor,   Emily Watson,   Bar ara Flynn  ,27948,2980000
+    Knocked Up  ,2007,R,129," Comedy, Romance            ",6.9,85,    Judd Apatow  ,      Seth Rogen,   Katherine Heigl,   Paul Rudd,   Leslie Mann  ,352150,148730000
+    The Holiday  ,2006,PG-13,136," Comedy, Romance            ",6.9,0,    Nancy Meyers  ,      Kate Winslet,   Cameron Diaz,   Jude Law,   Jack Black  ,253451,63220000
+    Wedding Crashers  ,2005,R,119," Comedy, Romance            ",6.9,64,    David Do kin  ,      Owen Wilson,   Vince Vaughn,   Rachel McAdams,   Christopher Walken  ,334130,209220000
+    Girl with a Pearl Earring  ,2003,PG-13,100," Biography, Drama, Romance            ",6.9,72,    Peter We  er  ,      Scarlett Johansson,   Colin Firth,   Tom Wilkinson,   Judy Parfitt  ,72691,11630000
+    The Cooler  ,2003,R,101," Drama, Romance            ",6.9,69,    Wayne Kramer  ,      William H. Macy,   Maria Bello,   Alec Baldwin,   Shawn Hatosy  ,32636,8240000
+    Rent  ,2005,PG-13,135," Drama, Musical, Romance            ",6.9,0,    Chris Colum us  ,      Taye Diggs,   Wilson Jermaine Heredia,   Rosario Dawson,   Anthony Rapp  ,48899,29080000
+    The Majestic  ,2001,PG,152," Drama, Romance            ",6.9,0,    Frank Dara ont  ,      Jim Carrey,   Martin Landau,   Bo  Bala an,   Jeffrey DeMunn  ,52620,27810000
+    Vanilla Sky  ,2001,R,136," Fantasy, Mystery, Romance            ",6.9,0,    Cameron Crowe  ,      Tom Cruise,   Penlope Cruz,   Cameron Diaz,   Kurt Russell  ,249971,100610000
+    Serendipity  ,2001,PG-13,90," Comedy, Romance            ",6.9,0,    Peter Chelsom  ,      John Cusack,   Kate Beckinsale,   Jeremy Piven,   Bridget Moynahan  ,104491,50290000
+    A Knight' s Tale  ,2001,PG-13,132," Action, Adventure, Romance            ",6.9,0,    Brian Helgeland  ,      Heath Ledger,   Mark Addy,   Rufus Sewell,   Shannyn Sossamon  ,172866,56570000
+    The Road to El Dorado  ,2000,PG,89," Animation, Adventure, Comedy            ",6.9,0,    Bi o Bergeron   ,    Kevin Kline,   Kenneth Branagh,   Rosie Perez,     ,85278,50860000
+    Judy  ,2019,PG-13,118," Biography, Drama, Romance            ",6.8,66,    Rupert Goold  ,      Rene Zellweger,   Jessie Buckley,   Finn Wittrock,   Rufus Sewell  ,42018,0
+    Always Be My May e  ,2019,PG-13,101," Comedy, Romance            ",6.8,64,    Nahnatchka Khan  ,      Ali Wong,   Randall Park,   James Saito,   Michelle Buteau  ,47304,0
+    Collateral Beauty  ,2016,PG-13,97," Drama, Romance            ",6.8,0,    David Frankel  ,      Will Smith,   Edward Norton,   Kate Winslet,   Michael Pea  ,92512,31020000
+    Tolkien  ,2019,PG-13,112," Biography, Drama, Romance            ",6.8,0,    Dome Karukoski  ,      Nicholas Hoult,   Lily Collins,   Colm Meaney,   Derek Jaco i  ,33813,4540000
+    Man Up  ,2015,R,88," Comedy, Drama, Romance            ",6.8,69,    Ben Palmer  ,      Lake Bell,   Rory Kinnear,   Ken Stott,   Harriet Walter  ,49167,0
+    Long Shot  ,2019,R,125," Comedy, Romance            ",6.8,67,    Jonathan Levine  ,         Charlize Theron,     Seth Rogen,     June Diane Raphael,  O    Shea Jackson Jr. ,96305,30320000
+    Odd Thomas  ,2013,PG-13,97," Comedy, Fantasy, Horror            ",6.8,0,    Stephen Sommers  ,      Anton Yelchin,   Ashley Sommers,   Leonor Varela,   Matthew Page  ,48217,0
+    The First Time  ,2012,PG-13,95," Comedy, Drama, Romance            ",6.8,0,    Jonathan Kasdan  ,      Dylan O    Brien,     Britt Ro ertson,     Victoria Justice,     James Frecheville    ,66874,20000
+    The Vow  ,2012,PG-13,104," Drama, Romance            ",6.8,0,    Michael Sucsy  ,      Rachel McAdams,   Channing Tatum,   Sam Neill,   Jessica Lange  ,184811,125010000
+    Warm Bodies  ,2013,PG-13,98," Comedy, Horror, Romance            ",6.8,0,    Jonathan Levine  ,      Nicholas Hoult,   Teresa Palmer,   John Malkovich,   Analeigh Tipton  ,219950,66380000
+    The Skeleton Twins  ,2014,R,93," Comedy, Drama, Romance            ",6.8,74,    Craig Johnson  ,      Kristen Wiig,   Bill Hader,   Luke Wilson,   Ty Burrell  ,40382,5280000
+    What If  ,2013,PG-13,98," Comedy, Romance            ",6.8,0,    Michael Dowse  ,      Daniel Radcliffe,   Zoe Kazan,   Megan Park,   Adam Driver  ,71450,3450000
+    Happythankyoumoreplease  ,2010,R,100," Comedy, Drama, Romance            ",6.8,0,    Josh Radnor  ,      Josh Radnor,   Malin Akerman,   Zoe Kazan,   Michael Algieri  ,29183,220000
+    Bridesmaids  ,2011,R,125," Comedy, Romance            ",6.8,75,    Paul Feig  ,      Kristen Wiig,   Maya Rudolph,   Rose Byrne,   Terry Crews  ,270085,169110000
+    Salmon Fishing in the Yemen  ,2011,PG-13,107," Comedy, Drama, Romance            ",6.8,0,    Lasse Hallstrm  ,      Ewan McGregor,   Emily Blunt,   Amr Waked,   Kristin Scott Thomas  ,62159,9030000
+    Adventureland  ,2009,R,107," Comedy, Drama, Romance            ",6.8,76,    Greg Mottola  ,      Jesse Eisen erg,   Kristen Stewart,   Ryan Reynolds,   Martin Starr  ,152677,16030000
+    Yes Man  ,2008,PG-13,104," Comedy, Romance            ",6.8,0,    Peyton Reed  ,      Jim Carrey,   Zooey Deschanel,   Bradley Cooper,   John Michael Higgins  ,337411,97690000
+    Hitchcock  ,2012,PG-13,98," Biography, Drama, Romance            ",6.8,0,    Sacha Gervasi  ,      Anthony Hopkins,   Helen Mirren,   Scarlett Johansson,   Danny Huston  ,72253,6010000
+    The Jane Austen Book Clu   ,2007,PG-13,106," Comedy, Drama, Romance            ",6.8,61,    Ro in Swicord  ,      Kathy Baker,   Hugh Dancy,   Amy Brenneman,   Maria Bello  ,26165,3570000
+    The Brothers Bloom  ,2008,PG-13,114," Action, Adventure, Comedy            ",6.8,0,    Rian Johnson  ,      Rachel Weisz,   Adrien Brody,   Mark Ruffalo,   Rinko Kikuchi  ,49100,3520000
+    Two Days in Paris  ,2007,R,96," Comedy, Drama, Romance            ",6.8,67,    Julie Delpy  ,      Julie Delpy,   Adam Gold erg,   Daniel Brhl,   Marie Pillet  ,30255,4430000
+    Before We Go  ,2014,PG-13,95," Comedy, Drama, Romance            ",6.8,0,    Chris Evans  ,      Chris Evans,   Alice Eve,   Emma Fitzpatrick,   John Cullum  ,52805,40000
+    Imagine Me & You  ,2005,R,90," Comedy, Drama, Romance            ",6.8,0,    Ol Parker  ,      Piper Pera o,   Lena Headey,   Matthew Goode,   Celia Imrie  ,30088,670000
+    The Lake House  ,2006,PG,99," Drama, Fantasy, Romance            ",6.8,0,    Alejandro Agresti  ,      Keanu Reeves,   Sandra Bullock,   Christopher Plummer,   E on Moss-Bachrach  ,141198,52330000
+    Tristan + Isolde  ,2006,PG-13,125," Action, Drama, Romance            ",6.8,0,    Kevin Reynolds  ,         James Franco,     Sophia Myles,     Rufus Sewell,  David O    Hara ,50632,14730000
+    50 First Dates  ,2004,PG-13,99," Comedy, Drama, Romance            ",6.8,0,    Peter Segal  ,      Adam Sandler,   Drew Barrymore,   Ro  Schneider,   Sean Astin  ,329101,120910000
+    Under the Tuscan Sun  ,2003,PG-13,113," Comedy, Drama, Romance            ",6.8,0,    Audrey Wells  ,      Diane Lane,   Raoul Bova,   Sandra Oh,   Lindsay Duncan  ,47987,43610000
+    Peter Pan  ,2003,PG,113," Adventure, Family, Fantasy            ",6.8,64,    P.J. Hogan  ,      Jeremy Sumpter,   Jason Isaacs,   Olivia Williams,   Lynn Redgrave  ,66968,48460000
+    The Family Man  ,2000,PG-13,125," Comedy, Drama, Fantasy            ",6.8,0,    Brett Ratner  ,      Nicolas Cage,   Ta Leoni,   Don Cheadle,   Jeremy Piven  ,104442,75790000
+    Where the Heart Is  ,2000,PG-13,120," Comedy, Drama, Romance            ",6.8,0,    Matt Williams  ,      Natalie Portman,   James Frain,   Ashley Judd,   Stockard Channing  ,31829,33770000
+    Emma.  ,2020,PG,124," Comedy, Drama, Romance            ",6.7,71,    Autumn de Wilde  ,      Anya Taylor-Joy,   Johnny Flynn,   Mia Goth,   Angus Imrie  ,33353,0
+    The Old Man & the Gun  ,2018,PG-13,93," Biography, Comedy, Crime            ",6.7,80,    David Lowery  ,      Ro ert Redford,   Casey Affleck,   Sissy Spacek,   Danny Glover  ,40971,11280000
+    Young & Beautiful  ,2013,Not Rated,95," Drama, Romance            ",6.7,63,    Franois Ozon  ,      Marine Vacth,   Graldine Pailhas,   Frdric Pierrot,   Fantin Ravat  ,32666,50000
+    Ja  Tak Hai Jaan  ,2012,Not Rated,176," Drama, Romance            ",6.7,0,    Yash Chopra  ,      Shah Rukh Khan,   Katrina Kaif,   Anushka Sharma,   Anupam Kher  ,51439,3050000
+    The Best of Me  ,2014,PG-13,118," Drama, Romance            ",6.7,0,    Michael Hoffman  ,      James Marsden,   Michelle Monaghan,   Luke Bracey,   Liana Li erato  ,66863,26760000
+    Li eral Arts  ,2012,PG-13,97," Comedy, Drama, Romance            ",6.7,0,    Josh Radnor  ,      Josh Radnor,   Eliza eth Olsen,   Zac Efron,   Eliza eth Reaser  ,36217,320000
+    Inherent Vice  ,2014,R,148," Comedy, Crime, Drama            ",6.7,81,    Paul Thomas Anderson  ,      Joaquin Phoenix,   Josh Brolin,   Owen Wilson,   Katherine Waterston  ,95563,8110000
+    Like Crazy  ,2011,PG-13,86," Drama, Romance            ",6.7,68,    Drake Doremus  ,      Felicity Jones,   Anton Yelchin,   Jennifer Lawrence,   Charlie Bewley  ,59552,3410000
+    Your Sister' s Sister  ,2011,R,90," Comedy, Drama, Romance            ",6.7,72,    Lynn Shelton  ,      Mark Duplass,   Emily Blunt,   Rosemarie DeWitt,   Mike Bir iglia  ,26328,1570000
+    Safe Haven  ,2013,PG-13,115," Drama, Romance, Thriller            ",6.7,0,    Lasse Hallstrm  ,      Julianne Hough,   Josh Duhamel,   Co ie Smulders,   David Lyons  ,104767,71350000
+    Heart reaker  ,2010,Not Rated,105," Comedy, Romance            ",6.7,0,    Pascal Chaumeil  ,      Romain Duris,   Vanessa Paradis,   Julie Ferrier,   Franois Damiens  ,25444,500000
+    Hysteria  ,2011,R,100," Biography, Comedy, Romance            ",6.7,0,    Tanya Wexler  ,      Maggie Gyllenhaal,   Hugh Dancy,   Jonathan Pryce,   Felicity Jones  ,30618,1800000
+    If I Stay  ,2014,PG-13,107," Drama, Fantasy, Music            ",6.7,0,    R.J. Cutler  ,      Chlo Grace Moretz,   Mireille Enos,   Jamie Blackley,   Joshua Leonard  ,116467,50470000
+    The Loved Ones  ,2009,R,84," Crime, Drama, Horror            ",6.7,73,    Sean Byrne  ,      Xavier Samuel,   Ro in McLeavy,   John Brumpton,   Richard Wilson  ,37676,0
+    Seeking a Friend for the End of the World  ,2012,R,101," Adventure, Comedy, Drama            ",6.7,0,    Lorene Scafaria  ,      Steve Carell,   Keira Knightley,   Melanie Lynskey,   Patton Oswalt  ,107943,6620000
+    Rachel Getting Married  ,2008,R,113," Drama, Romance            ",6.7,82,    Jonathan Demme  ,      Anne Hathaway,   Rosemarie DeWitt,   De ra Winger,   Se astian Stan  ,47420,12800000
+    The Proposal  ,2009,PG-13,108," Comedy, Drama, Romance            ",6.7,0,    Anne Fletcher  ,      Sandra Bullock,   Ryan Reynolds,   Mary Steen urgen,   Craig T. Nelson  ,298030,163960000
+    Om Shanti Om  ,2007,Not Rated,162," Action, Comedy, Drama            ",6.7,0,    Farah Khan  ,      Shah Rukh Khan,   Deepika Padukone,   Arjun Rampal,   Kirron Kher  ,39215,3600000
+    Ghost Town  ,2008,PG-13,102," Comedy, Drama, Fantasy            ",6.7,72,    David Koepp  ,      Ricky Gervais,   Greg Kinnear,   Ta Leoni,   Jordan Carlos  ,70320,13210000
+    Appaloosa  ,2008,R,115," Action, Crime, Drama            ",6.7,64,    Ed Harris  ,      Ed Harris,   Viggo Mortensen,   Rene Zellweger,   Jeremy Irons  ,58573,20210000
+    Cassandra' s Dream  ,2007,PG-13,108," Crime, Drama, Romance            ",6.7,0,    Woody Allen  ,      Colin Farrell,   Ewan McGregor,   Hayley Atwell,   Peter-Hugo Daly  ,50143,970000
+    Love & Other Drugs  ,2010,R,112," Comedy, Drama, Romance            ",6.7,0,    Edward Zwick  ,      Jake Gyllenhaal,   Anne Hathaway,   Judy Greer,   Oliver Platt  ,182390,32370000
+    Dan in Real Life  ,2007,PG-13,98," Comedy, Drama, Romance            ",6.7,65,    Peter Hedges  ,      Steve Carell,   Juliette Binoche,   Dane Cook,   Alison Pill  ,97966,47640000
+    Penelope  ,2006,PG,104," Comedy, Fantasy, Romance            ",6.7,0,    Mark Palansky  ,      Christina Ricci,   James McAvoy,   Reese Witherspoon,   Richard E. Grant  ,60357,10010000
+    The Other Boleyn Girl  ,2008,PG-13,115," Biography, Drama, History            ",6.7,0,    Justin Chadwick  ,      Natalie Portman,   Scarlett Johansson,   Eric Bana,   Jim Sturgess  ,105306,26810000
+    Just Like Heaven  ,2005,PG-13,95," Comedy, Drama, Fantasy            ",6.7,0,    Mark Waters  ,      Reese Witherspoon,   Mark Ruffalo,   Donal Logue,   Dina Spy ey-Waters  ,99939,48320000
+    The New World  ,2005,PG-13,135," Biography, Drama, History            ",6.7,69,    Terrence Malick  ,         Colin Farrell,  Q    orianka Kilcher,     Christopher Plummer,     Christian Bale    ,83233,12710000
+    Goal! The Dream Begins  ,2005,PG,118," Adventure, Drama, Romance            ",6.7,0,    Danny Cannon   ,       Kuno Becker,   Alessandro Nivola,   Anna Friel,   Leonardo Guerra    ,60546,4280000
+    Something' s Gotta Give  ,2003,PG-13,128," Comedy, Drama, Romance            ",6.7,66,    Nancy Meyers  ,      Jack Nicholson,   Diane Keaton,   Keanu Reeves,   Amanda Peet  ,112778,124730000
+    The Rules of Attraction  ,2002,R,110," Comedy, Drama, Romance            ",6.7,0,    Roger Avary  ,      James Van Der Beek,   Ian Somerhalder,   Shannyn Sossamon,   Jessica Biel  ,49583,6530000
+    The Girl Next Door  ,2004,R,109," Comedy, Drama, Romance            ",6.7,0,    Luke Greenfield  ,      Emile Hirsch,   Nicholas Downs,   Elisha Cuth ert,   Timothy Olyphant  ,202684,14590000
+    The Curse of the Jade Scorpion  ,2001,PG-13,103," Comedy, Crime, Mystery            ",6.7,0,    Woody Allen  ,      Greg Ste ner,   Woody Allen,   John Tormey,   John Schuck  ,37905,7500000
+    Unfaithful  ,2002,R,124," Drama, Romance, Thriller            ",6.7,63,    Adrian Lyne  ,      Richard Gere,   Diane Lane,   Olivier Martinez,   Erik Per Sullivan  ,81003,52800000
+    Bridget Jones' s Diary  ,2001,R,97," Comedy, Drama, Romance            ",6.7,66,    Sharon Maguire  ,      Rene Zellweger,   Colin Firth,   Hugh Grant,   Gemma Jones  ,227827,71540000
+    Sweet Novem er  ,2001,PG-13,119," Drama, Romance            ",6.7,0,    Pat O  Connor  ,      Keanu Reeves,   Charlize Theron,   Jason Isaacs,   Greg Germann  ,86252,25290000
+    The Beach  ,2000,R,119," Adventure, Drama, Romance            ",6.7,0,    Danny Boyle  ,      Leonardo DiCaprio,   Daniel York,   Patcharawan Patarakijjanon,   Virginie Ledoyen  ,224573,39790000
+    Happiest Season  ,2020,PG-13,102," Comedy, Drama, Romance            ",6.6,69,    Clea DuVall  ,      Kristen Stewart,   Mackenzie Davis,   Mary Steen urgen,   Victor Gar er  ,26969,0
+    Dil Bechara  ,2020,Not Rated,101," Comedy, Drama, Romance            ",6.6,0,    Mukesh Chha ra  ,      Sushant Singh Rajput,   Sanjana Sanghi,   Sahil Vaid,   Saswata Chatterjee  ,112357,0
+    Mamma Mia! Here We Go Again  ,2018,PG-13,114," Comedy, Musical, Romance            ",6.6,0,    Ol Parker  ,      Lily James,   Amanda Seyfried,   Meryl Streep,   Cher  ,81486,120630000
+    Adrift  ,2018,PG-13,96," Action, Adventure, Biography            ",6.6,0,    Baltasar Kormkur  ,      Shailene Woodley,   Sam Claflin,   Jeffrey Thomas,   Eliza eth Hawthorne  ,48275,31450000
+    The Aeronauts  ,2019,PG-13,100," Action, Adventure, Drama            ",6.6,0,    Tom Harper  ,      Felicity Jones,   Eddie Redmayne,   Himesh Patel,   Vincent Perez  ,27955,0
+    Diso edience  ,2017,R,114," Drama, Romance            ",6.6,74,    Se astin Lelio  ,      Rachel Weisz,   Rachel McAdams,   Alessandro Nivola,   Anton Lesser  ,25797,3480000
+    Caf Society  ,2016,PG-13,96," Comedy, Drama, Romance            ",6.6,64,    Woody Allen  ,      Jesse Eisen erg,   Kristen Stewart,   Steve Carell,   Blake Lively  ,71849,11100000
+    The Choice  ,2016,PG-13,111," Drama, Romance            ",6.6,0,    Ross Katz  ,      Benjamin Walker,   Teresa Palmer,   Alexandra Daddario,   Maggie Grace  ,35532,18710000
+    Irrational Man  ,2015,R,95," Comedy, Drama, Romance            ",6.6,0,    Woody Allen  ,      Joaquin Phoenix,   Emma Stone,   Parker Posey,   Joe Stapleton  ,59214,4030000
+    The Second Best Exotic Marigold Hotel  ,2015,PG,122," Comedy, Drama, Romance            ",6.6,0,    John Madden  ,      Judi Dench,   Maggie Smith,   Bill Nighy,   Dev Patel  ,31627,33080000
+    Focus  ,2015,R,105," Comedy, Crime, Drama            ",6.6,0,    Glenn Ficarra   ,       Will Smith,   Margot Ro  ie,   Rodrigo Santoro,   Adrian Martinez    ,220902,53860000
+    The Immigrant  ,2013,R,120," Drama, Romance            ",6.6,77,    James Gray  ,      Marion Cotillard,   Joaquin Phoenix,   Jeremy Renner,   Dagmara Dominczyk  ,30053,2010000
+    Anna Karenina  ,2012,R,129," Drama, Romance            ",6.6,63,    Joe Wright  ,      Keira Knightley,   Jude Law,   Aaron Taylor-Johnson,   Matthew Macfadyen  ,92900,12820000
+    The Art of Getting By  ,2011,PG-13,83," Drama, Romance            ",6.6,0,    Gavin Wiesen  ,      Freddie Highmore,   Emma Ro erts,   Michael Angarano,   Sasha Spiel erg  ,56606,1430000
+    The Grandmaster  ,2013,PG-13,130," Action, Biography, Drama            ",6.6,73,    Kar-Wai Wong  ,      Tony Chiu-Wai Leung,   Ziyi Zhang,   Jin Zhang,   Chen Chang  ,31783,6590000
+    Celeste & Jesse Forever  ,2012,R,92," Comedy, Drama, Romance            ",6.6,0,    Lee Toland Krieger  ,      Rashida Jones,   Andy Sam erg,   Elijah Wood,   Emma Ro erts  ,29692,3090000
+    Last Night  ,2010,R,93," Drama, Romance            ",6.6,0,    Massy Tadjedin  ,      Keira Knightley,   Sam Worthington,   Eva Mendes,   Guillaume Canet  ,47117,100000
+    I Love You Phillip Morris  ,2009,R,98," Biography, Comedy, Crime            ",6.6,65,    Glenn Ficarra   ,       Jim Carrey,   Ewan McGregor,   Leslie Mann,   Rodrigo Santoro    ,91806,2040000
+    Nick and Norah' s Infinite Playlist  ,2008,PG-13,90," Comedy, Drama, Music            ",6.6,64,    Peter Sollett  ,      Michael Cera,   Kat Dennings,   Aaron Yoo,   Rafi Gavron  ,88874,31490000
+    My Blue erry Nights  ,2007,PG-13,95," Drama, Romance            ",6.6,0,    Kar-Wai Wong  ,      Norah Jones,   Jude Law,   Natalie Portman,   Chad R. Davis  ,52123,870000
+    Chaos Theory  ,2008,PG-13,87," Comedy, Drama, Romance            ",6.6,0,    Marcos Siega  ,      Ryan Reynolds,   Emily Mortimer,   Stuart Townsend,   Sarah Chalke  ,31645,240000
+    Australia  ,2008,PG-13,165," Adventure, Comedy, Drama            ",6.6,0,    Baz Luhrmann  ,      Nicole Kidman,   Hugh Jackman,   Shea Adams,   Eddie Baroo  ,119631,49550000
+    Hairspray  ,2007,PG,117," Comedy, Drama, Musical            ",6.6,81,    Adam Shankman  ,      John Travolta,   Queen Latifah,   Nikki Blonsky,   Michelle Pfeiffer  ,120313,118870000
+"    Run, Fat Boy, Run  ",2007,PG-13,100," Comedy, Romance, Sport            ",6.6,0,    David Schwimmer  ,      Simon Pegg,   Thandie Newton,   Hank Azaria,   Dylan Moran  ,65779,6000000
+    Flushed Away  ,2006,PG,85," Animation, Adventure, Comedy            ",6.6,74,    David Bowers   ,       Hugh Jackman,   Kate Winslet,   Ian McKellen,   Jean Reno    ,114238,64670000
+    A Lot Like Love  ,2005,PG-13,107," Comedy, Drama, Romance            ",6.6,0,    Nigel Cole  ,      Ashton Kutcher,   Amanda Peet,   Taryn Manning,   Aimee Garcia  ,67397,21840000
+    Hitch  ,2005,PG-13,118," Comedy, Romance            ",6.6,0,    Andy Tennant  ,      Will Smith,   Eva Mendes,   Kevin James,   Am er Valletta  ,297221,179500000
+    Bend It Like Beckham  ,2002,PG-13,112," Comedy, Drama, Romance            ",6.6,66,    Gurinder Chadha  ,      Parminder Nagra,   Keira Knightley,   Jonathan Rhys Meyers,   Anupam Kher  ,104732,32540000
+    Hollywood Ending  ,2002,PG-13,112," Comedy, Romance            ",6.6,0,    Woody Allen  ,      Woody Allen,   Ta Leoni,   Bo  Dorian,   Ivan Martin  ,25934,4840000
+    My Big Fat Greek Wedding  ,2002,PG,95," Comedy, Drama, Romance            ",6.6,62,    Joel Zwick  ,      Nia Vardalos,   John Cor ett,   Michael Constantine,   Christina Eleusiniotis  ,120421,241440000
+    Wet Hot American Summer  ,2001,R,97," Comedy, Romance            ",6.6,0,    David Wain  ,      Janeane Garofalo,   David Hyde Pierce,   Michael Showalter,   Marguerite Moreau  ,54439,290000
+    Last Christmas  ,2019,PG-13,103," Comedy, Drama, Romance            ",6.5,0,    Paul Feig  ,      Madison Ingolds y,   Emma Thompson,   Boris Isakovic,   Lucy Miller  ,56254,0
+    A Rainy Day in New York  ,2019,PG-13,92," Comedy, Romance            ",6.5,0,    Woody Allen  ,      Timothe Chalamet,   Elle Fanning,   Liev Schrei er,   Suzanne Smith  ,31889,0
+    Set It Up  ,2018,TV-14,105," Comedy, Romance            ",6.5,62,    Claire Scanlon  ,      Zoey Deutch,   Glen Powell,   Lucy Liu,   Taye Diggs  ,43608,0
+    Sleeping with Other People  ,2015,R,101," Comedy, Drama, Romance            ",6.5,64,    Leslye Headland  ,      Jason Sudeikis,   Alison Brie,   Jordan Carlos,   Margarita Levieva  ,40928,810000
+    Magic in the Moonlight  ,2014,PG-13,97," Comedy, Drama, Romance            ",6.5,0,    Woody Allen  ,      Colin Firth,   Emma Stone,   Marcia Gay Harden,   Hamish Linklater  ,64456,10510000
+    Don Jon  ,2013,R,90," Comedy, Drama, Romance            ",6.5,66,    Joseph Gordon-Levitt  ,      Joseph Gordon-Levitt,   Scarlett Johansson,   Julianne Moore,   Tony Danza  ,229879,24480000
+    Sightseers  ,2012,Not Rated,88," Adventure, Comedy, Crime            ",6.5,69,    Ben Wheatley  ,      Alice Lowe,   Kenneth Hadley,   Steve Oram,   Eileen Davies  ,26987,40000
+    How I Live Now  ,2013,R,101," Action, Drama, Romance            ",6.5,0,    Kevin Macdonald  ,      Saoirse Ronan,   Tom Holland,   George MacKay,   Harley Bird  ,28409,60000
+    The DUFF  ,2015,PG-13,101," Comedy, Romance            ",6.5,0,    Ari Sandel  ,      Mae Whitman,   Bella Thorne,   Ro  ie Amell,   Allison Janney  ,84567,34020000
+    Friends with Benefits  ,2011,R,109," Comedy, Romance            ",6.5,63,    Will Gluck  ,      Mila Kunis,   Justin Tim erlake,   Patricia Clarkson,   Jenna Elfman  ,341797,55800000
+    Think Like a Man  ,2012,PG-13,122," Comedy, Romance            ",6.5,0,    Tim Story  ,      Chris Brown,   Ga rielle Union,   Kevin Hart,   Michael Ealy  ,44359,91550000
+    J. Edgar  ,2011,R,137," Biography, Drama, Romance            ",6.5,0,    Clint Eastwood  ,      Leonardo DiCaprio,   Armie Hammer,   Naomi Watts,   Josh Hamilton  ,123135,37310000
+    Bridget Jones' s Ba y  ,2016,R,123," Comedy, Drama, Romance            ",6.5,0,    Sharon Maguire  ,      Rene Zellweger,   Gemma Jones,   Jim Broad ent,   Sally Phillips  ,69378,24250000
+    The Lucky One  ,2012,PG-13,101," Drama, Mystery, Romance            ",6.5,0,    Scott Hicks  ,      Zac Efron,   Taylor Schilling,   Blythe Danner,   Riley Thomas Stewart  ,102040,60460000
+    Kill Your Darlings  ,2013,R,104," Biography, Drama, Romance            ",6.5,65,    John Krokidas  ,      Daniel Radcliffe,   Dane DeHaan,   Michael C. Hall,   Ben Foster  ,35594,1030000
+    It' s Complicated  ,2009,R,120," Comedy, Drama, Romance            ",6.5,0,    Nancy Meyers  ,      Meryl Streep,   Steve Martin,   Alec Baldwin,   John Krasinski  ,86807,112740000
+    Leap Year  ,2010,PG,100," Comedy, Romance            ",6.5,0,    Anand Tucker  ,      Amy Adams,   Matthew Goode,   Adam Scott,   John Lithgow  ,96229,25920000
+    Sex Drive  ,2008,R,109," Comedy, Romance            ",6.5,0,    Sean Anders  ,      Josh Zuckerman,   Clark Duke,   Amanda Crew,   James Marsden  ,84113,8400000
+    Morning Glory  ,2010,PG-13,107," Comedy, Drama, Romance            ",6.5,0,    Roger Michell  ,      Rachel McAdams,   Harrison Ford,   Diane Keaton,   Noah Bean  ,74894,31010000
+    Blended  ,2014,PG-13,117," Comedy, Romance            ",6.5,0,    Frank Coraci  ,      Adam Sandler,   Drew Barrymore,   Wendi McLendon-Covey,   Kevin Nealon  ,120801,46290000
+    Life as We Know It  ,2010,PG-13,114," Comedy, Drama, Romance            ",6.5,0,    Greg Berlanti  ,      Katherine Heigl,   Josh Duhamel,   Josh Lucas,   Alexis Clagett  ,123553,53370000
+    Zack and Miri Make a Porno  ,2008,R,101," Comedy, Romance            ",6.5,0,    Kevin Smith  ,      Seth Rogen,   Eliza eth Banks,   Craig Ro inson,   Gerry Bedno   ,172340,31460000
+    Letters to Juliet  ,2010,PG,105," Adventure, Comedy, Drama            ",6.5,0,    Gary Winick  ,      Amanda Seyfried,   Gael Garca Bernal,   Vanessa Redgrave,   Marcia DeBonis  ,92813,53030000
+    Music and Lyrics  ,2007,PG-13,104," Comedy, Music, Romance            ",6.5,0,    Marc Lawrence  ,      Hugh Grant,   Drew Barrymore,   Scott Porter,   Nick Bacon  ,97967,50570000
+    Step Up  ,2006,PG-13,104," Crime, Drama, Music            ",6.5,0,    Anne Fletcher  ,         Channing Tatum,     Jenna Dewan,     Damaine Radcliff,  De    Shawn Washington ,111253,65330000
+    Fly oys  ,2006,PG-13,140," Action, Drama, History            ",6.5,0,    Tony Bill  ,      James Franco,   Jean Reno,   Jennifer Decker,   Scott Hazell  ,41353,13080000
+    The Giver  ,2014,PG-13,97," Drama, Romance, Sci-Fi            ",6.5,0,    Phillip Noyce  ,      Brenton Thwaites,   Jeff Bridges,   Meryl Streep,   Taylor Swift  ,112562,45090000
+    Hollywoodland  ,2006,R,126," Biography, Crime, Drama            ",6.5,62,    Allen Coulter  ,      Adrien Brody,   Ben Affleck,   Diane Lane,   Bo  Hoskins  ,32949,14420000
+    Marie Antoinette  ,2006,PG-13,123," Biography, Drama, History            ",6.5,65,    Sofia Coppola  ,      Kirsten Dunst,   Jason Schwartzman,   Rip Torn,   Steve Coogan  ,102475,15960000
+    Last Holiday  ,2006,PG-13,112," Adventure, Comedy, Romance            ",6.5,0,    Wayne Wang  ,      Queen Latifah,   LL Cool J,   Timothy Hutton,   Giancarlo Esposito  ,29345,38360000
+    The Sisterhood of the Traveling Pants  ,2005,PG,119," Comedy, Drama, Romance            ",6.5,66,    Ken Kwapis  ,      Am er Tam lyn,   Alexis Bledel,   America Ferrera,   Blake Lively  ,54441,39010000
+    Casanova  ,2005,R,112," Adventure, Comedy, Drama            ",6.5,0,    Lasse Hallstrm  ,      Heath Ledger,   Sienna Miller,   Jeremy Irons,   Oliver Platt  ,52149,11290000
+    Beyond Borders  ,2003,R,127," Adventure, Drama, Romance            ",6.5,0,    Martin Camp ell  ,      Clive Owen,   Angelina Jolie,   Linus Roache,   Teri Polo  ,26173,4430000
+    Ned Kelly  ,2003,R,110," Action, Adventure, Biography            ",6.5,0,    Gregor Jordan  ,      Heath Ledger,   Orlando Bloom,   Geoffrey Rush,   Naomi Watts  ,26000,70000
+    The Four Feathers  ,2002,PG-13,132," Action, Adventure, Drama            ",6.5,0,    Shekhar Kapur  ,      Heath Ledger,   Wes Bentley,   Kate Hudson,   Mohamed Bouich  ,32740,18310000
+    Bandits  ,2001,PG-13,123," Comedy, Crime, Drama            ",6.5,0,    Barry Levinson  ,      Bruce Willis,   Billy Bo  Thornton,   Cate Blanchett,   Troy Garity  ,65595,41580000
+    When We First Met  ,2018,TV-14,97," Comedy, Fantasy, Romance            ",6.4,0,    Ari Sandel  ,      Adam Devine,   Alexandra Daddario,   Shelley Hennig,   Andrew Bachelor  ,42955,0
+"    Everything, Everything  ",2017,PG-13,96," Drama, Romance            ",6.4,0,    Stella Meghie  ,      Amandla Sten erg,   Nick Ro inson,   Anika Noni Rose,   Ana de la Reguera  ,33553,34000000
+    The Space Between Us  ,2017,PG-13,120," Drama, Romance, Sci-Fi            ",6.4,0,    Peter Chelsom  ,      Gary Oldman,   Asa Butterfield,   Carla Gugino,   Britt Ro ertson  ,48679,7890000
+    Top Five  ,2014,R,102," Comedy, Romance            ",6.4,81,    Chris Rock  ,      Chris Rock,   Rosario Dawson,   Ga rielle Union,   Kevin Hart  ,25816,25280000
+    The Mountain Between Us  ,2017,PG-13,112," Action, Adventure, Drama            ",6.4,0,    Hany A u-Assad  ,      Kate Winslet,   Idris El a,   Beau Bridges,   Dermot Mulroney  ,68287,30350000
+    Two Night Stand  ,2014,R,86," Comedy, Romance            ",6.4,0,    Max Nichols  ,      Miles Teller,   Analeigh Tipton,   Jessica Szohr,   Kid Cudi  ,65828,20000
+    Laggies  ,2014,R,99," Comedy, Drama, Romance            ",6.4,63,    Lynn Shelton  ,      Keira Knightley,   Chlo Grace Moretz,   Sam Rockwell,   Mark We  er  ,42092,440000
+    Thanks for Sharing  ,2012,R,112," Comedy, Drama, Romance            ",6.4,0,    Stuart Blum erg  ,      Mark Ruffalo,   Tim Ro  ins,   Gwyneth Paltrow,   Josh Gad  ,26859,1060000
+    Step Up Revolution  ,2012,PG-13,99," Drama, Music, Romance            ",6.4,0,    Scott Speer  ,      Kathryn McCormick,   Ryan Guzman,   Cleopatra Coleman,   Misha Ga riel Hamilton  ,53985,35070000
+    A Dangerous Method  ,2011,R,99," Biography, Drama, Romance            ",6.4,76,    David Cronen erg  ,      Michael Fass ender,   Keira Knightley,   Viggo Mortensen,   Vincent Cassel  ,99200,5700000
+    Just Go with It  ,2011,PG-13,117," Comedy, Romance            ",6.4,0,    Dennis Dugan  ,      Adam Sandler,   Jennifer Aniston,   Brooklyn Decker,   Nicole Kidman  ,223070,103030000
+    Monsters  ,2010,R,94," Adventure, Drama, Romance            ",6.4,63,    Gareth Edwards  ,      Scoot McNairy,   Whitney A le,   Mario Zuniga Benavides,   Annalee Jefferies  ,88014,240000
+    Charlie St. Cloud  ,2010,PG-13,99," Drama, Fantasy, Romance            ",6.4,0,    Burr Steers  ,      Zac Efron,   Kim Basinger,   Charlie Tahan,   Amanda Crew  ,58944,31160000
+    Upside Down  ,2012,PG-13,109," Drama, Fantasy, Romance            ",6.4,0,    Juan Solanas  ,      Jim Sturgess,   Kirsten Dunst,   Timothy Spall,   Blu Mankuma  ,69581,100000
+    Hereafter  ,2010,PG-13,129," Drama, Fantasy, Romance            ",6.4,0,    Clint Eastwood  ,      Matt Damon,   Ccile de France,   Bryce Dallas Howard,   Thierry Neuvic  ,90542,32750000
+    Charlie Countryman  ,2013,R,103," Comedy, Drama, Romance            ",6.4,0,    Fredrik Bond  ,      Shia LaBeouf,   Evan Rachel Wood,   Mads Mikkelsen,   Til Schweiger  ,27233,10000
+    The Ugly Truth  ,2009,R,96," Comedy, Romance            ",6.4,0,    Ro ert Luketic  ,      Katherine Heigl,   Gerard Butler,   Bree Turner,   Eric Winter  ,205864,88920000
+    Burlesque  ,2010,PG-13,119," Drama, Music, Musical            ",6.4,0,    Steve Antin  ,      Cher,   Christina Aguilera,   Alan Cumming,   Eric Dane  ,79314,39440000
+    The Invention of Lying  ,2009,PG-13,100," Comedy, Fantasy, Romance            ",6.4,0,    Ricky Gervais   ,       Ricky Gervais,   Jennifer Garner,   Jonah Hill,   Louis C.K.    ,129569,18440000
+    He' s Just Not That Into You  ,2009,PG-13,129," Comedy, Drama, Romance            ",6.4,0,    Ken Kwapis  ,      Ginnifer Goodwin,   Jennifer Aniston,   Jennifer Connelly,   Morgan Lily  ,162920,93950000
+    17 Again  ,2009,PG-13,102," Comedy, Drama, Fantasy            ",6.4,0,    Burr Steers  ,      Zac Efron,   Matthew Perry,   Leslie Mann,   Thomas Lennon  ,182361,64170000
+    She' s Out of My League  ,2010,R,104," Comedy, Romance            ",6.4,0,    Jim Field Smith  ,      Jay Baruchel,   Alice Eve,   T.J. Miller,   Mike Vogel  ,127733,31580000
+    Mamma Mia!  ,2008,PG-13,108," Comedy, Musical, Romance            ",6.4,0,    Phyllida Lloyd  ,      Meryl Streep,   Pierce Brosnan,   Amanda Seyfried,   Stellan Skarsgrd  ,217870,144130000
+    How to Lose Friends & Alienate People  ,2008,R,110," Biography, Comedy, Drama            ",6.4,0,    Ro ert B. Weide  ,      Simon Pegg,   Kirsten Dunst,   Megan Fox,   Kelan Pannell  ,67897,2780000
+    The Last Kiss  ,2006,R,104," Comedy, Drama, Romance            ",6.4,0,    Tony Goldwyn  ,      Zach Braff,   Jacinda Barrett,   Rachel Bilson,   Casey Affleck  ,40914,11600000
+    In the Land of Women  ,2007,PG-13,97," Comedy, Drama, Romance            ",6.4,0,    Jonathan Kasdan  ,      Adam Brody,   Kristen Stewart,   Meg Ryan,   Elena Anaya  ,30992,11040000
+    Youth in Revolt  ,2009,R,90," Comedy, Drama, Romance            ",6.4,63,    Miguel Arteta  ,      Michael Cera,   Portia Dou leday,   Jean Smart,   Zach Galifianakis  ,72419,15280000
+    Click  ,2006,PG-13,107," Comedy, Drama, Fantasy            ",6.4,0,    Frank Coraci  ,      Adam Sandler,   Kate Beckinsale,   Christopher Walken,   David Hasselhoff  ,307479,137360000
+    In Her Shoes  ,2005,PG-13,130," Comedy, Drama, Romance            ",6.4,0,    Curtis Hanson  ,      Toni Collette,   Cameron Diaz,   Shirley MacLaine,   Anson Mount  ,59521,32880000
+    In Good Company  ,2004,PG-13,109," Comedy, Drama, Romance            ",6.4,66,    Paul Weitz  ,      Dennis Quaid,   Topher Grace,   Scarlett Johansson,   Marg Helgen erger  ,53667,45810000
+    Melinda and Melinda  ,2004,PG-13,99," Comedy, Drama, Romance            ",6.4,0,    Woody Allen  ,      Will Ferrell,   Vinessa Shaw,   Chiwetel Ejiofor,   Wallace Shawn  ,31183,3830000
+    Spanglish  ,2004,PG-13,131," Comedy, Drama, Romance            ",6.4,0,    James L. Brooks  ,      Adam Sandler,   Ta Leoni,   Paz Vega,   Cloris Leachman  ,79590,42040000
+    Eliza ethtown  ,2005,PG-13,123," Comedy, Drama, Romance            ",6.4,0,    Cameron Crowe  ,      Orlando Bloom,   Kirsten Dunst,   Susan Sarandon,   Alec Baldwin  ,67657,26840000
+    Short us  ,2006,Not Rated,101," Comedy, Drama, Romance            ",6.4,64,    John Cameron Mitchell  ,      Sook-Yin Lee,   Peter Stickles,   PJ DeBoy,   Paul Dawson  ,32157,1990000
+    Happy Feet  ,2006,PG,108," Animation, Adventure, Comedy            ",6.4,77,    George Miller   ,    Elijah Wood,   Brittany Murphy,   Hugh Jackman,     ,171051,198000000
+    Van Wilder: Party Liaison  ,2002,R,92," Comedy, Romance            ",6.4,0,    Walt Becker  ,      Ryan Reynolds,   Tara Reid,   Tim Matheson,   Kal Penn  ,103832,21010000
+    How to Lose a Guy in 10 Days  ,2003,PG-13,116," Comedy, Romance            ",6.4,0,    Donald Petrie  ,      Kate Hudson,   Matthew McConaughey,   Adam Gold erg,   Kathryn Hahn  ,213350,105810000
+    What Women Want  ,2000,PG-13,127," Comedy, Fantasy, Romance            ",6.4,0,    Nancy Meyers  ,      Mel Gi son,   Helen Hunt,   Marisa Tomei,   Alan Alda  ,192602,182810000
+    Final Fantasy: The Spirits Within  ,2001,PG-13,106," Animation, Action, Adventure            ",6.4,0,    Hirono u Sakaguchi   ,       Alec Baldwin,   Steve Buscemi,   Ming-Na Wen,   Ving Rhames    ,80061,32130000
+    Kate & Leopold  ,2001,PG-13,118," Comedy, Fantasy, Romance            ",6.4,0,    James Mangold  ,      Meg Ryan,   Hugh Jackman,   Liev Schrei er,   Breckin Meyer  ,79326,47120000
+    The Discovery  ,2017,TV-MA,102," Drama, Romance, Sci-Fi            ",6.3,0,    Charlie McDowell  ,      Ro ert Redford,   Mary Steen urgen,   Brian McCarthy,   Jason Segel  ,30202,0
+    Paper Towns  ,2015,PG-13,109," Adventure, Comedy, Drama            ",6.3,0,    Jake Schreier  ,      Nat Wolff,   Cara Delevingne,   Austin A rams,   Justice Smith  ,95878,32000000
+    Third Person  ,2013,R,137," Drama, Romance            ",6.3,0,    Paul Haggis  ,      Liam Neeson,   Mila Kunis,   Adrien Brody,   Olivia Wilde  ,26910,1020000
+    Endless Love  ,2014,PG-13,104," Drama, Romance            ",6.3,0,    Shana Feste  ,      Ga riella Wilde,   Alex Pettyfer,   Bruce Greenwood,   Ro ert Patrick  ,40543,23390000
+    Mr. Right  ,2015,R,95," Action, Comedy, Romance            ",6.3,0,    Paco Ca ezas  ,      Anna Kendrick,   Sam Rockwell,   Tim Roth,   James Ransone  ,51052,30000
+    To Rome With Love  ,2012,R,112," Comedy, Music, Romance            ",6.3,0,    Woody Allen  ,      Woody Allen,   Penlope Cruz,   Jesse Eisen erg,   Elliot Page  ,84759,16690000
+    The Loft  ,2014,R,108," Mystery, Romance, Thriller            ",6.3,0,    Erik Van Looy  ,      Karl Ur an,   James Marsden,   Wentworth Miller,   Eric Stonestreet  ,52496,5980000
+    This Means War  ,2012,PG-13,103," Action, Comedy, Romance            ",6.3,0,    McG  ,      Reese Witherspoon,   Chris Pine,   Tom Hardy,   Til Schweiger  ,176748,54760000
+    Hope Springs  ,2012,PG-13,100," Comedy, Drama, Romance            ",6.3,65,    David Frankel  ,      Meryl Streep,   Tommy Lee Jones,   Steve Carell,   Jean Smart  ,40948,63540000
+    A Little Bit of Heaven  ,2011,PG-13,106," Comedy, Drama, Fantasy            ",6.3,0,    Nicole Kassell  ,      Kate Hudson,   Gael Garca Bernal,   Kathy Bates,   Peter Dinklage  ,27829,10000
+    Chloe  ,2009,R,96," Drama, Mystery, Romance            ",6.3,0,    Atom Egoyan  ,      Julianne Moore,   Amanda Seyfried,   Liam Neeson,   Max Thieriot  ,69834,3070000
+    Cyrus  ,2010,R,91," Comedy, Drama, Romance            ",6.3,74,    Jay Duplass   ,       John C. Reilly,   Marisa Tomei,   Jonah Hill,   Catherine Keener    ,33709,7460000
+    Going the Distance  ,2010,R,102," Comedy, Romance            ",6.3,0,    Nanette Burstein  ,      Drew Barrymore,   Justin Long,   Ron Livingston,   Charlie Day  ,56759,17800000
+    Date Night  ,2010,PG-13,88," Comedy, Crime, Romance            ",6.3,0,    Shawn Levy  ,      Steve Carell,   Tina Fey,   Mark Wahl erg,   Taraji P. Henson  ,153111,98710000
+    The Re ound  ,2009,R,95," Comedy, Romance            ",6.3,0,    Bart Freundlich  ,      Catherine Zeta-Jones,   Justin Bartha,   Andrew Cherry,   Kelly Gould  ,46612,0
+    You Will Meet a Tall Dark Stranger  ,2010,R,98," Comedy, Drama, Romance            ",6.3,0,    Woody Allen  ,      Anthony Hopkins,   Naomi Watts,   Josh Brolin,   Gemma Jones  ,43997,3250000
+    All Good Things  ,2010,R,101," Crime, Drama, Mystery            ",6.3,0,    Andrew Jarecki  ,      Ryan Gosling,   Kirsten Dunst,   Frank Langella,   Lily Ra e  ,53098,580000
+    Dear John  ,2010,PG-13,108," Drama, Romance, War            ",6.3,0,    Lasse Hallstrm  ,      Channing Tatum,   Amanda Seyfried,   Richard Jenkins,   Henry Thomas  ,139758,80010000
+"    Angus, Thongs and Perfect Snogging  ",2008,PG-13,100," Comedy, Drama, Romance            ",6.3,0,    Gurinder Chadha  ,      Georgia Groome,   Aaron Taylor-Johnson,   Karen Taylor,   Alan Davies  ,26040,0
+    Shrek Forever After  ,2010,PG,93," Animation, Adventure, Comedy            ",6.3,0,    Mike Mitchell  ,      Mike Myers,   Cameron Diaz,   Eddie Murphy,   Antonio Banderas  ,186181,238370000
+    Take Me Home Tonight  ,2011,R,97," Comedy, Drama, Romance            ",6.3,0,    Michael Dowse  ,      Topher Grace,   Anna Faris,   Dan Fogler,   Teresa Palmer  ,51360,6920000
+    It' s a Boy Girl Thing  ,2006,PG-13,95," Comedy, Fantasy, Romance            ",6.3,0,    Nick Hurran  ,      Samaire Armstrong,   Kevin Zegers,   Sherry Miller,   Ro ert Joy  ,39435,0
+    No Reservations  ,2007,PG,104," Comedy, Drama, Romance            ",6.3,0,    Scott Hicks  ,      Catherine Zeta-Jones,   Aaron Eckhart,   A igail Breslin,   Patricia Clarkson  ,71243,43110000
+    She' s the Man  ,2006,PG-13,105," Comedy, Romance, Sport            ",6.3,0,    Andy Fickman  ,      Amanda Bynes,   Laura Ramsey,   Channing Tatum,   Vinnie Jones  ,146473,2340000
+    The Li ertine  ,2004,R,114," Biography, Drama, History            ",6.3,0,    Laurence Dunmore  ,      Johnny Depp,   Samantha Morton,   John Malkovich,   Paul Ritter  ,34992,4840000
+    Wim ledon  ,2004,PG-13,98," Comedy, Romance, Sport            ",6.3,0,    Richard Loncraine  ,      Kirsten Dunst,   Paul Bettany,   Jon Favreau,   Sam Neill  ,60371,17000000
+    The Family Stone  ,2005,PG-13,103," Comedy, Drama, Romance            ",6.3,0,    Thomas Bezucha  ,      Dermot Mulroney,   Sarah Jessica Parker,   Claire Danes,   Diane Keaton  ,62584,60060000
+    Ella Enchanted  ,2004,PG,96," Comedy, Family, Fantasy            ",6.3,0,    Tommy O  Haver  ,      Anne Hathaway,   Hugh Dancy,   Cary Elwes,   Joanna Lumley  ,62406,22920000
+    Anything Else  ,2003,R,108," Comedy, Romance            ",6.3,0,    Woody Allen  ,      Woody Allen,   Jason Biggs,   Christina Ricci,   Danny DeVito  ,29828,3200000
+    Down with Love  ,2003,PG-13,101," Comedy, Romance            ",6.3,0,    Peyton Reed  ,      Ewan McGregor,   Rene Zellweger,   David Hyde Pierce,   Sarah Paulson  ,39684,20300000
+    Meet the Fockers  ,2004,PG-13,115," Comedy, Romance            ",6.3,0,    Jay Roach  ,      Ben Stiller,   Ro ert De Niro,   Blythe Danner,   Teri Polo  ,254077,279260000
+    The Good Girl  ,2002,R,93," Drama, Romance            ",6.3,71,    Miguel Arteta  ,      Jennifer Aniston,   Jake Gyllenhaal,   De orah Rush,   Mike White  ,43292,14020000
+    Legally Blonde  ,2001,PG-13,96," Comedy, Romance            ",6.3,0,    Ro ert Luketic  ,      Reese Witherspoon,   Luke Wilson,   Selma Blair,   Matthew Davis  ,187456,96520000
+    The Princess Diaries  ,2001,G,111," Comedy, Family, Romance            ",6.3,0,    Garry Marshall  ,      Julie Andrews,   Anne Hathaway,   Hector Elizondo,   Heather Matarazzo  ,129648,108250000
+    Miss Congeniality  ,2000,PG-13,109," Action, Comedy, Crime            ",6.3,0,    Donald Petrie  ,      Sandra Bullock,   Michael Caine,   Benjamin Bratt,   Candice Bergen  ,189340,106810000
+    Keeping the Faith  ,2000,PG-13,128," Comedy, Drama, Romance            ",6.3,0,    Edward Norton  ,      Ben Stiller,   Edward Norton,   Jenna Elfman,   Anne Bancroft  ,49941,37050000
+    We Are Your Friends  ,2015,R,96," Drama, Music, Romance            ",6.2,0,    Max Joseph  ,      Zac Efron,   Wes Bentley,   Emily Ratajkowski,   Jonny Weston  ,36350,3590000
+    Trainwreck  ,2015,R,125," Comedy, Drama, Romance            ",6.2,75,    Judd Apatow  ,      Amy Schumer,   Bill Hader,   Brie Larson,   Colin Quinn  ,129889,110210000
+    Adore  ,2013,R,112," Drama, Romance            ",6.2,0,    Anne Fontaine  ,      Naomi Watts,   Ro in Wright,   Xavier Samuel,   James Frecheville  ,32521,320000
+    The Two Faces of January  ,2014,PG-13,96," Romance, Thriller            ",6.2,66,    Hossein Amini  ,      Viggo Mortensen,   Kirsten Dunst,   Oscar Isaac,   Daisy Bevan  ,29755,510000
+    Winter' s Tale  ,2014,PG-13,118," Drama, Fantasy, Mystery            ",6.2,0,    Akiva Goldsman  ,      Colin Farrell,   Jessica Brown Findlay,   Russell Crowe,   Jennifer Connelly  ,52429,20000
+    That Awkward Moment  ,2014,R,94," Comedy, Romance            ",6.2,0,    Tom Gormican  ,      Zac Efron,   Michael B. Jordan,   Miles Teller,   Imogen Poots  ,98291,26050000
+    This Is 40  ,2012,R,134," Comedy, Romance            ",6.2,0,    Judd Apatow  ,      Paul Rudd,   Leslie Mann,   Maude Apatow,   Iris Apatow  ,128590,67540000
+"    Tomorrow, When the War Began  ",2010,R,104," Action, Adventure, Drama            ",6.2,0,    Stuart Beattie  ,      Caitlin Stasey,   Rachel Hurd-Wood,   Lincoln Lewis,   Deniz Akdeniz  ,30283,0
+    No Strings Attached  ,2011,R,108," Comedy, Romance            ",6.2,0,    Ivan Reitman  ,      Natalie Portman,   Ashton Kutcher,   Kevin Kline,   Cary Elwes  ,214935,70660000
+    The Five-Year Engagement  ,2012,R,124," Comedy, Romance            ",6.2,62,    Nicholas Stoller  ,      Jason Segel,   Emily Blunt,   Chris Pratt,   Alison Brie  ,94722,28840000
+    Step Up 3D  ,2010,PG-13,107," Drama, Music, Romance            ",6.2,0,    Jon M. Chu  ,      Sharni Vinson,   Rick Malam ri,   Adam Sevani,   Alyson Stoner  ,55889,42400000
+    Step Up 2: The Streets  ,2008,PG-13,98," Drama, Music, Romance            ",6.2,0,    Jon M. Chu  ,      Ro ert Hoffman,   Briana Evigan,   Cassie Ventura,   Adam Sevani  ,80183,58020000
+    The Sisterhood of the Traveling Pants 2  ,2008,PG-13,119," Comedy, Drama, Romance            ",6.2,63,    Sanaa Hamri  ,      America Ferrera,   Alexis Bledel,   Am er Tam lyn,   Blake Lively  ,27157,44090000
+    The Legend of Tarzan  ,2016,PG-13,110," Action, Adventure, Drama            ",6.2,0,    David Yates  ,      Alexander Skarsgrd,   Rory J. Saper,   Christian Stevens,   Christoph Waltz  ,164266,126640000
+    Sydney White  ,2007,PG-13,108," Comedy, Drama, Romance            ",6.2,0,    Joe Nuss aum  ,      Amanda Bynes,   Sara Paxton,   Matt Long,   Jack Carpenter  ,46217,11890000
+"    New York, I Love You  ",2008,R,103," Comedy, Drama, Romance            ",6.2,0,    Fatih Akin   ,      Allen Hughes,   Shunji Iwai,   Wen Jiang,   Shekhar Kapur,44911,1590000
+    The Nanny Diaries  ,2007,PG-13,105," Comedy, Drama, Romance            ",6.2,0,    Shari Springer Berman   ,       Scarlett Johansson,   Laura Linney,   Paul Giamatti,   Donna Murphy    ,56107,25930000
+    Man of the Year  ,2006,PG-13,115," Comedy, Drama, Romance            ",6.2,0,    Barry Levinson  ,      Ro in Williams,   Laura Linney,   Lewis Black,   Christopher Walken  ,32210,37440000
+    Just Friends  ,2005,PG-13,96," Comedy, Romance            ",6.2,0,    Roger Kum le  ,      Ryan Reynolds,   Amy Smart,   Anna Faris,   Chris Klein  ,107426,32620000
+    Prime  ,2005,PG-13,105," Comedy, Drama, Romance            ",6.2,0,    Ben Younger  ,      Uma Thurman,   Meryl Streep,   Bryan Green erg,   Jon A rahams  ,39735,22830000
+    Alfie  ,2004,R,103," Comedy, Drama, Romance            ",6.2,0,    Charles Shyer  ,      Jude Law,   Sienna Miller,   Susan Sarandon,   Rene Taylor  ,50960,13400000
+    The Wedding Date  ,2005,PG-13,90," Comedy, Romance            ",6.2,0,    Clare Kilner  ,      Dermot Mulroney,   De ra Messing,   Jack Davenport,   Amy Adams  ,48947,31730000
+    13 Going on 30  ,2004,PG-13,98," Comedy, Fantasy, Romance            ",6.2,0,    Gary Winick  ,      Jennifer Garner,   Mark Ruffalo,   Judy Greer,   Andy Serkis  ,168894,57230000
+    Fever Pitch  ,2005,PG-13,104," Comedy, Drama, Romance            ",6.2,0,    Bo  y Farrelly   ,       Drew Barrymore,   Jimmy Fallon,   Jason Spevack,   Jack Kehler    ,42631,42070000
+    Freaky Friday  ,2003,PG,97," Comedy, Family, Fantasy            ",6.2,70,    Mark Waters  ,      Jamie Lee Curtis,   Lindsay Lohan,   Mark Harmon,   Harold Gould  ,126247,110230000
+    Two Weeks Notice  ,2002,PG-13,101," Comedy, Romance            ",6.2,0,    Marc Lawrence  ,      Sandra Bullock,   Hugh Grant,   Alicia Witt,   Dana Ivey  ,108480,93350000
+    The Human Stain  ,2003,R,106," Drama, Romance, Thriller            ",6.2,0,    Ro ert Benton  ,      Anthony Hopkins,   Nicole Kidman,   Ed Harris,   Gary Sinise  ,29418,5380000
+    Solaris  ,2002,PG-13,99," Drama, Mystery, Romance            ",6.2,65,    Steven Soder ergh  ,      George Clooney,   Natascha McElhone,   Ulrich Tukur,   Viola Davis  ,79190,14970000
+    Jersey Girl  ,2004,PG-13,102," Comedy, Drama, Romance            ",6.2,0,    Kevin Smith  ,      Ben Affleck,   Liv Tyler,   Raquel Castro,   Betty A erlin  ,63566,25270000
+    Uptown Girls  ,2003,PG-13,92," Comedy, Drama, Romance            ",6.2,0,    Boaz Yakin  ,      Brittany Murphy,   Dakota Fanning,   Heather Locklear,   Jesse Spencer  ,35398,36920000
+    Sweet Home Ala ama  ,2002,PG-13,108," Comedy, Romance            ",6.2,0,    Andy Tennant  ,      Reese Witherspoon,   Patrick Dempsey,   Josh Lucas,   Candice Bergen  ,103153,127220000
+    Pearl Har or  ,2001,PG-13,183," Action, Drama, History            ",6.2,0,    Michael Bay  ,      Ben Affleck,   Kate Beckinsale,   Josh Hartnett,   William Lee Scott  ,312801,198540000
+    Save the Last Dance  ,2001,PG-13,112," Drama, Music, Romance            ",6.2,0,    Thomas Carter  ,      Julia Stiles,   Sean Patrick Thomas,   Kerry Washington,   Fredro Starr  ,57835,91060000
+    Intolera le Cruelty  ,2003,PG-13,100," Comedy, Crime, Romance            ",6.2,71,    Joel Coen   ,       George Clooney,   Catherine Zeta-Jones,   Billy Bo  Thornton,   Geoffrey Rush    ,92129,35330000
+    Heart reakers  ,2001,PG-13,123," Comedy, Crime, Romance            ",6.2,0,    David Mirkin  ,      Sigourney Weaver,   Jennifer Love Hewitt,   Gene Hackman,   Ray Liotta  ,51855,40340000
+    Holidate  ,2020,TV-MA,104," Comedy, Romance            ",6.1,0,    John Whitesell  ,      Emma Ro erts,   Luke Bracey,   Kristin Chenoweth,   Frances Fisher  ,46454,0
+    Book Clu   ,2018,PG-13,104," Comedy, Drama, Romance            ",6.1,0,    Bill Holderman  ,      Diane Keaton,   Jane Fonda,   Candice Bergen,   Mary Steen urgen  ,25700,68570000
+    Love  ,2015,TV-MA,135," Drama, Romance            ",6.1,0,    Gaspar No  ,      Aomi Muyock,   Karl Glusman,   Klara Kristin,   Juan Saavedra  ,49431,0
+    Equals  ,2015,PG-13,101," Drama, Romance, Sci-Fi            ",6.1,0,    Drake Doremus  ,      Nicholas Hoult,   Kristen Stewart,   Vernetta Lopez,   Scott Lawrence  ,28056,30000
+    A Hologram for the King  ,2016,R,98," Comedy, Drama, Romance            ",6.1,0,    Tom Tykwer  ,      Tom Hanks,   Omar El a,   Sarita Choudhury,   Ben Whishaw  ,40885,4200000
+    Drinking Buddies  ,2013,R,90," Comedy, Drama, Romance            ",6.1,71,    Joe Swan erg  ,      Olivia Wilde,   Jake Johnson,   Anna Kendrick,   Ron Livingston  ,56192,340000
+    Friends with Kids  ,2011,R,107," Comedy, Drama, Romance            ",6.1,0,    Jennifer Westfeldt  ,         Jennifer Westfeldt,     Adam Scott,     Maya Rudolph,  Chris O    Dowd ,41234,7250000
+    Larry Crowne  ,2011,PG-13,98," Comedy, Drama, Romance            ",6.1,0,    Tom Hanks  ,      Tom Hanks,   Julia Ro erts,   Sarah Mahoney,   Roxana Ortega  ,63879,35610000
+    Beautiful Creatures  ,2013,PG-13,124," Drama, Fantasy, Romance            ",6.1,0,    Richard LaGravenese  ,      Alice Englert,   Viola Davis,   Emma Thompson,   Alden Ehrenreich  ,84278,19450000
+    How to Be Single  ,2016,R,110," Comedy, Drama, Romance            ",6.1,0,    Christian Ditter  ,      Dakota Johnson,   Re el Wilson,   Leslie Mann,   Alison Brie  ,81562,46840000
+    Green erg  ,2010,R,107," Comedy, Drama, Romance            ",6.1,76,    Noah Baum ach  ,      Ben Stiller,   Greta Gerwig,   Jennifer Jason Leigh,   Rhys Ifans  ,36300,4220000
+    Ironclad  ,2011,R,121," Action, Drama, History            ",6.1,0,    Jonathan English  ,      Paul Giamatti,   Jason Flemyng,   Brian Cox,   James Purefoy  ,40382,0
+    Extract  ,2009,R,92," Comedy, Crime, Romance            ",6.1,61,    Mike Judge  ,      Jason Bateman,   Kristen Wiig,   Ben Affleck,   Mila Kunis  ,45329,10810000
+    Duplicity  ,2009,PG-13,125," Comedy, Crime, Romance            ",6.1,69,    Tony Gilroy  ,      Julia Ro erts,   Clive Owen,   Tom Wilkinson,   Paul Giamatti  ,47960,40570000
+    What Happens in Vegas  ,2008,PG-13,99," Comedy, Romance            ",6.1,0,    Tom Vaughan  ,      Cameron Diaz,   Ashton Kutcher,   Ro  Corddry,   Lake Bell  ,165757,80280000
+    Wild Child  ,2008,PG-13,124," Adventure, Comedy, Drama            ",6.1,0,    Nick Moore  ,      Emma Ro erts,   Aidan Quinn,   Natasha Richardson,   Lexi Ainsworth  ,50149,20000
+    27 Dresses  ,2008,PG-13,111," Comedy, Romance            ",6.1,0,    Anne Fletcher  ,      Katherine Heigl,   James Marsden,   Malin Akerman,   Brian Kerwin  ,154922,76810000
+    The Switch  ,2010,PG-13,101," Comedy, Drama, Romance            ",6.1,0,    Josh Gordon   ,       Jennifer Aniston,   Jason Bateman,   Patrick Wilson,   Jeff Gold lum    ,97877,27760000
+    What' s Your Num er?  ,2011,R,106," Comedy, Romance            ",6.1,0,    Mark Mylod  ,      Anna Faris,   Chris Evans,   Ari Graynor,   Blythe Danner  ,72942,14010000
+    Flight of the Phoenix  ,2004,PG-13,113," Action, Adventure, Drama            ",6.1,0,    John Moore  ,      Dennis Quaid,   Miranda Otto,   Giovanni Ri isi,   Tyrese Gi son  ,51903,21010000
+    Chasing Li erty  ,2004,PG-13,111," Comedy, Romance            ",6.1,0,    Andy Cadiff  ,      Mandy Moore,   Matthew Goode,   Mark Harmon,   Stark Sands  ,36501,12190000
+    Shall We Dance  ,2004,PG-13,106," Comedy, Drama, Music            ",6.1,0,    Peter Chelsom  ,      Richard Gere,   Jennifer Lopez,   Susan Sarandon,   Stanley Tucci  ,43908,57890000
+    On the Road  ,2012,R,124," Adventure, Drama, Romance            ",6.1,0,    Walter Salles  ,      Sam Riley,   Garrett Hedlund,   Kristen Stewart,   Amy Adams  ,39992,720000
+    Dragonfly  ,2002,PG-13,104," Drama, Fantasy, Mystery            ",6.1,0,    Tom Shadyac  ,      Kevin Costner,   Susanna Thompson,   Joe Morton,   Ron Rifkin  ,36824,30060000
+    The Mexican  ,2001,R,123," Adventure, Comedy, Crime            ",6.1,0,    Gore Ver inski  ,      Brad Pitt,   Julia Ro erts,   James Gandolfini,   J.K. Simmons  ,103631,66810000
+    Original Sin  ,2001,R,116," Drama, Mystery, Romance            ",6.1,0,    Michael Cristofer  ,      Antonio Banderas,   Angelina Jolie,   Thomas Jane,   Jack Thompson  ,53962,16250000
+    Nurse Betty  ,2000,R,110," Comedy, Crime, Drama            ",6.1,69,    Neil LaBute  ,      Rene Zellweger,   Morgan Freeman,   Chris Rock,   Greg Kinnear  ,32959,25170000
+    To All the Boys: P.S. I Still Love You  ,2020,TV-14,101," Comedy, Drama, Romance            ",6.0,0,    Michael Fimognari  ,      Lana Condor,   Noah Centineo,   Jordan Fisher,   Anna Cathcart  ,29174,0
+    Destination Wedding  ,2018,R,87," Comedy, Drama, Romance            ",6.0,0,    Victor Levin  ,      Winona Ryder,   Keanu Reeves,   DJ Dallen ach,   Ted Du ost  ,25189,0
+    The Kissing Booth  ,2018,TV-14,105," Comedy, Romance            ",6.0,0,    Vince Marcello  ,      Joey King,   Jaco  Elordi,   Joel Courtney,   Megan du Plessis  ,67885,0
+    My Big Fat Greek Wedding 2  ,2016,PG-13,94," Comedy, Romance            ",6.0,0,    Kirk Jones  ,      Nia Vardalos,   John Cor ett,   Michael Constantine,   Lainie Kazan  ,28488,59690000
+    Mike and Dave Need Wedding Dates  ,2016,R,98," Comedy, Romance            ",6.0,0,    Jake Szymanski  ,      Zac Efron,   Adam Devine,   Anna Kendrick,   Au rey Plaza  ,83101,46010000
+    Step Up All In  ,2014,PG-13,112," Drama, Music, Romance            ",6.0,0,    Trish Sie  ,      Ryan Guzman,   Briana Evigan,   Adam Sevani,   Misha Ga riel Hamilton  ,32637,14900000
+    Re ecca  ,2020,PG-13,123," Drama, Mystery, Romance            ",6.0,0,    Ben Wheatley  ,      Lily James,   Armie Hammer,   Kristin Scott Thomas,   Keeley Hawes  ,31816,0
+    The Other Woman  ,2014,PG-13,109," Comedy, Romance            ",6.0,0,    Nick Cassavetes  ,      Cameron Diaz,   Leslie Mann,   Kate Upton,   Nikolaj Coster-Waldau  ,131610,83910000
+    Playing It Cool  ,2014,R,94," Comedy, Romance            ",6.0,0,    Justin Reardon  ,      Chris Evans,   Michelle Monaghan,   Topher Grace,   Au rey Plaza  ,26159,0
+    Murder Mystery  ,2019,PG-13,97," Action, Comedy, Crime            ",6.0,0,    Kyle Newacheck  ,      Adam Sandler,   Jennifer Aniston,   Luke Evans,   Terence Stamp  ,104531,0
+    Over oard  ,2018,PG-13,112," Comedy, Romance            ",6.0,0,    Ro  Green erg  ,      Eugenio Der ez,   Anna Faris,   Eva Longoria,   John Hannah  ,34768,50320000
+    The Last Song  ,2010,PG,107," Drama, Music, Romance            ",6.0,0,    Julie Anne Ro inson  ,      Miley Cyrus,   Liam Hemsworth,   Greg Kinnear,   Bo  y Coleman  ,81857,62950000
+    Immortals  ,2011,R,110," Action, Drama, Fantasy            ",6.0,0,    Tarsem Singh  ,      Henry Cavill,   Mickey Rourke,   John Hurt,   Stephen Dorff  ,161352,83500000
+    The Tourist  ,2010,PG-13,103," Action, Romance, Thriller            ",6.0,0,    Florian Henckel von Donnersmarck  ,      Johnny Depp,   Angelina Jolie,   Paul Bettany,   Timothy Dalton  ,225712,67630000
+    Bedtime Stories  ,2008,PG,99," Adventure, Comedy, Family            ",6.0,0,    Adam Shankman  ,      Adam Sandler,   Keri Russell,   Courteney Cox,   Guy Pearce  ,88714,110100000
+    Ba y Mama  ,2008,PG-13,99," Comedy, Romance            ",6.0,0,    Michael McCullers  ,      Tina Fey,   Amy Poehler,   Sigourney Weaver,   Greg Kinnear  ,42601,60270000
+    The Legend of Zorro  ,2005,PG,129," Action, Adventure, Romance            ",6.0,0,    Martin Camp ell  ,      Antonio Banderas,   Catherine Zeta-Jones,   Rufus Sewell,   Al erto Reyes  ,93653,46460000
+    Leatherheads  ,2008,PG-13,114," Comedy, Drama, Romance            ",6.0,0,    George Clooney  ,      George Clooney,   Rene Zellweger,   John Krasinski,   David de Vries  ,31096,31200000
+    Raising Helen  ,2004,PG-13,119," Comedy, Drama, Romance            ",6.0,0,    Garry Marshall  ,      Kate Hudson,   John Cor ett,   Joan Cusack,   Hayden Panettiere  ,35470,37490000
+    Along Came Polly  ,2004,PG-13,90," Comedy, Romance            ",6.0,0,    John Ham urg  ,      Ben Stiller,   Jennifer Aniston,   De ra Messing,   Philip Seymour Hoffman  ,126887,88100000
+    Dirty Dancing: Havana Nights  ,2004,PG-13,86," Drama, Music, Romance            ",6.0,0,    Guy Ferland  ,      Diego Luna,   Romola Garai,   Sela Ward,   John Slattery  ,26887,14160000
+    Bridget Jones: The Edge of Reason  ,2004,R,108," Comedy, Drama, Romance            ",6.0,0,    Bee an Kidron  ,      Rene Zellweger,   Colin Firth,   Hugh Grant,   Gemma Jones  ,107355,40230000
+    Bring It On  ,2000,PG-13,98," Comedy, Romance, Sport            ",6.0,0,    Peyton Reed  ,      Kirsten Dunst,   Eliza Dushku,   Jesse Bradford,   Ga rielle Union  ,88138,68380000
+    Isn' t It Romantic  ,2019,PG-13,89," Comedy, Fantasy, Musical            ",5.9,0,    Todd Strauss-Schulson  ,      Re el Wilson,   Liam Hemsworth,   Adam Devine,   Priyanka Chopra  ,63726,48790000
+    To the Wonder  ,2012,R,112," Drama, Romance            ",5.9,0,    Terrence Malick  ,      Ben Affleck,   Olga Kurylenko,   Javier Bardem,   Rachel McAdams  ,27290,590000
+    The Mortal Instruments: City of Bones  ,2013,PG-13,130," Action, Adventure, Fantasy            ",5.9,0,    Harald Zwart  ,      Lily Collins,   Jamie Camp ell Bower,   Ro ert Sheehan,   Jemima West  ,128258,31170000
+    The Host  ,2013,PG-13,125," Action, Adventure, Drama            ",5.9,0,    Andrew Niccol  ,      Saoirse Ronan,   Max Irons,   Jake A el,   Diane Kruger  ,111173,26630000
+    Rock of Ages  ,2012,PG-13,123," Comedy, Drama, Musical            ",5.9,0,    Adam Shankman  ,      Julianne Hough,   Diego Boneta,   Tom Cruise,   Alec Baldwin  ,74192,38520000
+    Confessions of a Shopaholic  ,2009,PG,104," Comedy, Romance            ",5.9,0,    P.J. Hogan  ,      Isla Fisher,   Hugh Dancy,   Krysten Ritter,   Joan Cusack  ,75005,44280000
+    Footloose  ,2011,PG-13,113," Comedy, Drama, Music            ",5.9,0,    Craig Brewer  ,      Kenny Wormald,   Julianne Hough,   Dennis Quaid,   Andie MacDowell  ,46655,51800000
+    My Best Friend' s Girl  ,2008,R,101," Comedy, Romance            ",5.9,0,    Howard Deutch  ,      Kate Hudson,   Dane Cook,   Jason Biggs,   Alec Baldwin  ,42706,19220000
+    Made of Honor  ,2008,PG-13,101," Comedy, Romance            ",5.9,0,    Paul Weiland  ,      Patrick Dempsey,   Michelle Monaghan,   Kevin McKidd,   Kadeem Hardison  ,68182,46010000
+    I Now Pronounce You Chuck & Larry  ,2007,PG-13,115," Comedy, Romance            ",5.9,0,    Dennis Dugan  ,      Adam Sandler,   Kevin James,   Jessica Biel,   Dan Aykroyd  ,141484,120060000
+    Something Borrowed  ,2011,PG-13,112," Comedy, Drama, Romance            ",5.9,0,    Luke Greenfield  ,      Ginnifer Goodwin,   Kate Hudson,   Colin Egglesfield,   John Krasinski  ,58019,39050000
+    Passengers  ,2008,PG-13,93," Romance, Thriller            ",5.9,0,    Rodrigo Garca  ,      Anne Hathaway,   Patrick Wilson,   David Morse,   Andre Braugher  ,34812,270000
+    Must Love Dogs  ,2005,PG-13,98," Comedy, Romance            ",5.9,0,    Gary David Gold erg  ,      Diane Lane,   John Cusack,   Eliza eth Perkins,   Christopher Plummer  ,30756,43890000
+    Gnomeo & Juliet  ,2011,G,84," Animation, Adventure, Comedy            ",5.9,0,    Kelly As ury  ,      James McAvoy,   Emily Blunt,   Maggie Smith,   Ashley Jensen  ,52571,99970000
+    Guess Who  ,2005,PG-13,105," Comedy, Romance            ",5.9,0,    Kevin Rodney Sullivan  ,      Ashton Kutcher,   Bernie Mac,   Zoe Saldana,   Judith Scott  ,40592,68920000
+    Raise Your Voice  ,2004,PG,103," Family, Music, Musical            ",5.9,0,    Sean McNamara  ,      Hilary Duff,   John Cor ett,   Re ecca De Mornay,   Oliver James  ,26899,10410000
+    A Cinderella Story  ,2004,PG,95," Comedy, Family, Romance            ",5.9,0,    Mark Rosman  ,      Hilary Duff,   Chad Michael Murray,   Jennifer Coolidge,   Dan Byrd  ,81419,51440000
+    The Prince and Me  ,2004,PG,111," Comedy, Family, Romance            ",5.9,0,    Martha Coolidge  ,      Julia Stiles,   Luke Ma ly,   Miranda Richardson,   Ben Miller  ,37773,28180000
+    Drumline  ,2002,PG-13,118," Comedy, Drama, Romance            ",5.9,63,    Charles Stone III  ,      Nick Cannon,   Zoe Saldana,   Orlando Jones,   Leonard Ro erts  ,33247,56400000
+    Shallow Hal  ,2001,PG-13,114," Comedy, Drama, Fantasy            ",5.9,0,    Bo  y Farrelly   ,       Jack Black,   Gwyneth Paltrow,   Jason Alexander,   Joe Viterelli    ,127868,70840000
+    Saving Silverman  ,2001,PG-13,90," Comedy, Crime, Romance            ",5.9,0,    Dennis Dugan  ,      Jason Biggs,   Steve Zahn,   Jack Black,   Amanda Peet  ,38821,19350000
+    Captain Corelli' s Mandolin  ,2001,R,131," Drama, Music, Romance            ",5.9,0,    John Madden  ,      Nicolas Cage,   Penlope Cruz,   John Hurt,   Christian Bale  ,33045,25540000
+    The Perfect Date  ,2019,TV-14,89," Comedy, Romance            ",5.8,0,    Chris Nelson  ,      Noah Centineo,   Laura Marano,   Odiseas Georgiadis,   Camila Mendes  ,33476,0
+    Home Again  ,2017,PG-13,97," Comedy, Drama, Romance            ",5.8,0,    Hallie Meyers-Shyer  ,      Reese Witherspoon,   Michael Sheen,   Candice Bergen,   Pico Alexander  ,28809,27020000
+    Sierra Burgess Is a Loser  ,2018,PG-13,105," Comedy, Drama, Romance            ",5.8,0,    Ian Samuels  ,      Shannon Purser,   Kristine Froseth,   RJ Cyler,   Noah Centineo  ,35437,0
+    The To Do List  ,2013,R,104," Comedy, Romance            ",5.8,61,    Maggie Carey  ,      Au rey Plaza,   Johnny Simmons,   Bill Hader,   Alia Shawkat  ,37027,3450000
+    You Again  ,2010,PG,105," Comedy, Romance            ",5.8,0,    Andy Fickman  ,      Kristen Bell,   Odette Anna le,   Sigourney Weaver,   Jamie Lee Curtis  ,49582,25700000
+    Ta le 19  ,2017,PG-13,87," Comedy, Drama, Romance            ",5.8,0,    Jeffrey Blitz  ,      Anna Kendrick,   Lisa Kudrow,   Craig Ro inson,   Stephen Merchant  ,26462,3610000
+    Pride and Prejudice and Zom ies  ,2016,PG-13,108," Action, Comedy, Fantasy            ",5.8,0,    Burr Steers  ,      Lily James,   Sam Riley,   Jack Huston,   Bella Heathcote  ,52046,10910000
+    Spread  ,2009,R,97," Comedy, Drama, Romance            ",5.8,0,    David Mackenzie  ,      Ashton Kutcher,   Anne Heche,   Margarita Levieva,   Se astian Stan  ,38579,250000
+    Monte Carlo  ,2011,PG,109," Adventure, Comedy, Family            ",5.8,0,    Thomas Bezucha  ,      Selena Gomez,   Leighton Meester,   Katie Cassidy,   Cory Monteith  ,41484,23190000
+    Eat Pray Love  ,2010,PG-13,133," Biography, Drama, Romance            ",5.8,0,    Ryan Murphy  ,      Julia Ro erts,   Javier Bardem,   Richard Jenkins,   Viola Davis  ,89908,80570000
+    Nine  ,2009,PG-13,118," Drama, Musical, Romance            ",5.8,0,    Ro  Marshall  ,      Daniel Day-Lewis,   Marion Cotillard,   Penlope Cruz,   Sandro Dori  ,42509,24000000
+    Ghosts of Girlfriends Past  ,2009,PG-13,100," Comedy, Fantasy, Romance            ",5.8,0,    Mark Waters  ,      Matthew McConaughey,   Jennifer Garner,   Emma Stone,   Michael Douglas  ,85215,55250000
+    Hall Pass  ,2011,R,105," Comedy, Romance            ",5.8,0,    Bo  y Farrelly   ,       Owen Wilson,   Jason Sudeikis,   Christina Applegate,   Jenna Fischer    ,120323,45060000
+    John Tucker Must Die  ,2006,PG-13,89," Comedy, Romance            ",5.8,0,    Betty Thomas  ,      Jesse Metcalfe,   Ashanti,   Arielle Ke  el,   Sophia Bush  ,80096,41010000
+    The Break-Up  ,2006,PG-13,106," Comedy, Drama, Romance            ",5.8,0,    Peyton Reed  ,      Jennifer Aniston,   Vince Vaughn,   Jon Favreau,   Joey Lauren Adams  ,126149,118700000
+    The Heart reak Kid  ,2007,R,116," Comedy, Romance            ",5.8,0,    Bo  y Farrelly   ,       Ben Stiller,   Michelle Monaghan,   Malin Akerman,   Jerry Stiller    ,86795,36790000
+    The Princess Diaries 2: Royal Engagement  ,2004,G,113," Comedy, Family, Romance            ",5.8,0,    Garry Marshall  ,      Anne Hathaway,   Callum Blue,   Julie Andrews,   Hector Elizondo  ,74785,95170000
+    What a Girl Wants  ,2003,PG,105," Comedy, Drama, Family            ",5.8,0,    Dennie Gordon  ,      Amanda Bynes,   Colin Firth,   Kelly Preston,   Soleil McGhee  ,59849,35990000
+    Mr. Deeds  ,2002,PG-13,96," Comedy, Romance            ",5.8,0,    Steven Brill  ,      Adam Sandler,   Winona Ryder,   John Turturro,   Allen Covert  ,137028,126290000
+    The Wrong Missy  ,2020,TV-MA,90," Comedy, Romance            ",5.7,0,    Tyler Spindel  ,      David Spade,   Lauren Lapkus,   Nick Swardson,   Geoff Pierson  ,32991,0
+    Mother' s Day  ,2016,PG-13,118," Comedy, Drama, Romance            ",5.7,0,    Garry Marshall  ,      Jennifer Aniston,   Kate Hudson,   Julia Ro erts,   Jason Sudeikis  ,33202,32460000
+    The Darkest Minds  ,2018,PG-13,104," Action, Adventure, Drama            ",5.7,0,    Jennifer Yuh Nelson  ,      Amandla Sten erg,   Mandy Moore,   Bradley Whitford,   Harris Dickinson  ,28533,12700000
+    I Give It a Year  ,2013,R,97," Comedy, Romance            ",5.7,0,    Dan Mazer  ,      Rose Byrne,   Rafe Spall,   Alex Macqueen,   Stephen Merchant  ,35696,30000
+    Knight of Cups  ,2015,R,118," Drama, Romance            ",5.7,0,    Terrence Malick  ,      Christian Bale,   Cate Blanchett,   Natalie Portman,   Brian Dennehy  ,25125,560000
+    Admission  ,2013,PG-13,107," Comedy, Drama, Romance            ",5.7,0,    Paul Weitz  ,      Tina Fey,   Paul Rudd,   Nat Wolff,   Gloria Reu en  ,33402,18000000
+    New Year' s Eve  ,2011,PG-13,118," Comedy, Romance            ",5.7,0,    Garry Marshall  ,      Sarah Jessica Parker,   Jessica Biel,   Ashton Kutcher,   Michelle Pfeiffer  ,82508,54540000
+    What to Expect When You' re Expecting  ,2012,PG-13,110," Comedy, Drama, Romance            ",5.7,0,    Kirk Jones  ,      Cameron Diaz,   Matthew Morrison,   J. Todd Smith,   Dennis Quaid  ,70229,41150000
+    Playing for Keeps  ,2012,PG-13,105," Comedy, Romance, Sport            ",5.7,0,    Ga riele Muccino  ,      Gerard Butler,   Jessica Biel,   Dennis Quaid,   Noah Lomax  ,29038,13100000
+    The Three Musketeers  ,2011,PG-13,110," Action, Adventure, Fantasy            ",5.7,0,    Paul W.S. Anderson  ,      Logan Lerman,   Matthew Macfadyen,   Ray Stevenson,   Milla Jovovich  ,103945,20380000
+    Arthur  ,2011,PG-13,110," Comedy, Romance            ",5.7,0,    Jason Winer  ,      Russell Brand,   Helen Mirren,   Jennifer Garner,   Greta Gerwig  ,50720,33040000
+    Love Happens  ,2009,PG-13,109," Drama, Romance            ",5.7,0,    Brandon Camp  ,      Jennifer Aniston,   Aaron Eckhart,   Dan Fogler,   John Carroll Lynch  ,31301,22930000
+    Valentine' s Day  ,2010,PG-13,125," Comedy, Romance            ",5.7,0,    Garry Marshall  ,      Julia Ro erts,   Jamie Foxx,   Anne Hathaway,   Jessica Al a  ,114822,110490000
+    Fool' s Gold  ,2008,PG-13,112," Action, Adventure, Comedy            ",5.7,0,    Andy Tennant  ,      Matthew McConaughey,   Kate Hudson,   Donald Sutherland,   Alexis Dziena  ,74324,70230000
+    Because I Said So  ,2007,PG-13,102," Comedy, Romance            ",5.7,0,    Michael Lehmann  ,      Diane Keaton,   Mandy Moore,   Ga riel Macht,   Tom Everett Scott  ,37454,42670000
+    Friends with Money  ,2006,R,88," Comedy, Drama, Romance            ",5.7,68,    Nicole Holofcener  ,      Jennifer Aniston,   Frances McDormand,   Catherine Keener,   Joan Cusack  ,27835,13370000
+    Four Christmases  ,2008,PG-13,88," Comedy, Drama, Romance            ",5.7,0,    Seth Gordon  ,      Reese Witherspoon,   Vince Vaughn,   Mary Steen urgen,   Ro ert Duvall  ,66477,120150000
+    Blue Crush  ,2002,PG-13,104," Drama, Romance, Sport            ",5.7,61,    John Stockwell  ,      Kate Bosworth,   Michelle Rodriguez,   Matthew Davis,   Sanoe Lake  ,30189,40390000
+    America' s Sweethearts  ,2001,PG-13,102," Comedy, Romance            ",5.7,0,    Joe Roth  ,      Julia Ro erts,   John Cusack,   Billy Crystal,   Catherine Zeta-Jones  ,54739,93610000
+    Coyote Ugly  ,2000,PG-13,100," Comedy, Drama, Music            ",5.7,0,    David McNally  ,      Piper Pera o,   Adam Garcia,   John Goodman,   Maria Bello  ,106999,60790000
+    Autumn in New York  ,2000,PG-13,103," Drama, Romance            ",5.7,0,    Joan Chen  ,      Richard Gere,   Winona Ryder,   Anthony LaPaglia,   Elaine Stritch  ,25169,37750000
+    The Big Wedding  ,2013,R,89," Comedy, Drama, Romance            ",5.6,0,    Justin Zackham  ,      Ro ert De Niro,   Diane Keaton,   Katherine Heigl,   Amanda Seyfried  ,47563,21780000
+    Wanderlust  ,2012,R,98," Comedy, Romance            ",5.6,0,    David Wain  ,      Jennifer Aniston,   Paul Rudd,   Malin Akerman,   Justin Theroux  ,72408,17230000
+    Bad Teacher  ,2011,R,92," Comedy, Romance            ",5.6,0,    Jake Kasdan  ,      Cameron Diaz,   Jason Segel,   Justin Tim erlake,   Lucy Punch  ,193994,100290000
+    When in Rome  ,2010,PG-13,91," Comedy, Romance            ",5.6,0,    Mark Steven Johnson  ,      Kristen Bell,   Josh Duhamel,   Anjelica Huston,   Danny DeVito  ,60115,32670000
+    Beastly  ,2011,PG-13,86," Drama, Fantasy, Romance            ",5.6,0,    Daniel Barnz  ,      Alex Pettyfer,   Vanessa Hudgens,   Mary-Kate Olsen,   Justin Bradley  ,75667,27870000
+    Fighting  ,2009,PG-13,105," Action, Crime, Drama            ",5.6,61,    Dito Montiel  ,      Channing Tatum,   Terrence Howard,   Luis Guzmn,   Zulay Henao  ,31999,23040000
+    The Bounty Hunter  ,2010,PG-13,110," Action, Comedy, Romance            ",5.6,0,    Andy Tennant  ,      Jennifer Aniston,   Gerard Butler,   Gio Perez,   Joel Marsh Garland  ,121895,67060000
+    Sex and the City  ,2008,R,145," Comedy, Drama, Romance            ",5.6,0,    Michael Patrick King  ,      Sarah Jessica Parker,   Kim Cattrall,   Cynthia Nixon,   Kristin Davis  ,116537,152650000
+"    You, Me and Dupree  ",2006,PG-13,110," Comedy, Romance            ",5.6,0,    Anthony Russo   ,       Kate Hudson,   Owen Wilson,   Matt Dillon,   Michael Douglas    ,78644,75630000
+    Good Luck Chuck  ,2007,R,96," Comedy, Romance            ",5.6,0,    Mark Helfrich  ,      Dane Cook,   Jessica Al a,   Dan Fogler,   Connor Price  ,86040,34930000
+    Failure to Launch  ,2006,PG-13,97," Comedy, Romance            ",5.6,0,    Tom Dey  ,      Matthew McConaughey,   Sarah Jessica Parker,   Kathy Bates,   Terry Bradshaw  ,75174,88720000
+    Kicking & Screaming  ,2005,PG,95," Comedy, Family, Romance            ",5.6,0,    Jesse Dylan  ,      Will Ferrell,   Ro ert Duvall,   Josh Hutcherson,   Mike Ditka  ,36355,52580000
+    Monster-in-Law  ,2005,PG-13,101," Comedy, Romance            ",5.6,0,    Ro ert Luketic  ,      Jennifer Lopez,   Michael Vartan,   Jane Fonda,   Wanda Sykes  ,57012,82930000
+    Win a Date with Tad Hamilton!  ,2004,PG-13,95," Comedy, Romance            ",5.6,0,    Ro ert Luketic  ,      Kate Bosworth,   Josh Duhamel,   Topher Grace,   Nathan Lane  ,26821,17070000
+    Bu  le Boy  ,2001,PG-13,84," Adventure, Comedy, Romance            ",5.6,0,    Blair Hayes  ,      Jake Gyllenhaal,   Swoosie Kurtz,   Marley Shelton,   Danny Trejo  ,30312,5000000
+    40 Days and 40 Nights  ,2002,R,96," Comedy, Romance            ",5.6,0,    Michael Lehmann  ,      Josh Hartnett,   Shannyn Sossamon,   Paulo Costanzo,   Adam Trese  ,70870,37950000
+    I Feel Pretty  ,2018,PG-13,110," Comedy, Romance            ",5.5,0,    A  y Kohn   ,       Amy Schumer,   Michelle Williams,   Emily Ratajkowski,   Tom Hopper    ,49658,48800000
+    Ek Tha Tiger  ,2012,Not Rated,132," Action, Romance, Thriller            ",5.5,0,    Ka ir Khan  ,      Salman Khan,   Katrina Kaif,   Girish Karnad,   Roshan Seth  ,29162,2350000
+    Pompeii  ,2014,PG-13,105," Action, Adventure, Drama            ",5.5,0,    Paul W.S. Anderson  ,      Kit Harington,   Emily Browning,   Kiefer Sutherland,   Adewale Akinnuoye-Ag aje  ,106844,23220000
+    The Twilight Saga: Breaking Dawn - Part 2  ,2012,PG-13,115," Adventure, Drama, Fantasy            ",5.5,0,    Bill Condon  ,      Kristen Stewart,   Ro ert Pattinson,   Taylor Lautner,   Peter Facinelli  ,232965,292300000
+    Red Riding Hood  ,2011,PG-13,100," Fantasy, Horror, Mystery            ",5.5,0,    Catherine Hardwicke  ,      Amanda Seyfried,   Lukas Haas,   Gary Oldman,   Billy Burke  ,108387,37660000
+    Killers  ,2010,PG-13,100," Action, Comedy, Romance            ",5.5,0,    Ro ert Luketic  ,         Katherine Heigl,     Ashton Kutcher,     Tom Selleck,  Catherine O    Hara ,87899,47060000
+    Little Fockers  ,2010,PG-13,98," Comedy, Romance            ",5.5,0,    Paul Weitz  ,      Ben Stiller,   Teri Polo,   Ro ert De Niro,   Owen Wilson  ,107127,148380000
+    Bride Wars  ,2009,PG,89," Comedy, Romance            ",5.5,0,    Gary Winick  ,      Kate Hudson,   Anne Hathaway,   Candice Bergen,   Bryan Green erg  ,100941,58720000
+    The House Bunny  ,2008,PG-13,97," Comedy, Romance            ",5.5,0,    Fred Wolf  ,      Anna Faris,   Colin Hanks,   Emma Stone,   Kat Dennings  ,79689,48240000
+    The Omen  ,2006,R,110," Action, Adventure, Fantasy            ",5.5,0,    John Moore  ,      Liev Schrei er,   Julia Stiles,   Seamus Davey-Fitzpatrick,   David Thewlis  ,56445,54610000
+"    Yours, Mine & Ours  ",2005,PG,88," Comedy, Family, Fantasy            ",5.5,0,    Raja Gosnell  ,         Dennis Quaid,     Rene Russo,  Jerry O    Connell,     Sean Faris    ,26804,53410000
+    Employee of the Month  ,2006,PG-13,103," Comedy, Romance            ",5.5,0,    Greg Coolidge  ,      Jessica Simpson,   Dane Cook,   Dax Shepard,   Andy Dick  ,45351,28440000
+    Rumor Has It...  ,2005,PG-13,97," Comedy, Drama, Romance            ",5.5,0,    Ro  Reiner  ,      Jennifer Aniston,   Mark Ruffalo,   Shirley MacLaine,   Kevin Costner  ,54432,43000000
+    The Perfect Man  ,2005,PG,100," Comedy, Family, Romance            ",5.5,0,    Mark Rosman  ,      Hilary Duff,   Heather Locklear,   Aria Wallace,   Chris Noth  ,28382,16250000
+    The Lizzie McGuire Movie  ,2003,PG,94," Adventure, Comedy, Family            ",5.5,0,    Jim Fall  ,      Hilary Duff,   Adam Lam erg,   Clayton Snyder,   Hallie Todd  ,36015,42670000
+    Just Married  ,2003,PG-13,95," Comedy, Romance            ",5.5,0,    Shawn Levy  ,      Ashton Kutcher,   Brittany Murphy,   Christian Kane,   David Moscow  ,67853,56130000
+    How Do You Know  ,2010,PG-13,121," Comedy, Drama, Romance            ",5.4,0,    James L. Brooks  ,      Reese Witherspoon,   Paul Rudd,   Owen Wilson,   Jack Nicholson  ,47339,30210000
+    Serena  ,2014,R,109," Drama, History, Romance            ",5.4,0,    Susanne Bier  ,      Bradley Cooper,   Jennifer Lawrence,   Rhys Ifans,   To y Jones  ,27291,180000
+    Aloha  ,2015,PG-13,105," Comedy, Drama, Romance            ",5.4,0,    Cameron Crowe  ,      Bradley Cooper,   Rachel McAdams,   Emma Stone,   Alec Baldwin  ,63024,20990000
+    The Back-up Plan  ,2010,PG-13,104," Comedy, Romance            ",5.4,0,    Alan Poul  ,         Jennifer Lopez,  Alex O    Loughlin,     Michaela Watkins,     Eric Christian Olsen    ,48419,37490000
+    Piranha 3D  ,2010,R,88," Comedy, Fantasy, Horror            ",5.4,0,    Alexandre Aja  ,         Elisa eth Shue,  Jerry O    Connell,     Richard Dreyfuss,     Ving Rhames    ,86161,25000000
+    Just My Luck  ,2006,PG-13,103," Comedy, Fantasy, Romance            ",5.4,0,    Donald Petrie  ,      Lindsay Lohan,   Chris Pine,   Samaire Armstrong,   Bree Turner  ,54009,17320000
+    Honey  ,2003,PG-13,94," Drama, Music, Romance            ",5.4,0,    Bille Woodruff  ,      Jessica Al a,   Mekhi Phifer,   Romeo Miller,   Missy Elliott  ,43472,30310000
+    The Bad Batch  ,2016,R,118," Action, Horror, Mystery            ",5.3,62,    Ana Lily Amirpour  ,      Suki Waterhouse,   Jason Momoa,   Jayda Fink,   Keanu Reeves  ,26979,180000
+    After  ,2019,PG-13,105," Drama, Romance            ",5.3,0,    Jenny Gage  ,      Josephine Langford,   Hero Fiennes Tiffin,   Khadijha Red Thunder,   Dylan Arnold  ,39939,12140000
+    Bachelorette  ,2012,R,87," Comedy, Romance            ",5.3,0,    Leslye Headland  ,      Kirsten Dunst,   Isla Fisher,   Lizzy Caplan,   James Marsden  ,45452,450000
+    Sleeping Beauty  ,2011,Not Rated,101," Drama, Romance, Thriller            ",5.3,0,    Julia Leigh  ,      Emily Browning,   Rachael Blake,   Ewen Leslie,   Bridgette Barrett  ,31051,40000
+"    I Love You, Beth Cooper  ",2009,PG-13,102," Comedy, Romance            ",5.3,0,    Chris Colum us  ,      Hayden Panettiere,   Paul Rust,   Jack Carpenter,   Lauren London  ,33531,14790000
+    License to Wed  ,2007,PG-13,91," Comedy, Romance            ",5.3,0,    Ken Kwapis  ,      Mandy Moore,   John Krasinski,   Ro in Williams,   Eric Christian Olsen  ,38118,43800000
+    Aquamarine  ,2006,PG,110," Comedy, Family, Fantasy            ",5.3,0,    Eliza eth Allen Rosen aum  ,      Emma Ro erts,   JoJo,   Sara Paxton,   Jake McDorman  ,38221,18600000
+    View from the Top  ,2003,PG-13,87," Comedy, Romance            ",5.3,0,    Bruno Barreto  ,      Gwyneth Paltrow,   Christina Applegate,   Kelly Preston,   Mark Ruffalo  ,25665,15590000
+    Maid in Manhattan  ,2002,PG-13,105," Comedy, Drama, Romance            ",5.3,0,    Wayne Wang  ,      Jennifer Lopez,   Ralph Fiennes,   Natasha Richardson,   Stanley Tucci  ,84624,94010000
+    Loser  ,2000,PG-13,98," Comedy, Romance            ",5.3,0,    Amy Heckerling  ,      Jason Biggs,   Mena Suvari,   Zak Orth,   Thomas Sadoski  ,26627,15620000
+    The Wedding Planner  ,2001,PG-13,103," Comedy, Romance            ",5.3,0,    Adam Shankman  ,      Jennifer Lopez,   Matthew McConaughey,   Bridgette Wilson-Sampras,   Justin Cham ers  ,76895,60400000
+    Zookeeper  ,2011,PG,102," Comedy, Family, Fantasy            ",5.2,0,    Frank Coraci  ,      Kevin James,   Rosario Dawson,   Leslie Bi  ,   Ken Jeong  ,57815,80360000
+    Twilight  ,2008,PG-13,122," Drama, Fantasy, Romance            ",5.2,0,    Catherine Hardwicke  ,      Kristen Stewart,   Ro ert Pattinson,   Billy Burke,   Sarah Clarke  ,429368,191470000
+    The Sweetest Thing  ,2002,R,84," Comedy, Romance            ",5.2,0,    Roger Kum le  ,      Cameron Diaz,   Thomas Jane,   Christina Applegate,   Lillian Adams  ,55203,24720000
+    Dilwale  ,2015,Not Rated,158," Action, Comedy, Drama            ",5.1,0,    Rohit Shetty  ,      Shah Rukh Khan,   Kajol,   Varun Dhawan,   Kriti Sanon  ,31753,4830000
+    Sex Tape  ,2014,R,94," Comedy, Romance            ",5.1,0,    Jake Kasdan  ,      Jason Segel,   Cameron Diaz,   Ro  Corddry,   Ellie Kemper  ,107942,38540000
+    My Super Ex-Girlfriend  ,2006,PG-13,96," Comedy, Romance, Sci-Fi            ",5.1,0,    Ivan Reitman  ,      Uma Thurman,   Luke Wilson,   Anna Faris,   Rainn Wilson  ,61914,22530000
+    Mr. Woodcock  ,2007,PG-13,87," Comedy, Romance, Sport            ",5.1,0,    Craig Gillespie  ,      Billy Bo  Thornton,   Seann William Scott,   Susan Sarandon,   Amy Poehler  ,35077,25630000
+    Agent Cody Banks  ,2003,PG,102," Action, Adventure, Comedy            ",5.1,0,    Harald Zwart  ,      Frankie Muniz,   Hilary Duff,   Andrew Francis,   Angie Harmon  ,33143,47810000
+    The Twilight Saga: Eclipse  ,2010,PG-13,124," Action, Adventure, Drama            ",5.0,0,    David Slade  ,      Kristen Stewart,   Ro ert Pattinson,   Taylor Lautner,   Xavier Samuel  ,229555,300530000
+    O sessed  ,2009,PG-13,108," Drama, Romance, Thriller            ",5.0,0,    Steve Shill  ,         Beyonc,     Idris El a,     Ali Larter,  Jerry O    Connell ,30098,68260000
+    Meet Dave  ,2008,PG,90," Adventure, Comedy, Family            ",5.0,0,    Brian Ro  ins  ,      Eddie Murphy,   Eliza eth Banks,   Ga rielle Union,   Scott Caan  ,38762,11800000
+    Tammy  ,2014,R,97," Comedy, Romance            ",4.9,0,    Ben Falcone  ,      Melissa McCarthy,   Susan Sarandon,   Kathy Bates,   Allison Janney  ,48522,84530000
+    The Twilight Saga: Breaking Dawn - Part 1  ,2011,PG-13,117," Adventure, Drama, Fantasy            ",4.9,0,    Bill Condon  ,      Kristen Stewart,   Ro ert Pattinson,   Taylor Lautner,   Gil Birmingham  ,225286,281290000
+    Did You Hear A out the Morgans?  ,2009,PG-13,103," Comedy, Drama, Romance            ",4.9,0,    Marc Lawrence  ,      Hugh Grant,   Sarah Jessica Parker,   Sam Elliott,   Elisa eth Moss  ,38370,29580000
+    The Titan  ,2018,TV-MA,97," Drama, Mystery, Romance            ",4.8,0,    Lennart Ruff  ,      Sam Worthington,   Taylor Schilling,   Tom Wilkinson,   Agyness Deyn  ,28540,0
+    High School Musical 3: Senior Year  ,2008,G,112," Comedy, Drama, Family            ",4.8,0,    Kenny Ortega  ,      Zac Efron,   Vanessa Hudgens,   Ashley Tisdale,   Lucas Gra eel  ,58458,90560000
+    All A out Steve  ,2009,PG-13,99," Comedy, Romance            ",4.8,0,    Phil Traill  ,      Sandra Bullock,   Bradley Cooper,   Thomas Haden Church,   Ken Jeong  ,39867,33860000
+    Her ie Fully Loaded  ,2005,G,101," Adventure, Comedy, Family            ",4.8,0,    Angela Ro inson  ,      Lindsay Lohan,   Michael Keaton,   Cheryl Hines,   Breckin Meyer  ,45349,66020000
+    Bewitched  ,2005,PG-13,102," Comedy, Fantasy, Romance            ",4.8,0,    Nora Ephron  ,      Nicole Kidman,   Will Ferrell,   Shirley MacLaine,   Michael Caine  ,69586,62250000
+    Zoolander 2  ,2016,PG-13,101," Action, Adventure, Comedy            ",4.7,0,    Ben Stiller  ,      Ben Stiller,   Owen Wilson,   Penlope Cruz,   Will Ferrell  ,65274,28850000
+    The Twilight Saga: New Moon  ,2009,PG-13,130," Adventure, Drama, Fantasy            ",4.7,0,    Chris Weitz  ,      Kristen Stewart,   Ro ert Pattinson,   Taylor Lautner,   Christina Jastrzem ska  ,267333,296620000
+    Are We There Yet?  ,2005,PG,95," Adventure, Comedy, Family            ",4.7,0,    Brian Levant  ,      Ice Cu e,   Nia Long,   Aleisha Allen,   Philip Bolden  ,29794,82670000
+    Confessions of a Teenage Drama Queen  ,2004,PG,89," Comedy, Family, Music            ",4.7,0,    Sara Sugarman  ,      Lindsay Lohan,   Megan Fox,   Adam Garcia,   Glenne Headly  ,27607,29330000
+    My Boss' s Daughter  ,2003,PG-13,86," Comedy, Romance            ",4.7,0,    David Zucker  ,      Ashton Kutcher,   Tara Reid,   Andy Richter,   Molly Shannon  ,28315,15550000
+    Fifty Shades Darker  ,2017,R,118," Drama, Romance            ",4.6,0,    James Foley  ,      Dakota Johnson,   Jamie Dornan,   Eric Johnson,   Eloise Mumford  ,92764,114380000
+    Fifty Shades Freed  ,2018,R,105," Drama, Romance, Thriller            ",4.5,0,    James Foley  ,      Dakota Johnson,   Jamie Dornan,   Eric Johnson,   Eloise Mumford  ,56675,100410000
+    In the Land of Blood and Honey  ,2011,R,127," Drama, Romance, War            ",4.5,0,    Angelina Jolie  ,      Zana Marjanovic,   Goran Kostic,   Rade Ser edzija,   Vanessa Glodjo  ,33438,300000
+    Sex and the City 2  ,2010,R,146," Comedy, Drama, Romance            ",4.5,0,    Michael Patrick King  ,      Sarah Jessica Parker,   Kim Cattrall,   Kristin Davis,   Cynthia Nixon  ,74795,95350000
+    Hannah Montana: The Movie  ,2009,G,102," Comedy, Drama, Family            ",4.5,0,    Peter Chelsom  ,      Miley Cyrus,   Emily Osment,   Billy Ray Cyrus,   Jason Earles  ,39985,79570000
+    Rings  ,2017,PG-13,102," Drama, Horror, Mystery            ",4.5,0,    F. Javier Gutirrez  ,         Matilda Anna Ingrid Lutz,     Alex Roe,     Johnny Galecki,  Vincent D    Onofrio ,38003,27780000
+    LOL  ,2012,PG-13,97," Comedy, Drama, Romance            ",4.4,0,    Lisa Azuelos  ,      Miley Cyrus,   Douglas Booth,   Ashley Greene,   Demi Moore  ,54049,50000
+    Nutty Professor II: The Klumps  ,2000,PG-13,106," Comedy, Romance, Sci-Fi            ",4.4,0,    Peter Segal  ,      Eddie Murphy,   Janet Jackson,   Larry Miller,   John Ales  ,48611,123310000
+    Fifty Shades of Grey  ,2015,R,125," Drama, Romance, Thriller            ",4.1,0,    Sam Taylor-Johnson  ,      Dakota Johnson,   Jamie Dornan,   Jennifer Ehle,   Eloise Mumford  ,299132,166170000
+    Nor it  ,2007,PG-13,102," Comedy, Romance            ",4.1,0,    Brian Ro  ins  ,      Eddie Murphy,   Thandie Newton,   Terry Crews,   Clifton Powell  ,69283,95670000
+    The Love Guru  ,2008,PG-13,87," Comedy, Romance, Sport            ",3.8,0,    Marco Schna el  ,      Mike Myers,   Jessica Al a,   Romany Malco,   Jessica Simpson  ,50627,32240000
+    Coolie No. 1  ,2020,0,134," Action, Comedy, Romance            ",3.6,0,    David Dhawan  ,      Varun Dhawan,   Sara Ali Khan,   Paresh Rawal,   Javed Jaffrey  ,55273,0
+    Crossroads  ,2002,PG-13,93," Comedy, Drama, Romance            ",3.5,0,    Tamra Davis  ,      Britney Spears,   Anson Mount,   Zoe Saldana,   Taryn Manning  ,38496,37190000
+    365 Days  ,2020,TV-MA,114," Drama, Romance            ",3.2,0,    Bar ara Bialowas   ,       Anna Maria Sieklucka,   Michele Morrone,   Bronislaw Wroclawski,   Otar Saralidze    ,53637,0
+    Celal and Ceren  ,2013,0,114," Comedy, Romance            ",2.9,0,    Togan Gk akar  ,      Sahan Gk akar,   Ezgi Mola,   Dilsah Demir,   Gokcen Gokce ag  ,41530,0
+    Date Movie  ,2006,PG-13,83," Comedy, Romance            ",2.8,0,    Aaron Seltzer   ,       Alyson Hannigan,   Adam Camp ell,   Fred Willard,   Jennifer Coolidge    ,57401,48550000
+    Gigli  ,2003,R,121," Comedy, Crime, Romance            ",2.5,0,    Martin Brest  ,      Ben Affleck,   Jennifer Lopez,   Justin Bartha,   Terry Camilleri  ,46086,6070000
+    Gunday  ,2014,Not Rated,152," Action, Drama, Romance            ",2.4,0,    Ali A  as Zafar  ,      Ranveer Singh,   Arjun Kapoor,   Priyanka Chopra,   Irrfan Khan  ,57862,0
+    The Hottie & the Nottie  ,2008,PG-13,91," Comedy, Romance            ",1.9,0,    Tom Putnam  ,      Paris Hilton,   Joel David Moore,   Christine Lakin,   Johann Ur   ,36151,30000

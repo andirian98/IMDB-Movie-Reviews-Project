@@ -1,0 +1,550 @@
+title,year,certificate,duration,genre,rating,metascore,director,actor1,actor2,actor3,actor4,votes,gross
+    The Lord of the Rings: The Return of the King  ,2003,PG-13,201," Action, Adventure, Drama            ",8.9,94,    Peter Jackson  ,      Elijah Wood,   Viggo Mortensen,   Ian McKellen,   Orlando Bloom  ,1654477,377850000
+    The Lord of the Rings: The Fellowship of the Ring  ,2001,PG-13,178," Action, Adventure, Drama            ",8.8,92,    Peter Jackson  ,      Elijah Wood,   Ian McKellen,   Orlando Bloom,   Sean Bean  ,1674104,315540000
+    The Lord of the Rings: The Two Towers  ,2002,PG-13,179," Action, Adventure, Drama            ",8.7,87,    Peter Jackson  ,      Elijah Wood,   Ian McKellen,   Viggo Mortensen,   Orlando Bloom  ,1496227,342550000
+    Spirited Away  ,2001,PG,125," Animation, Adventure, Family            ",8.6,96,    Hayao Miyazaki  ,      Daveigh Chase,   Suzanne Pleshette,   Miyu Irino,   Rumi Hiiragi  ,659235,10060000
+    Your Name.  ,2016,PG,106," Animation, Drama, Fantasy            ",8.4,79,    Makoto Shinkai  ,      Rynosuke Kamiki,   Mone Kamishiraishi,   Ry Narita,   Aoi Yki  ,200314,5020000
+    Coco  ,2017,PG,105," Animation, Adventure, Family            ",8.4,81,    Lee Unkrich   ,       Anthony Gonzalez,   Gael Garca Bernal,   Benjamin Bratt,   Alanna U ach    ,392932,209730000
+    Tum  ad  ,2018,Not Rated,104," Drama, Fantasy, Horror            ",8.3,0,    Rahi Anil Barve   ,    Sohum Shah,   Jyoti Malshe,   ,     ,28617,0
+    Baahu ali 2: The Conclusion  ,2017,Not Rated,167," Action, Adventure, Drama            ",8.2,0,    S.S. Rajamouli  ,      Pra has,   Rana Daggu ati,   Anushka Shetty,   Tamannaah Bhatia  ,76032,20190000
+    Pan' s La yrinth  ,2006,R,118," Drama, Fantasy, War            ",8.2,98,    Guillermo del Toro  ,      Ivana Baquero,   Ariadna Gil,   Sergi Lpez,   Mari el Verd  ,622331,37630000
+    Toy Story 3  ,2010,G,103," Animation, Adventure, Comedy            ",8.2,92,    Lee Unkrich  ,      Tom Hanks,   Tim Allen,   Joan Cusack,   Ned Beatty  ,762234,415000000
+    Howl' s Moving Castle  ,2004,PG,119," Animation, Adventure, Family            ",8.2,80,    Hayao Miyazaki  ,      Chieko Baish,   Takuya Kimura,   Tatsuya Gashin,   Akihiro Miwa  ,338478,4710000
+    Soul  ,2020,PG,100," Animation, Adventure, Comedy            ",8.1,83,    Pete Docter   ,       Jamie Foxx,   Tina Fey,   Graham Norton,   Rachel House    ,199526,0
+    OMG: Oh My God!  ,2012,Not Rated,125," Comedy, Drama, Fantasy            ",8.1,0,    Umesh Shukla  ,      Paresh Rawal,   Akshay Kumar,   Mithun Chakra orty,   Mahesh Manjrekar  ,52083,920000
+    Wolf Children  ,2012,PG,117," Animation, Drama, Fantasy            ",8.1,71,    Mamoru Hosoda  ,      Aoi Miyazaki,   Takao Osawa,   Haru Kuroki,   Yukito Nishii  ,39302,0
+    Inside Out  ,2015,PG,95," Animation, Adventure, Comedy            ",8.1,94,    Pete Docter   ,       Amy Poehler,   Bill Hader,   Lewis Black,   Mindy Kaling    ,623227,356460000
+    Song of the Sea  ,2014,PG,93," Animation, Adventure, Drama            ",8.1,85,    Tomm Moore  ,      David Rawle,   Brendan Gleeson,   Lisa Hannigan,   Fionnula Flanagan  ,52445,860000
+    Harry Potter and the Deathly Hallows: Part 2  ,2011,PG-13,130," Adventure, Drama, Fantasy            ",8.1,85,    David Yates  ,      Daniel Radcliffe,   Emma Watson,   Rupert Grint,   Michael Gam on  ,771110,381010000
+    How to Train Your Dragon  ,2010,PG,98," Animation, Action, Adventure            ",8.1,75,    Dean DeBlois   ,       Jay Baruchel,   Gerard Butler,   Christopher Mintz-Plasse,   Craig Ferguson    ,671496,217580000
+"    Monsters, Inc.  ",2001,G,92," Animation, Adventure, Comedy            ",8.1,79,    Pete Docter   ,    Billy Crystal,   John Goodman,   ,     ,821557,289920000
+    Baahu ali: The Beginning  ,2015,Not Rated,159," Action, Adventure, Drama            ",8.0,0,    S.S. Rajamouli  ,      Pra has,   Rana Daggu ati,   Ramya Krishnan,   Sathyaraj  ,103724,6740000
+    The Tale of The Princess Kaguya  ,2013,PG,137," Animation, Adventure, Drama            ",8.0,89,    Isao Takahata  ,      Chlo Grace Moretz,   James Caan,   Mary Steen urgen,   James Marsden  ,39465,1510000
+    Ratatouille  ,2007,G,111," Animation, Adventure, Comedy            ",8.0,96,    Brad Bird   ,       Brad Garrett,   Lou Romano,   Patton Oswalt,   Ian Holm    ,646836,206450000
+    Pirates of the Cari  ean: The Curse of the Black Pearl  ,2003,PG-13,143," Action, Adventure, Fantasy            ",8.0,63,    Gore Ver inski  ,      Johnny Depp,   Geoffrey Rush,   Orlando Bloom,   Keira Knightley  ,1019568,305410000
+    Big Fish  ,2003,PG-13,125," Adventure, Drama, Fantasy            ",8.0,0,    Tim Burton  ,      Ewan McGregor,   Al ert Finney,   Billy Crudup,   Jessica Lange  ,417219,66260000
+    Isle of Dogs  ,2018,PG-13,101," Animation, Adventure, Comedy            ",7.9,82,    Wes Anderson  ,      Bryan Cranston,   Koyu Rankin,   Edward Norton,   Bo  Bala an  ,141501,32020000
+    Thor: Ragnarok  ,2017,PG-13,130," Action, Adventure, Comedy            ",7.9,74,    Taika Waititi  ,      Chris Hemsworth,   Tom Hiddleston,   Cate Blanchett,   Mark Ruffalo  ,597109,315060000
+    Let the Right One In  ,2008,R,114," Crime, Drama, Fantasy            ",7.9,82,    Tomas Alfredson  ,      Kre Hede rant,   Lina Leandersson,   Per Ragnar,   Henrik Dahl  ,206369,2120000
+    The Man from Earth  ,2007,Not Rated,87," Drama, Fantasy, Mystery            ",7.9,0,    Richard Schenkman  ,      David Lee Smith,   Tony Todd,   John Billingsley,   Ellen Crawford  ,175129,0
+    The Fall  ,2006,R,117," Adventure, Drama, Fantasy            ",7.9,64,    Tarsem Singh  ,      Lee Pace,   Catinca Untaru,   Justine Waddell,   Kim Uylen roek  ,107669,2280000
+    Life of Pi  ,2012,PG,127," Adventure, Drama, Fantasy            ",7.9,79,    Ang Lee  ,      Suraj Sharma,   Irrfan Khan,   Adil Hussain,   Ta u  ,584188,124990000
+    Harry Potter and the Prisoner of Azka an  ,2004,PG,142," Adventure, Family, Fantasy            ",7.9,82,    Alfonso Cuarn  ,      Daniel Radcliffe,   Emma Watson,   Rupert Grint,   Richard Griffiths  ,557187,249360000
+    Paddington 2  ,2017,PG,103," Animation, Adventure, Comedy            ",7.8,88,    Paul King  ,      Ben Whishaw,   Hugh Grant,   Hugh Bonneville,   Sally Hawkins  ,62544,40440000
+    Ku o and the Two Strings  ,2016,PG,101," Animation, Action, Adventure            ",7.8,84,    Travis Knight  ,      Charlize Theron,   Art Parkinson,   Matthew McConaughey,   Ralph Fiennes  ,118878,48020000
+    A out Time  ,2013,R,123," Comedy, Drama, Fantasy            ",7.8,0,    Richard Curtis  ,      Domhnall Gleeson,   Rachel McAdams,   Bill Nighy,   Lydia Wilson  ,307335,15320000
+    Toy Story 4  ,2019,G,100," Animation, Adventure, Comedy            ",7.8,84,    Josh Cooley  ,      Tom Hanks,   Tim Allen,   Annie Potts,   Tony Hale  ,207079,434040000
+    How to Train Your Dragon 2  ,2014,PG,102," Animation, Action, Adventure            ",7.8,76,    Dean DeBlois  ,      Jay Baruchel,   Cate Blanchett,   Gerard Butler,   Craig Ferguson  ,307566,177000000
+    The Ho  it: The Desolation of Smaug  ,2013,PG-13,161," Adventure, Fantasy            ",7.8,66,    Peter Jackson  ,      Ian McKellen,   Martin Freeman,   Richard Armitage,   Ken Stott  ,604907,258370000
+    The Ho  it: An Unexpected Journey  ,2012,PG-13,169," Adventure, Fantasy            ",7.8,0,    Peter Jackson  ,      Martin Freeman,   Ian McKellen,   Richard Armitage,   Andy Serkis  ,761283,303000000
+    Avatar  ,2009,PG-13,162," Action, Adventure, Fantasy            ",7.8,83,    James Cameron  ,      Sam Worthington,   Zoe Saldana,   Sigourney Weaver,   Michelle Rodriguez  ,1124570,760510000
+    Mr. No ody  ,2009,R,141," Drama, Fantasy, Romance            ",7.8,63,    Jaco Van Dormael  ,      Jared Leto,   Sarah Polley,   Diane Kruger,   Linh Dan Pham  ,217856,0
+    The Curious Case of Benjamin Button  ,2008,PG-13,166," Drama, Fantasy, Romance            ",7.8,70,    David Fincher  ,      Brad Pitt,   Cate Blanchett,   Tilda Swinton,   Julia Ormond  ,593581,127510000
+    Waking Life  ,2001,R,99," Animation, Drama, Fantasy            ",7.8,83,    Richard Linklater  ,      Ethan Hawke,   Trevor Jack Brooks,   Lorelei Linklater,   Wiley Wiggins  ,60984,2890000
+"    Crouching Tiger, Hidden Dragon  ",2000,PG-13,120," Action, Adventure, Fantasy            ",7.8,94,    Ang Lee  ,      Yun-Fat Chow,   Michelle Yeoh,   Ziyi Zhang,   Chen Chang  ,254526,128080000
+    Shrek  ,2001,PG,90," Animation, Adventure, Comedy            ",7.8,84,    Andrew Adamson   ,       Mike Myers,   Eddie Murphy,   Cameron Diaz,   John Lithgow    ,617325,267670000
+    Wreck-It Ralph  ,2012,PG,101," Animation, Adventure, Comedy            ",7.7,72,    Rich Moore  ,      John C. Reilly,   Jack McBrayer,   Jane Lynch,   Sarah Silverman  ,382719,189420000
+    The Little Prince  ,2015,PG,108," Animation, Adventure, Drama            ",7.7,70,    Mark Os orne  ,      Jeff Bridges,   Mackenzie Foy,   Rachel McAdams,   Marion Cotillard  ,57203,1340000
+    Midnight in Paris  ,2011,PG-13,94," Comedy, Fantasy, Romance            ",7.7,81,    Woody Allen  ,      Owen Wilson,   Rachel McAdams,   Kathy Bates,   Kurt Fuller  ,390680,56820000
+    The Lego Movie  ,2014,PG,100," Animation, Action, Adventure            ",7.7,83,    Christopher Miller   ,       Chris Pratt,   Will Ferrell,   Eliza eth Banks,   Will Arnett    ,325375,257760000
+    Harry Potter and the Deathly Hallows: Part 1  ,2010,PG-13,146," Adventure, Family, Fantasy            ",7.7,65,    David Yates  ,      Daniel Radcliffe,   Emma Watson,   Rupert Grint,   Bill Nighy  ,483399,295980000
+    Ponyo  ,2008,G,101," Animation, Adventure, Comedy            ",7.7,86,    Hayao Miyazaki  ,      Cate Blanchett,   Matt Damon,   Liam Neeson,   Tomoko Yamaguchi  ,126888,15090000
+    Paprika  ,2006,R,90," Animation, Drama, Fantasy            ",7.7,81,    Satoshi Kon  ,      Megumi Hayashi ara,   Tru Emori,   Katsunosuke Hori,   Tru Furuya  ,72217,880000
+    Death Note  ,2006,Not Rated,126," Crime, Drama, Fantasy            ",7.7,0,    Shsuke Kaneko  ,         Tatsuya Fujiwara,  Ken    ichi Matsuyama,     Asaka Seto,     Y Kashii    ,28765,0
+    Tangled  ,2010,PG,100," Animation, Adventure, Comedy            ",7.7,71,    Nathan Greno   ,       Mandy Moore,   Zachary Levi,   Donna Murphy,   Ron Perlman    ,408692,200820000
+    Kung Fu Hustle  ,2004,R,99," Action, Comedy, Fantasy            ",7.7,78,    Stephen Chow  ,      Stephen Chow,   Wah Yuen,   Qiu Yuen,   Siu-Lung Leung  ,128060,17110000
+    Harry Potter and the Go let of Fire  ,2005,PG-13,157," Adventure, Family, Fantasy            ",7.7,81,    Mike Newell  ,      Daniel Radcliffe,   Emma Watson,   Rupert Grint,   Eric Sykes  ,553207,290010000
+    Coraline  ,2009,PG,100," Animation, Drama, Family            ",7.7,80,    Henry Selick  ,      Dakota Fanning,   Teri Hatcher,   John Hodgman,   Jennifer Saunders  ,199166,75290000
+    Vampire Hunter D: Bloodlust  ,2000,R,103," Animation, Action, Fantasy            ",7.7,62,    Yoshiaki Kawajiri  ,      Andrew Philpot,   John Rafter Lee,   Pamela Adlon,   Wendee Lee  ,29399,150000
+    Interstate 60: Episodes of the Road  ,2002,R,116," Adventure, Comedy, Drama            ",7.7,0,    Bo  Gale  ,      James Marsden,   Gary Oldman,   Kurt Russell,   Matthew Edison  ,30148,0
+    I Lost My Body  ,2019,TV-MA,81," Animation, Drama, Fantasy            ",7.6,81,    Jrmy Clapin  ,         Hakim Faris,     Victoire Du Bois,  Patrick d    Assumao,     Alfonso Arfi    ,27211,0
+    Moana  ,2016,PG,107," Animation, Adventure, Comedy            ",7.6,81,    Ron Clements   ,         Chris Williams    ,   Auli    i Cravalho,     Dwayne Johnson,,276545,248760000
+    The Secret World of Arrietty  ,2010,G,94," Animation, Adventure, Family            ",7.6,80,    Hiromasa Yone ayashi  ,      Amy Poehler,   Will Arnett,   Mirai Shida,   Rynosuke Kamiki  ,81992,19200000
+    Despica le Me  ,2010,PG,95," Animation, Comedy, Crime            ",7.6,72,    Pierre Coffin   ,       Steve Carell,   Jason Segel,   Russell Brand,   Julie Andrews    ,503542,251510000
+    Zom ieland  ,2009,R,88," Adventure, Comedy, Fantasy            ",7.6,73,    Ru en Fleischer  ,      Jesse Eisen erg,   Emma Stone,   Woody Harrelson,   A igail Breslin  ,522559,75590000
+    Stardust  ,2007,PG-13,127," Adventure, Family, Fantasy            ",7.6,66,    Matthew Vaughn  ,      Charlie Cox,   Claire Danes,   Sienna Miller,   Ian McKellen  ,256302,38630000
+    The Secret of Kells  ,2009,Not Rated,75," Animation, Adventure, Family            ",7.6,81,    Tomm Moore   ,       Evan McGuire,   Brendan Gleeson,   Mick Lally,   Christen Mooney    ,32217,690000
+    The Illusionist  ,2006,PG-13,110," Drama, Fantasy, Mystery            ",7.6,68,    Neil Burger  ,      Edward Norton,   Jessica Biel,   Paul Giamatti,   Rufus Sewell  ,355968,39870000
+    Harry Potter and the Half-Blood Prince  ,2009,PG,153," Action, Adventure, Family            ",7.6,78,    David Yates  ,      Daniel Radcliffe,   Emma Watson,   Rupert Grint,   Michael Gam on  ,479096,301960000
+    Harry Potter and the Sorcerer' s Stone  ,2001,PG,152," Adventure, Family, Fantasy            ",7.6,64,    Chris Colum us  ,      Daniel Radcliffe,   Rupert Grint,   Richard Harris,   Maggie Smith  ,664747,317580000
+    The Lighthouse  ,2019,R,109," Drama, Fantasy, Horror            ",7.5,83,    Ro ert Eggers  ,      Ro ert Pattinson,   Willem Dafoe,   Valeriia Karaman,   Logan Hawkes  ,147732,430000
+    Raya and the Last Dragon  ,2021,PG,107," Animation, Action, Adventure            ",7.5,75,    Don Hall   ,      John Ripa  ,    Kelly Marie Tran,   Awkwafina,,26065,0
+    The Red Turtle  ,2016,PG,80," Animation, Family, Fantasy            ",7.5,86,    Michael Dudok de Wit  ,      Emmanuel Garijo,   Tom Hudson,   Baptiste Goy,   Axel Devillers  ,31732,920000
+    A Monster Calls  ,2016,PG-13,108," Adventure, Drama, Family            ",7.5,76,    J.A. Bayona  ,      Lewis MacDougall,   Sigourney Weaver,   Felicity Jones,   To y Ke  ell  ,81860,3730000
+    How to Train Your Dragon: The Hidden World  ,2019,PG,104," Animation, Action, Adventure            ",7.5,71,    Dean DeBlois  ,      Jay Baruchel,   America Ferrera,   F. Murray A raham,   Cate Blanchett  ,106427,160800000
+    Doctor Strange  ,2016,PG-13,115," Action, Adventure, Fantasy            ",7.5,72,    Scott Derrickson  ,      Benedict Cum er atch,   Chiwetel Ejiofor,   Rachel McAdams,   Benedict Wong  ,605557,232640000
+    Hugo  ,2011,PG,126," Drama, Family, Fantasy            ",7.5,83,    Martin Scorsese  ,      Asa Butterfield,   Chlo Grace Moretz,   Christopher Lee,   Ben Kingsley  ,306618,73860000
+    The Illusionist  ,2010,PG,80," Animation, Drama, Fantasy            ",7.5,82,    Sylvain Chomet  ,      Jean-Claude Donda,   Eilidh Rankin,   Duncan MacNeil,   Raymond Mearns  ,33810,2230000
+    Scott Pilgrim vs. the World  ,2010,PG-13,112," Action, Comedy, Fantasy            ",7.5,69,    Edgar Wright  ,      Michael Cera,   Mary Eliza eth Winstead,   Kieran Culkin,   Anna Kendrick  ,382450,31490000
+    Stranger Than Fiction  ,2006,PG-13,113," Comedy, Drama, Fantasy            ",7.5,67,    Marc Forster  ,      Will Ferrell,   Emma Thompson,   Dustin Hoffman,   Queen Latifah  ,219928,40140000
+    Perfume: The Story of a Murderer  ,2006,R,147," Crime, Drama, Fantasy            ",7.5,0,    Tom Tykwer  ,      Ben Whishaw,   Dustin Hoffman,   Alan Rickman,   Francesc Al iol  ,235756,2220000
+    Harry Potter and the Order of the Phoenix  ,2007,PG-13,138," Action, Adventure, Family            ",7.5,71,    David Yates  ,      Daniel Radcliffe,   Emma Watson,   Rupert Grint,   Brendan Gleeson  ,515566,292000000
+    Ice Age  ,2002,PG,81," Animation, Adventure, Comedy            ",7.5,0,    Chris Wedge   ,       Denis Leary,   John Leguizamo,   Ray Romano,   Goran Visnjic    ,444813,176390000
+    Star Wars: Episode III - Revenge of the Sith  ,2005,PG-13,140," Action, Adventure, Fantasy            ",7.5,68,    George Lucas  ,      Hayden Christensen,   Natalie Portman,   Ewan McGregor,   Samuel L. Jackson  ,717537,380260000
+    Palm Springs  ,2020,R,90," Comedy, Fantasy, Mystery            ",7.4,83,    Max Bar akow  ,      Andy Sam erg,   Cristin Milioti,   J.K. Simmons,   Peter Gallagher  ,89119,0
+    Onward  ,2020,PG,102," Animation, Adventure, Comedy            ",7.4,61,    Dan Scanlon  ,      Tom Holland,   Chris Pratt,   Julia Louis-Dreyfus,   Octavia Spencer  ,105688,61560000
+    Mirage  ,2018,TV-MA,128," Drama, Fantasy, Mystery            ",7.4,0,    Oriol Paulo  ,      Adriana Ugarte,   Chino Darn,   Javier Gutirrez,   lvaro Morte  ,43186,0
+    The Jungle Book  ,2016,PG,106," Adventure, Drama, Family            ",7.4,77,    Jon Favreau  ,      Neel Sethi,   Bill Murray,   Ben Kingsley,   Idris El a  ,260328,364000000
+    The Ho  it: The Battle of the Five Armies  ,2014,PG-13,144," Adventure, Fantasy            ",7.4,0,    Peter Jackson  ,      Ian McKellen,   Martin Freeman,   Richard Armitage,   Cate Blanchett  ,478015,255120000
+    Frozen  ,2013,PG,102," Animation, Adventure, Comedy            ",7.4,75,    Chris Buck   ,       Kristen Bell,   Idina Menzel,   Jonathan Groff,   Josh Gad    ,575884,400740000
+    Yahsi Bati - The Ottoman Cow oys  ,2009,0,112," Adventure, Comedy, Fantasy            ",7.4,0,    mer Faruk Sorak  ,      Cem Yilmaz,   Ozan Gven,   Demet Evgar,   Zafer Algz  ,32406,0
+    REC  ,2007,R,78," Action, Adventure, Fantasy            ",7.4,69,    Jaume Balaguer   ,       Manuela Velasco,   Ferran Terraza,   Jorge-Yamam Serrano,   Pa lo Rosso    ,166406,0
+    The Orphanage  ,2007,R,105," Drama, Fantasy, Horror            ",7.4,74,    J.A. Bayona  ,      Beln Rueda,   Fernando Cayo,   Roger Prncep,   Ma el Rivera  ,147480,7160000
+    Wonder Woman  ,2017,PG-13,141," Action, Adventure, Fantasy            ",7.4,76,    Patty Jenkins  ,      Gal Gadot,   Chris Pine,   Ro in Wright,   Lucy Davis  ,574711,412560000
+    Wallace & Gromit: The Curse of the Were-Ra  it  ,2005,G,85," Animation, Adventure, Comedy            ",7.4,87,    Steve Box   ,       Peter Sallis,   Helena Bonham Carter,   Ralph Fiennes,   Peter Kay    ,126276,56110000
+    Harry Potter and the Cham er of Secrets  ,2002,PG,161," Adventure, Family, Fantasy            ",7.4,63,    Chris Colum us  ,      Daniel Radcliffe,   Rupert Grint,   Emma Watson,   Richard Harris  ,559427,261990000
+    The Emperor' s New Groove  ,2000,G,78," Animation, Adventure, Comedy            ",7.4,70,    Mark Dindal  ,      David Spade,   John Goodman,   Eartha Kitt,   Patrick War urton  ,182091,89300000
+    Doctor Sleep  ,2019,R,152," Drama, Fantasy, Horror            ",7.3,0,    Mike Flanagan  ,      Ewan McGregor,   Re ecca Ferguson,   Kyliegh Curran,   Cliff Curtis  ,147399,0
+    The Shape of Water  ,2017,R,123," Adventure, Drama, Fantasy            ",7.3,87,    Guillermo del Toro  ,      Sally Hawkins,   Octavia Spencer,   Michael Shannon,   Doug Jones  ,375609,63860000
+    Christopher Ro in  ,2018,PG,104," Adventure, Comedy, Drama            ",7.3,0,    Marc Forster  ,      Ewan McGregor,   Hayley Atwell,   Bronte Carmichael,   Mark Gatiss  ,69637,99220000
+    Fantastic Beasts and Where to Find Them  ,2016,PG-13,132," Adventure, Family, Fantasy            ",7.3,66,    David Yates  ,      Eddie Redmayne,   Katherine Waterston,   Alison Sudol,   Dan Fogler  ,413852,234040000
+    Shaun the Sheep Movie  ,2015,PG,85," Animation, Adventure, Comedy            ",7.3,81,    Mark Burton   ,       Justin Fletcher,   John Sparkes,   Omid Djalili,   Richard We  er    ,37524,19380000
+    The Book of Life  ,2014,PG,95," Animation, Adventure, Comedy            ",7.3,67,    Jorge R. Gutirrez  ,      Diego Luna,   Zoe Saldana,   Channing Tatum,   Ron Perlman  ,65211,50150000
+    Beasts of the Southern Wild  ,2012,PG-13,93," Adventure, Drama, Fantasy            ",7.3,86,    Benh Zeitlin  ,      Quvenzhan Wallis,   Dwight Henry,   Levy Easterly,   Lowell Landes  ,80929,12800000
+    Only Lovers Left Alive  ,2013,R,123," Comedy, Drama, Fantasy            ",7.3,79,    Jim Jarmusch  ,      Tilda Swinton,   Tom Hiddleston,   Mia Wasikowska,   John Hurt  ,91743,1880000
+    Despica le Me 2  ,2013,PG,98," Animation, Adventure, Comedy            ",7.3,62,    Pierre Coffin   ,       Steve Carell,   Kristen Wiig,   Benjamin Bratt,   Miranda Cosgrove    ,371732,368060000
+    Monsters University  ,2013,G,104," Animation, Adventure, Comedy            ",7.3,65,    Dan Scanlon  ,      Billy Crystal,   John Goodman,   Steve Buscemi,   Helen Mirren  ,325104,268490000
+    Rise of the Guardians  ,2012,PG,97," Animation, Action, Adventure            ",7.3,0,    Peter Ramsey  ,      Hugh Jackman,   Alec Baldwin,   Isla Fisher,   Chris Pine  ,158173,103410000
+    A.R.O.G  ,2008,TV-G,127," Comedy, Fantasy, Sci-Fi            ",7.3,0,    Ali Taner Baltaci   ,       Cem Yilmaz,   zge z erk,   Zafer Algz,   Nil Karai rahimgil    ,38309,0
+    Enter the Void  ,2009,Not Rated,161," Drama, Fantasy            ",7.3,69,    Gaspar No  ,      Nathaniel Brown,   Paz de la Huerta,   Cyril Roy,   Olly Alexander  ,71859,340000
+    Wristcutters: A Love Story  ,2006,R,88," Comedy, Drama, Fantasy            ",7.3,62,    Goran Dukic  ,      Patrick Fugit,   Shea Whigham,   Tom Waits,   Will Arnett  ,53954,320000
+    Across the Universe  ,2007,PG-13,133," Drama, Fantasy, History            ",7.3,0,    Julie Taymor  ,      Evan Rachel Wood,   Jim Sturgess,   Joe Anderson,   Dana Fuchs  ,106375,24340000
+    Pirates of the Cari  ean: Dead Man' s Chest  ,2006,PG-13,151," Action, Adventure, Fantasy            ",7.3,0,    Gore Ver inski  ,      Johnny Depp,   Orlando Bloom,   Keira Knightley,   Jack Davenport  ,658644,423320000
+    The Secret Life of Walter Mitty  ,2013,PG,114," Adventure, Comedy, Drama            ",7.3,0,    Ben Stiller  ,      Ben Stiller,   Kristen Wiig,   Jon Daly,   Kathryn Hahn  ,295119,58240000
+    The Science of Sleep  ,2006,R,105," Comedy, Drama, Fantasy            ",7.3,70,    Michel Gondry  ,      Gael Garca Bernal,   Charlotte Gains ourg,   Miou-Miou,   Alain Cha at  ,67759,4660000
+    Shaolin Soccer  ,2001,PG,87," Action, Comedy, Family            ",7.3,68,    Stephen Chow  ,      Stephen Chow,   Wei Zhao,   Yat-Fei Wong,   Man-Tat Ng  ,74791,490000
+    Corpse Bride  ,2005,PG,77," Animation, Drama, Family            ",7.3,83,    Tim Burton   ,       Johnny Depp,   Helena Bonham Carter,   Emily Watson,   Tracey Ullman    ,246893,53360000
+    Dragon Ball Z: Battle of Gods  ,2013,TV-PG,85," Animation, Action, Adventure            ",7.2,0,    Masahiro Hosoda  ,      Masako Nozawa,   Hiromi Tsuru,   Ry Horikawa,   Masaharu Sat  ,26442,2550000
+    Ru y Sparks  ,2012,R,104," Comedy, Drama, Fantasy            ",7.2,67,    Jonathan Dayton   ,       Paul Dano,   Zoe Kazan,   Annette Bening,   Antonio Banderas    ,96133,2540000
+    Talaash  ,2012,Not Rated,140," Crime, Drama, Fantasy            ",7.2,65,    Reema Kagti   ,       Aamir Khan,   Kareena Kapoor,   Rani Mukerji,   Rajkummar Rao    ,39591,2710000
+    A Dog' s Purpose  ,2017,PG,100," Adventure, Comedy, Drama            ",7.2,0,    Lasse Hallstrm  ,      Josh Gad,   Dennis Quaid,   Peggy Lipton,   Bryce Gheisar  ,66093,64510000
+    The Age of Adaline  ,2015,PG-13,112," Drama, Fantasy, Romance            ",7.2,0,    Lee Toland Krieger  ,      Blake Lively,   Michiel Huisman,   Harrison Ford,   Kathy Baker  ,156212,42480000
+    Kung Fu Panda 2  ,2011,PG,90," Animation, Action, Adventure            ",7.2,67,    Jennifer Yuh Nelson  ,      Jack Black,   Angelina Jolie,   Jackie Chan,   Dustin Hoffman  ,255764,165250000
+    Paddington  ,2014,PG,95," Animation, Adventure, Comedy            ",7.2,77,    Paul King  ,      Hugh Bonneville,   Sally Hawkins,   Julie Walters,   Jim Broad ent  ,99518,76270000
+    The Croods  ,2013,PG,98," Animation, Adventure, Comedy            ",7.2,0,    Kirk DeMicco   ,       Nicolas Cage,   Ryan Reynolds,   Emma Stone,   Catherine Keener    ,194753,187170000
+    Final Fantasy VII: Advent Children  ,2005,PG-13,101," Animation, Action, Adventure            ",7.2,0,    Tetsuya Nomura   ,       Takahiro Sakurai,   Ayumi It,   Shtar Moriku o,   Maaya Sakamoto    ,55060,0
+    The Cat Returns  ,2002,G,75," Animation, Adventure, Comedy            ",7.2,70,    Hiroyuki Morita  ,      Chizuru Ikewaki,   Yoshihiko Hakamada,   Aki Maeda,   Takayuki Yamada  ,49832,0
+    Shrek 2  ,2004,PG,93," Animation, Adventure, Comedy            ",7.2,75,    Andrew Adamson   ,    Mike Myers,   Eddie Murphy,   Cameron Diaz,     ,422239,436470000
+    Lilo & Stitch  ,2002,PG,85," Animation, Adventure, Comedy            ",7.2,73,    Dean DeBlois   ,       Daveigh Chase,   Chris Sanders,   Tia Carrere,   David Ogden Stiers    ,169972,145790000
+    ARIF V 216  ,2018,0,125," Comedy, Fantasy, Music            ",7.1,0,    Kivan Barun  ,      Cem Yilmaz,   Ozan Gven,   zkan Ugur,   zge z erk  ,33218,0
+    Look Who' s Back  ,2015,Not Rated,116," Comedy, Drama, Fantasy            ",7.1,0,    David Wnendt  ,      Oliver Masucci,   Thomas M. Kppl,   Marc-Marvin Israel,   David Ge igke  ,42262,0
+    The Brand New Testament  ,2015,Not Rated,114," Comedy, Fantasy            ",7.1,70,    Jaco Van Dormael  ,      Pili Groyne,   Benot Poelvoorde,   Catherine Deneuve,   Franois Damiens  ,30173,90000
+    Beauty and the Beast  ,2017,PG,129," Family, Fantasy, Musical            ",7.1,65,    Bill Condon  ,      Emma Watson,   Dan Stevens,   Luke Evans,   Josh Gad  ,276922,504010000
+    Kung Fu Panda 3  ,2016,PG,95," Animation, Action, Adventure            ",7.1,66,    Alessandro Carloni   ,       Jack Black,   Bryan Cranston,   Dustin Hoffman,   Angelina Jolie    ,136007,143530000
+    Holy Motors  ,2012,Not Rated,115," Drama, Fantasy            ",7.1,84,    Leos Carax  ,      Denis Lavant,   Edith Sco ,   Eva Mendes,   Kylie Minogue  ,41879,0
+    Arthur Christmas  ,2011,PG,97," Animation, Adventure, Comedy            ",7.1,69,    Sarah Smith   ,       James McAvoy,   Jim Broad ent,   Bill Nighy,   Hugh Laurie    ,53113,46460000
+    Let Me In  ,2010,R,116," Drama, Fantasy, Horror            ",7.1,79,    Matt Reeves  ,      Kodi Smit-McPhee,   Chlo Grace Moretz,   Richard Jenkins,   Cara Buono  ,114038,12130000
+    Brave  ,2012,PG,93," Animation, Adventure, Comedy            ",7.1,69,    Mark Andrews   ,    Kelly Macdonald,   Billy Connolly,   Emma Thompson,     ,375748,237280000
+    Hotel Transylvania  ,2012,PG,91," Animation, Comedy, Family            ",7.1,0,    Genndy Tartakovsky  ,      Adam Sandler,   Kevin James,   Andy Sam erg,   Selena Gomez  ,226271,148310000
+    The Princess and the Frog  ,2009,G,97," Animation, Adventure, Comedy            ",7.1,73,    Ron Clements   ,       Anika Noni Rose,   Keith David,   Oprah Winfrey,   Bruno Campos    ,125691,104400000
+    Thirst  ,2009,R,134," Drama, Fantasy, Horror            ",7.1,73,    Chan-wook Park  ,      Kang-ho Song,   Kim Ok- in,   Hee-jin Choi,   Dong-soo Seo  ,42976,300000
+    Angel-A  ,2005,R,91," Comedy, Drama, Fantasy            ",7.1,0,    Luc Besson  ,      Rie Rasmussen,   Jamel De  ouze,   Gil ert Melki,   Serge Ria oukine  ,32195,200000
+    The Time Traveler' s Wife  ,2009,PG-13,107," Drama, Fantasy, Romance            ",7.1,0,    Ro ert Schwentke  ,      Eric Bana,   Rachel McAdams,   Ron Livingston,   Michelle Nolden  ,141150,63410000
+    Pirates of the Cari  ean: At World' s End  ,2007,PG-13,169," Action, Adventure, Fantasy            ",7.1,0,    Gore Ver inski  ,      Johnny Depp,   Orlando Bloom,   Keira Knightley,   Geoffrey Rush  ,598661,309420000
+    Bridge to Tera ithia  ,2007,PG,96," Drama, Family, Fantasy            ",7.1,74,    Ga or Csupo  ,      Josh Hutcherson,   AnnaSophia Ro  ,   Zooey Deschanel,   Ro ert Patrick  ,144073,82270000
+    The Jacket  ,2005,R,103," Drama, Fantasy, Mystery            ",7.1,0,    John May ury  ,      Adrien Brody,   Keira Knightley,   Daniel Craig,   Kris Kristofferson  ,108801,6300000
+    The SpongeBo  SquarePants Movie  ,2004,PG,87," Animation, Action, Adventure            ",7.1,66,    Stephen Hillen urg   ,       Tom Kenny,   Jeffrey Tam or,   Rodger Bumpass,   Carolyn Lawrence    ,79966,85420000
+    If Only  ,2004,PG-13,92," Comedy, Drama, Fantasy            ",7.1,0,    Gil Junger  ,      Jennifer Love Hewitt,   Paul Nicholls,   Tom Wilkinson,   Diana Hardcastle  ,31511,0
+    A omina le  ,2019,PG,97," Animation, Adventure, Comedy            ",7.0,61,    Jill Culton   ,       Chloe Bennet,   Al ert Tsai,   Tenzing Norgay Trainor,   Joseph Izzo    ,30020,60720000
+    Thelma  ,2017,Not Rated,116," Drama, Fantasy, Horror            ",7.0,74,    Joachim Trier  ,      Eili Har oe,   Kaya Wilkins,   Henrik Rafaelsen,   Ellen Dorrit Petersen  ,27080,150000
+    Ralph Breaks the Internet  ,2018,PG,112," Animation, Adventure, Comedy            ",7.0,71,    Phil Johnston   ,       John C. Reilly,   Sarah Silverman,   Gal Gadot,   Taraji P. Henson    ,134077,201090000
+    Border  ,2018,R,110," Crime, Drama, Fantasy            ",7.0,75,    Ali A  asi  ,      Eva Melander,   Eero Milonoff,   Jrgen Thorsson,   Ann Petrn  ,25110,770000
+    Raw  ,2016,R,99," Drama, Fantasy, Horror            ",7.0,81,    Julia Ducournau  ,      Garance Marillier,   Ella Rumpf,   Ra ah Nait Oufella,   Laurent Lucas  ,61167,510000
+    Swiss Army Man  ,2016,R,97," Comedy, Drama, Fantasy            ",7.0,64,    Dan Kwan   ,       Paul Dano,   Daniel Radcliffe,   Mary Eliza eth Winstead,   Antonia Ri ero    ,106999,4210000
+    The Christmas Chronicles  ,2018,PG,104," Adventure, Comedy, Family            ",7.0,0,    Clay Kaytis  ,      Kurt Russell,   Dar y Camp,   Judah Lewis,   Oliver Hudson  ,62479,0
+    Star Wars: Episode VIII - The Last Jedi  ,2017,PG-13,152," Action, Adventure, Fantasy            ",7.0,84,    Rian Johnson  ,      Daisy Ridley,   John Boyega,   Mark Hamill,   Carrie Fisher  ,569673,620180000
+    Love and Monsters  ,2020,PG-13,109," Action, Adventure, Comedy            ",7.0,0,    Michael Matthews  ,      Dylan O    Brien,     Jessica Henwick,     Michael Rooker,     Dan Ewing    ,34253,0
+    In Your Eyes  ,2014,Not Rated,106," Fantasy, Romance            ",7.0,0,    Brin Hill  ,      Michael Stahl-David,   Zoe Kazan,   Mark Feuerstein,   David Gallagher  ,30272,0
+    Trollhunter  ,2010,PG-13,103," Drama, Fantasy, Horror            ",7.0,61,    Andr vredal  ,      Otto Jespersen,   Ro ert Stolten erg,   Knut Nrum,   Glenn Erland Tosterud  ,69177,250000
+    ParaNorman  ,2012,PG,92," Animation, Adventure, Comedy            ",7.0,72,    Chris Butler   ,       Kodi Smit-McPhee,   Anna Kendrick,   Christopher Mintz-Plasse,   Tucker Al rizzi    ,94995,56000000
+    Maleficent  ,2014,PG,97," Action, Adventure, Family            ",7.0,0,    Ro ert Strom erg  ,      Angelina Jolie,   Elle Fanning,   Sharlto Copley,   Lesley Manville  ,346378,241410000
+    Thor  ,2011,PG-13,115," Action, Adventure, Fantasy            ",7.0,0,    Kenneth Branagh  ,      Chris Hemsworth,   Anthony Hopkins,   Natalie Portman,   Tom Hiddleston  ,753483,181030000
+    Enchanted  ,2007,PG,107," Animation, Comedy, Family            ",7.0,75,    Kevin Lima  ,      Amy Adams,   Susan Sarandon,   James Marsden,   Patrick Dempsey  ,177713,127810000
+    Shazam!  ,2019,PG-13,132," Action, Adventure, Comedy            ",7.0,71,    David F. Sand erg  ,      Zachary Levi,   Mark Strong,   Asher Angel,   Jack Dylan Grazer  ,260458,140370000
+    Hell oy II: The Golden Army  ,2008,PG-13,120," Action, Adventure, Fantasy            ",7.0,78,    Guillermo del Toro  ,      Ron Perlman,   Selma Blair,   Doug Jones,   John Alexander  ,256516,75750000
+    Constantine  ,2005,R,121," Action, Fantasy, Horror            ",7.0,0,    Francis Lawrence  ,      Keanu Reeves,   Rachel Weisz,   Djimon Hounsou,   Shia LaBeouf  ,309127,75980000
+    Underworld  ,2003,R,121," Action, Fantasy, Thriller            ",7.0,0,    Len Wiseman  ,      Kate Beckinsale,   Scott Speedman,   Shane Brolly,   Michael Sheen  ,253993,51970000
+    Elf  ,2003,PG,97," Adventure, Comedy, Family            ",7.0,64,    Jon Favreau  ,      Will Ferrell,   James Caan,   Bo  Newhart,   Zooey Deschanel  ,232501,173400000
+    Bu  a Ho-Tep  ,2002,R,92," Comedy, Fantasy, Horror            ",7.0,0,    Don Coscarelli  ,      Bruce Camp ell,   Ossie Davis,   Bo  Ivy,   Ella Joyce  ,45892,2000000
+    A Ghost Story  ,2017,R,92," Drama, Fantasy, Romance            ",6.9,84,    David Lowery  ,      Casey Affleck,   Rooney Mara,   McColm Cephas Jr.,   Kenneisha Thompson  ,61787,1600000
+    Aladdin  ,2019,PG,128," Adventure, Family, Fantasy            ",6.9,0,    Guy Ritchie  ,      Will Smith,   Mena Massoud,   Naomi Scott,   Marwan Kenzari  ,230853,355560000
+    Sorry to Bother You  ,2018,R,112," Comedy, Fantasy, Sci-Fi            ",6.9,80,    Boots Riley  ,      LaKeith Stanfield,   Tessa Thompson,   Jermaine Fowler,   Omari Hardwick  ,65440,17490000
+    Frozen II  ,2019,PG,103," Animation, Adventure, Comedy            ",6.9,64,    Chris Buck   ,       Kristen Bell,   Idina Menzel,   Josh Gad,   Jonathan Groff    ,140013,477370000
+    Jumanji: Welcome to the Jungle  ,2017,PG-13,119," Action, Adventure, Comedy            ",6.9,0,    Jake Kasdan  ,      Dwayne Johnson,   Karen Gillan,   Kevin Hart,   Jack Black  ,323541,404520000
+    Thor: The Dark World  ,2013,PG-13,112," Action, Adventure, Fantasy            ",6.9,0,    Alan Taylor  ,      Chris Hemsworth,   Natalie Portman,   Tom Hiddleston,   Stellan Skarsgrd  ,601332,206360000
+    Cinderella  ,2015,PG,105," Drama, Family, Fantasy            ",6.9,67,    Kenneth Branagh  ,      Lily James,   Cate Blanchett,   Richard Madden,   Helena Bonham Carter  ,162194,201150000
+    What Happened to Monday  ,2017,TV-MA,123," Action, Adventure, Crime            ",6.9,0,    Tommy Wirkola  ,      Noomi Rapace,   Glenn Close,   Willem Dafoe,   Marwan Kenzari  ,108025,0
+    Aquaman  ,2018,PG-13,143," Action, Adventure, Fantasy            ",6.9,0,    James Wan  ,      Jason Momoa,   Am er Heard,   Willem Dafoe,   Patrick Wilson  ,377062,335060000
+    Legend of the Guardians: The Owls of Ga' Hoole  ,2010,PG,97," Animation, Action, Adventure            ",6.9,0,    Zack Snyder  ,      Jim Sturgess,   Hugo Weaving,   David Wenham,   Emily Barclay  ,78258,55680000
+    Triangle  ,2009,R,99," Fantasy, Mystery, Sci-Fi            ",6.9,0,    Christopher Smith  ,      Melissa George,   Joshua McIvor,   Jack Taylor,   Michael Dorman  ,104106,0
+    Ice Age: Dawn of the Dinosaurs  ,2009,PG,94," Animation, Adventure, Comedy            ",6.9,0,    Carlos Saldanha   ,       Ray Romano,   John Leguizamo,   Denis Leary,   Eunice Cho    ,225611,196570000
+    The Amazing Spider-Man  ,2012,PG-13,136," Action, Adventure, Fantasy            ",6.9,66,    Marc We    ,      Andrew Garfield,   Emma Stone,   Rhys Ifans,   Irrfan Khan  ,561603,262030000
+    Cloudy with a Chance of Meat alls  ,2009,PG,90," Animation, Adventure, Comedy            ",6.9,66,    Phil Lord   ,       Anna Faris,   Bill Hader,   Bruce Camp ell,   James Caan    ,207003,124870000
+    Inland Empire  ,2006,R,180," Drama, Fantasy, Mystery            ",6.9,73,    David Lynch  ,      Karolina Gruszka,   Krzysztof Majchrzak,   Grace Za riskie,   Laura Dern  ,53840,750000
+"    The Chronicles of Narnia: The Lion, the Witch and the Wardro e  ",2005,PG,143," Adventure, Family, Fantasy            ",6.9,75,    Andrew Adamson  ,      Tilda Swinton,   Georgie Henley,   William Moseley,   Skandar Keynes  ,368875,291710000
+    Vanilla Sky  ,2001,R,136," Fantasy, Mystery, Romance            ",6.9,0,    Cameron Crowe  ,      Tom Cruise,   Penlope Cruz,   Cameron Diaz,   Kurt Russell  ,249971,100610000
+    Atlantis: The Lost Empire  ,2001,PG,95," Animation, Action, Adventure            ",6.9,0,    Gary Trousdale   ,       Michael J. Fox,   Jim Varney,   Corey Burton,   Claudia Christian    ,105637,84050000
+    Storks  ,2016,PG,87," Animation, Adventure, Comedy            ",6.8,0,    Nicholas Stoller   ,       Andy Sam erg,   Katie Crown,   Kelsey Grammer,   Jennifer Aniston    ,56567,72680000
+    Odd Thomas  ,2013,PG-13,97," Comedy, Fantasy, Horror            ",6.8,0,    Stephen Sommers  ,      Anton Yelchin,   Ashley Sommers,   Leonor Varela,   Matthew Page  ,48217,0
+    A Christmas Carol  ,2009,PG,96," Animation, Drama, Family            ",6.8,0,    Ro ert Zemeckis  ,      Jim Carrey,   Gary Oldman,   Colin Firth,   Steve Valentine  ,104254,137860000
+    The Imaginarium of Doctor Parnassus  ,2009,PG-13,123," Adventure, Comedy, Fantasy            ",6.8,65,    Terry Gilliam  ,      Christopher Plummer,   Lily Cole,   Heath Ledger,   Andrew Garfield  ,144646,7690000
+    Suspiria  ,2018,R,152," Fantasy, Horror, Mystery            ",6.8,64,    Luca Guadagnino  ,      Chlo Grace Moretz,   Tilda Swinton,   Doris Hick,   Malgorzata Bela  ,63146,2470000
+    Warcraft  ,2016,PG-13,123," Action, Adventure, Fantasy            ",6.8,0,    Duncan Jones  ,      Travis Fimmel,   Paula Patton,   Ben Foster,   Dominic Cooper  ,242812,47370000
+    The Boxtrolls  ,2014,PG,96," Animation, Adventure, Comedy            ",6.8,61,    Graham Anna le   ,       Ben Kingsley,   Jared Harris,   Nick Frost,   Richard Ayoade    ,54615,50840000
+    The Tree of Life  ,2011,PG-13,139," Drama, Fantasy            ",6.8,85,    Terrence Malick  ,      Brad Pitt,   Sean Penn,   Jessica Chastain,   Hunter McCracken  ,168610,13300000
+    Horton Hears a Who!  ,2008,G,86," Animation, Adventure, Comedy            ",6.8,71,    Jimmy Hayward   ,       Jim Carrey,   Steve Carell,   Carol Burnett,   Will Arnett    ,130350,154530000
+1408,2007,PG-13,104," Fantasy, Horror, Mystery            ",6.8,64,    Mikael Hfstrm  ,      John Cusack,   Samuel L. Jackson,   Mary McCormack,   Tony Shalhou   ,256382,71990000
+    Ice Age: The Meltdown  ,2006,PG,91," Animation, Adventure, Comedy            ",6.8,0,    Carlos Saldanha  ,      Ray Romano,   John Leguizamo,   Denis Leary,   Seann William Scott  ,258378,195330000
+    The Lake House  ,2006,PG,99," Drama, Fantasy, Romance            ",6.8,0,    Alejandro Agresti  ,      Keanu Reeves,   Sandra Bullock,   Christopher Plummer,   E on Moss-Bachrach  ,141198,52330000
+    Bolt  ,2008,PG,96," Animation, Adventure, Comedy            ",6.8,67,    Byron Howard   ,       John Travolta,   Miley Cyrus,   Susie Essman,   Mark Walton    ,191494,114050000
+    A Series of Unfortunate Events  ,2004,PG,108," Adventure, Comedy, Family            ",6.8,62,    Brad Sil erling  ,      Jim Carrey,   Jude Law,   Meryl Streep,   Liam Aiken  ,197096,118630000
+    Brother Bear  ,2003,G,85," Animation, Adventure, Comedy            ",6.8,0,    Aaron Blaise   ,       Joaquin Phoenix,   Jeremy Suarez,   Rick Moranis,   Jason Raize    ,98071,85340000
+    Peter Pan  ,2003,PG,113," Adventure, Family, Fantasy            ",6.8,64,    P.J. Hogan  ,      Jeremy Sumpter,   Jason Isaacs,   Olivia Williams,   Lynn Redgrave  ,66968,48460000
+    Bruce Almighty  ,2003,PG-13,101," Comedy, Fantasy            ",6.8,0,    Tom Shadyac  ,      Jim Carrey,   Jennifer Aniston,   Morgan Freeman,   Philip Baker Hall  ,373367,242830000
+    The Family Man  ,2000,PG-13,125," Comedy, Drama, Fantasy            ",6.8,0,    Brett Ratner  ,      Nicolas Cage,   Ta Leoni,   Don Cheadle,   Jeremy Piven  ,104442,75790000
+    Ginger Snaps  ,2000,Not Rated,108," Drama, Fantasy, Horror            ",6.8,70,    John Fawcett  ,      Emily Perkins,   Katharine Isa elle,   Kris Lemche,   Mimi Rogers  ,42374,0
+    Hell oy  ,2004,PG-13,122," Action, Fantasy, Horror            ",6.8,72,    Guillermo del Toro  ,      Ron Perlman,   Doug Jones,   Selma Blair,   John Hurt  ,307421,59620000
+    Mary Poppins Returns  ,2018,PG,130," Comedy, Family, Fantasy            ",6.7,66,    Ro  Marshall  ,      Emily Blunt,   Lin-Manuel Miranda,   Ben Whishaw,   Emily Mortimer  ,78066,171960000
+    Ferdinand  ,2017,PG,108," Animation, Adventure, Comedy            ",6.7,0,    Carlos Saldanha  ,      John Cena,   Kate McKinnon,   Bo  y Cannavale,   Jack Gore  ,49448,84410000
+    Pete' s Dragon  ,2016,PG,102," Action, Adventure, Comedy            ",6.7,71,    David Lowery  ,      Bryce Dallas Howard,   Ro ert Redford,   Oakes Fegley,   Oona Laurence  ,54467,76230000
+    Hotel Transylvania 2  ,2015,PG,89," Animation, Comedy, Family            ",6.7,0,    Genndy Tartakovsky  ,      Adam Sandler,   Andy Sam erg,   Selena Gomez,   Kevin James  ,108844,169700000
+    The Good Dinosaur  ,2015,PG,93," Animation, Adventure, Comedy            ",6.7,66,    Peter Sohn  ,      Jeffrey Wright,   Frances McDormand,   Maleah Nipay-Padilla,   Ryan Teeple  ,103085,123090000
+    King Arthur: Legend of the Sword  ,2017,PG-13,126," Action, Adventure, Drama            ",6.7,0,    Guy Ritchie  ,      Charlie Hunnam,   Astrid Bergs-Fris ey,   Jude Law,   Djimon Hounsou  ,193668,39180000
+    Miss Peregrine' s Home for Peculiar Children  ,2016,PG-13,127," Adventure, Drama, Family            ",6.7,0,    Tim Burton  ,      Eva Green,   Asa Butterfield,   Samuel L. Jackson,   Judi Dench  ,156892,87240000
+    Rare Exports  ,2010,R,84," Adventure, Fantasy, Horror            ",6.7,71,    Jalmari Helander  ,      Jorma Tommila,   Onni Tommila,   Peeter Jako i,   Tommi Korpela  ,27029,260000
+    If I Stay  ,2014,PG-13,107," Drama, Fantasy, Music            ",6.7,0,    R.J. Cutler  ,      Chlo Grace Moretz,   Mireille Enos,   Jamie Blackley,   Joshua Leonard  ,116467,50470000
+    Om Shanti Om  ,2007,Not Rated,162," Action, Comedy, Drama            ",6.7,0,    Farah Khan  ,      Shah Rukh Khan,   Deepika Padukone,   Arjun Rampal,   Kirron Kher  ,39215,3600000
+    Ghost Town  ,2008,PG-13,102," Comedy, Drama, Fantasy            ",6.7,72,    David Koepp  ,      Ricky Gervais,   Greg Kinnear,   Ta Leoni,   Jordan Carlos  ,70320,13210000
+    Epic  ,2013,PG,102," Animation, Adventure, Family            ",6.7,0,    Chris Wedge  ,      Amanda Seyfried,   Josh Hutcherson,   Beyonc,   Colin Farrell  ,100280,107520000
+    Penelope  ,2006,PG,104," Comedy, Fantasy, Romance            ",6.7,0,    Mark Palansky  ,      Christina Ricci,   James McAvoy,   Reese Witherspoon,   Richard E. Grant  ,60357,10010000
+    Just Like Heaven  ,2005,PG-13,95," Comedy, Drama, Fantasy            ",6.7,0,    Mark Waters  ,      Reese Witherspoon,   Mark Ruffalo,   Donal Logue,   Dina Spy ey-Waters  ,99939,48320000
+    Underworld: Evolution  ,2006,R,106," Action, Fantasy, Thriller            ",6.7,0,    Len Wiseman  ,      Kate Beckinsale,   Scott Speedman,   Bill Nighy,   Tony Curran  ,190481,62320000
+    Where the Wild Things Are  ,2009,PG,101," Adventure, Drama, Family            ",6.7,71,    Spike Jonze  ,         Max Records,  Catherine O    Hara,     Forest Whitaker,     Pepita Emmerichs    ,101139,77230000
+    The Lovely Bones  ,2009,PG-13,135," Drama, Fantasy, Thriller            ",6.7,0,    Peter Jackson  ,      Rachel Weisz,   Mark Wahl erg,   Saoirse Ronan,   Susan Sarandon  ,158632,43820000
+    Over the Hedge  ,2006,PG,83," Animation, Adventure, Comedy            ",6.7,67,    Tim Johnson   ,       Bruce Willis,   Garry Shandling,   Steve Carell,   Wanda Sykes    ,160899,155020000
+    The Eye  ,2002,R,99," Drama, Fantasy, Horror            ",6.7,66,    Danny Pang   ,       Angelica Lee,   Chutcha Rujinanon,   Lawrence Chou,   Jinda Duangtoy    ,27997,500000
+    Blade II  ,2002,R,117," Action, Fantasy, Horror            ",6.7,0,    Guillermo del Toro  ,      Wesley Snipes,   Kris Kristofferson,   Ron Perlman,   Leonor Varela  ,201048,82350000
+    Sin ad: Legend of the Seven Seas  ,2003,PG,86," Animation, Adventure, Family            ",6.7,0,    Patrick Gilmore   ,       Brad Pitt,   Catherine Zeta-Jones,   Joseph Fiennes,   Michelle Pfeiffer    ,49756,26480000
+    The Legend of Bagger Vance  ,2000,PG-13,126," Drama, Fantasy, Sport            ",6.7,0,    Ro ert Redford  ,      Will Smith,   Matt Damon,   Charlize Theron,   Bruce McGill  ,53833,30700000
+    Jumanji: The Next Level  ,2019,PG-13,123," Action, Adventure, Comedy            ",6.6,0,    Jake Kasdan  ,      Dwayne Johnson,   Jack Black,   Kevin Hart,   Karen Gillan  ,192477,316830000
+    The Old Guard  ,2020,R,125," Action, Adventure, Fantasy            ",6.6,70,    Gina Prince-Bythewood  ,      Charlize Theron,   KiKi Layne,   Matthias Schoenaerts,   Marwan Kenzari  ,130183,0
+    Smallfoot  ,2018,PG,96," Animation, Adventure, Comedy            ",6.6,0,    Karey Kirkpatrick   ,       Channing Tatum,   James Corden,   Zendaya,   Common    ,34640,83240000
+    Peter Ra  it  ,2018,PG,95," Adventure, Comedy, Family            ",6.6,0,    Will Gluck  ,      James Corden,   Fayssal Bazzi,   Domhnall Gleeson,   Sia  ,35771,115250000
+    Maleficent: Mistress of Evil  ,2019,PG,119," Adventure, Family, Fantasy            ",6.6,0,    Joachim Rnning  ,      Angelina Jolie,   Elle Fanning,   Harris Dickinson,   Michelle Pfeiffer  ,86900,113930000
+    Fantastic Beasts: The Crimes of Grindelwald  ,2018,PG-13,134," Adventure, Family, Fantasy            ",6.6,0,    David Yates  ,      Eddie Redmayne,   Katherine Waterston,   Dan Fogler,   Johnny Depp  ,226580,159560000
+    Kong: Skull Island  ,2017,PG-13,118," Action, Adventure, Fantasy            ",6.6,62,    Jordan Vogt-Ro erts  ,      Tom Hiddleston,   Samuel L. Jackson,   Brie Larson,   John C. Reilly  ,274873,168050000
+    The Lego Movie 2: The Second Part  ,2019,PG,107," Animation, Action, Adventure            ",6.6,65,    Mike Mitchell  ,      Chris Pratt,   Eliza eth Banks,   Will Arnett,   Tiffany Haddish  ,55898,105810000
+    Star Wars: Episode IX - The Rise of Skywalker  ,2019,PG-13,141," Action, Adventure, Fantasy            ",6.6,0,    J.J. A rams  ,      Daisy Ridley,   John Boyega,   Oscar Isaac,   Adam Driver  ,380456,515200000
+    Home  ,2015,PG,94," Animation, Adventure, Comedy            ",6.6,0,    Tim Johnson  ,      Jim Parsons,   Rihanna,   Steve Martin,   Jennifer Lopez  ,92517,177400000
+    The Final Girls  ,2015,PG-13,91," Comedy, Drama, Fantasy            ",6.6,0,    Todd Strauss-Schulson  ,      Taissa Farmiga,   Malin Akerman,   Adam Devine,   Thomas Middleditch  ,35317,0
+    The Amazing Spider-Man 2  ,2014,PG-13,142," Action, Adventure, Fantasy            ",6.6,0,    Marc We    ,      Andrew Garfield,   Emma Stone,   Jamie Foxx,   Paul Giamatti  ,419409,202850000
+    Ender' s Game  ,2013,PG-13,114," Action, Adventure, Fantasy            ",6.6,0,    Gavin Hood  ,      Harrison Ford,   Asa Butterfield,   Hailee Steinfeld,   A igail Breslin  ,224843,61740000
+    The Odd Life of Timothy Green  ,2012,PG,105," Comedy, Drama, Family            ",6.6,0,    Peter Hedges  ,      Jennifer Garner,   Joel Edgerton,   CJ Adams,   Odeya Rush  ,45127,51850000
+    Pirates of the Cari  ean: On Stranger Tides  ,2011,PG-13,136," Action, Adventure, Fantasy            ",6.6,0,    Ro  Marshall  ,      Johnny Depp,   Penlope Cruz,   Ian McShane,   Geoffrey Rush  ,484065,241060000
+    Pontypool  ,2008,Not Rated,93," Fantasy, Horror, Thriller            ",6.6,0,    Bruce McDonald  ,      Stephen McHattie,   Lisa Houle,   Georgina Reilly,   Hrant Alianak  ,29497,0
+    The For idden Kingdom  ,2008,PG-13,104," Action, Adventure, Fantasy            ",6.6,0,    Ro  Minkoff  ,      Jackie Chan,   Jet Li,   Michael Angarano,   Juana Collignon  ,101654,52080000
+    Underworld: Rise of the Lycans  ,2009,R,92," Action, Fantasy, Thriller            ",6.6,0,    Patrick Tatopoulos  ,      Rhona Mitra,   Michael Sheen,   Bill Nighy,   Steven Mackintosh  ,151856,45800000
+    Prince of Persia: The Sands of Time  ,2010,PG-13,116," Action, Adventure, Fantasy            ",6.6,0,    Mike Newell  ,      Jake Gyllenhaal,   Gemma Arterton,   Ben Kingsley,   Alfred Molina  ,272890,90760000
+    Scoop  ,2006,PG-13,96," Comedy, Crime, Fantasy            ",6.6,0,    Woody Allen  ,      Scarlett Johansson,   Hugh Jackman,   Jim Dunk,   Ro ert Bathurst  ,81137,10530000
+    Puss in Boots  ,2011,PG,90," Animation, Action, Adventure            ",6.6,65,    Chris Miller  ,      Antonio Banderas,   Salma Hayek,   Zach Galifianakis,   Billy Bo  Thornton  ,145344,149260000
+    Flushed Away  ,2006,PG,85," Animation, Adventure, Comedy            ",6.6,74,    David Bowers   ,       Hugh Jackman,   Kate Winslet,   Ian McKellen,   Jean Reno    ,114238,64670000
+    Monster House  ,2006,PG,91," Animation, Comedy, Family            ",6.6,68,    Gil Kenan  ,      Mitchel Musso,   Sam Lerner,   Spencer Locke,   Ryan Whitney  ,102425,73660000
+    Charlie and the Chocolate Factory  ,2005,PG,115," Adventure, Comedy, Family            ",6.6,72,    Tim Burton  ,      Johnny Depp,   Freddie Highmore,   David Kelly,   Helena Bonham Carter  ,431952,206460000
+    The Polar Express  ,2004,G,100," Animation, Adventure, Comedy            ",6.6,61,    Ro ert Zemeckis  ,      Tom Hanks,   Chris Coppola,   Michael Jeter,   Leslie Zemeckis  ,181624,183370000
+    Asterix & O elix: Mission Cleopatra  ,2002,PG,107," Adventure, Comedy, Family            ",6.6,0,    Alain Cha at  ,      Grard Depardieu,   Christian Clavier,   Jamel De  ouze,   Monica Bellucci  ,49464,3120000
+    The Gift  ,2000,R,111," Drama, Fantasy, Horror            ",6.6,62,    Sam Raimi  ,      Cate Blanchett,   Katie Holmes,   Keanu Reeves,   Giovanni Ri isi  ,64029,12010000
+    It Chapter Two  ,2019,R,169," Drama, Fantasy, Horror            ",6.5,0,    Andy Muschietti  ,      Jessica Chastain,   James McAvoy,   Bill Hader,   Isaiah Mustafa  ,210737,211590000
+    The Endless  ,2017,Not Rated,111," Drama, Fantasy, Horror            ",6.5,80,    Justin Benson   ,       Aaron Moorhead,   Justin Benson,   Callie Hernandez,   Tate Ellington    ,34934,270000
+    Crimson Peak  ,2015,R,119," Drama, Fantasy, Horror            ",6.5,66,    Guillermo del Toro  ,      Mia Wasikowska,   Jessica Chastain,   Tom Hiddleston,   Charlie Hunnam  ,131193,31090000
+    Mowgli: Legend of the Jungle  ,2018,PG-13,104," Adventure, Drama, Fantasy            ",6.5,0,    Andy Serkis  ,      Christian Bale,   Cate Blanchett,   Benedict Cum er atch,   Naomie Harris  ,56918,0
+    Valerian and the City of a Thousand Planets  ,2017,PG-13,136," Action, Adventure, Fantasy            ",6.5,0,    Luc Besson  ,      Dane DeHaan,   Cara Delevingne,   Clive Owen,   Rihanna  ,163914,41190000
+    Pirates of the Cari  ean: Dead Men Tell No Tales  ,2017,PG-13,129," Action, Adventure, Fantasy            ",6.5,0,    Joachim Rnning   ,       Johnny Depp,   Geoffrey Rush,   Javier Bardem,   Orlando Bloom    ,267042,172560000
+    Before I Fall  ,2017,PG-13,98," Drama, Fantasy, Mystery            ",6.5,0,    Ry Russo-Young  ,      Zoey Deutch,   Halston Sage,   Cynthy Wu,   Medalion Rahimi  ,46789,12240000
+    Trolls  ,2016,PG,92," Animation, Adventure, Comedy            ",6.5,0,    Mike Mitchell   ,       Anna Kendrick,   Justin Tim erlake,   Zooey Deschanel,   Christopher Mintz-Plasse    ,73039,153710000
+    Ice Age: Continental Drift  ,2012,PG,88," Animation, Adventure, Comedy            ",6.5,0,    Steve Martino   ,       Ray Romano,   Denis Leary,   John Leguizamo,   Aziz Ansari    ,193167,161320000
+    Byzantium  ,2012,R,118," Drama, Fantasy, Horror            ",6.5,66,    Neil Jordan  ,      Saoirse Ronan,   Gemma Arterton,   Sam Riley,   Cale  Landry Jones  ,41420,80000
+    Horns  ,2013,R,120," Comedy, Crime, Drama            ",6.5,0,    Alexandre Aja  ,      Daniel Radcliffe,   Juno Temple,   Max Minghella,   Joe Anderson  ,78283,160000
+    Evil Dead  ,2013,R,91," Action, Adventure, Fantasy            ",6.5,0,    Fede Alvarez  ,      Jane Levy,   Shiloh Fernandez,   Jessica Lucas,   Lou Taylor Pucci  ,157220,54240000
+    [Rec]  ,2009,R,85," Action, Adventure, Fantasy            ",6.5,0,    Jaume Balaguer   ,       Jonathan D. Mellor,   Manuela Velasco,   scar Zafra,   Ariel Casas    ,69032,30000
+    City of Em er  ,2008,PG,90," Adventure, Family, Fantasy            ",6.5,0,    Gil Kenan  ,      Saoirse Ronan,   To y Jones,   Bill Murray,   David Ryall  ,63076,7870000
+    The Chronicles of Narnia: Prince Caspian  ,2008,PG,150," Action, Adventure, Family            ",6.5,62,    Andrew Adamson  ,      Ben Barnes,   Skandar Keynes,   Georgie Henley,   William Moseley  ,195610,141620000
+    The Crazies  ,2010,R,101," Adventure, Fantasy, Horror            ",6.5,0,    Breck Eisner  ,      Radha Mitchell,   Timothy Olyphant,   Danielle Pana aker,   Joe Anderson  ,112084,39120000
+    The Spiderwick Chronicles  ,2008,PG,96," Action, Adventure, Drama            ",6.5,62,    Mark Waters  ,      Freddie Highmore,   Sarah Bolger,   David Strathairn,   Mary-Louise Parker  ,88985,71200000
+    Tideland  ,2005,R,120," Drama, Fantasy, Horror            ",6.5,0,    Terry Gilliam  ,      Jeff Bridges,   Jennifer Tilly,   Jodelle Ferland,   Janet McTeer  ,32018,70000
+    Day Watch  ,2006,R,132," Action, Fantasy, Horror            ",6.5,0,    Timur Bekmam etov  ,      Konstantin Kha enskiy,   Mariya Poroshina,   Vladimir Menshov,   Galina Tyunina  ,33394,450000
+    Nanny McPhee  ,2005,PG,97," Comedy, Family, Fantasy            ",6.5,0,    Kirk Jones  ,      Emma Thompson,   Colin Firth,   Angela Lans ury,   Kelly Macdonald  ,68599,47140000
+    Silent Hill  ,2006,R,125," Action, Adventure, Fantasy            ",6.5,0,    Christophe Gans  ,      Radha Mitchell,   Laurie Holden,   Sean Bean,   De orah Kara Unger  ,214569,46980000
+    Star Wars: Episode II - Attack of the Clones  ,2002,PG,142," Action, Adventure, Fantasy            ",6.5,0,    George Lucas  ,      Hayden Christensen,   Natalie Portman,   Ewan McGregor,   Christopher Lee  ,647341,310680000
+    When We First Met  ,2018,TV-14,97," Comedy, Fantasy, Romance            ",6.4,0,    Ari Sandel  ,      Adam Devine,   Alexandra Daddario,   Shelley Hennig,   Andrew Bachelor  ,42955,0
+    A Cure for Wellness  ,2016,R,146," Drama, Fantasy, Horror            ",6.4,0,    Gore Ver inski  ,      Dane DeHaan,   Jason Isaacs,   Mia Goth,   Ivo Nandi  ,87918,8110000
+    The BFG  ,2016,PG,117," Adventure, Family, Fantasy            ",6.4,66,    Steven Spiel erg  ,      Mark Rylance,   Ru y Barnhill,   Penelope Wilton,   Jemaine Clement  ,78323,55480000
+    The Night Before  ,2015,R,101," Comedy, Fantasy            ",6.4,0,    Jonathan Levine  ,      Joseph Gordon-Levitt,   Seth Rogen,   Jillian Bell,   Lizzy Caplan  ,67341,43040000
+    Tale of Tales  ,2015,R,134," Drama, Fantasy, Horror            ",6.4,72,    Matteo Garrone  ,      Salma Hayek,   Vincent Cassel,   To y Jones,   John C. Reilly  ,26622,80000
+    Cloudy with a Chance of Meat alls 2  ,2013,PG,95," Animation, Adventure, Comedy            ",6.4,0,    Cody Cameron   ,       Bill Hader,   Anna Faris,   Will Forte,   Neil Patrick Harris    ,91697,119790000
+    Tomorrowland  ,2015,PG,130," Action, Adventure, Family            ",6.4,0,    Brad Bird  ,      George Clooney,   Britt Ro ertson,   Hugh Laurie,   Raffey Cassidy  ,173035,93440000
+    John Dies at the End  ,2012,R,99," Comedy, Fantasy, Horror            ",6.4,0,    Don Coscarelli  ,      Chase Williamson,   Ro  Mayes,   Paul Giamatti,   Clancy Brown  ,36318,140000
+    The Woman in Black  ,2012,PG-13,95," Drama, Fantasy, Horror            ",6.4,62,    James Watkins  ,      Daniel Radcliffe,   Janet McTeer,   Ciarn Hinds,   Emma Shorey  ,174803,54330000
+    The Voices  ,2014,R,103," Comedy, Crime, Fantasy            ",6.4,0,    Marjane Satrapi  ,      Ryan Reynolds,   Gemma Arterton,   Anna Kendrick,   Jacki Weaver  ,53648,0
+    Underworld: Awakening  ,2012,R,88," Action, Fantasy, Horror            ",6.4,0,    Mns Mrlind   ,       Kate Beckinsale,   Michael Ealy,   India Eisley,   Stephen Rea    ,146501,62320000
+    The Lorax  ,2012,PG,86," Animation, Adventure, Comedy            ",6.4,0,    Chris Renaud   ,       Zac Efron,   Taylor Swift,   Danny DeVito,   Ed Helms    ,99622,214030000
+    Charlie St. Cloud  ,2010,PG-13,99," Drama, Fantasy, Romance            ",6.4,0,    Burr Steers  ,      Zac Efron,   Kim Basinger,   Charlie Tahan,   Amanda Crew  ,58944,31160000
+    Upside Down  ,2012,PG-13,109," Drama, Fantasy, Romance            ",6.4,0,    Juan Solanas  ,      Jim Sturgess,   Kirsten Dunst,   Timothy Spall,   Blu Mankuma  ,69581,100000
+    Ghost usters  ,2016,PG-13,117," Action, Comedy, Fantasy            ",6.4,0,    Paul Feig  ,      Melissa McCarthy,   Kristen Wiig,   Kate McKinnon,   Leslie Jones  ,205464,128340000
+    Hereafter  ,2010,PG-13,129," Drama, Fantasy, Romance            ",6.4,0,    Clint Eastwood  ,      Matt Damon,   Ccile de France,   Bryce Dallas Howard,   Thierry Neuvic  ,90542,32750000
+    The Invention of Lying  ,2009,PG-13,100," Comedy, Fantasy, Romance            ",6.4,0,    Ricky Gervais   ,       Ricky Gervais,   Jennifer Garner,   Jonah Hill,   Louis C.K.    ,129569,18440000
+    Alice in Wonderland  ,2010,PG,108," Adventure, Family, Fantasy            ",6.4,0,    Tim Burton  ,      Mia Wasikowska,   Johnny Depp,   Helena Bonham Carter,   Anne Hathaway  ,386076,334190000
+    17 Again  ,2009,PG-13,102," Comedy, Drama, Fantasy            ",6.4,0,    Burr Steers  ,      Zac Efron,   Matthew Perry,   Leslie Mann,   Thomas Lennon  ,182361,64170000
+    The Water Horse  ,2007,PG,112," Adventure, Family, Fantasy            ",6.4,71,    Jay Russell  ,      Emily Watson,   David Morrissey,   Alex Etel,   Bruce Allpress  ,38012,40410000
+    Tales from Earthsea  ,2006,PG-13,115," Animation, Adventure, Fantasy            ",6.4,0,    Gor Miyazaki  ,         Timothy Dalton,     Willem Dafoe,     Mariska Hargitay,  Jun    ichi Okada ,35883,50000
+    Night at the Museum  ,2006,PG,108," Adventure, Comedy, Family            ",6.4,0,    Shawn Levy  ,      Ben Stiller,   Carla Gugino,   Ricky Gervais,   Dick Van Dyke  ,316656,250860000
+    Hancock  ,2008,PG-13,92," Action, Drama, Fantasy            ",6.4,0,    Peter Berg  ,      Will Smith,   Charlize Theron,   Jason Bateman,   Jae Head  ,446748,227950000
+    Day reakers  ,2009,R,98," Action, Adventure, Fantasy            ",6.4,0,    Michael Spierig   ,       Ethan Hawke,   Willem Dafoe,   Sam Neill,   Harriet Minto-Day    ,122525,30100000
+    Night Watch  ,2004,R,114," Action, Fantasy, Horror            ",6.4,0,    Timur Bekmam etov  ,      Konstantin Kha enskiy,   Vladimir Menshov,   Mariya Poroshina,   Valeriy Zolotukhin  ,52419,1490000
+    Click  ,2006,PG-13,107," Comedy, Drama, Fantasy            ",6.4,0,    Frank Coraci  ,      Adam Sandler,   Kate Beckinsale,   Christopher Walken,   David Hasselhoff  ,307479,137360000
+    The Mummy Returns  ,2001,PG-13,130," Action, Adventure, Fantasy            ",6.4,0,    Stephen Sommers  ,      Brendan Fraser,   Rachel Weisz,   John Hannah,   Arnold Vosloo  ,302179,202020000
+    What Women Want  ,2000,PG-13,127," Comedy, Fantasy, Romance            ",6.4,0,    Nancy Meyers  ,      Mel Gi son,   Helen Hunt,   Marisa Tomei,   Alan Alda  ,192602,182810000
+    Final Fantasy: The Spirits Within  ,2001,PG-13,106," Animation, Action, Adventure            ",6.4,0,    Hirono u Sakaguchi   ,       Alec Baldwin,   Steve Buscemi,   Ming-Na Wen,   Ving Rhames    ,80061,32130000
+    Kate & Leopold  ,2001,PG-13,118," Comedy, Fantasy, Romance            ",6.4,0,    James Mangold  ,      Meg Ryan,   Hugh Jackman,   Liev Schrei er,   Breckin Meyer  ,79326,47120000
+    Apostle  ,2018,TV-MA,130," Drama, Fantasy, Horror            ",6.3,62,    Gareth Evans  ,      Dan Stevens,   Richard Elfyn,   Paul Higgins,   Bill Milner  ,44406,0
+    Bright  ,2017,TV-MA,117," Action, Fantasy, Thriller            ",6.3,0,    David Ayer  ,      Will Smith,   Joel Edgerton,   Noomi Rapace,   Edgar Ramrez  ,170240,0
+    Hotel Transylvania 3: Summer Vacation  ,2018,PG,97," Animation, Adventure, Comedy            ",6.3,0,    Genndy Tartakovsky  ,      Adam Sandler,   Andy Sam erg,   Selena Gomez,   Kevin James  ,58625,167510000
+    The Boss Ba y  ,2017,PG,97," Animation, Adventure, Comedy            ",6.3,0,    Tom McGrath  ,      Alec Baldwin,   Steve Buscemi,   Jimmy Kimmel,   Lisa Kudrow  ,109857,175000000
+    Dum o  ,2019,PG,112," Adventure, Family, Fantasy            ",6.3,0,    Tim Burton  ,      Colin Farrell,   Michael Keaton,   Danny DeVito,   Eva Green  ,67089,114770000
+    Despica le Me 3  ,2017,PG,89," Animation, Adventure, Comedy            ",6.3,0,    Kyle Balda   ,    Steve Carell,   Kristen Wiig,   Trey Parker,     ,115173,264620000
+    The Shack  ,2017,PG-13,132," Drama, Fantasy            ",6.3,0,    Stuart Hazeldine  ,      Sam Worthington,   Octavia Spencer,   Tim McGraw,   Radha Mitchell  ,30883,57390000
+    The Grinch  ,2018,PG,85," Animation, Comedy, Family            ",6.3,0,    Yarrow Cheney   ,       Benedict Cum er atch,   Cameron Seely,   Rashida Jones,   Pharrell Williams    ,56673,270620000
+    Rio 2  ,2014,G,101," Animation, Adventure, Comedy            ",6.3,0,    Carlos Saldanha  ,      Jesse Eisen erg,   Anne Hathaway,   Jemaine Clement,   Andy Garcia  ,80984,131540000
+    Oz the Great and Powerful  ,2013,PG,130," Adventure, Family, Fantasy            ",6.3,0,    Sam Raimi  ,      James Franco,   Michelle Williams,   Rachel Weisz,   Mila Kunis  ,199597,234910000
+    The Change-Up  ,2011,R,112," Comedy, Fantasy            ",6.3,0,    David Do kin  ,      Jason Bateman,   Ryan Reynolds,   Olivia Wilde,   Leslie Mann  ,168602,37240000
+    A Little Bit of Heaven  ,2011,PG-13,106," Comedy, Drama, Fantasy            ",6.3,0,    Nicole Kassell  ,      Kate Hudson,   Gael Garca Bernal,   Kathy Bates,   Peter Dinklage  ,27829,10000
+    Tom  Raider  ,2018,PG-13,119," Action, Adventure, Fantasy            ",6.3,0,    Roar Uthaug  ,      Alicia Vikander,   Dominic West,   Walton Goggins,   Daniel Wu  ,192308,58250000
+    47 Ronin  ,2013,PG-13,128," Action, Drama, Fantasy            ",6.3,0,    Carl Rinsch  ,      Keanu Reeves,   Hiroyuki Sanada,   Ko Shi asaki,   Tadano u Asano  ,146535,38360000
+    Dead Snow  ,2009,Not Rated,91," Comedy, Fantasy, Horror            ",6.3,61,    Tommy Wirkola  ,      Jeppe Beck Laursen,   Charlotte Frogner,   Jenny Skavlan,   Vegar Hoel  ,64318,40000
+    Dorian Gray  ,2009,R,112," Drama, Fantasy, Mystery            ",6.3,0,    Oliver Parker  ,      Ben Barnes,   Colin Firth,   Re ecca Hall,   John Hollingworth  ,61018,0
+    Goose umps  ,2015,PG,103," Adventure, Comedy, Family            ",6.3,0,    Ro  Letterman  ,      Jack Black,   Dylan Minnette,   Odeya Rush,   Ryan Lee  ,81436,80080000
+    The Warrior' s Way  ,2010,R,100," Action, Fantasy, Western            ",6.3,0,    Sngmoo Lee  ,      Jang Dong-Gun,   Kate Bosworth,   Geoffrey Rush,   Danny Huston  ,25399,5660000
+    The Chronicles of Narnia: The Voyage of the Dawn Treader  ,2010,PG,113," Adventure, Family, Fantasy            ",6.3,0,    Michael Apted  ,      Ben Barnes,   Skandar Keynes,   Georgie Henley,   Will Poulter  ,142699,104390000
+    Justice League  ,2017,PG-13,120," Action, Adventure, Fantasy            ",6.3,0,    Zack Snyder  ,      Ben Affleck,   Gal Gadot,   Jason Momoa,   Ezra Miller  ,389940,229020000
+    Shrek Forever After  ,2010,PG,93," Animation, Adventure, Comedy            ",6.3,0,    Mike Mitchell  ,      Mike Myers,   Cameron Diaz,   Eddie Murphy,   Antonio Banderas  ,186181,238370000
+    Dracula Untold  ,2014,PG-13,92," Action, Drama, Fantasy            ",6.3,0,    Gary Shore  ,      Luke Evans,   Dominic Cooper,   Sarah Gadon,   Art Parkinson  ,181048,56280000
+    The Uninvited  ,2009,PG-13,87," Drama, Fantasy, Horror            ",6.3,0,    Charles Guard   ,       Emily Browning,   Arielle Ke  el,   Eliza eth Banks,   David Strathairn    ,76655,28570000
+    The Nines  ,2007,R,100," Drama, Fantasy, Mystery            ",6.3,0,    John August  ,      Ryan Reynolds,   Hope Davis,   Melissa McCarthy,   Elle Fanning  ,32809,60000
+    It' s a Boy Girl Thing  ,2006,PG-13,95," Comedy, Fantasy, Romance            ",6.3,0,    Nick Hurran  ,      Samaire Armstrong,   Kevin Zegers,   Sherry Miller,   Ro ert Joy  ,39435,0
+    Charlotte' s We   ,2006,G,97," Adventure, Comedy, Family            ",6.3,68,    Gary Winick  ,      Dakota Fanning,   Julia Ro erts,   Oprah Winfrey,   Steve Buscemi  ,37632,82990000
+    Ella Enchanted  ,2004,PG,96," Comedy, Family, Fantasy            ",6.3,0,    Tommy O  Haver  ,      Anne Hathaway,   Hugh Dancy,   Cary Elwes,   Joanna Lumley  ,62406,22920000
+    How High  ,2001,R,93," Comedy, Fantasy            ",6.3,0,    Jesse Dylan  ,      Method Man,   Redman,   O  a Ba atund,   Mike Epps  ,53920,31160000
+    Osmosis Jones  ,2001,PG,95," Animation, Action, Adventure            ",6.3,0,    Bo  y Farrelly   ,       Laurence Fish urne,   Chris Rock,   David Hyde Pierce,   Brandy Norwood    ,32513,13600000
+    Colossal  ,2016,R,109," Action, Comedy, Drama            ",6.2,70,    Nacho Vigalondo  ,      Anne Hathaway,   Jason Sudeikis,   Austin Stowell,   Tim Blake Nelson  ,59524,3020000
+    I Kill Giants  ,2017,Not Rated,106," Drama, Fantasy, Thriller            ",6.2,74,    Anders Walter  ,      Madison Wolfe,   Zoe Saldana,   Imogen Poots,   Sydney Wade  ,26350,0
+    Krampus  ,2015,PG-13,98," Comedy, Drama, Fantasy            ",6.2,0,    Michael Dougherty  ,      Adam Scott,   Toni Collette,   David Koechner,   Allison Tolman  ,64795,42590000
+    Before I Wake  ,2016,PG-13,97," Drama, Fantasy, Horror            ",6.2,68,    Mike Flanagan  ,      Kate Bosworth,   Oleksandr Reshetilov,   Thomas Jane,   Jaco  Trem lay  ,40524,0
+    Night at the Museum: Secret of the Tom   ,2014,PG,98," Adventure, Comedy, Family            ",6.2,0,    Shawn Levy  ,      Ben Stiller,   Ro in Williams,   Owen Wilson,   Dick Van Dyke  ,108207,113750000
+    Alice Through the Looking Glass  ,2016,PG,113," Adventure, Family, Fantasy            ",6.2,0,    James Bo in  ,      Mia Wasikowska,   Johnny Depp,   Helena Bonham Carter,   Anne Hathaway  ,94959,77040000
+    Deliver Us from Evil  ,2014,R,118," Action, Biography, Crime            ",6.2,0,    Scott Derrickson  ,      Eric Bana,   Edgar Ramrez,   Olivia Munn,   Chris Coy  ,71859,30580000
+    Mama  ,2013,PG-13,100," Fantasy, Horror, Thriller            ",6.2,0,    Andy Muschietti  ,      Jessica Chastain,   Nikolaj Coster-Waldau,   Megan Charpentier,   Isa elle Nlisse  ,169369,71630000
+    Winter' s Tale  ,2014,PG-13,118," Drama, Fantasy, Mystery            ",6.2,0,    Akiva Goldsman  ,      Colin Farrell,   Jessica Brown Findlay,   Russell Crowe,   Jennifer Connelly  ,52429,20000
+    Red Lights  ,2012,R,114," Drama, Fantasy, Mystery            ",6.2,0,    Rodrigo Corts  ,      Sigourney Weaver,   Ro ert De Niro,   Cillian Murphy,   Eliza eth Olsen  ,58867,50000
+"    Alexander and the Terri le, Horri le, No Good, Very Bad Day  ",2014,PG,81," Comedy, Drama, Family            ",6.2,0,    Miguel Arteta  ,      Steve Carell,   Jennifer Garner,   Ed Oxen ould,   Dylan Minnette  ,41123,66950000
+    Jack the Giant Slayer  ,2013,PG-13,114," Adventure, Comedy, Family            ",6.2,0,    Bryan Singer  ,      Nicholas Hoult,   Stanley Tucci,   Ewan McGregor,   Bill Nighy  ,132350,65190000
+    Dark Shadows  ,2012,PG-13,113," Comedy, Fantasy, Horror            ",6.2,0,    Tim Burton  ,      Johnny Depp,   Michelle Pfeiffer,   Eva Green,   Helena Bonham Carter  ,248849,79730000
+    The Legend of Tarzan  ,2016,PG-13,110," Action, Adventure, Drama            ",6.2,0,    David Yates  ,      Alexander Skarsgrd,   Rory J. Saper,   Christian Stevens,   Christoph Waltz  ,164266,126640000
+    Mr. Magorium' s Wonder Emporium  ,2007,G,93," Comedy, Family, Fantasy            ",6.2,0,    Zach Helm  ,      Natalie Portman,   Dustin Hoffman,   Jason Bateman,   Ted Ludzik  ,42928,32060000
+    TMNT  ,2007,PG,103," Animation, Action, Adventure            ",6.2,0,    Kevin Munroe  ,      Patrick Stewart,   Mako,   Chris Evans,   Sarah Michelle Gellar  ,61530,54150000
+    Beowulf  ,2007,PG-13,115," Animation, Action, Adventure            ",6.2,0,    Ro ert Zemeckis  ,      Ray Winstone,   Crispin Glover,   Angelina Jolie,   Ro in Wright  ,162058,82160000
+    The Invisi le  ,2007,PG-13,102," Crime, Drama, Fantasy            ",6.2,0,    David S. Goyer  ,      Justin Chatwin,   Margarita Levieva,   Marcia Gay Harden,   Chris Marquette  ,34761,20570000
+    Zathura: A Space Adventure  ,2005,PG,101," Action, Adventure, Comedy            ",6.2,67,    Jon Favreau  ,      Josh Hutcherson,   Jonah Bo o,   Dax Shepard,   Tim Ro  ins  ,94440,29260000
+    13 Going on 30  ,2004,PG-13,98," Comedy, Fantasy, Romance            ",6.2,0,    Gary Winick  ,      Jennifer Garner,   Mark Ruffalo,   Judy Greer,   Andy Serkis  ,168894,57230000
+    Freaky Friday  ,2003,PG,97," Comedy, Family, Fantasy            ",6.2,70,    Mark Waters  ,      Jamie Lee Curtis,   Lindsay Lohan,   Mark Harmon,   Harold Gould  ,126247,110230000
+    Reign of Fire  ,2002,PG-13,101," Action, Adventure, Fantasy            ",6.2,0,    Ro  Bowman  ,      Matthew McConaughey,   Christian Bale,   Iza ella Scorupco,   Gerard Butler  ,126966,43060000
+    How the Grinch Stole Christmas  ,2000,PG,104," Comedy, Family, Fantasy            ",6.2,0,    Ron Howard  ,      Jim Carrey,   Taylor Momsen,   Kelley,   Jeffrey Tam or  ,216843,260040000
+    Personal Shopper  ,2016,R,105," Drama, Fantasy, Horror            ",6.1,77,    Olivier Assayas  ,      Kristen Stewart,   Lars Eidinger,   Sigrid Bouaziz,   Anders Danielsen Lie  ,36723,1310000
+    The Huntsman: Winter' s War  ,2016,PG-13,114," Action, Adventure, Drama            ",6.1,0,    Cedric Nicolas-Troyan  ,      Chris Hemsworth,   Jessica Chastain,   Charlize Theron,   Emily Blunt  ,98789,48390000
+    The Zero Theorem  ,2013,R,107," Comedy, Drama, Fantasy            ",6.1,0,    Terry Gilliam  ,      Christoph Waltz,   Lucas Hedges,   Mlanie Thierry,   David Thewlis  ,45607,220000
+    The House with a Clock in Its Walls  ,2018,PG,105," Comedy, Family, Fantasy            ",6.1,0,    Eli Roth  ,      Jack Black,   Cate Blanchett,   Owen Vaccaro,   Kyle MacLachlan  ,46219,68550000
+    Snow White and the Huntsman  ,2012,PG-13,127," Action, Adventure, Drama            ",6.1,0,    Rupert Sanders  ,      Kristen Stewart,   Chris Hemsworth,   Charlize Theron,   Sam Claflin  ,274713,155330000
+    Sausage Party  ,2016,R,89," Animation, Adventure, Comedy            ",6.1,66,    Greg Tiernan   ,       Seth Rogen,   Kristen Wiig,   Jonah Hill,   Alistair A ell    ,177193,97690000
+    Mortal Engines  ,2018,PG-13,128," Action, Adventure, Fantasy            ",6.1,0,    Christian Rivers  ,      Hera Hilmar,   Ro ert Sheehan,   Hugo Weaving,   Jihae  ,111510,15950000
+    Beautiful Creatures  ,2013,PG-13,124," Drama, Fantasy, Romance            ",6.1,0,    Richard LaGravenese  ,      Alice Englert,   Viola Davis,   Emma Thompson,   Alden Ehrenreich  ,84278,19450000
+    Hansel & Gretel: Witch Hunters  ,2013,R,88," Action, Fantasy, Horror            ",6.1,0,    Tommy Wirkola  ,      Jeremy Renner,   Gemma Arterton,   Peter Stormare,   Famke Janssen  ,195520,55700000
+    Nanny McPhee Returns  ,2010,PG,109," Comedy, Family, Fantasy            ",6.1,0,    Susanna White  ,      Emma Thompson,   Maggie Gyllenhaal,   Ralph Fiennes,   Oscar Steer  ,28843,29200000
+    Wild Child  ,2008,PG-13,124," Adventure, Comedy, Drama            ",6.1,0,    Nick Moore  ,      Emma Ro erts,   Aidan Quinn,   Natasha Richardson,   Lexi Ainsworth  ,50149,20000
+    Solomon Kane  ,2009,R,104," Action, Adventure, Fantasy            ",6.1,0,    M.J. Bassett  ,      James Purefoy,   Max von Sydow,   Rachel Hurd-Wood,   Pete Postlethwaite  ,69586,0
+    The Sorcerer' s Apprentice  ,2010,PG,109," Action, Adventure, Family            ",6.1,0,    Jon Turteltau   ,      Nicolas Cage,   Jay Baruchel,   Alfred Molina,   Teresa Palmer  ,153876,63150000
+    Valhalla Rising  ,2009,Not Rated,93," Action, Adventure, Drama            ",6.1,61,    Nicolas Winding Refn  ,      Mads Mikkelsen,   Maarten Stevenson,   Alexander Morton,   Stewart Porter  ,56276,20000
+    Inkheart  ,2008,PG,106," Adventure, Family, Fantasy            ",6.1,0,    Iain Softley  ,      Brendan Fraser,   Andy Serkis,   Eliza Bennett,   Sienna Guillory  ,73929,17300000
+    The Tale of Despereaux  ,2008,G,93," Animation, Adventure, Comedy            ",6.1,0,    Sam Fell   ,       Matthew Broderick,   Emma Watson,   Dustin Hoffman,   Tracey Ullman    ,35963,50880000
+    Shrek the Third  ,2007,PG,93," Animation, Adventure, Comedy            ",6.1,0,    Chris Miller   ,       Mike Myers,   Cameron Diaz,   Eddie Murphy,   Antonio Banderas    ,282394,320710000
+    Open Season  ,2006,PG,86," Animation, Adventure, Comedy            ",6.1,0,    Roger Allers   ,    Ashton Kutcher,   Martin Lawrence,   De ra Messing,     ,87224,85110000
+    The Golden Compass  ,2007,PG-13,113," Adventure, Family, Fantasy            ",6.1,0,    Chris Weitz  ,      Nicole Kidman,   Daniel Craig,   Dakota Blue Richards,   Ben Walker  ,179978,70110000
+    Van Helsing  ,2004,PG-13,131," Action, Adventure, Fantasy            ",6.1,0,    Stephen Sommers  ,      Hugh Jackman,   Kate Beckinsale,   Richard Rox urgh,   Shuler Hensley  ,245922,120180000
+    Birth  ,2004,R,100," Drama, Fantasy, Mystery            ",6.1,0,    Jonathan Glazer  ,      Nicole Kidman,   Cameron Bright,   Lauren Bacall,   Danny Huston  ,34876,5010000
+    Dragonfly  ,2002,PG-13,104," Drama, Fantasy, Mystery            ",6.1,0,    Tom Shadyac  ,      Kevin Costner,   Susanna Thompson,   Joe Morton,   Ron Rifkin  ,36824,30060000
+    The Kid  ,2000,PG,104," Comedy, Family, Fantasy            ",6.1,0,    Jon Turteltau   ,      Bruce Willis,   Spencer Breslin,   Emily Mortimer,   Lily Tomlin  ,40364,69690000
+    Godzilla: King of the Monsters  ,2019,PG-13,132," Action, Adventure, Fantasy            ",6.0,0,    Michael Dougherty  ,      Kyle Chandler,   Vera Farmiga,   Millie Bo  y Brown,   Ken Watana e  ,140482,110500000
+    The SpongeBo  Movie: Sponge Out of Water  ,2015,PG,92," Animation, Action, Adventure            ",6.0,62,    Paul Ti  itt   ,       Tom Kenny,   Antonio Banderas,   Bill Fager akke,   Clancy Brown    ,49904,162990000
+    The Last Witch Hunter  ,2015,PG-13,106," Action, Adventure, Fantasy            ",6.0,0,    Breck Eisner  ,      Vin Diesel,   Rose Leslie,   Elijah Wood,   lafur Darri lafsson  ,95899,27370000
+    Exodus: Gods and Kings  ,2014,PG-13,150," Action, Adventure, Drama            ",6.0,0,    Ridley Scott  ,      Christian Bale,   Joel Edgerton,   Ben Kingsley,   Sigourney Weaver  ,160188,65010000
+    Mr. Popper' s Penguins  ,2011,PG,94," Comedy, Family, Fantasy            ",6.0,0,    Mark Waters  ,      Jim Carrey,   Carla Gugino,   Angela Lans ury,   Ophelia Lovi ond  ,88991,68220000
+    Suicide Squad  ,2016,PG-13,123," Action, Adventure, Fantasy            ",6.0,0,    David Ayer  ,      Will Smith,   Jared Leto,   Margot Ro  ie,   Viola Davis  ,606151,325100000
+    Hercules  ,2014,PG-13,98," Action, Adventure, Fantasy            ",6.0,0,    Brett Ratner  ,      Dwayne Johnson,   John Hurt,   Ian McShane,   Joseph Fiennes  ,146771,72690000
+    Immortals  ,2011,R,110," Action, Drama, Fantasy            ",6.0,0,    Tarsem Singh  ,      Henry Cavill,   Mickey Rourke,   John Hurt,   Stephen Dorff  ,161352,83500000
+    Night at the Museum: Battle of the Smithsonian  ,2009,PG,105," Adventure, Comedy, Family            ",6.0,0,    Shawn Levy  ,      Ben Stiller,   Owen Wilson,   Amy Adams,   Hank Azaria  ,178787,177240000
+    Sucker Punch  ,2011,PG-13,110," Action, Adventure, Fantasy            ",6.0,0,    Zack Snyder  ,      Emily Browning,   Vanessa Hudgens,   A  ie Cornish,   Jena Malone  ,230922,36390000
+    Bedtime Stories  ,2008,PG,99," Adventure, Comedy, Family            ",6.0,0,    Adam Shankman  ,      Adam Sandler,   Keri Russell,   Courteney Cox,   Guy Pearce  ,88714,110100000
+    Nim' s Island  ,2008,PG,96," Adventure, Family, Fantasy            ",6.0,0,    Jennifer Flackett   ,       Jodie Foster,   Gerard Butler,   A igail Breslin,   Michael Carman    ,33553,48010000
+    Arthur and the Invisi les  ,2006,PG,94," Animation, Adventure, Comedy            ",6.0,0,    Luc Besson  ,      Freddie Highmore,   Mia Farrow,   Madonna,   Ron Crawford  ,33481,15130000
+    Shark Tale  ,2004,PG,90," Animation, Adventure, Comedy            ",6.0,0,    Bi o Bergeron   ,    Will Smith,   Ro ert De Niro,   Rene Zellweger,     ,168035,160860000
+    Bedazzled  ,2000,PG-13,93," Comedy, Fantasy            ",6.0,0,    Harold Ramis  ,         Brendan Fraser,     Eliza eth Hurley,  Frances O    Connor,     Miriam Shor    ,97372,37880000
+    Isn' t It Romantic  ,2019,PG-13,89," Comedy, Fantasy, Musical            ",5.9,0,    Todd Strauss-Schulson  ,      Re el Wilson,   Liam Hemsworth,   Adam Devine,   Priyanka Chopra  ,63726,48790000
+    Into the Woods  ,2014,PG,125," Adventure, Comedy, Drama            ",5.9,69,    Ro  Marshall  ,      Anna Kendrick,   Meryl Streep,   Chris Pine,   Emily Blunt  ,133355,128000000
+    The Great Wall  ,2016,PG-13,103," Action, Adventure, Fantasy            ",5.9,0,    Yimou Zhang  ,      Matt Damon,   Tian Jing,   Willem Dafoe,   Andy Lau  ,126089,45540000
+    A raham Lincoln: Vampire Hunter  ,2012,R,105," Action, Fantasy, Horror            ",5.9,0,    Timur Bekmam etov  ,      Benjamin Walker,   Rufus Sewell,   Dominic Cooper,   Anthony Mackie  ,149272,37520000
+    The Mortal Instruments: City of Bones  ,2013,PG-13,130," Action, Adventure, Fantasy            ",5.9,0,    Harald Zwart  ,      Lily Collins,   Jamie Camp ell Bower,   Ro ert Sheehan,   Jemima West  ,128258,31170000
+    Star Wars: The Clone Wars  ,2008,PG,98," Animation, Action, Adventure            ",5.9,0,    Dave Filoni  ,      Matt Lanter,   Nika Futterman,   Tom Kane,   Ashley Eckstein  ,59106,35160000
+    The Ruins  ,2008,R,90," Adventure, Fantasy, Horror            ",5.9,0,    Carter Smith  ,      Shawn Ashmore,   Jena Malone,   Jonathan Tucker,   Laura Ramsey  ,70762,17430000
+    Percy Jackson & the Olympians: The Lightning Thief  ,2010,PG,118," Adventure, Family, Fantasy            ",5.9,0,    Chris Colum us  ,      Logan Lerman,   Kevin McKidd,   Steve Coogan,   Brandon T. Jackson  ,178038,88760000
+    Premonition  ,2007,PG-13,96," Drama, Fantasy, Mystery            ",5.9,0,    Mennan Yapo  ,      Sandra Bullock,   Julian McMahon,   Am er Valletta,   Shyann McClure  ,72991,47850000
+    Gnomeo & Juliet  ,2011,G,84," Animation, Adventure, Comedy            ",5.9,0,    Kelly As ury  ,      James McAvoy,   Emily Blunt,   Maggie Smith,   Ashley Jensen  ,52571,99970000
+    Blade: Trinity  ,2004,R,113," Action, Adventure, Fantasy            ",5.9,0,    David S. Goyer  ,      Wesley Snipes,   Kris Kristofferson,   Parker Posey,   Ryan Reynolds  ,166772,52410000
+    The Brothers Grimm  ,2005,PG-13,118," Action, Adventure, Comedy            ",5.9,0,    Terry Gilliam  ,      Matt Damon,   Heath Ledger,   Monica Bellucci,   Petr Ratimec  ,116495,37920000
+    Shallow Hal  ,2001,PG-13,114," Comedy, Drama, Fantasy            ",5.9,0,    Bo  y Farrelly   ,       Jack Black,   Gwyneth Paltrow,   Jason Alexander,   Joe Viterelli    ,127868,70840000
+    Underworld: Blood Wars  ,2016,R,91," Action, Adventure, Fantasy            ",5.8,0,    Anna Foerster  ,      Kate Beckinsale,   Theo James,   To ias Menzies,   Lara Pulver  ,70349,30350000
+    The Co  ler  ,2014,PG-13,99," Comedy, Drama, Fantasy            ",5.8,0,    Tom McCarthy  ,      Adam Sandler,   Melonie Diaz,   Steve Buscemi,   Method Man  ,52637,0
+    Percy Jackson: Sea of Monsters  ,2013,PG,106," Adventure, Family, Fantasy            ",5.8,0,    Thor Freudenthal  ,      Logan Lerman,   Alexandra Daddario,   Brandon T. Jackson,   Nathan Fillion  ,110970,68560000
+    Final Destination 5  ,2011,R,92," Action, Fantasy, Horror            ",5.8,0,    Steven Quale  ,      Nicholas D    Agosto,     Emma Bell,     Arlen Escarpeta,     Miles Fisher    ,107392,42590000
+    The Addams Family  ,2019,PG,86," Animation, Comedy, Family            ",5.8,0,    Greg Tiernan   ,       Oscar Isaac,   Charlize Theron,   Chlo Grace Moretz,   Finn Wolfhard    ,29300,100040000
+    Ru  er  ,2010,R,82," Comedy, Fantasy, Horror            ",5.8,0,    Quentin Dupieux  ,      Stephen Spinella,   Roxane Mesquida,   Wings Hauser,   Jack Plotnick  ,34494,100000
+    Journey 2: The Mysterious Island  ,2012,PG,94," Action, Adventure, Family            ",5.8,0,    Brad Peyton  ,      Josh Hutcherson,   Dwayne Johnson,   Michael Caine,   Luis Guzmn  ,94326,103860000
+    Pride and Prejudice and Zom ies  ,2016,PG-13,108," Action, Comedy, Fantasy            ",5.8,0,    Burr Steers  ,      Lily James,   Sam Riley,   Jack Huston,   Bella Heathcote  ,52046,10910000
+    Ghosts of Girlfriends Past  ,2009,PG-13,100," Comedy, Fantasy, Romance            ",5.8,0,    Mark Waters  ,      Matthew McConaughey,   Jennifer Garner,   Emma Stone,   Michael Douglas  ,85215,55250000
+    Clash of the Titans  ,2010,PG-13,106," Action, Adventure, Fantasy            ",5.8,0,    Louis Leterrier  ,      Sam Worthington,   Liam Neeson,   Ralph Fiennes,   Jason Flemyng  ,271383,163210000
+    The Wolfman  ,2010,R,103," Drama, Fantasy, Horror            ",5.8,0,    Joe Johnston  ,      Benicio Del Toro,   Anthony Hopkins,   Emily Blunt,   Simon Merrells  ,102928,61980000
+    Cirque du Freak: The Vampire' s Assistant  ,2009,PG-13,109," Action, Adventure, Fantasy            ",5.8,0,    Paul Weitz  ,      Chris Massoglia,   John C. Reilly,   Salma Hayek,   Josh Hutcherson  ,43450,14050000
+    The Ant Bully  ,2006,PG,88," Animation, Adventure, Comedy            ",5.8,0,    John A. Davis  ,      Paul Giamatti,   Nicolas Cage,   Julia Ro erts,   Meryl Streep  ,37182,28140000
+    Journey to the Center of the Earth  ,2008,PG,93," Action, Adventure, Family            ",5.8,0,    Eric Brevig  ,      Brendan Fraser,   Josh Hutcherson,   Anita Briem,   Seth Meyers  ,114218,101700000
+    The League of Extraordinary Gentlemen  ,2003,PG-13,110," Action, Adventure, Fantasy            ",5.8,0,    Stephen Norrington  ,      Sean Connery,   Stuart Townsend,   Peta Wilson,   Jason Flemyng  ,168776,66470000
+    Lara Croft: Tom  Raider  ,2001,PG-13,100," Action, Adventure, Fantasy            ",5.8,0,    Simon West  ,      Angelina Jolie,   Jon Voight,   Iain Glen,   Noah Taylor  ,198658,131140000
+    Ice Age: Collision Course  ,2016,PG,94," Animation, Adventure, Comedy            ",5.7,0,    Mike Thurmeier   ,       Ray Romano,   Denis Leary,   John Leguizamo,   Chris Wedge    ,57770,64060000
+    Pan  ,2015,PG,111," Adventure, Comedy, Family            ",5.7,0,    Joe Wright  ,      Levi Miller,   Hugh Jackman,   Garrett Hedlund,   Rooney Mara  ,60821,35090000
+    Wrath of the Titans  ,2012,PG-13,99," Action, Adventure, Fantasy            ",5.7,0,    Jonathan Lie esman  ,      Sam Worthington,   Liam Neeson,   Rosamund Pike,   Ralph Fiennes  ,182072,83670000
+    The Three Musketeers  ,2011,PG-13,110," Action, Adventure, Fantasy            ",5.7,0,    Paul W.S. Anderson  ,      Logan Lerman,   Matthew Macfadyen,   Ray Stevenson,   Milla Jovovich  ,103945,20380000
+    Downsizing  ,2017,R,135," Drama, Fantasy, Sci-Fi            ",5.7,63,    Alexander Payne  ,      Matt Damon,   Christoph Waltz,   Hong Chau,   Kristen Wiig  ,99914,24450000
+    Race to Witch Mountain  ,2009,PG,98," Action, Adventure, Family            ",5.7,0,    Andy Fickman  ,      Dwayne Johnson,   Carla Gugino,   AnnaSophia Ro  ,   Alexander Ludwig  ,56165,67170000
+    Priest  ,2011,PG-13,87," Action, Adventure, Fantasy            ",5.7,0,    Scott Stewart  ,      Paul Bettany,   Cam Gigandet,   Maggie Q,   Karl Ur an  ,115632,29140000
+    Chicken Little  ,2005,G,81," Animation, Adventure, Comedy            ",5.7,0,    Mark Dindal  ,      Zach Braff,   Joan Cusack,   Garry Marshall,   Don Knotts  ,86483,135390000
+    Fantastic Four  ,2005,PG-13,106," Action, Adventure, Fantasy            ",5.7,0,    Tim Story  ,      Ioan Gruffudd,   Michael Chiklis,   Chris Evans,   Jessica Al a  ,312739,154700000
+    Dolittle  ,2020,PG,101," Adventure, Comedy, Family            ",5.6,0,    Stephen Gaghan  ,      Ro ert Downey Jr.,   Antonio Banderas,   Michael Sheen,   Jim Broad ent  ,49816,77050000
+    The Nutcracker and the Four Realms  ,2018,PG,99," Adventure, Family, Fantasy            ",5.6,0,    Lasse Hallstrm   ,       Mackenzie Foy,   Keira Knightley,   Morgan Freeman,   Helen Mirren    ,29742,54860000
+    Mulan  ,2020,PG-13,115," Action, Adventure, Drama            ",5.6,66,    Niki Caro  ,      Yifei Liu,   Donnie Yen,   Li Gong,   Jet Li  ,114310,0
+    Mirror Mirror  ,2012,PG,106," Adventure, Comedy, Drama            ",5.6,0,    Tarsem Singh  ,      Lily Collins,   Julia Ro erts,   Armie Hammer,   Nathan Lane  ,84518,64940000
+    The Dark Tower  ,2017,PG-13,95," Action, Adventure, Fantasy            ",5.6,0,    Nikolaj Arcel  ,      Idris El a,   Matthew McConaughey,   Tom Taylor,   Dennis Hays ert  ,129149,50700000
+    Don' t Be Afraid of the Dark  ,2010,R,99," Adventure, Fantasy, Horror            ",5.6,0,    Troy Nixey  ,      Katie Holmes,   Guy Pearce,   Bailee Madison,   Bruce Gleeson  ,47091,24040000
+    Beastly  ,2011,PG-13,86," Drama, Fantasy, Romance            ",5.6,0,    Daniel Barnz  ,      Alex Pettyfer,   Vanessa Hudgens,   Mary-Kate Olsen,   Justin Bradley  ,75667,27870000
+    The Midnight Sky  ,2020,PG-13,118," Drama, Fantasy, Sci-Fi            ",5.6,0,    George Clooney  ,      George Clooney,   Felicity Jones,   David Oyelowo,   Caoilinn Springall  ,68377,0
+    Diary of the Dead  ,2007,R,95," Fantasy, Horror, Sci-Fi            ",5.6,66,    George A. Romero  ,      Michelle Morgan,   Joshua Close,   Shawn Ro erts,   Todd Schroeder  ,45949,960000
+    R.I.P.D.  ,2013,PG-13,96," Action, Adventure, Comedy            ",5.6,0,    Ro ert Schwentke  ,      Ryan Reynolds,   Jeff Bridges,   Mary-Louise Parker,   Kevin Bacon  ,118658,33620000
+    Fred Claus  ,2007,PG,116," Comedy, Family, Fantasy            ",5.6,0,    David Do kin  ,      Vince Vaughn,   Paul Giamatti,   Eliza eth Banks,   John Michael Higgins  ,40854,72010000
+    Fantastic 4: Rise of the Silver Surfer  ,2007,PG,92," Action, Adventure, Fantasy            ",5.6,0,    Tim Story  ,      Ioan Gruffudd,   Jessica Al a,   Chris Evans,   Michael Chiklis  ,251727,131920000
+    Lara Croft Tom  Raider: The Cradle of Life  ,2003,PG-13,117," Action, Adventure, Fantasy            ",5.6,0,    Jan de Bont  ,      Angelina Jolie,   Gerard Butler,   Chris Barrie,   Ciarn Hinds  ,130633,65660000
+    The Santa Clause 2  ,2002,G,104," Comedy, Family, Fantasy            ",5.6,0,    Michael Lem eck  ,      Tim Allen,   Spencer Breslin,   Eliza eth Mitchell,   Eric Lloyd  ,51868,139240000
+    Thir13en Ghosts  ,2001,R,91," Fantasy, Horror            ",5.6,0,    Steve Beck  ,      Tony Shalhou ,   Shannon Eliza eth,   Em eth Davidtz,   Matthew Lillard  ,80208,41870000
+    The Dead Don' t Die  ,2019,R,104," Comedy, Fantasy, Horror            ",5.5,0,    Jim Jarmusch  ,      Bill Murray,   Adam Driver,   Tom Waits,   Chlo Sevigny  ,54934,6560000
+    Pixels  ,2015,PG-13,105," Action, Comedy, Fantasy            ",5.5,0,    Chris Colum us  ,      Adam Sandler,   Kevin James,   Michelle Monaghan,   Peter Dinklage  ,132853,78750000
+    Pompeii  ,2014,PG-13,105," Action, Adventure, Drama            ",5.5,0,    Paul W.S. Anderson  ,      Kit Harington,   Emily Browning,   Kiefer Sutherland,   Adewale Akinnuoye-Ag aje  ,106844,23220000
+    Vampire Academy  ,2014,PG-13,104," Action, Comedy, Drama            ",5.5,0,    Mark Waters  ,      Zoey Deutch,   Lucy Fry,   Danila Kozlovskiy,   Ga riel Byrne  ,52069,7790000
+    The Twilight Saga: Breaking Dawn - Part 2  ,2012,PG-13,115," Adventure, Drama, Fantasy            ",5.5,0,    Bill Condon  ,      Kristen Stewart,   Ro ert Pattinson,   Taylor Lautner,   Peter Facinelli  ,232965,292300000
+    Red Riding Hood  ,2011,PG-13,100," Fantasy, Horror, Mystery            ",5.5,0,    Catherine Hardwicke  ,      Amanda Seyfried,   Lukas Haas,   Gary Oldman,   Billy Burke  ,108387,37660000
+    Your Highness  ,2011,R,102," Adventure, Comedy, Fantasy            ",5.5,0,    David Gordon Green  ,      Danny McBride,   Natalie Portman,   James Franco,   Rasmus Hardiker  ,96842,21600000
+    Seventh Son  ,2014,PG-13,102," Action, Adventure, Fantasy            ",5.5,0,    Sergei Bodrov  ,      Ben Barnes,   Julianne Moore,   Jeff Bridges,   Alicia Vikander  ,72245,17220000
+    Winchester  ,2018,PG-13,99," Biography, Drama, Fantasy            ",5.5,0,    Michael Spierig   ,          Helen Mirren,     Sarah Snook,  Finn Scicluna-O    Prey,     Jason Clarke       ,30865,25090000
+    The Omen  ,2006,R,110," Action, Adventure, Fantasy            ",5.5,0,    John Moore  ,      Liev Schrei er,   Julia Stiles,   Seamus Davey-Fitzpatrick,   David Thewlis  ,56445,54610000
+    Lady in the Water  ,2006,PG-13,110," Drama, Fantasy, Mystery            ",5.5,0,    M. Night Shyamalan  ,      Paul Giamatti,   Bryce Dallas Howard,   Jeffrey Wright,   Bo  Bala an  ,95096,42290000
+"    Yours, Mine & Ours  ",2005,PG,88," Comedy, Family, Fantasy            ",5.5,0,    Raja Gosnell  ,         Dennis Quaid,     Rene Russo,  Jerry O    Connell,     Sean Faris    ,26804,53410000
+    The Hot Chick  ,2002,PG-13,104," Comedy, Fantasy            ",5.5,0,    Tom Brady  ,      Ro  Schneider,   Rachel McAdams,   Anna Faris,   Matthew Lawrence  ,90387,35080000
+    The Scorpion King  ,2002,PG-13,92," Action, Adventure, Fantasy            ",5.5,0,    Chuck Russell  ,      Dwayne Johnson,   Steven Brand,   Michael Clarke Duncan,   Kelly Hu  ,131078,91050000
+    Bulletproof Monk  ,2003,PG-13,104," Action, Comedy, Fantasy            ",5.5,0,    Paul Hunter  ,      Yun-Fat Chow,   Seann William Scott,   Jaime King,   Karel Roden  ,47764,23020000
+    Stuart Little 2  ,2002,PG,77," Animation, Adventure, Comedy            ",5.5,66,    Ro  Minkoff  ,      Michael J. Fox,   Geena Davis,   Hugh Laurie,   Jonathan Lipnicki  ,50694,64960000
+    Gretel & Hansel  ,2020,PG-13,87," Fantasy, Horror, Mystery            ",5.4,64,    Oz Perkins  ,      Sophia Lillis,   Samuel Leakey,   Alice Krige,   Jessica De Gouw  ,25018,0
+    Wonder Woman 1984  ,2020,PG-13,151," Action, Adventure, Fantasy            ",5.4,0,    Patty Jenkins  ,      Gal Gadot,   Chris Pine,   Kristen Wiig,   Pedro Pascal  ,169899,0
+    Gods of Egypt  ,2016,PG-13,127," Action, Adventure, Fantasy            ",5.4,0,    Alex Proyas  ,      Brenton Thwaites,   Nikolaj Coster-Waldau,   Gerard Butler,   Chadwick Boseman  ,107218,31150000
+    The Mummy  ,2017,PG-13,110," Action, Adventure, Fantasy            ",5.4,0,    Alex Kurtzman  ,      Tom Cruise,   Sofia Boutella,   Anna elle Wallis,   Russell Crowe  ,174335,80100000
+    Drive Angry  ,2011,R,104," Action, Fantasy, Thriller            ",5.4,0,    Patrick Lussier  ,      Nicolas Cage,   Am er Heard,   William Fichtner,   Billy Burke  ,94711,10710000
+    Hop  ,2011,PG,95," Animation, Adventure, Comedy            ",5.4,0,    Tim Hill  ,      Russell Brand,   James Marsden,   Eliza eth Perkins,   Kaley Cuoco  ,31467,108090000
+    Outside the Wire  ,2021,R,114," Action, Adventure, Fantasy            ",5.4,0,    Mikael Hfstrm  ,      Anthony Mackie,   Damson Idris,   Enzo Cilenti,   Emily Beecham  ,31546,0
+    Teeth  ,2007,R,94," Comedy, Fantasy, Horror            ",5.4,0,    Mitchell Lichtenstein  ,      Jess Weixler,   John Hensley,   Josh Pais,   Hale Appleman  ,41698,350000
+    Season of the Witch  ,2011,PG-13,95," Action, Adventure, Fantasy            ",5.4,0,    Dominic Sena  ,      Nicolas Cage,   Ron Perlman,   Claire Foy,   Stephen Camp ell Moore  ,90682,24830000
+    The Smurfs  ,2011,PG,103," Animation, Adventure, Comedy            ",5.4,0,    Raja Gosnell  ,      Hank Azaria,   Katy Perry,   Jonathan Winters,   Neil Patrick Harris  ,84361,142610000
+    Piranha 3D  ,2010,R,88," Comedy, Fantasy, Horror            ",5.4,0,    Alexandre Aja  ,         Elisa eth Shue,  Jerry O    Connell,     Richard Dreyfuss,     Ving Rhames    ,86161,25000000
+    Evan Almighty  ,2007,PG,96," Comedy, Family, Fantasy            ",5.4,0,    Tom Shadyac  ,      Steve Carell,   Morgan Freeman,   Lauren Graham,   Johnny Simmons  ,139868,100460000
+    Just My Luck  ,2006,PG-13,103," Comedy, Fantasy, Romance            ",5.4,0,    Donald Petrie  ,      Lindsay Lohan,   Chris Pine,   Samaire Armstrong,   Bree Turner  ,54009,17320000
+    Monster Hunter  ,2020,PG-13,103," Action, Adventure, Fantasy            ",5.3,0,    Paul W.S. Anderson  ,      Milla Jovovich,   Tony Jaa,   Ron Perlman,   T.I.  ,25361,0
+    The Smurfs 2  ,2013,PG,105," Animation, Adventure, Comedy            ",5.3,0,    Raja Gosnell  ,      Neil Patrick Harris,   Jayma Mays,   Katy Perry,   Hank Azaria  ,38370,71020000
+    Legion  ,2010,R,100," Action, Fantasy, Horror            ",5.3,0,    Scott Stewart  ,      Paul Bettany,   Dennis Quaid,   Charles S. Dutton,   Lucas Black  ,100095,40170000
+    The Witches  ,2020,PG,106," Adventure, Comedy, Family            ",5.3,0,    Ro ert Zemeckis  ,      Anne Hathaway,   Octavia Spencer,   Stanley Tucci,   Chris Rock  ,25147,0
+    The Covenant  ,2006,PG-13,97," Action, Adventure, Fantasy            ",5.3,0,    Renny Harlin  ,      Steven Strait,   Se astian Stan,   To y Hemingway,   Taylor Kitsch  ,47032,23290000
+    Aquamarine  ,2006,PG,110," Comedy, Family, Fantasy            ",5.3,0,    Eliza eth Allen Rosen aum  ,      Emma Ro erts,   JoJo,   Sara Paxton,   Jake McDorman  ,38221,18600000
+    The Medallion  ,2003,PG-13,88," Action, Comedy, Fantasy            ",5.3,0,    Gordon Chan  ,      Jackie Chan,   Lee Evans,   Claire Forlani,   Julian Sands  ,39350,22110000
+    Ghost Rider  ,2007,PG-13,110," Action, Fantasy, Thriller            ",5.3,0,    Mark Steven Johnson  ,      Nicolas Cage,   Eva Mendes,   Sam Elliott,   Matt Long  ,224569,115800000
+    Queen of the Damned  ,2002,R,101," Drama, Fantasy, Horror            ",5.3,0,    Michael Rymer  ,      Aaliyah,   Stuart Townsend,   Marguerite Moreau,   Vincent Perez  ,52533,30340000
+    Little Nicky  ,2000,PG-13,90," Comedy, Fantasy            ",5.3,0,    Steven Brill  ,      Adam Sandler,   Patricia Arquette,   Harvey Keitel,   Rhys Ifans  ,99512,39460000
+    Hell oy  ,2019,R,120," Action, Adventure, Fantasy            ",5.2,0,    Neil Marshall  ,      David Har our,   Milla Jovovich,   Ian McShane,   Sasha Lane  ,79331,21900000
+    Zookeeper  ,2011,PG,102," Comedy, Family, Fantasy            ",5.2,0,    Frank Coraci  ,      Kevin James,   Rosario Dawson,   Leslie Bi  ,   Ken Jeong  ,57815,80360000
+    The Final Destination  ,2009,R,82," Action, Fantasy, Horror            ",5.2,0,    David R. Ellis  ,      Nick Zano,   Krista Allen,   Andrew Fiscella,   Bo  y Campo  ,97670,66480000
+    Twilight  ,2008,PG-13,122," Drama, Fantasy, Romance            ",5.2,0,    Catherine Hardwicke  ,      Kristen Stewart,   Ro ert Pattinson,   Billy Burke,   Sarah Clarke  ,429368,191470000
+    Alvin and the Chipmunks  ,2007,PG,92," Animation, Adventure, Comedy            ",5.2,0,    Tim Hill  ,      Jason Lee,   Ross Bagdasarian Jr.,   Janice Karman,   David Cross  ,77475,217330000
+    The Mummy: Tom  of the Dragon Emperor  ,2008,PG-13,112," Action, Adventure, Fantasy            ",5.2,0,    Ro  Cohen  ,      Brendan Fraser,   Jet Li,   Maria Bello,   Michelle Yeoh  ,151636,102490000
+    Conan the Bar arian  ,2011,R,113," Action, Adventure, Fantasy            ",5.2,0,    Marcus Nispel  ,      Jason Momoa,   Ron Perlman,   Rose McGowan,   Stephen Lang  ,95618,21300000
+    Asterix at the Olympic Games  ,2008,Not Rated,116," Adventure, Comedy, Family            ",5.2,0,    Frdric Forestier   ,       Grard Depardieu,   Clovis Cornillac,   Benot Poelvoorde,   Alain Delon    ,27954,1000000
+    Cosmopolis  ,2012,R,109," Crime, Drama, Fantasy            ",5.1,0,    David Cronen erg  ,      Ro ert Pattinson,   Juliette Binoche,   Sarah Gadon,   Mathieu Amalric  ,44907,740000
+"    I, Frankenstein  ",2014,PG-13,92," Action, Fantasy, Sci-Fi            ",5.1,0,    Stuart Beattie  ,      Aaron Eckhart,   Bill Nighy,   Miranda Otto,   Virginie Le Brun  ,78497,19080000
+    Eragon  ,2006,PG,104," Action, Adventure, Family            ",5.1,0,    Stefen Fangmeier  ,      Ed Speleers,   Sienna Guillory,   Jeremy Irons,   John Malkovich  ,122297,75030000
+"    10,000 BC  ",2008,PG-13,109," Action, Adventure, Drama            ",5.1,0,    Roland Emmerich  ,      Camilla Belle,   Steven Strait,   Marco Khan,   Cliff Curtis  ,126058,94780000
+    Stay Alive  ,2006,PG-13,85," Fantasy, Horror, Mystery            ",5.1,0,    William Brent Bell  ,      Jon Foster,   Samaire Armstrong,   Frankie Muniz,   Jimmi Simpson  ,30546,23090000
+    G-Force  ,2009,PG,88," Animation, Action, Adventure            ",5.1,0,    Hoyt Yeatman  ,      Will Arnett,   Penlope Cruz,   Zach Galifianakis,   Bill Nighy  ,43068,119440000
+    Scoo y-Doo 2: Monsters Unleashed  ,2004,PG,93," Adventure, Comedy, Family            ",5.1,0,    Raja Gosnell  ,      Freddie Prinze Jr.,   Sarah Michelle Gellar,   Matthew Lillard,   Linda Cardellini  ,50616,84220000
+    Scoo y-Doo  ,2002,PG,86," Adventure, Comedy, Family            ",5.1,0,    Raja Gosnell  ,      Matthew Lillard,   Freddie Prinze Jr.,   Sarah Michelle Gellar,   Linda Cardellini  ,100566,153290000
+    Cats & Dogs  ,2001,PG,87," Action, Comedy, Family            ",5.1,0,    Lawrence Guterman  ,      Alec Baldwin,   To ey Maguire,   Jeff Gold lum,   Eliza eth Perkins  ,56827,93390000
+    A Haunted House  ,2013,R,86," Comedy, Fantasy            ",5.0,0,    Michael Tiddes  ,      Marlon Wayans,   Essence Atkins,   Marlene Forte,   David Koechner  ,44143,40040000
+    [REC] 3: Genesis  ,2012,R,80," Action, Adventure, Fantasy            ",5.0,0,    Paco Plaza  ,      Leticia Dolera,   Diego Martn,   Ismael Martnez,   lex Monner  ,33362,10000
+    The Twilight Saga: Eclipse  ,2010,PG-13,124," Action, Adventure, Drama            ",5.0,0,    David Slade  ,      Kristen Stewart,   Ro ert Pattinson,   Taylor Lautner,   Xavier Samuel  ,229555,300530000
+    Silent Hill: Revelation  ,2012,R,95," Action, Adventure, Fantasy            ",5.0,0,    M.J. Bassett  ,      Adelaide Clemens,   Kit Harington,   Sean Bean,   Carrie-Anne Moss  ,60578,17530000
+    Tooth Fairy  ,2010,PG,101," Comedy, Family, Fantasy            ",5.0,0,    Michael Lem eck  ,      Dwayne Johnson,   Ashley Judd,   Julie Andrews,   Stephen Merchant  ,42649,60020000
+    Garfield  ,2004,PG,80," Animation, Comedy, Family            ",5.0,0,    Peter Hewitt  ,      Breckin Meyer,   Jennifer Love Hewitt,   Stephen To olowsky,   Bill Murray  ,80050,75370000
+    The Haunted Mansion  ,2003,PG,88," Comedy, Family, Fantasy            ",5.0,0,    Ro  Minkoff  ,      Eddie Murphy,   Marsha Thomason,   Jennifer Tilly,   Terence Stamp  ,43342,75850000
+    Darkness Falls  ,2003,PG-13,86," Fantasy, Horror, Mystery            ",5.0,0,    Jonathan Lie esman  ,      Chaney Kley,   Emma Caulfield Ford,   Antony Burrows,   Lee Cormie  ,30284,32550000
+    The Twilight Saga: Breaking Dawn - Part 1  ,2011,PG-13,117," Adventure, Drama, Fantasy            ",4.9,0,    Bill Condon  ,      Kristen Stewart,   Ro ert Pattinson,   Taylor Lautner,   Gil Birmingham  ,225286,281290000
+    Gulliver' s Travels  ,2010,PG,85," Adventure, Comedy, Family            ",4.9,0,    Ro  Letterman  ,      Jack Black,   Emily Blunt,   Jason Segel,   Amanda Peet  ,65949,42780000
+    Fantasy Island  ,2020,PG-13,109," Action, Adventure, Fantasy            ",4.9,0,    Jeff Wadlow  ,      Michael Pea,   Maggie Q,   Lucy Hale,   Austin Stowell  ,38039,0
+    Black Knight  ,2001,PG-13,95," Adventure, Comedy, Fantasy            ",4.9,0,    Gil Junger  ,      Martin Lawrence,   Marsha Thomason,   Tom Wilkinson,   Vincent Regan  ,38356,33420000
+    Dracula 2000  ,2000,R,99," Action, Fantasy, Horror            ",4.9,0,    Patrick Lussier  ,      Gerard Butler,   Justine Waddell,   Jonny Lee Miller,   Christopher Plummer  ,32227,33020000
+    The Spirit  ,2008,PG-13,103," Action, Crime, Fantasy            ",4.8,0,    Frank Miller  ,      Ga riel Macht,   Samuel L. Jackson,   Scarlett Johansson,   Jaime King  ,59526,19780000
+    The Santa Clause 3: The Escape Clause  ,2006,G,92," Adventure, Comedy, Family            ",4.8,0,    Michael Lem eck  ,      Tim Allen,   Martin Short,   Eliza eth Mitchell,   Eric Lloyd  ,33802,84500000
+    Her ie Fully Loaded  ,2005,G,101," Adventure, Comedy, Family            ",4.8,0,    Angela Ro inson  ,      Lindsay Lohan,   Michael Keaton,   Cheryl Hines,   Breckin Meyer  ,45349,66020000
+    Seed of Chucky  ,2004,R,87," Comedy, Fantasy, Horror            ",4.8,0,    Don Mancini  ,      Jennifer Tilly,   Brad Dourif,   John Waters,   Billy Boyd  ,39135,17080000
+    Bewitched  ,2005,PG-13,102," Comedy, Fantasy, Romance            ",4.8,0,    Nora Ephron  ,      Nicole Kidman,   Will Ferrell,   Shirley MacLaine,   Michael Caine  ,69586,62250000
+    The Twilight Saga: New Moon  ,2009,PG-13,130," Adventure, Drama, Fantasy            ",4.7,0,    Chris Weitz  ,      Kristen Stewart,   Ro ert Pattinson,   Taylor Lautner,   Christina Jastrzem ska  ,267333,296620000
+    Jonah Hex  ,2010,PG-13,81," Action, Drama, Fantasy            ",4.7,0,    Jimmy Hayward  ,      Josh Brolin,   Megan Fox,   John Malkovich,   Michael Fass ender  ,55662,10540000
+    Aliens vs. Predator: Requiem  ,2007,R,94," Action, Adventure, Fantasy            ",4.7,0,    Colin Strause   ,       Reiko Aylesworth,   Steven Pasquale,   Shareeka Epps,   John Ortiz    ,116806,41800000
+    Are We There Yet?  ,2005,PG,95," Adventure, Comedy, Family            ",4.7,0,    Brian Levant  ,      Ice Cu e,   Nia Long,   Aleisha Allen,   Philip Bolden  ,29794,82670000
+    Elektra  ,2005,PG-13,97," Action, Adventure, Crime            ",4.7,0,    Ro  Bowman  ,      Jennifer Garner,   Goran Visnjic,   Will Yun Lee,   Kirsten Zien  ,87721,24410000
+    Dr. Dolittle 2  ,2001,PG,87," Comedy, Family, Fantasy            ",4.7,0,    Steve Carr  ,      Eddie Murphy,   Cedric the Entertainer,   Kristen Wilson,   Raven-Symon  ,42029,112950000
+    Death Note  ,2017,TV-MA,101," Action, Crime, Drama            ",4.5,0,    Adam Wingard  ,      Nat Wolff,   LaKeith Stanfield,   Margaret Qualley,   Shea Whigham  ,76969,0
+    Alvin and the Chipmunks: The Squeakquel  ,2009,PG,88," Animation, Adventure, Comedy            ",4.5,0,    Betty Thomas  ,      Jason Lee,   Zachary Levi,   David Cross,   Justin Long  ,44146,219610000
+    Alvin and the Chipmunks: Chipwrecked  ,2011,G,87," Animation, Adventure, Comedy            ",4.3,0,    Mike Mitchell  ,      Justin Long,   Matthew Gray Gu ler,   Jesse McCartney,   Jason Lee  ,31803,133110000
+    Ghost Rider: Spirit of Vengeance  ,2011,PG-13,96," Action, Fantasy, Thriller            ",4.3,0,    Mark Neveldine   ,       Nicolas Cage,   Ciarn Hinds,   Idris El a,   Violante Placido    ,111619,51770000
+    A Wrinkle in Time  ,2018,PG,109," Adventure, Family, Fantasy            ",4.2,0,    Ava DuVernay  ,      Storm Reid,   Oprah Winfrey,   Reese Witherspoon,   Mindy Kaling  ,41549,100480000
+    The Legend of Hercules  ,2014,PG-13,99," Action, Adventure, Fantasy            ",4.2,0,    Renny Harlin  ,      Kellan Lutz,   Gaia Weiss,   Scott Adkins,   Roxanne McKee  ,52738,18850000
+    The Last Air ender  ,2010,PG,103," Action, Adventure, Family            ",4.0,0,    M. Night Shyamalan  ,      Noah Ringer,   Nicola Peltz,   Jackson Rath one,   Dev Patel  ,153580,131560000
+    The Cat in the Hat  ,2003,PG,82," Adventure, Comedy, Family            ",4.0,0,    Bo Welch  ,      Mike Myers,   Spencer Breslin,   Dakota Fanning,   Alec Baldwin  ,52910,101150000
+    Book of Shadows: Blair Witch 2  ,2000,R,90," Adventure, Fantasy, Horror            ",4.0,0,    Joe Berlinger  ,      Jeffrey Donovan,   Stephen Barker Turner,   Erica Leerhsen,   Kurt Loder  ,35978,26440000
+    In the Name of the King: A Dungeon Siege Tale  ,2007,PG-13,127," Action, Adventure, Fantasy            ",3.8,0,    Uwe Boll  ,      Jason Statham,   Ron Perlman,   Ray Liotta,   Leelee So ieski  ,44555,4540000
+    The Adventures of Shark oy and Lavagirl 3-D  ,2005,PG,93," Action, Adventure, Comedy            ",3.6,0,    Ro ert Rodriguez  ,      Cayden Boyd,   George Lopez,   Kristin Davis,   David Arquette  ,33671,39180000
+    Dungeons & Dragons  ,2000,PG-13,107," Action, Adventure, Fantasy            ",3.6,0,    Courtney Solomon  ,      Justin Whalin,   Jeremy Irons,   Zoe McLellan,   Bruce Payne  ,32132,15220000
+    Catwoman  ,2004,PG-13,104," Action, Crime, Fantasy            ",3.4,0,    Pitof  ,      Halle Berry,   Sharon Stone,   Benjamin Bratt,   Lam ert Wilson  ,111607,40200000
+    The Emoji Movie  ,2017,PG,86," Animation, Adventure, Comedy            ",3.3,0,    Tony Leondis  ,      T.J. Miller,   James Corden,   Anna Faris,   Maya Rudolph  ,56672,86090000
+    Left Behind  ,2014,PG-13,110," Action, Fantasy, Sci-Fi            ",3.1,0,    Vic Armstrong  ,      Nicolas Cage,   Lea Thompson,   Cassi Thomson,   Chad Michael Murray  ,37347,14000000
+    BloodRayne  ,2005,R,95," Action, Fantasy, Horror            ",2.9,0,    Uwe Boll  ,      Kristanna Loken,   Ben Kingsley,   Michelle Rodriguez,   Michael Madsen  ,34230,2410000
+    Meet the Spartans  ,2008,PG-13,87," Animation, Comedy, Fantasy            ",2.8,0,    Jason Fried erg   ,       Sean Maguire,   Kevin Sor o,   Carmen Electra,   Ken Davitian    ,101749,38230000
+    Cats  ,2019,PG,110," Comedy, Drama, Family            ",2.7,0,    Tom Hooper  ,      James Corden,   Judi Dench,   Jason Derulo,   Idris El a  ,43178,0
+    Dragon all Evolution  ,2009,PG,85," Action, Adventure, Fantasy            ",2.5,0,    James Wong  ,      Justin Chatwin,   James Marsters,   Yun-Fat Chow,   Emmy Rossum  ,70608,9350000
+    Epic Movie  ,2007,PG-13,86," Adventure, Comedy, Fantasy            ",2.4,0,    Jason Fried erg   ,       Kal Penn,   Jennifer Coolidge,   Fred Willard,   Adam Camp ell    ,102018,39740000

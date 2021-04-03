@@ -1,0 +1,304 @@
+title,year,certificate,duration,genre,rating,metascore,director,actor1,actor2,actor3,actor4,votes,gross
+    Hamilton  ,2020,PG-13,160," Biography, Drama, History            ",8.5,90,    Thomas Kail  ,      Lin-Manuel Miranda,   Phillipa Soo,   Leslie Odom Jr.,   Rene Elise Golds erry  ,59623,0
+    The Intoucha les  ,2011,R,112," Biography, Comedy, Drama            ",8.5,0,    Olivier Nakache   ,       Franois Cluzet,   Omar Sy,   Anne Le Ny,   Audrey Fleurot    ,768181,13180000
+    The Pianist  ,2002,R,150," Biography, Drama, Music            ",8.5,85,    Roman Polanski  ,      Adrien Brody,   Thomas Kretschmann,   Frank Finlay,   Emilia Fox  ,737230,32570000
+    Ayla: The Daughter of War  ,2017,0,125," Biography, Drama, History            ",8.4,0,    Can Ulkay  ,      etin Tekindor,   Ismail Hacioglu,   Kyung-jin Lee,   Kim Seol  ,34676,0
+    Dangal  ,2016,Not Rated,161," Action, Biography, Drama            ",8.4,0,    Nitesh Tiwari  ,      Aamir Khan,   Sakshi Tanwar,   Fatima Sana Shaikh,   Sanya Malhotra  ,158856,12390000
+    Green Book  ,2018,PG-13,130," Biography, Comedy, Drama            ",8.2,69,    Peter Farrelly  ,      Viggo Mortensen,   Mahershala Ali,   Linda Cardellini,   Se astian Maniscalco  ,388940,85080000
+    Bhaag Milkha Bhaag  ,2013,Not Rated,186," Biography, Drama, Sport            ",8.2,0,    Rakeysh Omprakash Mehra  ,      Farhan Akhtar,   Sonam Kapoor,   Pawan Malhotra,   Art Malik  ,61452,1630000
+    Paan Singh Tomar  ,2012,Not Rated,135," Action, Biography, Crime            ",8.2,0,    Tigmanshu Dhulia  ,      Irrfan Khan,   Mahie Gill,   Rajesh A hay,   Hemendra Dandotiya  ,33401,40000
+    The Wolf of Wall Street  ,2013,R,180," Biography, Crime, Drama            ",8.2,75,    Martin Scorsese  ,      Leonardo DiCaprio,   Jonah Hill,   Margot Ro  ie,   Matthew McConaughey  ,1203370,116900000
+    Downfall  ,2004,R,156," Biography, Drama, History            ",8.2,82,    Oliver Hirsch iegel  ,      Bruno Ganz,   Alexandra Maria Lara,   Ulrich Matthes,   Juliane Khler  ,333342,5510000
+    A Beautiful Mind  ,2001,PG-13,135," Biography, Drama            ",8.2,72,    Ron Howard  ,      Russell Crowe,   Ed Harris,   Jennifer Connelly,   Christopher Plummer  ,855674,170740000
+    Hacksaw Ridge  ,2016,R,139," Biography, Drama, History            ",8.1,71,    Mel Gi son  ,      Andrew Garfield,   Sam Worthington,   Luke Bracey,   Teresa Palmer  ,441572,67210000
+    12 Years a Slave  ,2013,R,134," Biography, Drama, History            ",8.1,96,    Steve McQueen  ,      Chiwetel Ejiofor,   Michael Kenneth Williams,   Michael Fass ender,   Brad Pitt  ,645651,56670000
+    Rush  ,2013,R,123," Action, Biography, Drama            ",8.1,74,    Ron Howard  ,      Daniel Brhl,   Chris Hemsworth,   Olivia Wilde,   Alexandra Maria Lara  ,435779,26950000
+    Ford v Ferrari  ,2019,PG-13,152," Action, Biography, Drama            ",8.1,81,    James Mangold  ,      Matt Damon,   Christian Bale,   Jon Bernthal,   Caitriona Balfe  ,300253,117620000
+    Spotlight  ,2015,R,129," Biography, Crime, Drama            ",8.1,93,    Tom McCarthy  ,      Mark Ruffalo,   Michael Keaton,   Rachel McAdams,   Liev Schrei er  ,424605,45060000
+    Hachi: A Dog' s Tale  ,2009,G,93," Biography, Drama, Family            ",8.1,0,    Lasse Hallstrm  ,      Richard Gere,   Joan Allen,   Cary-Hiroyuki Tagawa,   Sarah Roemer  ,255863,0
+    Into the Wild  ,2007,R,148," Adventure, Biography, Drama            ",8.1,73,    Sean Penn  ,      Emile Hirsch,   Vince Vaughn,   Catherine Keener,   Marcia Gay Harden  ,577236,18350000
+    Hotel Rwanda  ,2004,PG-13,121," Biography, Drama, History            ",8.1,79,    Terry George  ,      Don Cheadle,   Sophie Okonedo,   Joaquin Phoenix,   Xolani Mali  ,336060,23530000
+    Catch Me If You Can  ,2002,PG-13,141," Biography, Crime, Drama            ",8.1,75,    Steven Spiel erg  ,      Leonardo DiCaprio,   Tom Hanks,   Christopher Walken,   Martin Sheen  ,842605,164620000
+    Togo  ,2019,PG,113," Adventure, Biography, Drama            ",8.0,69,    Ericson Core  ,      Willem Dafoe,   Julianne Nicholson,   Christopher Heyerdahl,   Richard Dormer  ,38941,0
+    Lion  ,2016,PG-13,118," Biography, Drama            ",8.0,69,    Garth Davis  ,      Dev Patel,   Nicole Kidman,   Rooney Mara,   Sunny Pawar  ,216121,51740000
+    The Imitation Game  ,2014,PG-13,114," Biography, Drama, Thriller            ",8.0,73,    Morten Tyldum  ,      Benedict Cum er atch,   Keira Knightley,   Matthew Goode,   Allen Leech  ,691015,91130000
+    Bohemian Rhapsody  ,2018,PG-13,134," Biography, Drama, Music            ",8.0,0,    Bryan Singer  ,      Rami Malek,   Lucy Boynton,   Gwilym Lee,   Ben Hardy  ,457894,216430000
+    The King' s Speech  ,2010,R,118," Biography, Drama, History            ",8.0,88,    Tom Hooper  ,      Colin Firth,   Geoffrey Rush,   Helena Bonham Carter,   Derek Jaco i  ,643139,138800000
+    Yip Man  ,2008,R,106," Action, Biography, Drama            ",8.0,0,    Wilson Yip  ,      Donnie Yen,   Simon Yam,   Siu-Wong Fan,   Ka Tung Lam  ,212317,0
+    Persepolis  ,2007,PG-13,96," Animation, Biography, Drama            ",8.0,90,    Vincent Paronnaud   ,       Chiara Mastroianni,   Catherine Deneuve,   Gena Rowlands,   Danielle Darrieux    ,89132,4450000
+    Dallas Buyers Clu   ,2013,R,117," Biography, Drama            ",8.0,80,    Jean-Marc Valle  ,      Matthew McConaughey,   Jennifer Garner,   Jared Leto,   Steve Zahn  ,445572,27300000
+    The Pursuit of Happyness  ,2006,PG-13,117," Biography, Drama            ",8.0,64,    Ga riele Muccino  ,      Will Smith,   Thandie Newton,   Jaden Smith,   Brian Howe  ,452763,163570000
+    The Diving Bell and the Butterfly  ,2007,PG-13,112," Biography, Drama            ",8.0,92,    Julian Schna el   ,       Mathieu Amalric,   Emmanuelle Seigner,   Marie-Jose Croze,   Anne Consigny    ,103657,5990000
+    The Sea Inside  ,2004,PG-13,126," Biography, Drama            ",8.0,74,    Alejandro Amen ar  ,      Javier Bardem,   Beln Rueda,   Lola Dueas,   Ma el Rivera  ,77897,2090000
+    Cinderella Man  ,2005,PG-13,144," Biography, Drama, History            ",8.0,69,    Ron Howard  ,      Russell Crowe,   Rene Zellweger,   Craig Bierko,   Paul Giamatti  ,177053,61650000
+    The Irishman  ,2019,R,209," Biography, Crime, Drama            ",7.9,94,    Martin Scorsese  ,      Ro ert De Niro,   Al Pacino,   Joe Pesci,   Harvey Keitel  ,330560,7000000
+    Hidden Figures  ,2016,PG,127," Biography, Drama, History            ",7.8,74,    Theodore Melfi  ,      Taraji P. Henson,   Octavia Spencer,   Janelle Mone,   Kevin Costner  ,203272,169610000
+    M.S. Dhoni: The Untold Story  ,2016,Not Rated,184," Biography, Drama, Sport            ",7.8,0,    Neeraj Pandey  ,      Sushant Singh Rajput,   Kiara Advani,   Anupam Kher,   Disha Patani  ,40875,1780000
+    Loving Vincent  ,2017,PG-13,94," Animation, Biography, Crime            ",7.8,62,    Dorota Ko iela   ,       Douglas Booth,   Jerome Flynn,   Ro ert Gulaczyk,   Helen McCrory    ,51443,6740000
+    Pride  ,2014,R,119," Biography, Comedy, Drama            ",7.8,79,    Matthew Warchus  ,      Bill Nighy,   Imelda Staunton,   Dominic West,   Paddy Considine  ,52333,0
+    The Wind Rises  ,2013,PG-13,126," Animation, Biography, Drama            ",7.8,83,    Hayao Miyazaki  ,      Hideaki Anno,   Hidetoshi Nishijima,   Miori Takimoto,   Masahiko Nishimura  ,74711,5210000
+    The Big Short  ,2015,R,130," Biography, Comedy, Drama            ",7.8,81,    Adam McKay  ,      Christian Bale,   Steve Carell,   Ryan Gosling,   Brad Pitt  ,369737,70260000
+    Captain Phillips  ,2013,PG-13,134," Adventure, Biography, Crime            ",7.8,82,    Paul Greengrass  ,      Tom Hanks,   Barkhad A di,   Barkhad A dirahman,   Catherine Keener  ,424248,107100000
+    Straight Outta Compton  ,2015,R,147," Biography, Drama, History            ",7.8,72,    F. Gary Gray  ,      O    Shea Jackson Jr.,     Corey Hawkins,     Jason Mitchell,     Neil Brown Jr.    ,180311,161200000
+    The Fighter  ,2010,R,116," Biography, Drama, Sport            ",7.8,79,    David O. Russell  ,      Mark Wahl erg,   Christian Bale,   Amy Adams,   Melissa Leo  ,342869,93620000
+    American Gangster  ,2007,R,157," Biography, Crime, Drama            ",7.8,76,    Ridley Scott  ,      Denzel Washington,   Russell Crowe,   Chiwetel Ejiofor,   Josh Brolin  ,395099,130160000
+    The World' s Fastest Indian  ,2005,PG-13,127," Biography, Drama, Sport            ",7.8,68,    Roger Donaldson  ,      Anthony Hopkins,   Diane Ladd,   Iain Rea,   Tessa Mitchell  ,52167,5130000
+    Walk the Line  ,2005,PG-13,136," Biography, Drama, Music            ",7.8,72,    James Mangold  ,      Joaquin Phoenix,   Reese Witherspoon,   Ginnifer Goodwin,   Ro ert Patrick  ,235537,119520000
+    The Motorcycle Diaries  ,2004,R,126," Adventure, Biography, Drama            ",7.8,75,    Walter Salles  ,      Gael Garca Bernal,   Rodrigo De la Serna,   Ma Maestro,   Mercedes Morn  ,97134,16760000
+    Remem er the Titans  ,2000,PG,113," Biography, Drama, Sport            ",7.8,0,    Boaz Yakin  ,      Denzel Washington,   Will Patton,   Wood Harris,   Ryan Hurst  ,199352,115650000
+    Sanju  ,2018,TV-MA,155," Biography, Comedy, Drama            ",7.7,0,    Rajkumar Hirani  ,      Ran ir Kapoor,   Paresh Rawal,   Manisha Koirala,   Vicky Kaushal  ,47860,7910000
+    The Theory of Everything  ,2014,PG-13,123," Biography, Drama, Romance            ",7.7,72,    James Marsh  ,      Eddie Redmayne,   Felicity Jones,   Tom Prior,   Sophie Perry  ,407894,35890000
+    The Social Network  ,2010,PG-13,120," Biography, Drama            ",7.7,95,    David Fincher  ,      Jesse Eisen erg,   Andrew Garfield,   Justin Tim erlake,   Rooney Mara  ,630481,96960000
+    Argo  ,2012,R,120," Biography, Drama, Thriller            ",7.7,86,    Ben Affleck  ,      Ben Affleck,   Bryan Cranston,   John Goodman,   Alan Arkin  ,576330,136030000
+    Frost/Nixon  ,2008,R,122," Biography, Drama, History            ",7.7,80,    Ron Howard  ,      Frank Langella,   Michael Sheen,   Kevin Bacon,   Sam Rockwell  ,103742,18590000
+    Changeling  ,2008,R,141," Biography, Crime, Drama            ",7.7,63,    Clint Eastwood  ,      Angelina Jolie,   Colm Feore,   Amy Ryan,   Gattlin Griffith  ,240495,35740000
+    The Last King of Scotland  ,2006,R,123," Biography, Drama, History            ",7.7,74,    Kevin Macdonald  ,      James McAvoy,   Forest Whitaker,   Gillian Anderson,   Kerry Washington  ,176277,17610000
+    Control  ,2007,R,122," Biography, Drama, Music            ",7.7,78,    Anton Cor ijn  ,      Sam Riley,   Samantha Morton,   Craig Parkinson,   Alexandra Maria Lara  ,61871,870000
+    Ray  ,2004,PG-13,152," Biography, Drama, Music            ",7.7,73,    Taylor Hackford  ,      Jamie Foxx,   Regina King,   Kerry Washington,   Clifton Powell  ,139228,75330000
+    Dark Waters  ,2019,PG-13,126," Biography, Drama, History            ",7.6,73,    Todd Haynes  ,      Mark Ruffalo,   Anne Hathaway,   Tim Ro  ins,   Bill Pullman  ,63942,0
+    The Two Popes  ,2019,PG-13,125," Biography, Comedy, Drama            ",7.6,75,    Fernando Meirelles  ,      Anthony Hopkins,   Jonathan Pryce,   Juan Minujn,   Luis Gnecco  ,108871,0
+    The Boy Who Harnessed the Wind  ,2019,TV-PG,113," Biography, Drama, History            ",7.6,68,    Chiwetel Ejiofor  ,      Chiwetel Ejiofor,   Maxwell Sim a,   Felix Lem uro,   Ro ert Agengo  ,29809,0
+    Just Mercy  ,2019,PG-13,137," Biography, Crime, Drama            ",7.6,68,    Destin Daniel Cretton  ,      Michael B. Jordan,   Jamie Foxx,   Brie Larson,   Charlie Pye Jr.  ,48787,0
+    Only the Brave  ,2017,PG-13,134," Action, Biography, Drama            ",7.6,72,    Joseph Kosinski  ,      Josh Brolin,   Miles Teller,   Jeff Bridges,   Jennifer Connelly  ,59300,18340000
+    Philomena  ,2013,PG-13,98," Biography, Comedy, Drama            ",7.6,77,    Stephen Frears  ,      Judi Dench,   Steve Coogan,   Sophie Kennedy Clark,   Mare Winningham  ,94569,37710000
+    The Greatest Showman  ,2017,PG,105," Biography, Drama, Musical            ",7.6,0,    Michael Gracey  ,      Hugh Jackman,   Michelle Williams,   Zac Efron,   Zendaya  ,242602,174340000
+    Money all  ,2011,PG-13,133," Biography, Drama, Sport            ",7.6,87,    Bennett Miller  ,      Brad Pitt,   Ro in Wright,   Jonah Hill,   Philip Seymour Hoffman  ,373430,75610000
+    Hunger  ,2008,Not Rated,96," Biography, Drama            ",7.6,82,    Steve McQueen  ,      Stuart Graham,   Laine Megaw,   Brian Milligan,   Liam McMahon  ,66564,150000
+    The Blind Side  ,2009,PG-13,129," Biography, Drama, Sport            ",7.6,0,    John Lee Hancock  ,      Quinton Aaron,   Sandra Bullock,   Tim McGraw,   Jae Head  ,295501,255960000
+    Freedom Writers  ,2007,PG-13,123," Biography, Crime, Drama            ",7.6,64,    Richard LaGravenese  ,      Hilary Swank,   Imelda Staunton,   Patrick Dempsey,   Scott Glenn  ,70857,36610000
+    La Vie En Rose  ,2007,PG-13,140," Biography, Drama, Music            ",7.6,66,    Olivier Dahan  ,      Marion Cotillard,   Sylvie Testud,   Pascal Greggory,   Emmanuelle Seigner  ,83161,10300000
+    Fearless  ,2006,PG-13,104," Action, Biography, Drama            ",7.6,70,    Ronny Yu  ,      Jet Li,   Li Sun,   Yong Dong,   Yun Qu  ,73059,24630000
+    Sophie Scholl: The Final Days  ,2005,Not Rated,120," Biography, Crime, Drama            ",7.6,76,    Marc Rothemund  ,      Julia Jentsch,   Fa ian Hinrichs,   Alexander Held,   Johanna Gastdorf  ,26574,680000
+    Finding Neverland  ,2004,PG,106," Biography, Drama, Family            ",7.6,67,    Marc Forster  ,      Johnny Depp,   Kate Winslet,   Julie Christie,   Radha Mitchell  ,199416,51680000
+    Blow  ,2001,R,124," Biography, Crime, Drama            ",7.6,0,    Ted Demme  ,      Johnny Depp,   Penlope Cruz,   Franka Potente,   Rachel Griffiths  ,242113,52990000
+    BlacKkKlansman  ,2018,R,135," Biography, Comedy, Crime            ",7.5,83,    Spike Lee  ,      John David Washington,   Adam Driver,   Laura Harrier,   Topher Grace  ,227025,49280000
+"    I, Tonya  ",2017,R,119," Biography, Comedy, Drama            ",7.5,77,    Craig Gillespie  ,      Margot Ro  ie,   Se astian Stan,   Allison Janney,   Julianne Nicholson  ,184865,30010000
+    The Favourite  ,2018,R,119," Biography, Comedy, Drama            ",7.5,91,    Yorgos Lanthimos  ,      Olivia Colman,   Emma Stone,   Rachel Weisz,   Nicholas Hoult  ,175010,34370000
+    Richard Jewell  ,2019,R,131," Biography, Crime, Drama            ",7.5,68,    Clint Eastwood  ,      Paul Walter Hauser,   Sam Rockwell,   Brandon Stanley,   Ryan Boz  ,65996,0
+    Trum o  ,2015,R,124," Biography, Crime, Drama            ",7.5,0,    Jay Roach  ,      Bryan Cranston,   Diane Lane,   Helen Mirren,   Louis C.K.  ,77103,7860000
+    Fruitvale Station  ,2013,R,85," Biography, Crime, Drama            ",7.5,85,    Ryan Coogler  ,      Michael B. Jordan,   Melonie Diaz,   Octavia Spencer,   Kevin Durand  ,76361,16100000
+    Saving Mr. Banks  ,2013,PG-13,125," Biography, Comedy, Drama            ",7.5,65,    John Lee Hancock  ,      Emma Thompson,   Tom Hanks,   Annie Rose Buckley,   Colin Farrell  ,153086,83300000
+    127 Hours  ,2010,R,94," Biography, Drama            ",7.5,82,    Danny Boyle  ,      James Franco,   Am er Tam lyn,   Kate Mara,   Sean Bott  ,349949,18340000
+    Ip Man 2  ,2010,R,108," Action, Biography, Drama            ",7.5,67,    Wilson Yip  ,      Donnie Yen,   Xiaoming Huang,   Sammo Kam-Bo Hung,   Lynn Xiong  ,98445,210000
+    A Royal Affair  ,2012,R,137," Biography, Drama, History            ",7.5,73,    Nikolaj Arcel  ,      Alicia Vikander,   Mads Mikkelsen,   Mikkel Boe Flsgaard,   Trine Dyrholm  ,44549,1550000
+    Mesrine: Killer Instinct  ,2008,R,113," Action, Biography, Crime            ",7.5,71,    Jean-Franois Richet  ,      Vincent Cassel,   Ccile de France,   Grard Depardieu,   Gilles Lellouche  ,32298,550000
+    The Damned United  ,2009,R,98," Biography, Drama, Sport            ",7.5,81,    Tom Hooper  ,      Colm Meaney,   Henry Goodman,   David Roper,   Jimmy Reddington  ,41629,450000
+    Lone Survivor  ,2013,R,121," Action, Biography, Drama            ",7.5,0,    Peter Berg  ,      Mark Wahl erg,   Taylor Kitsch,   Emile Hirsch,   Ben Foster  ,267905,125100000
+    Selma  ,2014,PG-13,128," Biography, Drama, History            ",7.5,80,    Ava DuVernay  ,      David Oyelowo,   Carmen Ejogo,   Oprah Winfrey,   Tom Wilkinson  ,87066,52080000
+    Milk  ,2008,R,128," Biography, Drama            ",7.5,84,    Gus Van Sant  ,      Sean Penn,   Josh Brolin,   Emile Hirsch,   Diego Luna  ,165371,31840000
+42,2013,PG-13,128," Biography, Drama, Sport            ",7.5,62,    Brian Helgeland  ,      Chadwick Boseman,   T.R. Knight,   Harrison Ford,   Nicole Beharie  ,87318,95000000
+    The Assassination of Jesse James  y the Coward Ro ert Ford  ,2007,R,160," Biography, Crime, Drama            ",7.5,68,    Andrew Dominik  ,      Brad Pitt,   Casey Affleck,   Sam Shepard,   Mary-Louise Parker  ,170368,3900000
+    The Great De aters  ,2007,PG-13,126," Biography, Drama, Romance            ",7.5,65,    Denzel Washington  ,      Denzel Washington,   Forest Whitaker,   Kim erly Elise,   Nate Parker  ,56206,30230000
+    Mesrine: Pu lic Enemy No. 1  ,2008,R,133," Action, Biography, Crime            ",7.5,72,    Jean-Franois Richet  ,      Vincent Cassel,   Ludivine Sagnier,   Mathieu Amalric,   Samuel Le Bihan  ,28594,280000
+    Miracle  ,2004,PG,135," Biography, Drama, History            ",7.5,68,    Gavin O  Connor  ,      Kurt Russell,   Patricia Clarkson,   Nathan West,   Noah Emmerich  ,48544,64380000
+    The Aviator  ,2004,PG-13,170," Biography, Drama            ",7.5,77,    Martin Scorsese  ,      Leonardo DiCaprio,   Cate Blanchett,   Kate Beckinsale,   John C. Reilly  ,336538,102610000
+    Darkest Hour  ,2017,PG-13,125," Biography, Drama, History            ",7.4,75,    Joe Wright  ,      Gary Oldman,   Lily James,   Kristin Scott Thomas,   Ben Mendelsohn  ,174214,56470000
+    Molly' s Game  ,2017,R,140," Biography, Crime, Drama            ",7.4,71,    Aaron Sorkin  ,      Jessica Chastain,   Idris El a,   Kevin Costner,   Michael Cera  ,145169,28780000
+    A Street Cat Named Bo   ,2016,Not Rated,103," Biography, Drama, Family            ",7.4,0,    Roger Spottiswoode  ,      Luke Treadaway,   Bo  the Cat,   Ruta Gedmintas,   Joanne Froggatt  ,28461,40000
+    The Disaster Artist  ,2017,R,104," Biography, Comedy, Drama            ",7.4,76,    James Franco  ,      James Franco,   Dave Franco,   Ari Graynor,   Seth Rogen  ,139639,21120000
+    Sully  ,2016,PG-13,96," Biography, Drama            ",7.4,74,    Clint Eastwood  ,      Tom Hanks,   Aaron Eckhart,   Laura Linney,   Valerie Mahaffey  ,240888,125070000
+    The Good Lie  ,2014,PG-13,110," Biography, Drama            ",7.4,65,    Philippe Falardeau  ,      Reese Witherspoon,   Arnold Oceng,   Ger Duany,   Emmanuel Jal  ,27191,2720000
+"    McFarland, USA  ",2015,PG,129," Biography, Drama, Sport            ",7.4,0,    Niki Caro  ,      Kevin Costner,   Maria Bello,   Ramiro Rodriguez,   Carlos Pratts  ,35694,44470000
+    Eddie the Eagle  ,2015,PG-13,106," Biography, Comedy, Drama            ",7.4,0,    Dexter Fletcher  ,      Taron Egerton,   Hugh Jackman,   Tom Costello,   Jo Hartley  ,86450,15790000
+    Love & Mercy  ,2014,PG-13,121," Biography, Drama, Music            ",7.4,80,    Bill Pohlad  ,      John Cusack,   Paul Dano,   Eliza eth Banks,   Paul Giamatti  ,36371,12550000
+    The Baader Meinhof Complex  ,2008,R,150," Action, Biography, Crime            ",7.4,76,    Uli Edel  ,      Martina Gedeck,   Moritz Blei treu,   Johanna Wokalek,   Bruno Ganz  ,36189,480000
+"    Good Night, and Good Luck.  ",2005,PG,93," Biography, Drama, History            ",7.4,80,    George Clooney  ,      David Strathairn,   George Clooney,   Patricia Clarkson,   Jeff Daniels  ,94415,31500000
+    The Greatest Game Ever Played  ,2005,PG,120," Biography, Drama, Sport            ",7.4,0,    Bill Paxton  ,      Shia LaBeouf,   Stephen Dillane,   Elias Koteas,   James Paxton  ,28433,15330000
+    American Splendor  ,2003,R,101," Biography, Comedy, Drama            ",7.4,90,    Shari Springer Berman   ,       Paul Giamatti,   Shari Springer Berman,   Harvey Pekar,   Chris Am rose    ,47846,6000000
+    Ra  it-Proof Fence  ,2002,PG,94," Adventure, Biography, Drama            ",7.4,80,    Phillip Noyce  ,      Everlyn Sampi,   Tianna Sans ury,   Kenneth Branagh,   Laura Monaghan  ,27511,6170000
+    Erin Brockovich  ,2000,R,131," Biography, Drama            ",7.4,73,    Steven Soder ergh  ,      Julia Ro erts,   Al ert Finney,   David Bris in,   Dawn Didawick  ,176340,125600000
+    Frida  ,2002,R,123," Biography, Drama, Romance            ",7.4,61,    Julie Taymor  ,      Salma Hayek,   Alfred Molina,   Geoffrey Rush,   Ma Maestro  ,81870,25890000
+    Dolemite Is My Name  ,2019,R,118," Biography, Comedy, Drama            ",7.3,76,    Craig Brewer  ,      Eddie Murphy,   Keegan-Michael Key,   Mike Epps,   Craig Ro inson  ,54332,0
+    The Professor and the Madman  ,2019,Not Rated,124," Biography, Drama            ",7.3,0,    Farhad Safinia  ,      Mel Gi son,   Sean Penn,   Eddie Marsan,   Natalie Dormer  ,36930,0
+    Official Secrets  ,2019,R,112," Biography, Crime, Drama            ",7.3,63,    Gavin Hood  ,      Keira Knightley,   Matt Smith,   Matthew Goode,   Rhys Ifans  ,35285,400000
+    Snowden  ,2016,R,134," Biography, Crime, Drama            ",7.3,0,    Oliver Stone  ,      Joseph Gordon-Levitt,   Shailene Woodley,   Melissa Leo,   Zachary Quinto  ,139515,21590000
+    The Walk  ,2015,PG,123," Action, Adventure, Biography            ",7.3,70,    Ro ert Zemeckis  ,      Joseph Gordon-Levitt,   Charlotte Le Bon,   Guillaume Baillargeon,   milie Leclerc  ,120736,10140000
+    The End of the Tour  ,2015,R,106," Biography, Drama            ",7.3,82,    James Ponsoldt  ,      Jason Segel,   Jesse Eisen erg,   Anna Chlumsky,   Mamie Gummer  ,28937,2990000
+    A Beautiful Day in the Neigh orhood  ,2019,PG,109," Biography, Drama            ",7.3,80,    Marielle Heller  ,      Tom Hanks,   Matthew Rhys,   Chris Cooper,   Susan Kelechi Watson  ,63311,61700000
+    Woman in Gold  ,2015,PG-13,109," Biography, Drama, History            ",7.3,0,    Simon Curtis  ,      Helen Mirren,   Ryan Reynolds,   Daniel Brhl,   Katie Holmes  ,54284,33310000
+    Belle  ,2013,PG,100," Biography, Drama, Romance            ",7.3,64,    Amma Asante  ,      Gugu M atha-Raw,   Matthew Goode,   Emily Watson,   Miranda Richardson  ,28429,10730000
+    American Sniper  ,2014,R,133," Action, Biography, Drama            ",7.3,72,    Clint Eastwood  ,      Bradley Cooper,   Sienna Miller,   Kyle Gallner,   Cole Konis  ,442608,350130000
+    Rocketman  ,2019,R,121," Biography, Drama, Music            ",7.3,69,    Dexter Fletcher  ,      Taron Egerton,   Jamie Bell,   Richard Madden,   Bryce Dallas Howard  ,141595,96370000
+    Testament of Youth  ,2014,PG-13,129," Biography, Drama, History            ",7.3,76,    James Kent  ,      Alicia Vikander,   Kit Harington,   Taron Egerton,   Dominic West  ,26838,1820000
+    Beautiful Boy  ,2018,R,120," Biography, Drama            ",7.3,62,    Felix van Groeningen  ,      Steve Carell,   Maura Tierney,   Jack Dylan Grazer,   Oakley Bull  ,55683,7650000
+    First Man  ,2018,PG-13,141," Biography, Drama, History            ",7.3,84,    Damien Chazelle  ,      Ryan Gosling,   Claire Foy,   Jason Clarke,   Kyle Chandler  ,171028,44940000
+    Invictus  ,2009,PG-13,134," Biography, Drama, History            ",7.3,74,    Clint Eastwood  ,      Morgan Freeman,   Matt Damon,   Tony Kgoroge,   Patrick Mofokeng  ,150768,37490000
+    Max Manus: Man of War  ,2008,Not Rated,118," Action, Biography, Drama            ",7.3,0,    Joachim Rnning   ,       Aksel Hennie,   Agnes Kittelsen,   Nicolai Cleve Broch,   Ken Duken    ,26692,0
+    The Young Victoria  ,2009,PG,105," Biography, Drama, History            ",7.3,64,    Jean-Marc Valle  ,      Emily Blunt,   Rupert Friend,   Paul Bettany,   Miranda Richardson  ,58225,11000000
+    An American Crime  ,2007,R,98," Biography, Crime, Drama            ",7.3,0,    Tommy O  Haver  ,      Elliot Page,   Hayley McFarland,   Nick Searcy,   Romy Rosemont  ,32643,0
+    Rescue Dawn  ,2006,PG-13,120," Action, Biography, Drama            ",7.3,77,    Werner Herzog  ,      Christian Bale,   Steve Zahn,   Jeremy Davies,   Zach Grenier  ,101518,5490000
+    Lincoln  ,2012,PG-13,150," Biography, Drama, History            ",7.3,86,    Steven Spiel erg  ,      Daniel Day-Lewis,   Sally Field,   David Strathairn,   Joseph Gordon-Levitt  ,246273,182210000
+    The Queen  ,2006,PG-13,103," Biography, Drama, History            ",7.3,91,    Stephen Frears  ,      Helen Mirren,   Michael Sheen,   James Cromwell,   Alex Jennings  ,104673,56440000
+    Coach Carter  ,2005,PG-13,136," Biography, Drama, Sport            ",7.3,0,    Thomas Carter  ,         Samuel L. Jackson,     Rick Gonzalez,  Ro ert Ri    chard,     Ro  Brown    ,130149,67260000
+    Capote  ,2005,R,114," Biography, Crime, Drama            ",7.3,88,    Bennett Miller  ,      Philip Seymour Hoffman,   Clifton Collins Jr.,   Catherine Keener,   Allie Mickelson  ,126082,28750000
+    Monster  ,2003,R,109," Biography, Crime, Drama            ",7.3,74,    Patty Jenkins  ,      Charlize Theron,   Christina Ricci,   Bruce Dern,   Lee Tergesen  ,137424,34470000
+    24 Hour Party People  ,2002,R,117," Biography, Comedy, Drama            ",7.3,85,    Michael Winter ottom  ,      Steve Coogan,   Lennie James,   John Thomson,   Paul Popplewell  ,33531,1130000
+    Quills  ,2000,R,124," Biography, Drama            ",7.3,70,    Philip Kaufman  ,      Geoffrey Rush,   Kate Winslet,   Joaquin Phoenix,   Michael Caine  ,51783,7060000
+    Antwone Fisher  ,2002,PG-13,120," Biography, Drama            ",7.3,62,    Denzel Washington  ,      Denzel Washington,   Derek Luke,   Joy Bryant,   Malcolm David Kelley  ,33326,21080000
+    The Report  ,2019,R,119," Biography, Crime, Drama            ",7.2,66,    Scott Z. Burns  ,      Adam Driver,   Annette Bening,   Jon Hamm,   Ted Levine  ,34696,0
+    The King  ,2019,R,140," Biography, Drama, History            ",7.2,62,    David Michd  ,      Tom Glynn-Carney,   G or Czap,   Tom Fisher,   Edward Ashley  ,91416,0
+    Vice  ,2018,R,132," Biography, Comedy, Drama            ",7.2,61,    Adam McKay  ,      Christian Bale,   Amy Adams,   Steve Carell,   Sam Rockwell  ,124751,47840000
+    Papillon  ,2017,R,133," Adventure, Biography, Crime            ",7.2,0,    Michael Noer  ,      Charlie Hunnam,   Damijan Oklopdzic,   Christopher Fair ank,   Jason Ryan  ,57250,2340000
+    The Founder  ,2016,PG-13,115," Biography, Drama            ",7.2,66,    John Lee Hancock  ,      Michael Keaton,   Nick Offerman,   John Carroll Lynch,   Linda Cardellini  ,127970,12790000
+    Anthropoid  ,2016,R,120," Action, Biography, Drama            ",7.2,0,    Sean Ellis  ,      Jamie Dornan,   Cillian Murphy,   Brian Caspe,   Karel Hermnek Jr.  ,44330,2960000
+    Stan & Ollie  ,2018,PG,98," Biography, Comedy, Drama            ",7.2,75,    Jon S. Baird  ,      Steve Coogan,   John C. Reilly,   Shirley Henderson,   Nina Arianda  ,33329,5470000
+    Concussion  ,2015,PG-13,123," Biography, Drama, Sport            ",7.2,0,    Peter Landesman  ,      Will Smith,   Alec Baldwin,   Al ert Brooks,   David Morse  ,87833,34540000
+    Tracks  ,2013,PG-13,112," Adventure, Biography, Drama            ",7.2,78,    John Curran  ,      Mia Wasikowska,   Adam Driver,   Lily Pearl,   Philip Dodd  ,28022,510000
+    Steve Jo s  ,2015,R,122," Biography, Drama            ",7.2,82,    Danny Boyle  ,      Michael Fass ender,   Kate Winslet,   Seth Rogen,   Jeff Daniels  ,155511,17770000
+    The Sessions  ,2012,R,95," Biography, Comedy, Drama            ",7.2,79,    Ben Lewin  ,      John Hawkes,   Helen Hunt,   William H. Macy,   Moon Bloodgood  ,41261,6000000
+    Un roken  ,2014,PG-13,137," Action, Biography, Drama            ",7.2,0,    Angelina Jolie  ,      Jack O    Connell,     Miyavi,     Domhnall Gleeson,     Garrett Hedlund    ,150916,115640000
+    Chasing Mavericks  ,2012,PG,116," Biography, Drama, Sport            ",7.2,0,    Michael Apted   ,       Jonny Weston,   Gerard Butler,   Elisa eth Shue,   A igail Spencer    ,30986,6000000
+    Kon-Tiki  ,2012,PG-13,118," Adventure, Biography, Drama            ",7.2,62,    Joachim Rnning   ,       Pl Sverre Hagen,   Anders Baasmo Christiansen,   Gustaf Skarsgrd,   Odd-Magnus Williamson    ,46235,1520000
+    Lee Daniels'  The Butler  ,2013,PG-13,132," Biography, Drama            ",7.2,65,    Lee Daniels  ,      Forest Whitaker,   Oprah Winfrey,   John Cusack,   Jane Fonda  ,109500,116630000
+    Conviction  ,2010,R,107," Biography, Crime, Drama            ",7.2,61,    Tony Goldwyn  ,      Hilary Swank,   Sam Rockwell,   Melissa Leo,   Thomas D. Mahard  ,42510,6780000
+    Agora  ,2009,R,127," Adventure, Biography, Drama            ",7.2,0,    Alejandro Amen ar  ,      Rachel Weisz,   Max Minghella,   Oscar Isaac,   Ashraf Barhom  ,66315,620000
+    Secretariat  ,2010,PG,123," Biography, Drama, Family            ",7.2,61,    Randall Wallace  ,      Diane Lane,   John Malkovich,   Margo Martindale,   Nelsan Ellis  ,26689,59710000
+    Che: Part One  ,2008,Not Rated,134," Biography, Drama, History            ",7.2,0,    Steven Soder ergh  ,      Julia Ormond,   Benicio Del Toro,   Oscar Isaac,   Pa lo Guevara  ,44409,1730000
+    The Man Who Knew Infinity  ,2015,PG-13,108," Biography, Drama            ",7.2,0,    Matt Brown  ,      Dev Patel,   Jeremy Irons,   Malcolm Sinclair,   Raghuvir Joshi  ,51930,3870000
+    Mongol: The Rise of Genghis Khan  ,2007,R,126," Action, Biography, Drama            ",7.2,74,    Sergei Bodrov  ,      Tadano u Asano,   Amadu Mamadakov,   Khulan Chuluun,   Honglei Sun  ,44811,5700000
+    Glory Road  ,2006,PG,118," Biography, Drama, Sport            ",7.2,0,    James Gartner  ,      Josh Lucas,   Derek Luke,   Austin Nichols,   Jon Voight  ,43488,42640000
+    Chopper  ,2000,R,94," Biography, Crime, Drama            ",7.2,65,    Andrew Dominik  ,      Eric Bana,   Simon Lyndon,   Vince Colosimo,   Rene Brack  ,36254,230000
+    Men of Honor  ,2000,R,129," Biography, Drama            ",7.2,0,    George Tillman Jr.  ,      Cu a Gooding Jr.,   Ro ert De Niro,   Charlize Theron,   Aunjanue Ellis  ,107594,48820000
+    Bad Education  ,2019,TV-MA,108," Biography, Comedy, Crime            ",7.1,79,    Cory Finley  ,      Hugh Jackman,   Ray Romano,   Welker White,   Allison Janney  ,33100,0
+    Fighting with My Family  ,2019,PG-13,108," Biography, Comedy, Drama            ",7.1,68,    Stephen Merchant  ,      Dwayne Johnson,   Lena Headey,   Vince Vaughn,   Florence Pugh  ,67583,22960000
+    On the Basis of Sex  ,2018,PG-13,120," Biography, Drama            ",7.1,0,    Mimi Leder  ,      Felicity Jones,   Armie Hammer,   Justin Theroux,   Sam Waterston  ,28842,24620000
+    Can You Ever Forgive Me?  ,2018,R,106," Biography, Comedy, Crime            ",7.1,87,    Marielle Heller  ,      Melissa McCarthy,   Richard E. Grant,   Dolly Wells,   Ben Falcone  ,47360,8800000
+    Colonia  ,2015,R,110," Biography, Drama, History            ",7.1,0,    Florian Gallen erger  ,      Emma Watson,   Daniel Brhl,   Michael Nyqvist,   Richenda Carey  ,48301,0
+    The Dig  ,2021,PG-13,112," Biography, Drama, History            ",7.1,73,    Simon Stone  ,      Carey Mulligan,   Ralph Fiennes,   Lily James,   Johnny Flynn  ,45021,0
+    Race  ,2016,PG-13,134," Biography, Drama, Sport            ",7.1,0,    Stephen Hopkins  ,      Stephan James,   Jason Sudeikis,   Eli Goree,   Shanice Banton  ,35072,19100000
+    Ip Man 3  ,2015,PG-13,105," Action, Biography, Drama            ",7.1,0,    Wilson Yip  ,      Donnie Yen,   Lynn Xiong,   Jin Zhang,   Mike Tyson  ,49912,2680000
+    Everest  ,2015,PG-13,121," Action, Adventure, Biography            ",7.1,64,    Baltasar Kormkur  ,      Jason Clarke,   Ang Phula Sherpa,   Thomas M. Wright,   Martin Henderson  ,198613,43480000
+    The Glass Castle  ,2017,PG-13,127," Biography, Drama            ",7.1,0,    Destin Daniel Cretton  ,      Brie Larson,   Woody Harrelson,   Naomi Watts,   Ella Anderson  ,30204,17270000
+    Wild  ,2014,R,115," Adventure, Biography, Drama            ",7.1,76,    Jean-Marc Valle  ,      Reese Witherspoon,   Laura Dern,   Ga y Hoffmann,   Michiel Huisman  ,121380,37880000
+    Mandela: Long Walk to Freedom  ,2013,PG-13,141," Biography, Drama, History            ",7.1,0,    Justin Chadwick  ,      Idris El a,   Naomie Harris,   Terry Pheto,   Ro ert Ho  s  ,26592,8320000
+    The Railway Man  ,2013,R,116," Biography, Drama, Romance            ",7.1,0,    Jonathan Teplitzky  ,      Colin Firth,   Nicole Kidman,   Stellan Skarsgrd,   Jeremy Irvine  ,37624,4440000
+    War Dogs  ,2016,R,114," Biography, Comedy, Crime            ",7.1,0,    Todd Phillips  ,      Jonah Hill,   Miles Teller,   Steve Lantz,   Gregg Weiner  ,181980,43030000
+    Good ye Christopher Ro in  ,2017,PG,107," Biography, Drama, Family            ",7.1,0,    Simon Curtis  ,      Domhnall Gleeson,   Margot Ro  ie,   Kelly Macdonald,   Vicki Pepperdine  ,25013,1740000
+    The Legend Is Born: Ip Man  ,2010,Not Rated,100," Action, Biography, Drama            ",7.1,0,    Herman Yau  ,      Yu-Hang To,   Yi Huang,   Biao Yuen,   Siu-Wong Fan  ,31340,0
+    Kill the Irishman  ,2011,R,106," Biography, Crime, Drama            ",7.1,0,    Jonathan Hensleigh  ,         Ray Stevenson,     Christopher Walken,  Vincent D    Onofrio,     Val Kilmer    ,46141,1190000
+    The Devil' s Dou le  ,2011,R,109," Biography, Drama, Thriller            ",7.1,0,    Lee Tamahori  ,      Dominic Cooper,   Ludivine Sagnier,   Raad Rawi,   Philip Quast  ,60355,1360000
+    Nowhere Boy  ,2009,R,98," Biography, Drama, Music            ",7.1,67,    Sam Taylor-Johnson  ,      Aaron Taylor-Johnson,   Kristin Scott Thomas,   Anne-Marie Duff,   David Threlfall  ,35257,1450000
+    Bronson  ,2008,R,92," Action, Biography, Crime            ",7.1,71,    Nicolas Winding Refn  ,      Tom Hardy,   Kelly Adams,   Luing Andrews,   Katy Barker  ,121358,100000
+    The Whistle lower  ,2010,R,112," Biography, Crime, Drama            ",7.1,0,    Larysa Kondracki  ,      Rachel Weisz,   Monica Bellucci,   Vanessa Redgrave,   David Strathairn  ,31906,1120000
+    The Danish Girl  ,2015,R,119," Biography, Drama, Romance            ",7.1,66,    Tom Hooper  ,      Eddie Redmayne,   Alicia Vikander,   Am er Heard,   Ben Whishaw  ,165634,11110000
+    Invinci le  ,2006,PG,105," Biography, Drama, Sport            ",7.1,63,    Ericson Core  ,      Mark Wahl erg,   Greg Kinnear,   Eliza eth Banks,   Kevin Conway  ,66658,57790000
+    Lords of Dogtown  ,2005,PG-13,107," Biography, Drama, Sport            ",7.1,0,    Catherine Hardwicke  ,      Heath Ledger,   Emile Hirsch,   Victor Rasuk,   Johnny Knoxville  ,52218,11010000
+    American Animals  ,2018,R,116," Biography, Crime, Drama            ",7.0,68,    Bart Layton  ,      Spencer Reinhard,   Warren Lipka,   Eric Borsuk,   Chas Allen  ,39295,2860000
+    Loving  ,2016,PG-13,123," Biography, Drama, Romance            ",7.0,79,    Jeff Nichols  ,      Ruth Negga,   Joel Edgerton,   Will Dalton,   Dean Mumford  ,32139,7700000
+    Ip Man 4: The Finale  ,2019,Not Rated,107," Action, Biography, Drama            ",7.0,62,    Wilson Yip  ,      Donnie Yen,   Scott Adkins,   Danny Kwok-Kwan Chan,   Vanness Wu  ,25223,3960000
+    Danny Collins  ,2015,R,106," Biography, Comedy, Drama            ",7.0,0,    Dan Fogelman  ,      Al Pacino,   Annette Bening,   Jennifer Garner,   Bo  y Cannavale  ,30126,5350000
+    The Zookeeper' s Wife  ,2017,PG-13,127," Biography, Drama, History            ",7.0,0,    Niki Caro  ,      Jessica Chastain,   Johan Helden ergh,   Daniel Brhl,   Timothy Radford  ,38995,17450000
+    Million Dollar Arm  ,2014,PG,124," Biography, Drama, Sport            ",7.0,0,    Craig Gillespie  ,      Jon Hamm,   Aasif Mandvi,   Alan Arkin,   Suraj Sharma  ,43812,36450000
+    Soul Surfer  ,2011,PG,112," Biography, Drama, Family            ",7.0,0,    Sean McNamara  ,      AnnaSophia Ro  ,   Dennis Quaid,   Helen Hunt,   Carrie Underwood  ,46045,43850000
+    Pawn Sacrifice  ,2014,PG-13,115," Biography, Drama, Sport            ",7.0,65,    Edward Zwick  ,      To ey Maguire,   Liev Schrei er,   Peter Sarsgaard,   Michael Stuhl arg  ,41243,2440000
+    The Infiltrator  ,2016,R,127," Biography, Crime, Drama            ",7.0,66,    Brad Furman  ,      Bryan Cranston,   John Leguizamo,   Diane Kruger,   Amy Ryan  ,69186,15430000
+    Behind The Candela ra  ,2013,TV-MA,118," Biography, Drama, Music            ",7.0,0,    Steven Soder ergh  ,      Michael Douglas,   Matt Damon,   Scott Bakula,   Eric Zuckerman  ,40958,0
+    Pu lic Enemies  ,2009,R,140," Biography, Crime, Drama            ",7.0,70,    Michael Mann  ,      Christian Bale,   Johnny Depp,   Christian Stolte,   Jason Clarke  ,283727,97100000
+    Julie & Julia  ,2009,PG-13,123," Biography, Drama, Romance            ",7.0,66,    Nora Ephron  ,      Amy Adams,   Meryl Streep,   Chris Messina,   Stanley Tucci  ,109093,94130000
+    Big Eyes  ,2014,PG-13,106," Biography, Crime, Drama            ",7.0,62,    Tim Burton  ,      Amy Adams,   Christoph Waltz,   Danny Huston,   Krysten Ritter  ,86556,14480000
+    Foxcatcher  ,2014,R,134," Biography, Drama, History            ",7.0,81,    Bennett Miller  ,      Steve Carell,   Channing Tatum,   Mark Ruffalo,   Vanessa Redgrave  ,135146,12100000
+    Mank  ,2020,R,131," Biography, Comedy, Drama            ",7.0,79,    David Fincher  ,      Gary Oldman,   Amanda Seyfried,   Lily Collins,   Tom Pelphrey  ,42756,0
+    The Dirt  ,2019,TV-MA,107," Biography, Comedy, Drama            ",7.0,0,    Jeff Tremaine  ,      Douglas Booth,   Iwan Rheon,   Machine Gun Kelly,   Daniel We  er  ,40733,0
+    Charlie Wilson' s War  ,2007,R,102," Biography, Comedy, Drama            ",7.0,67,    Mike Nichols  ,      Tom Hanks,   Julia Ro erts,   Philip Seymour Hoffman,   Amy Adams  ,111319,66660000
+    Find Me Guilty  ,2006,R,125," Biography, Comedy, Crime            ",7.0,65,    Sidney Lumet  ,      Vin Diesel,   Peter Dinklage,   Ron Silver,   Alex Rocco  ,33068,1170000
+    Jarhead  ,2005,R,125," Action, Biography, Drama            ",7.0,0,    Sam Mendes  ,      Jake Gyllenhaal,   Jamie Foxx,   Lucas Black,   Scott MacDonald  ,176323,62660000
+    Becoming Jane  ,2007,PG,120," Biography, Drama, Romance            ",7.0,0,    Julian Jarrold  ,      Anne Hathaway,   James McAvoy,   Julie Walters,   James Cromwell  ,58557,18670000
+    Breach  ,2007,PG-13,110," Biography, Crime, Drama            ",7.0,74,    Billy Ray  ,      Chris Cooper,   Ryan Phillippe,   Dennis Hays ert,   Laura Linney  ,58031,33230000
+    Kinsey  ,2004,R,118," Biography, Drama, Romance            ",7.0,79,    Bill Condon  ,         Liam Neeson,     Laura Linney,  Chris O    Donnell,     Peter Sarsgaard    ,47596,10210000
+    Bo  y  ,2006,R,117," Biography, Drama, History            ",7.0,0,    Emilio Estevez  ,      Anthony Hopkins,   Demi Moore,   Sharon Stone,   Harry Belafonte  ,41093,11240000
+    Confessions of a Dangerous Mind  ,2002,R,113," Biography, Comedy, Crime            ",7.0,67,    George Clooney  ,      Sam Rockwell,   Drew Barrymore,   George Clooney,   Julia Ro erts  ,84097,16000000
+    Pollock  ,2000,R,122," Biography, Drama            ",7.0,77,    Ed Harris  ,      Ed Harris,   Marcia Gay Harden,   Ro ert Knott,   Molly Regan  ,27000,8600000
+    Boy Erased  ,2018,R,115," Biography, Drama            ",6.9,69,    Joel Edgerton  ,      Lucas Hedges,   Nicole Kidman,   Joel Edgerton,   Russell Crowe  ,33177,6790000
+    At Eternity' s Gate  ,2018,PG-13,111," Biography, Drama            ",6.9,76,    Julian Schna el  ,      Willem Dafoe,   Rupert Friend,   Oscar Isaac,   Mads Mikkelsen  ,28930,2290000
+    Outlaw King  ,2018,R,121," Action, Biography, Drama            ",6.9,0,    David Mackenzie  ,      Chris Pine,   Stephen Dillane,   Re ecca Ro in,   Billy Howle  ,61215,0
+    Borg vs. McEnroe  ,2017,R,107," Biography, Drama, Sport            ",6.9,63,    Janus Metz  ,      Sverrir Gudnason,   Shia LaBeouf,   Stellan Skarsgrd,   Tuva Novotny  ,28281,14110000
+    Stronger  ,2017,R,119," Biography, Drama            ",6.9,76,    David Gordon Green  ,      Jake Gyllenhaal,   Tatiana Maslany,   Miranda Richardson,   Richard Lane Jr.  ,41148,4210000
+    Legend  ,2015,R,132," Biography, Crime, Drama            ",6.9,0,    Brian Helgeland  ,      Tom Hardy,   Emily Browning,   Taron Egerton,   Paul Anderson  ,160311,1870000
+    The 33  ,2015,PG-13,127," Biography, Drama, History            ",6.9,0,    Patricia Riggen  ,      Antonio Banderas,   Rodrigo Santoro,   Juliette Binoche,   James Brolin  ,35999,12190000
+    The Highwaymen  ,2019,R,132," Biography, Crime, Drama            ",6.9,0,    John Lee Hancock  ,      Kevin Costner,   Woody Harrelson,   Kathy Bates,   John Carroll Lynch  ,77026,0
+    My Week with Marilyn  ,2011,R,99," Biography, Drama            ",6.9,65,    Simon Curtis  ,      Michelle Williams,   Eddie Redmayne,   Kenneth Branagh,   Julia Ormond  ,83683,14600000
+    In the Heart of the Sea  ,2015,PG-13,122," Action, Adventure, Biography            ",6.9,0,    Ron Howard  ,      Chris Hemsworth,   Cillian Murphy,   Brendan Gleeson,   Ben Whishaw  ,124774,25020000
+    Black Mass  ,2015,R,123," Biography, Crime, Drama            ",6.9,68,    Scott Cooper  ,      Johnny Depp,   Benedict Cum er atch,   Dakota Johnson,   Joel Edgerton  ,168889,62580000
+    Kill the Messenger  ,2014,R,112," Biography, Crime, Drama            ",6.9,0,    Michael Cuesta  ,      Jeremy Renner,   Ro ert Patrick,   Jena Sims,   Ro ert Pralgo  ,44750,2450000
+    Free State of Jones  ,2016,R,139," Action, Biography, Drama            ",6.9,0,    Gary Ross  ,      Matthew McConaughey,   Gugu M atha-Raw,   Mahershala Ali,   Keri Russell  ,53176,20760000
+    The Duchess  ,2008,PG-13,110," Biography, Drama, History            ",6.9,62,    Saul Di    ,      Keira Knightley,   Ralph Fiennes,   Dominic Cooper,   Charlotte Rampling  ,78768,13820000
+    Bright Star  ,2009,PG,119," Biography, Drama, Romance            ",6.9,81,    Jane Campion  ,      A  ie Cornish,   Ben Whishaw,   Paul Schneider,   Kerry Fox  ,25328,4440000
+    Miss Potter  ,2006,PG,88," Biography, Drama, Romance            ",6.9,0,    Chris Noonan  ,      Rene Zellweger,   Ewan McGregor,   Emily Watson,   Bar ara Flynn  ,27948,2980000
+    Goya' s Ghosts  ,2006,R,113," Biography, Drama, History            ",6.9,0,    Milos Forman  ,      Javier Bardem,   Natalie Portman,   Stellan Skarsgrd,   Randy Quaid  ,29539,1000000
+    Alpha Dog  ,2006,R,122," Biography, Crime, Drama            ",6.9,0,    Nick Cassavetes  ,      Emile Hirsch,   Justin Tim erlake,   Anton Yelchin,   Bruce Willis  ,99531,15230000
+    Gridiron Gang  ,2006,PG-13,125," Biography, Crime, Drama            ",6.9,0,    Phil Joanou  ,      Dwayne Johnson,   Xzi it,   L. Scott Caldwell,   Leon Rippy  ,57320,38430000
+    The Stanford Prison Experiment  ,2015,R,122," Biography, Drama, History            ",6.9,67,    Kyle Patrick Alvarez  ,      Ezra Miller,   Tye Sheridan,   Billy Crudup,   Olivia Thirl y  ,37926,640000
+    Che: Part Two  ,2008,Not Rated,135," Biography, Drama, History            ",6.9,64,    Steven Soder ergh  ,      Demin Bichir,   Rodrigo Santoro,   Benicio Del Toro,   Catalina Sandino Moreno  ,32362,0
+    I' m Not There  ,2007,R,135," Biography, Drama, Music            ",6.9,73,    Todd Haynes  ,      Christian Bale,   Cate Blanchett,   Heath Ledger,   Ben Whishaw  ,56658,4020000
+    The Assassination of Richard Nixon  ,2004,R,95," Biography, Crime, Drama            ",6.9,63,    Niels Mueller  ,      Sean Penn,   Naomi Watts,   Don Cheadle,   Jack Thompson  ,25182,700000
+    Girl with a Pearl Earring  ,2003,PG-13,100," Biography, Drama, Romance            ",6.9,72,    Peter We  er  ,      Scarlett Johansson,   Colin Firth,   Tom Wilkinson,   Judy Parfitt  ,72690,11630000
+    Radio  ,2003,PG,109," Biography, Drama, Sport            ",6.9,0,    Michael Tollin  ,      Cu a Gooding Jr.,   Ed Harris,   De ra Winger,   S. Epatha Merkerson  ,38269,52280000
+    Bully  ,2001,R,108," Biography, Crime, Drama            ",6.9,0,    Larry Clark  ,      Brad Renfro,   Nick Stahl,   Bijou Phillips,   Rachel Miner  ,34795,1540000
+    Judy  ,2019,PG-13,118," Biography, Drama, Romance            ",6.8,66,    Rupert Goold  ,      Rene Zellweger,   Jessie Buckley,   Finn Wittrock,   Rufus Sewell  ,42017,0
+    Bom shell  ,2019,R,109," Biography, Drama            ",6.8,64,    Jay Roach  ,      Charlize Theron,   Nicole Kidman,   Margot Ro  ie,   John Lithgow  ,93079,0
+    Victoria & A dul  ,2017,PG-13,111," Biography, Drama, History            ",6.8,0,    Stephen Frears  ,      Judi Dench,   Ali Fazal,   Tim Pigott-Smith,   Eddie Izzard  ,32325,22250000
+    All the Money in the World  ,2017,R,132," Biography, Crime, Drama            ",6.8,72,    Ridley Scott  ,      Michelle Williams,   Christopher Plummer,   Mark Wahl erg,   Romain Duris  ,76240,25110000
+    Florence Foster Jenkins  ,2016,PG-13,111," Biography, Comedy, Drama            ",6.8,71,    Stephen Frears  ,      Meryl Streep,   Hugh Grant,   Simon Hel erg,   Re ecca Ferguson  ,51341,27370000
+    Tolkien  ,2019,PG-13,112," Biography, Drama, Romance            ",6.8,0,    Dome Karukoski  ,      Nicholas Hoult,   Lily Collins,   Colm Meaney,   Derek Jaco i  ,33813,4540000
+    Jersey Boys  ,2014,R,134," Biography, Drama, Music            ",6.8,0,    Clint Eastwood  ,      John Lloyd Young,   Erich Bergen,   Michael Lomenda,   Vincent Piazza  ,33101,47030000
+    Bernie  ,2011,PG-13,104," Biography, Comedy, Crime            ",6.8,75,    Richard Linklater  ,      Jack Black,   Shirley MacLaine,   Matthew McConaughey,   Brady Coleman  ,57438,9200000
+    Bleed for This  ,2016,R,117," Biography, Drama, Sport            ",6.8,62,    Ben Younger  ,      Miles Teller,   Aaron Eckhart,   Katey Sagal,   Ciarn Hinds  ,25364,4850000
+    Machine Gun Preacher  ,2011,R,129," Action, Biography, Crime            ",6.8,0,    Marc Forster  ,      Gerard Butler,   Michelle Monaghan,   Michael Shannon,   Kathy Baker  ,63409,540000
+    The Iceman  ,2012,R,106," Biography, Crime, Drama            ",6.8,0,    Ariel Vromen  ,      Michael Shannon,   Chris Evans,   James Franco,   Winona Ryder  ,70943,1940000
+    Fair Game  ,2010,PG-13,108," Biography, Drama, Thriller            ",6.8,69,    Doug Liman  ,      Naomi Watts,   Sean Penn,   Sonya Davison,   Vanessa Chong  ,47006,9530000
+    Hitchcock  ,2012,PG-13,98," Biography, Drama, Romance            ",6.8,0,    Sacha Gervasi  ,      Anthony Hopkins,   Helen Mirren,   Scarlett Johansson,   Danny Huston  ,72253,6010000
+    Eliza eth: The Golden Age  ,2007,PG-13,114," Biography, Drama, History            ",6.8,0,    Shekhar Kapur  ,      Cate Blanchett,   Clive Owen,   Geoffrey Rush,   Jordi Moll  ,68043,16290000
+    Ali  ,2001,R,157," Biography, Drama, Sport            ",6.8,65,    Michael Mann  ,      Will Smith,   Jamie Foxx,   Jon Voight,   Mario Van Pee les  ,94103,58200000
+    Battle of the Sexes  ,2017,PG-13,121," Biography, Comedy, Drama            ",6.7,73,    Jonathan Dayton   ,       Emma Stone,   Steve Carell,   Andrea Rise orough,   Sarah Silverman    ,50659,12640000
+    Jungle  ,2017,R,115," Action, Adventure, Biography            ",6.7,0,    Greg McLean  ,      Daniel Radcliffe,   Thomas Kretschmann,   Alex Russell,   Joel Jackson  ,49377,0
+    The Lady in the Van  ,2015,PG-13,104," Biography, Comedy, Drama            ",6.7,70,    Nicholas Hytner  ,      Maggie Smith,   Alex Jennings,   Jim Broad ent,   Clare Hammond  ,26590,10020000
+    The Old Man & the Gun  ,2018,PG-13,93," Biography, Comedy, Crime            ",6.7,80,    David Lowery  ,      Ro ert Redford,   Casey Affleck,   Sissy Spacek,   Danny Glover  ,40971,11280000
+    Jackie  ,2016,R,100," Biography, Drama, History            ",6.7,81,    Pa lo Larran  ,      Natalie Portman,   Peter Sarsgaard,   Greta Gerwig,   Billy Crudup  ,73404,13960000
+    Hysteria  ,2011,R,100," Biography, Comedy, Romance            ",6.7,0,    Tanya Wexler  ,      Maggie Gyllenhaal,   Hugh Dancy,   Jonathan Pryce,   Felicity Jones  ,30618,1800000
+    Taking Woodstock  ,2009,R,120," Biography, Comedy, Drama            ",6.7,0,    Ang Lee  ,      Demetri Martin,   Henry Goodman,   Edward Hi  ert,   Imelda Staunton  ,28313,7440000
+    Coco Before Chanel  ,2009,PG-13,105," Biography, Drama            ",6.7,65,    Anne Fontaine  ,      Audrey Tautou,   Benot Poelvoorde,   Alessandro Nivola,   Marie Gillain  ,38866,6110000
+    The Soloist  ,2009,PG-13,117," Biography, Drama, Music            ",6.7,61,    Joe Wright  ,      Jamie Foxx,   Ro ert Downey Jr.,   Catherine Keener,   Tom Hollander  ,51685,31670000
+    Notorious  ,2009,R,122," Biography, Crime, Drama            ",6.7,0,    George Tillman Jr.  ,      Jamal Woolard,   Anthony Mackie,   Derek Luke,   Momo Dione  ,41203,36840000
+    The Other Boleyn Girl  ,2008,PG-13,115," Biography, Drama, History            ",6.7,0,    Justin Chadwick  ,      Natalie Portman,   Scarlett Johansson,   Eric Bana,   Jim Sturgess  ,105305,26810000
+    The New World  ,2005,PG-13,135," Biography, Drama, History            ",6.7,69,    Terrence Malick  ,         Colin Farrell,  Q    orianka Kilcher,     Christopher Plummer,     Christian Bale    ,83233,12710000
+    Hidalgo  ,2004,PG-13,136," Action, Adventure, Biography            ",6.7,0,    Joe Johnston  ,      Viggo Mortensen,   Omar Sharif,   Zuleikha Ro inson,   Louise Lom ard  ,77581,67290000
+    Adrift  ,2018,PG-13,96," Action, Adventure, Biography            ",6.6,0,    Baltasar Kormkur  ,      Shailene Woodley,   Sam Claflin,   Jeffrey Thomas,   Eliza eth Hawthorne  ,48272,31450000
+    Operation Finale  ,2018,PG-13,122," Biography, Drama, History            ",6.6,0,    Chris Weitz  ,      Oscar Isaac,   Ben Kingsley,   Mlanie Laurent,   Lior Raz  ,34024,17610000
+    Whiskey Tango Foxtrot  ,2016,R,112," Biography, Comedy, Drama            ",6.6,0,    Glenn Ficarra   ,       Tina Fey,   Margot Ro  ie,   Martin Freeman,   Alfred Molina    ,49906,23050000
+"    Extremely Wicked, Shockingly Evil and Vile  ",2019,R,110," Biography, Crime, Drama            ",6.6,0,    Joe Berlinger  ,      Lily Collins,   Zac Efron,   Angela Sarafyan,   Sydney Vollmer  ,80624,0
+    Joy  ,2015,PG-13,124," Biography, Drama            ",6.6,0,    David O. Russell  ,      Jennifer Lawrence,   Ro ert De Niro,   Bradley Cooper,   Edgar Ramrez  ,129020,56450000
+    The Grandmaster  ,2013,PG-13,130," Action, Biography, Drama            ",6.6,73,    Kar-Wai Wong  ,      Tony Chiu-Wai Leung,   Ziyi Zhang,   Jin Zhang,   Chen Chang  ,31783,6590000
+    The Lost City of Z  ,2016,PG-13,141," Adventure, Biography, Drama            ",6.6,78,    James Gray  ,      Charlie Hunnam,   Ro ert Pattinson,   Sienna Miller,   Tom Holland  ,81289,8580000
+    I Love You Phillip Morris  ,2009,R,98," Biography, Comedy, Crime            ",6.6,65,    Glenn Ficarra   ,       Jim Carrey,   Ewan McGregor,   Leslie Mann,   Rodrigo Santoro    ,91806,2040000
+    A Mighty Heart  ,2007,R,108," Biography, Drama, History            ",6.6,74,    Michael Winter ottom  ,      Angelina Jolie,   Dan Futterman,   Irrfan Khan,   Archie Panja i  ,26841,9180000
+    Imperium  ,2016,R,109," Biography, Crime, Drama            ",6.5,68,    Daniel Ragussis  ,      Daniel Radcliffe,   Toni Collette,   Tracy Letts,   Sam Trammell  ,42601,0
+    J. Edgar  ,2011,R,137," Biography, Drama, Romance            ",6.5,0,    Clint Eastwood  ,      Leonardo DiCaprio,   Armie Hammer,   Naomi Watts,   Josh Hamilton  ,123134,37310000
+    Kill Your Darlings  ,2013,R,104," Biography, Drama, Romance            ",6.5,65,    John Krokidas  ,      Daniel Radcliffe,   Dane DeHaan,   Michael C. Hall,   Ben Foster  ,35594,1030000
+    The Runaways  ,2010,R,106," Biography, Drama, Music            ",6.5,65,    Floria Sigismondi  ,      Kristen Stewart,   Dakota Fanning,   Michael Shannon,   Stella Maeve  ,46562,3570000
+    Hollywoodland  ,2006,R,126," Biography, Crime, Drama            ",6.5,62,    Allen Coulter  ,      Adrien Brody,   Ben Affleck,   Diane Lane,   Bo  Hoskins  ,32949,14420000
+    Marie Antoinette  ,2006,PG-13,123," Biography, Drama, History            ",6.5,65,    Sofia Coppola  ,      Kirsten Dunst,   Jason Schwartzman,   Rip Torn,   Steve Coogan  ,102475,15960000
+    Ned Kelly  ,2003,R,110," Action, Adventure, Biography            ",6.5,0,    Gregor Jordan  ,      Heath Ledger,   Orlando Bloom,   Geoffrey Rush,   Naomi Watts  ,25998,70000
+    Riding in Cars with Boys  ,2001,PG-13,132," Biography, Comedy, Drama            ",6.5,0,    Penny Marshall  ,      Drew Barrymore,   Steve Zahn,   Adam Garcia,   Brittany Murphy  ,26841,30170000
+    A Dangerous Method  ,2011,R,99," Biography, Drama, Romance            ",6.4,76,    David Cronen erg  ,      Michael Fass ender,   Keira Knightley,   Viggo Mortensen,   Vincent Cassel  ,99200,5700000
+    A Walk in the Woods  ,2015,R,104," Adventure, Biography, Comedy            ",6.4,0,    Ken Kwapis  ,      Ro ert Redford,   Nick Nolte,   Emma Thompson,   Mary Steen urgen  ,25104,29470000
+    The Informant!  ,2009,R,108," Biography, Comedy, Crime            ",6.4,66,    Steven Soder ergh  ,      Matt Damon,   Tony Hale,   Patton Oswalt,   Lucas McHugh Carroll  ,63083,33310000
+    The Iron Lady  ,2011,PG-13,105," Biography, Drama            ",6.4,0,    Phyllida Lloyd  ,      Meryl Streep,   Jim Broad ent,   Richard E. Grant,   Susan Brown  ,103871,30020000
+    How to Lose Friends & Alienate People  ,2008,R,110," Biography, Comedy, Drama            ",6.4,0,    Ro ert B. Weide  ,      Simon Pegg,   Kirsten Dunst,   Megan Fox,   Kelan Pannell  ,67897,2780000
+    Mary Queen of Scots  ,2018,R,124," Biography, Drama, History            ",6.3,0,    Josie Rourke  ,      Saoirse Ronan,   Margot Ro  ie,   Jack Lowden,   Joe Alwyn  ,42666,16470000
+    True Story  ,2015,R,99," Biography, Crime, Drama            ",6.3,0,    Rupert Goold  ,      James Franco,   Jonah Hill,   Felicity Jones,   Maria Dizzia  ,64400,4720000
+    W.  ,2008,PG-13,129," Biography, Comedy, Drama            ",6.3,0,    Oliver Stone  ,      Josh Brolin,   Eliza eth Banks,   Ioan Gruffudd,   Colin Hanks  ,46378,25530000
+    The Li ertine  ,2004,R,114," Biography, Drama, History            ",6.3,0,    Laurence Dunmore  ,      Johnny Depp,   Samantha Morton,   John Malkovich,   Paul Ritter  ,34991,4840000
+    Deliver Us from Evil  ,2014,R,118," Action, Biography, Crime            ",6.2,0,    Scott Derrickson  ,      Eric Bana,   Edgar Ramrez,   Olivia Munn,   Chris Coy  ,71859,30580000
+    The Fifth Estate  ,2013,R,128," Biography, Crime, Drama            ",6.2,0,    Bill Condon  ,      Benedict Cum er atch,   Daniel Brhl,   Carice van Houten,   Alicia Vikander  ,39043,3250000
+    Lovelace  ,2013,R,93," Biography, Drama            ",6.2,0,    Ro  Epstein   ,       Amanda Seyfried,   Peter Sarsgaard,   Sharon Stone,   Juno Temple    ,38838,360000
+    Jo s  ,2013,PG-13,128," Biography, Drama            ",5.9,0,    Joshua Michael Stern  ,      Ashton Kutcher,   Dermot Mulroney,   Josh Gad,   Lukas Haas  ,94027,16120000
+    Domino  ,2005,R,127," Action, Biography, Crime            ",5.9,0,    Tony Scott  ,      Keira Knightley,   Mickey Rourke,   Edgar Ramrez,   Delroy Lindo  ,64913,10170000
+    Masterminds  ,2016,PG-13,95," Biography, Comedy, Crime            ",5.8,0,    Jared Hess  ,      Zach Galifianakis,   Kristen Wiig,   Owen Wilson,   Ross Kim all  ,51182,17360000
+    Heaven Is for Real  ,2014,PG,99," Biography, Drama, Family            ",5.8,0,    Randall Wallace  ,      Greg Kinnear,   Kelly Reilly,   Thomas Haden Church,   Connor Corum  ,25837,91440000
+    Eat Pray Love  ,2010,PG-13,133," Biography, Drama, Romance            ",5.8,0,    Ryan Murphy  ,      Julia Ro erts,   Javier Bardem,   Richard Jenkins,   Viola Davis  ,89907,80570000
+    The Bling Ring  ,2013,R,90," Biography, Crime, Drama            ",5.6,66,    Sofia Coppola  ,      Katie Chang,   Israel Broussard,   Emma Watson,   Claire Julien  ,83939,5840000
+    Alexander  ,2004,R,175," Action, Biography, Drama            ",5.6,0,    Oliver Stone  ,      Colin Farrell,   Anthony Hopkins,   Rosario Dawson,   Angelina Jolie  ,163050,34300000
+    Winchester  ,2018,PG-13,99," Biography, Drama, Fantasy            ",5.5,0,    Michael Spierig   ,          Helen Mirren,     Sarah Snook,  Finn Scicluna-O    Prey,     Jason Clarke       ,30865,25090000
+    Get Rich or Die Tryin'   ,2005,R,117," Biography, Crime, Drama            ",5.4,0,    Jim Sheridan  ,      50 Cent,   Joy Bryant,   Adewale Akinnuoye-Ag aje,   Omar Benson Miller  ,44299,30980000
+    The 15:17 to Paris  ,2018,PG-13,94," Biography, Drama, Thriller            ",5.3,0,    Clint Eastwood  ,      Alek Skarlatos,   Anthony Sadler,   Spencer Stone,   Ray Corasani  ,29622,36250000
+    Reis  ,2017,0,108," Biography, Drama            ",1.4,0,    Hdaverdi Yavuz  ,      Orhan Aydin,   zlem Balci,   Volkan Basaran,   Reha Beyoglu  ,72572,0
